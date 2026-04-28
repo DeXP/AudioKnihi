@@ -1,0 +1,25 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 818.81,
+   "title": "Казімір Станіслававіч",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bunin.Kazimir_Stanislavavic.m4a"
+  }
+ ],
+ "title": "Казімір Станіслававіч",
+ "slug": "Kazimir-Stanislavavich",
+ "author": "Іван Бунін",
+ "author_slug": "Ivan-Bunin",
+ "narrators": [
+  "Уладзімір Рагаўцоў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [],
+ "source": "https://knihi.com/Ivan_Bunin/Kazimir_Stanislavavic_audio.html",
+ "cover": "Ivan-Bunin/Kazimir-Stanislavavich.jpg",
+ "description": "",
+ "length": 818.81
+}

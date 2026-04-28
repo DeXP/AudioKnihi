@@ -1,0 +1,34 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2121.41,
+   "title": "1 - ан. Залаты мэдаль 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Samiakin_Ivan.Zalaty_medal.1985.ogg.zip/Samiakin_Ivan.Zalaty_medal_1.1985.ogg"
+  },
+  {
+   "id": 1,
+   "start": 2121.41,
+   "end": 4547.09,
+   "title": "2 - ан. Залаты мэдаль 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Samiakin_Ivan.Zalaty_medal.1985.ogg.zip/Samiakin_Ivan.Zalaty_medal_2.1985.ogg"
+  }
+ ],
+ "title": "Залаты мэдаль",
+ "slug": "Zalaty-medal",
+ "author": "Іван Шамякін",
+ "author_slug": "Ivan-Shamyakin",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сацыяльна-псіхалагічная проза",
+  "Аповесць",
+  "Рэалізм"
+ ],
+ "source": "https://knihi.com/Ivan_Samiakin/Zalaty_medal_ogg.zip.html",
+ "cover": "Ivan-Shamyakin/Zalaty-medal.jpg",
+ "description": "Аповесць Івана Шамякіна Залаты мэдаль распавядае пра лёс выпускніцы школы, якая сутыкаецца з першымі сур’ёзнымі выпрабаваннямі ў дарослым жыцці. Галоўная гераіня імкнецца да справядлівасці і сумленнасці, аднак на яе шляху ўзнікаюць маральныя дылемы і канфлікты з навакольнымі. Твор закранае важныя тэмы выбару жыццёвага шляху, адказнасці за свае ўчынкі і захавання чалавечай годнасці ў складаных абставінах. Аўтар майстэрска перадае псіхалагічны стан маладога чалавека, які спрабуе знайсці сваё месца ў грамадстве. Гэтая гісторыя вызначаецца шчырасцю, глыбінёй перажыванняў і рэалістычным адлюстраваннем савецкай рэчаіснасці таго часу.",
+ "length": 4547.09
+}

@@ -1,0 +1,76 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1774.56,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Vialikaja_kniahinia.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1774.56,
+   "end": 3554.3,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Vialikaja_kniahinia.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3554.3,
+   "end": 5351.71,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Vialikaja_kniahinia.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5351.71,
+   "end": 7117.41,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Vialikaja_kniahinia.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 7117.41,
+   "end": 8883.57,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Vialikaja_kniahinia.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 8883.57,
+   "end": 10639.26,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Vialikaja_kniahinia.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 10639.26,
+   "end": 12387.01,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Vialikaja_kniahinia.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 12387.01,
+   "end": 14146.2,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Vialikaja_kniahinia.mp3.zip/08.mp3"
+  }
+ ],
+ "title": "Вялікая княгіня",
+ "slug": "Vyalikaya-knyahinya",
+ "author": "Іван Шамякін",
+ "author_slug": "Ivan-Shamyakin",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычны раман",
+  "Біяграфічная проза",
+  "Драма"
+ ],
+ "source": "https://knihi.com/Ivan_Samiakin/Vialikaja_kniahinia_mp3.zip.html",
+ "cover": "Ivan-Shamyakin/Vyalikaya-knyahinya.jpg",
+ "description": "Раман Івана Шамякіна Вялікая княгіня прысвечаны драматычнаму лёсу Соф’і Гальшанскай, якая стала жонкай караля Ягайлы і заснавальніцай дынастыі Ягелонаў. Аўтар майстэрска ўзнаўляе атмасферу Сярэднявечча, паказваючы складаныя палітычныя інтрыгі пры двары і няпростыя асабістыя адносіны паміж манархамі. У цэнтры аповеду знаходзіцца вобраз моцнай жанчыны, якая вымушана змагацца за сваё шчасце і месца ў гісторыі ў свеце, дзе дамінуюць мужчыны. Твор вызначаецца глыбокім псіхалагізмам, гістарычнай дакладнасцю і лірычным тонам, што дазваляе чытачу адчуць дух эпохі. Гэта кніга пра каханне, абавязак і цяжкі выбар, які вызначае лёс цэлага народа.",
+ "length": 14146.2
+}

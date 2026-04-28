@@ -1,0 +1,78 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 609.75,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Ales_Badak.Pra_Malpacku_Cytu_i_jaje_siabrou.mp3.zip/Pra_Malpacku_Cytu_i_jaje_siabrou_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 609.75,
+   "end": 1233.82,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Ales_Badak.Pra_Malpacku_Cytu_i_jaje_siabrou.mp3.zip/Pra_Malpacku_Cytu_i_jaje_siabrou_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1233.82,
+   "end": 2016.94,
+   "title": "3 - Частка 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Ales_Badak.Pra_Malpacku_Cytu_i_jaje_siabrou.mp3.zip/Pra_Malpacku_Cytu_i_jaje_siabrou_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2016.94,
+   "end": 2439.29,
+   "title": "4 - Частка 4",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Ales_Badak.Pra_Malpacku_Cytu_i_jaje_siabrou.mp3.zip/Pra_Malpacku_Cytu_i_jaje_siabrou_04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2439.29,
+   "end": 3041.83,
+   "title": "5 - Частка 5",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Ales_Badak.Pra_Malpacku_Cytu_i_jaje_siabrou.mp3.zip/Pra_Malpacku_Cytu_i_jaje_siabrou_05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3041.83,
+   "end": 3618.07,
+   "title": "6 - Частка 6",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Ales_Badak.Pra_Malpacku_Cytu_i_jaje_siabrou.mp3.zip/Pra_Malpacku_Cytu_i_jaje_siabrou_06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3618.07,
+   "end": 4203.55,
+   "title": "7 - Частка 7",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Ales_Badak.Pra_Malpacku_Cytu_i_jaje_siabrou.mp3.zip/Pra_Malpacku_Cytu_i_jaje_siabrou_07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 4203.55,
+   "end": 4955.77,
+   "title": "8 - Частка 8",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Ales_Badak.Pra_Malpacku_Cytu_i_jaje_siabrou.mp3.zip/Pra_Malpacku_Cytu_i_jaje_siabrou_08.mp3"
+  }
+ ],
+ "title": "Пра Малпачку Чыту і яе сяброў",
+ "slug": "Pra-Malpachku-Chytu-i-yae-syabrow",
+ "author": "Алесь Бадак",
+ "author_slug": "Ales-Badak",
+ "narrators": [
+  "Ліка Пташук"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казка",
+  "Прыгоды"
+ ],
+ "source": "https://knihi.com/Ales_Badak/Pra_Malpacku_Cytu_i_jaje_siabrou_mp3.zip.html",
+ "cover": "Ales-Badak/Pra-Malpachku-Chytu-i-yae-syabrow.jpg",
+ "description": "Гэтая цудоўная кніга распавядае пра прыгоды цікаўнай малпачкі па імені Чыта, якая разам са сваімі вернымі сябрамі адкрывае для сябе свет. Праз займальныя гісторыі аўтар Алесь Бадак вучыць маленькіх чытачоў дабрыні, узаемавыручцы і важнасці сапраўднага сяброўства. Сюжэт напоўнены гумарам і цёплымі момантамі, якія дапамагаюць дзецям лепш зразумець навакольную рэчаіснасць. Кніга напісана лёгкай і даступнай мовай, што робіць яе ідэальнай для сямейнага чытання перад сном. Гэта светлая і павучальная гісторыя, якая застаецца ў сэрцы кожнага дзіцяці.",
+ "length": 4955.77
+}

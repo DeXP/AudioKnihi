@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2241.38,
+   "title": "1 - ys.Kazki_dziadziecki_Rymusa1.ogg",
+   "url": "https://files.knihi.com/Audio/audiobooks/Dzoel_Charys.Kazki_dziadziecki_Rymusa.mp3.zip/Dzoel_Charys.Kazki_dziadziecki_Rymusa1.ogg"
+  },
+  {
+   "id": 1,
+   "start": 2241.38,
+   "end": 3935.26,
+   "title": "2 - ys.Kazki_dziadziecki_Rymusa2.ogg",
+   "url": "https://files.knihi.com/Audio/audiobooks/Dzoel_Charys.Kazki_dziadziecki_Rymusa.mp3.zip/Dzoel_Charys.Kazki_dziadziecki_Rymusa2.ogg"
+  }
+ ],
+ "title": "Казкі дзядзюшкі Рымуса",
+ "slug": "Kazki-dzyadzyushki-Rymusa",
+ "author": "Джаэль Харыс",
+ "author_slug": "Dzhael-Kharys",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казкі",
+  "Фальклор",
+  "Прыгоды"
+ ],
+ "source": "https://knihi.com/Dzael_Charys/Kazki_dziadziuski_Rymusa_mp3.zip.html",
+ "cover": "Dzhael-Kharys/Kazki-dzyadzyushki-Rymusa.jpg",
+ "description": "Гэтая кніга ўяўляе сабой класічны зборнік афраамерыканскіх народных казак, якія распавядае мудры стары дзядзюшка Рымус маленькаму хлопчыку. Галоўным героем большасці гісторый з’яўляецца хітры Браток Трус, які дзякуючы свайму спрыту і кемлівасці заўсёды знаходзіць выйсце з самых складаных сітуацый. Апавяданні напоўнены гумарам, народнай мудрасцю і яркімі вобразамі жывёл, якія ўвасабляюць розныя чалавечыя характары. Тон кнігі лёгкі і займальны, што робіць яе выдатным выбарам для сямейнага чытання ў любым узросце. Праз прыгоды персанажаў аўтар тонка закранае тэмы справядлівасці, выжывання і перамогі розуму над грубай сілай.",
+ "length": 3935.26
+}

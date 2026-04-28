@@ -1,0 +1,23 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 392.54,
+   "title": "Шчасце",
+   "url": "https://files.knihi.com/Audio/mininfarm/Skolnikam/6_klas/Janka_Maur/Janka_Maur.Scascie.mp3"
+  }
+ ],
+ "title": "Шчасце",
+ "slug": "Shchastse",
+ "author": "Янка Маўр",
+ "author_slug": "Yanka-Mawr",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [],
+ "source": "https://knihi.com/Janka_Maur/Scascie_audio.html",
+ "cover": "Yanka-Mawr/Shchastse.jpg",
+ "description": "",
+ "length": 392.54
+}

@@ -1,0 +1,25 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 754.97,
+   "title": "Груган",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bunin.Hruhan.m4a"
+  }
+ ],
+ "title": "Груган",
+ "slug": "Hruhan",
+ "author": "Іван Бунін",
+ "author_slug": "Ivan-Bunin",
+ "narrators": [
+  "Уладзімір Рагаўцоў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [],
+ "source": "https://knihi.com/Ivan_Bunin/Hruhan_audio.html",
+ "cover": "Ivan-Bunin/Hruhan.jpg",
+ "description": "",
+ "length": 754.97
+}

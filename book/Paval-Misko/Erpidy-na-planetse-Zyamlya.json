@@ -1,0 +1,196 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 735.43,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 735.43,
+   "end": 1612.68,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1612.68,
+   "end": 2303.52,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2303.52,
+   "end": 3003.89,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 3003.89,
+   "end": 3540.37,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3540.37,
+   "end": 4508.29,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4508.29,
+   "end": 5447.65,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 5447.65,
+   "end": 6080.26,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 6080.26,
+   "end": 6627.89,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 6627.89,
+   "end": 7424.49,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 7424.49,
+   "end": 8161.33,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 8161.33,
+   "end": 8846.6,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 8846.6,
+   "end": 9522.52,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 9522.52,
+   "end": 10212.47,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 10212.47,
+   "end": 10920.7,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 10920.7,
+   "end": 11616.97,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 11616.97,
+   "end": 12267.97,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 12267.97,
+   "end": 13085.76,
+   "title": "18 - 18.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 13085.76,
+   "end": 13714.08,
+   "title": "19 - 19.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 13714.08,
+   "end": 14450.58,
+   "title": "20 - 20.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 14450.58,
+   "end": 15254.26,
+   "title": "21 - 21.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 15254.26,
+   "end": 15840.45,
+   "title": "22 - 22.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 15840.45,
+   "end": 16467.57,
+   "title": "23 - 23.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 16467.57,
+   "end": 17229.04,
+   "title": "24 - 24.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 17229.04,
+   "end": 17984.34,
+   "title": "25 - 25.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Erpidy_na_planiecie_Ziamla.mp3.zip/25.mp3"
+  }
+ ],
+ "title": "Эрпіды на планеце Зямля",
+ "slug": "Erpidy-na-planetse-Zyamlya",
+ "author": "Павал Місько",
+ "author_slug": "Paval-Misko",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Навуковая фантастыка",
+  "Дзіцячая літаратура",
+  "Прыгоды",
+  "Гумарыстычная проза"
+ ],
+ "source": "https://knihi.com/Paval_Misko/Erpidy_na_planiecie_Ziamla_mp3.zip.html",
+ "cover": "Paval-Misko/Erpidy-na-planetse-Zyamlya.jpg",
+ "description": "Гэтая займальная навукова-фантастычная аповесць распавядае пра прыгоды іншапланетных істот, якія прыбываюць на Зямлю з місіяй вывучэння нашай планеты. Галоўныя героі, маленькія эрпіды, сутыкаюцца з незвычайнымі для іх зямнымі рэаліямі, што прыводзіць да шэрагу камічных і павучальных сітуацый. Праз погляд прышэльцаў аўтар прапануе чытачу па-новаму зірнуць на звыклыя рэчы, прыроду і чалавечыя паводзіны. Твор вызначаецца лёгкім гумарам, дабрынёй і глыбокім філасофскім падтэкстам, які заклікае да беражлівых адносін да навакольнага свету. Кніга застаецца актуальнай для юных чытачоў, вучачы іх назіральнасці і любові да ўсяго жывога.",
+ "length": 17984.34
+}

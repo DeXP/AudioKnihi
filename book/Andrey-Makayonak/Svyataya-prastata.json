@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3385.838,
+   "title": "1 - Svyataja_prastata_(1_z_2).mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Makajonak.Svyataja_prastata.mp3.zip/Makajonak_-_Svyataja_prastata_(1_z_2).mp3"
+  },
+  {
+   "id": 1,
+   "start": 3385.838,
+   "end": 6779.304,
+   "title": "2 - Svyataja_prastata_(2_z_2).mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Makajonak.Svyataja_prastata.mp3.zip/Makajonak_-_Svyataja_prastata_(2_z_2).mp3"
+  }
+ ],
+ "title": "Святая прастата",
+ "slug": "Svyataya-prastata",
+ "author": "Андрэй Макаёнак",
+ "author_slug": "Andrey-Makayonak",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сатыра",
+  "Драматургія",
+  "П’еса",
+  "Камедыя"
+ ],
+ "source": "https://knihi.com/Andrej_Makajonak/Sviataja_prastata_mp3.zip.html",
+ "cover": "Andrey-Makayonak/Svyataya-prastata.jpg",
+ "description": "П’еса Андрэя Макаёнка Святая прастата з’яўляецца яркім узорам сатырычнай драматургіі, у якой аўтар праз камічныя сітуацыі выкрывае чалавечыя заганы і грамадскія недахопы. У цэнтры сюжэта знаходзіцца вобраз галоўнага героя, чыя наіўнасць і прастата становяцца інструментам для выкрыцця крывадушнасці навакольных людзей. Твор падымае вечныя тэмы маральнага выбару, сумленнасці і канфлікту паміж шчырасцю і прыстасаванствам. Макаёнак майстэрска спалучае гумар з глыбокім філасофскім падтэкстам, прымушаючы чытача задумацца над уласнымі паводзінамі ў грамадстве. Агульны тон п’есы вытрыманы ў іранічным ключы, што робіць яе актуальнай і цікавай для розных пакаленняў гледачоў і чытачоў.",
+ "length": 6779.304
+}

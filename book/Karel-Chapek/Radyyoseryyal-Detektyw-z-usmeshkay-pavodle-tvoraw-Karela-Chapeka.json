@@ -1,0 +1,91 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 801.63,
+   "title": "1 - 01_1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/01_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 801.63,
+   "end": 1572.25,
+   "title": "2 - 02_1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/02_1.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1572.25,
+   "end": 1980.63,
+   "title": "2 - 02_2.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/02_2.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1980.63,
+   "end": 2652.27,
+   "title": "3 - 03_1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/03_1.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2652.27,
+   "end": 3020.92,
+   "title": "3 - 03_2.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/03_2.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3020.92,
+   "end": 3788.85,
+   "title": "4 - 04_1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/04_1.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3788.85,
+   "end": 4595.52,
+   "title": "5 - 05_1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/05_1.mp3"
+  },
+  {
+   "id": 7,
+   "start": 4595.52,
+   "end": 5352.24,
+   "title": "6 - 06_1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/06_1.mp3"
+  },
+  {
+   "id": 8,
+   "start": 5352.24,
+   "end": 5790.74,
+   "title": "6 - 06_2.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/06_2.mp3"
+  },
+  {
+   "id": 9,
+   "start": 5790.74,
+   "end": 6296.87,
+   "title": "6 - 06_3.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Capek.Detektyu_z_usmieskaj.mp3.zip/06_3.mp3"
+  }
+ ],
+ "title": "Радыёсерыял \"Дэтэктыў з усмешкай\" паводле твораў Карела Чапека",
+ "slug": "Radyyoseryyal-Detektyw-z-usmeshkay-pavodle-tvoraw-Karela-Chapeka",
+ "author": "Карэл Чапэк",
+ "author_slug": "Karel-Chapek",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дэтэктыў",
+  "Апавяданне",
+  "Класічная літаратура",
+  "Сатыра"
+ ],
+ "source": "https://knihi.com/Karel_Capek/Radyjosieryjal_Detektyu_z_usmieskaj_pavodle_tvorau_Kariela_Capieka_mp3.zip.html",
+ "cover": "Karel-Chapek/Radyyoseryyal-Detektyw-z-usmeshkay-pavodle-tvoraw-Karela-Chapeka.jpg",
+ "description": "Гэты радыёсерыял уяўляе сабой майстэрскую адаптацыю дэтэктыўных апавяданняў выбітнага чэшскага пісьменніка Карэла Чапека. У цэнтры сюжэтаў знаходзяцца загадкавыя злачынствы, якія расследуюцца з дапамогай логікі, назіральнасці і тонкага псіхалагічнага аналізу. Аўтар майстэрска спалучае класічную дэтэктыўную інтрыгу з глыбокім гуманам і іроніяй, што робіць кожную гісторыю непаўторнай. Творы закранаюць пытанні маралі, справядлівасці і чалавечай прыроды, прымушаючы слухача задумацца над складанасцю жыццёвых сітуацый. Агульны тон апавяданняў вызначаецца інтэлектуальнай гульнёй, дзе за знешняй лёгкасцю хаваецца сур'ёзны філасофскі падтэкст.",
+ "length": 6296.87
+}

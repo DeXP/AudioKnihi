@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Headband -->
+  <path d="M 20 50 A 30 30 0 0 1 80 50" />
+  
+  <!-- Left ear cup -->
+  <rect x="12" y="45" width="16" height="25" rx="4" />
+  
+  <!-- Right ear cup -->
+  <rect x="72" y="45" width="16" height="25" rx="4" />
+  
+  <!-- Connection lines -->
+  <line x1="20" y1="50" x2="28" y2="50" />
+  <line x1="72" y1="50" x2="80" y2="50" />
+</svg>

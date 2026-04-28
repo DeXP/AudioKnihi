@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2083.08,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Andersan.Olie_Lukoje.1990.mp3.zip/Olie_Lukoje_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2083.08,
+   "end": 3662.16,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Andersan.Olie_Lukoje.1990.mp3.zip/Olie_Lukoje_02.mp3"
+  }
+ ],
+ "title": "Оле-Лукойе",
+ "slug": "Ole-Lukoye",
+ "author": "Ханс Крысьціян Андэрсэн",
+ "author_slug": "Khans-Krystsiyan-Andersen",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Казка",
+  "Дзіцячая літаратура",
+  "Фэнтэзі",
+  "Класіка"
+ ],
+ "source": "https://knihi.com/Chans_Kryscijan_Andersen/Ole-Lukojje_audio_mp3.zip.html",
+ "cover": "Khans-Krystsiyan-Andersen/Ole-Lukoye.jpg",
+ "description": "Гэтая чароўная казка распавядае пра таямнічага казачніка Оле-Лукойе, які прыходзіць да дзяцей па начах і паказвае ім дзівосныя сны. З дапамогай свайго чароўнага парасона ён адкрывае дзверы ў свет фантазій, дзе ажываюць цацкі, размаўляюць жывёлы і адбываюцца неверагодныя прыгоды. Твор напоўнены мяккім святлом, дабрынёй і філасофскімі разважаннямі пра значэнне сноў у жыцці чалавека. Аўтар стварае ўтульную і крыху загадкавую атмасферу, якая вучыць маленькіх чытачоў быць паслухмянымі і ўважлівымі. Гэта класічная гісторыя, якая застаецца актуальнай для многіх пакаленняў дзяцей дзякуючы сваёй паэтычнасці і мудрасці.",
+ "length": 3662.16
+}

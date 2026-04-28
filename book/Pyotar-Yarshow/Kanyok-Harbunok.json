@@ -1,0 +1,49 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2303.24,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Jarsou.Kaniok-Harbunok.1995.mp3.zip/Kaniok-Harbunok_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2303.24,
+   "end": 4334.1,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Jarsou.Kaniok-Harbunok.1995.mp3.zip/Kaniok-Harbunok_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 4334.1,
+   "end": 6825.35,
+   "title": "3 - Частка 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Jarsou.Kaniok-Harbunok.1995.mp3.zip/Kaniok-Harbunok_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 6825.35,
+   "end": 9027.13,
+   "title": "4 - Частка 4",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Jarsou.Kaniok-Harbunok.1995.mp3.zip/Kaniok-Harbunok_04.mp3"
+  }
+ ],
+ "title": "Канёк-Гарбунок",
+ "slug": "Kanyok-Harbunok",
+ "author": "Пётар Яршоў",
+ "author_slug": "Pyotar-Yarshow",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Казка",
+  "Фэнтэзі",
+  "Дзіцячая літаратура",
+  "Паэзія"
+ ],
+ "source": "https://knihi.com/Piotar_Jarsou/Kaniok-Harbunok_mp3.zip.html",
+ "cover": "Pyotar-Yarshow/Kanyok-Harbunok.jpg",
+ "description": "Гэтая класічная казка распавядае пра прыгоды простага вясковага хлопца Івана і яго вернага сябра чароўнага Канька-Гарбунка. Разам яны пераадольваюць мноства небяспечных выпрабаванняў, выконваючы капрызныя загады цара, каб здабыць цудоўныя скарбы і прыгажуню Цар-дзяўчыну. Твор прасякнуты народным гумарам, мудрасцю і верай у перамогу дабрыні над хітрасцю і прагнасцю. Яркая і дынамічная мова апавядання робіць гэтую гісторыю захапляльнай як для дзяцей, так і для дарослых чытачоў. Гэта сапраўдны гімн сяброўству, адданасці і справядлівасці, які застаецца актуальным на працягу многіх пакаленняў.",
+ "length": 9027.13
+}

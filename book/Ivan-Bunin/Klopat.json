@@ -1,0 +1,25 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 706.14,
+   "title": "Клопат",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bunin.Klopat.m4a"
+  }
+ ],
+ "title": "Клопат",
+ "slug": "Klopat",
+ "author": "Іван Бунін",
+ "author_slug": "Ivan-Bunin",
+ "narrators": [
+  "Уладзімір Рагаўцоў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [],
+ "source": "https://knihi.com/Ivan_Bunin/Klopat_audio.html",
+ "cover": "Ivan-Bunin/Klopat.jpg",
+ "description": "",
+ "length": 706.14
+}

@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2613.21,
+   "title": "1 - b.Na_prastorach_zyccia_1.mp3",
+   "url": "https://files.knihi.com/Audio/audio-staroeradio.ru/Kolas_Jakub.Na_prastorach_zyccia.1960.mp3.zip/Kolas_Jakub.Na_prastorach_zyccia_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2613.21,
+   "end": 5417.72,
+   "title": "2 - b.Na_prastorach_zyccia_2.mp3",
+   "url": "https://files.knihi.com/Audio/audio-staroeradio.ru/Kolas_Jakub.Na_prastorach_zyccia.1960.mp3.zip/Kolas_Jakub.Na_prastorach_zyccia_2.mp3"
+  }
+ ],
+ "title": "На прасторах жыцьця",
+ "slug": "Na-prastorakh-zhytstsya",
+ "author": "Якуб Колас",
+ "author_slug": "Yakub-Kolas",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Апавяданні",
+  "Філасофская літаратура",
+  "Беларуская класіка"
+ ],
+ "source": "https://knihi.com/Jakub_Kolas/Na_prastorach_zyccia_mp3.zip.html",
+ "cover": "Yakub-Kolas/Na-prastorakh-zhytstsya.jpg",
+ "description": "Зборнік На прасторах жыцьця ўяўляе сабой глыбокае філасофскае і мастацкае асэнсаванне чалавечага існавання праз прызму беларускай рэчаіснасці. Якуб Колас майстэрска спалучае ў сваіх творах лірычныя апісанні роднай прыроды з роздумамі пра лёс народа, сацыяльную справядлівасць і маральны выбар асобы. Кніга прасякнута шчырай любоўю да роднага краю і верай у невычэрпную духоўную сілу чалавека. Праз вобразы простых людзей аўтар падымае вечныя пытанні сэнсу жыцця, працы і пошуку шчасця ў зменлівым свеце. Тон апавядання вагаецца ад светлага аптымізму да задуменнай меланхоліі, ствараючы цэласную карціну жыццёвага шляху.",
+ "length": 5417.72
+}

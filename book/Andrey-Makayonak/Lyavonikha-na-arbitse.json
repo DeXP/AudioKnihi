@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2771.934,
+   "title": "1 - Lyavoniha_na_arbice_(1_z_2).mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Makajonak.Lyavoniha_na_arbice.mp3.zip/Makajonak_-_Lyavoniha_na_arbice_(1_z_2).mp3"
+  },
+  {
+   "id": 1,
+   "start": 2771.934,
+   "end": 5248.711,
+   "title": "2 - Lyavoniha_na_arbice_(2_z_2).mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Makajonak.Lyavoniha_na_arbice.mp3.zip/Makajonak_-_Lyavoniha_na_arbice_(2_z_2).mp3"
+  }
+ ],
+ "title": "Лявоніха на арбіце",
+ "slug": "Lyavonikha-na-arbitse",
+ "author": "Андрэй Макаёнак",
+ "author_slug": "Andrey-Makayonak",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Камедыя",
+  "Сатыра",
+  "П'еса",
+  "Драматургія"
+ ],
+ "source": "https://knihi.com/Andrej_Makajonak/Lavonicha_na_arbicie_mp3.zip.html",
+ "cover": "Andrey-Makayonak/Lyavonikha-na-arbitse.jpg",
+ "description": "Гэтая сатырычная камедыя Андрэя Макаёнка пераносіць гледача ў незвычайныя абставіны, дзе традыцыйны беларускі побыт сутыкаецца з касмічнымі тэхналогіямі. Сюжэт будуецца вакол камічнай сітуацыі, калі звычайная вясковая жанчына Лявоніха аказваецца ў цэнтры эксперыменту па падрыхтоўцы да палёту ў космас. Праз гумар і іронію аўтар высмейвае бюракратызм, прыстасаванства і недарэчнасць некаторых савецкіх ініцыятыў таго часу. Пры гэтым п’еса застаецца цёплай і жыццярадаснай, падкрэсліваючы невынішчальны аптымізм і мудрасць беларускага народа. Гэта твор пра сутыкненне старога і новага, якое заўсёды выклікае шмат смеху і роздуму.",
+ "length": 5248.711
+}

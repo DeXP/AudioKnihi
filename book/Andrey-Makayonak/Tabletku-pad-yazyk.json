@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3947.1,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Andrej_Makajonak.Tabletku_pad_jazyk.mp3.zip/Andrej_Makajonak.Tabletku_pad_jazyk_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3947.1,
+   "end": 7597.45,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Andrej_Makajonak.Tabletku_pad_jazyk.mp3.zip/Andrej_Makajonak.Tabletku_pad_jazyk_2.mp3"
+  }
+ ],
+ "title": "Таблетку пад язык",
+ "slug": "Tabletku-pad-yazyk",
+ "author": "Андрэй Макаёнак",
+ "author_slug": "Andrey-Makayonak",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сатыра",
+  "Камедыя",
+  "Драматургія",
+  "Беларуская літаратура"
+ ],
+ "source": "https://knihi.com/Andrej_Makajonak/Tabletku_pad_jazyk_mp3.zip.html",
+ "cover": "Andrey-Makayonak/Tabletku-pad-yazyk.jpg",
+ "description": "П’еса Андрэя Макаёнка Таблетку пад язык з’яўляецца адной з самых яркіх сатырычных камедый у беларускай літаратуры. Сюжэт разгортваецца вакол старшыні калгаса, які спрабуе выкарыстаць незвычайны метад для паляпшэння працы сваіх падначаленых. Праз камічныя сітуацыі аўтар выкрывае бюракратызм, прыстасавальніцтва і адсутнасць сапраўднай ініцыятывы ў тагачасным грамадстве. Твор вызначаецца вострым гумарам, жывой мовай і глыбокім разуменнем псіхалогіі чалавека. Гэтая п’еса застаецца актуальнай і сёння, прымушаючы чытача задумацца над праблемамі кіравання і маральнай адказнасці.",
+ "length": 7597.45
+}

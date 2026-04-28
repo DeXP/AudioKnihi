@@ -1,0 +1,90 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 902.24,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 902.24,
+   "end": 1562.51,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1562.51,
+   "end": 2209.17,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2209.17,
+   "end": 2959.75,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2959.75,
+   "end": 3627.96,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3627.96,
+   "end": 4282.82,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4282.82,
+   "end": 5101.73,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 5101.73,
+   "end": 5647.56,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 5647.56,
+   "end": 6241.58,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 6241.58,
+   "end": 6600.03,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravanyja_ruzy_i_bielaja_myska.mp3.zip/10.mp3"
+  }
+ ],
+ "title": "Зачараваныя ружы і белая мышка",
+ "slug": "Zacharavanyya-ruzhy-i-belaya-myshka",
+ "author": "Алесь Якімовіч",
+ "author_slug": "Ales-Yakimovich",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казка",
+  "Фэнтэзі"
+ ],
+ "source": "https://knihi.com/Ales_Jakimovic/Zacaravanyja_ruzy_i_bielaja_myska_mp3.zip.html",
+ "cover": "Ales-Yakimovich/Zacharavanyya-ruzhy-i-belaya-myshka.jpg",
+ "description": "Гэтая кніга Алеся Якімовіча ўяўляе сабой зборнік займальных казак, якія вучаць дзяцей дабрыні, спагадзе і справядлівасці. Галоўныя героі твораў трапляюць у незвычайныя сітуацыі, дзе ім даводзіцца сутыкацца з чарадзействам і выпрабаваннямі. Аўтар майстэрску пераплятае рэальнае жыццё з фантастычнымі элементамі, ствараючы атмасферу цуду і прыгод. Праз вобразы зачараваных руж і белай мышкі пісьменнік раскрывае важныя маральныя ісціны, зразумелыя кожнаму дзіцяці. Тон аповеду светлы і павучальны, што робіць кнігу выдатным выбарам для сямейнага чытання.",
+ "length": 6600.03
+}

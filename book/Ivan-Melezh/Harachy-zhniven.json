@@ -1,0 +1,85 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1764.23,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1764.23,
+   "end": 3459.42,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3459.42,
+   "end": 5182.98,
+   "title": "3 - Частка 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5182.98,
+   "end": 6904.03,
+   "title": "4 - Частка 4",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 6904.03,
+   "end": 8670.25,
+   "title": "5 - Частка 5",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 8670.25,
+   "end": 10418.1,
+   "title": "6 - Частка 6",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 10418.1,
+   "end": 12097.77,
+   "title": "7 - Частка 7",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 12097.77,
+   "end": 13803.1,
+   "title": "8 - Частка 8",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 13803.1,
+   "end": 15527.39,
+   "title": "9 - Частка 9",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Haracy_znivien.mp3.zip/Haracy_znivien_09.mp3"
+  }
+ ],
+ "title": "Гарачы жнівень",
+ "slug": "Harachy-zhniven",
+ "author": "Іван Мележ",
+ "author_slug": "Ivan-Melezh",
+ "narrators": [
+  "Ліка Пташук"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сацыяльна-псіхалагічная проза",
+  "Гістарычны раман",
+  "Рэалізм"
+ ],
+ "source": "https://knihi.com/Ivan_Mielez/Haracy_znivien_mp3.zip.html",
+ "cover": "Ivan-Melezh/Harachy-zhniven.jpg",
+ "description": "Раман Івана Мележа Гарачы жнівень зяўляецца значнай часткай творчай спадчыны пісьменніка і закранае складаныя пытанні чалавечага лёсу ў пераломныя гістарычныя моманты. Сюжэт разгортваецца вакол драматычных падзей, якія патрабуюць ад герояў маральнага выбару і стойкасці перад тварам суровых выпрабаванняў. Аўтар майстэрска перадае атмасферу напружання і нявызначанасці, што пануе ў грамадстве ў гэты няпросты перыяд. Праз глыбокі псіхалагізм і ўвагу да дэталяў Мележ раскрывае ўнутраны свет персанажаў, іх перажыванні і імкненне да справядлівасці. Твор вызначаецца сурюзнасцю тону і філасофскім асэнсаваннем жыццёвых каштоўнасцей.",
+ "length": 15527.39
+}

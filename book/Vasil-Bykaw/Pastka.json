@@ -1,0 +1,25 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 4511.4,
+   "title": "Пастка",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Vasil_Bykau.Pastka.mp3"
+  }
+ ],
+ "title": "Пастка",
+ "slug": "Pastka",
+ "author": "Васіль Быкаў",
+ "author_slug": "Vasil-Bykaw",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Класікі беларускай літаратуры"
+ ],
+ "source": "https://knihi.com/Vasil_Bykau/Pastka_audio.html",
+ "cover": "Vasil-Bykaw/Pastka.jpg",
+ "description": "Звесткі пра кнігу «Пастка» Васіль Быкаў:\n  апісанне, спасылкі на розныя крыніцы дзе можна паслухаць кнігу.",
+ "length": 4511.4
+}

@@ -1,0 +1,49 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1230.84,
+   "title": "1 - акаў. Пунсовая кветачка",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Siarhiej_Aksakau.Punsovaja_kvietacka.mp3.zip/Punsovaja_kvietacka_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1230.84,
+   "end": 2666.97,
+   "title": "2 - акаў. Пунсовая кветачка",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Siarhiej_Aksakau.Punsovaja_kvietacka.mp3.zip/Punsovaja_kvietacka_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 2666.97,
+   "end": 4096.49,
+   "title": "3 - акаў. Пунсовая кветачка",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Siarhiej_Aksakau.Punsovaja_kvietacka.mp3.zip/Punsovaja_kvietacka_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 4096.49,
+   "end": 5464.94,
+   "title": "4 - акаў. Пунсовая кветачка",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Siarhiej_Aksakau.Punsovaja_kvietacka.mp3.zip/Punsovaja_kvietacka_04.mp3"
+  }
+ ],
+ "title": "Пунсовая кветачка",
+ "slug": "Punsovaya-kvetachka",
+ "author": "Сяргей Аксакаў",
+ "author_slug": "Syarhey-Aksakaw",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Казка",
+  "Фэнтэзі",
+  "Дзіцячая літаратура",
+  "Класіка"
+ ],
+ "source": "https://knihi.com/Siarhiej_Aksakau/Punsovaja_kvietacka_mp3.zip.html",
+ "cover": "Syarhey-Aksakaw/Punsovaya-kvetachka.jpg",
+ "description": "Гэтая класічная казка апавядае пра любячага бацьку, які па абяцанні прывозіць сваёй малодшай дачцэ цудоўную пунсовую кветачку, што прыводзіць да нечаканых і драматычных наступстваў. Галоўная гераіня аказваецца ў палоне ў пачвары, але дзякуючы сваёй дабрыні, шчырасці і самаахвярнасці яна здольная разглядзець прыгожую душу пад страшным абліччам. Твор уздымае вечныя тэмы перамогі любові над знешнімі заганамі, вернасці дадзенаму слову і сілы спагады. Апавяданне вытрымана ў атмасферы чароўнага фальклору, дзе цуды пераплятаюцца з маральнымі ўрокамі. Гэта кранальная гісторыя пра тое, што сапраўдная прыгажосць заўсёды хаваецца ў сэрцы чалавека.",
+ "length": 5464.94
+}

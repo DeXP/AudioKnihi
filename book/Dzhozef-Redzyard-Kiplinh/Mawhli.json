@@ -1,0 +1,81 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3817.2,
+   "title": "1 - аўглі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/01.Браты Маўглі.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3817.2,
+   "end": 8388.7,
+   "title": "2 - не Каа",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/02.Паляванне Каа.mp3"
+  },
+  {
+   "id": 2,
+   "start": 8388.7,
+   "end": 12205.9,
+   "title": "3 - ыгр!",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/03.Тыгр! Тыгр!.mp3"
+  },
+  {
+   "id": 3,
+   "start": 12205.9,
+   "end": 15293.4,
+   "title": "4 - х прыйшоў у джунглі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/04.Як страх прыйшоў у джунглі.mp3"
+  },
+  {
+   "id": 4,
+   "start": 15293.4,
+   "end": 19103.45,
+   "title": "5 - джунгляў",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/05.Нашэсце джунгляў.mp3"
+  },
+  {
+   "id": 5,
+   "start": 19103.45,
+   "end": 22199.33,
+   "title": "6 - і анкус",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/06.Княжацкі анкус.mp3"
+  },
+  {
+   "id": 6,
+   "start": 22199.33,
+   "end": 26220.19,
+   "title": "7 - сабакі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/07.Дзікія сабакі.mp3"
+  },
+  {
+   "id": 7,
+   "start": 26220.19,
+   "end": 28821.62,
+   "title": "8 - бег",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/08.Вясновы бег.mp3"
+  }
+ ],
+ "title": "Маўглі",
+ "slug": "Mawhli",
+ "author": "Джозэф Рэдзьярд Кіплінг",
+ "author_slug": "Dzhozef-Redzyard-Kiplinh",
+ "narrators": [
+  "Сяргей Чуб",
+  "Крысціна Дробыш",
+  "Ісай Свістулькін"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Прыгодніцкая літаратура",
+  "Дзіцячая літаратура",
+  "Фэнтэзі",
+  "Апавяданне"
+ ],
+ "source": "https://knihi.com/Dzozef_Redzjard_Kiplinh/Mauhli_mp3.zip.html",
+ "cover": "Dzhozef-Redzyard-Kiplinh/Mawhli.jpg",
+ "description": "Гэтая класічная гісторыя распавядае пра хлопчыка па імені Маўглі, які пасля нападу тыгра Шэр-Хана трапляе ў джунглі і выхоўваецца ў сям’і ваўкоў. Разам са сваімі вернымі сябрамі, мядзведзем Балу і пантэрай Багірай, галоўны герой спасцігае законы дзікай прыроды і вучыцца выжываць у небяспечным асяроддзі. Кніга глыбока даследуе тэмы вернасці, гонару і пошуку ўласнага месца паміж светам людзей і светам жывёл. Апавяданне напоўнена прыгодамі, філасофскімі разважаннямі пра прыроду і атмасферай таямнічых джунгляў. Гэта твор пра сталенне, мужнасць і непарыўную сувязь паміж усім жывым на зямлі.",
+ "length": 28821.62
+}

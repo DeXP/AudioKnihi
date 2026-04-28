@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3426.14,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Jahor_Konieu.Zlacynstva_i_pakarannie_na_bierahach_Svislacy.mp3.zip/1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3426.14,
+   "end": 6918.37,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Jahor_Konieu.Zlacynstva_i_pakarannie_na_bierahach_Svislacy.mp3.zip/2.mp3"
+  }
+ ],
+ "title": "Злачынства і пакаранне на берагах Свіслачы",
+ "slug": "Zlachynstva-i-pakaranne-na-berahakh-Svislachy",
+ "author": "Ягор Конеў",
+ "author_slug": "Yahor-Konew",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дэтэктыў",
+  "Сатыра",
+  "Іранічная проза",
+  "Сучасная беларуская літаратура"
+ ],
+ "source": "https://knihi.com/Jahor_Konieu/Zlacynstva_i_pakarannie_na_bierahach_Svislacy_mp3.zip.html",
+ "cover": "Yahor-Konew/Zlachynstva-i-pakaranne-na-berahakh-Svislachy.jpg",
+ "description": "Гэты твор Ягора Конева ўяўляе сабой іранічны дэтэктыў, дзе падзеі разгортваюцца ў сучасным Мінску. Галоўны герой, спрабуючы разабрацца ў заблытанай крымінальнай гісторыі, сутыкаецца з абсурднасцю штодзённага жыцця і непрадказальнымі паводзінамі людзей. Аўтар майстэрска спалучае элементы класічнага дэтэктыўнага жанру з тонкім гумарам і сацыяльнай сатырай. Кніга запрашае чытача паразважаць над маральнымі выбарамі чалавека ў гарадскім асяроддзі, дзе мяжа паміж злачынствам і звычайнай выпадковасцю становіцца вельмі тонкай. Атмасфера рамана напоўнена лёгкім сумам і іроніяй, што робіць яго захапляльным чытаннем для аматараў інтэлектуальнай прозы.",
+ "length": 6918.37
+}

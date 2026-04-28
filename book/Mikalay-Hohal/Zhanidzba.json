@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3230.11,
+   "title": "1 - алай. Жаніцьба 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Hohal_Mikalaj.Zanicba.1952.ogg.zip/Hohal_Mikalaj.Zanicba_1.1952.ogg"
+  },
+  {
+   "id": 1,
+   "start": 3230.11,
+   "end": 6303.13,
+   "title": "2 - алай. Жаніцьба 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Hohal_Mikalaj.Zanicba.1952.ogg.zip/Hohal_Mikalaj.Zanicba_2.1952.ogg"
+  }
+ ],
+ "title": "Жанідзьба",
+ "slug": "Zhanidzba",
+ "author": "Мікалай Гогаль",
+ "author_slug": "Mikalay-Hohal",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Камедыя",
+  "Сатыра",
+  "Драматургія",
+  "Класічная літаратура"
+ ],
+ "source": "https://knihi.com/Mikalaj_Hohal/Zanidzba_ogg.zip.html",
+ "cover": "Mikalay-Hohal/Zhanidzba.jpg",
+ "description": "П’еса Мікалая Гогаля распавядае пра няўдалыя спробы нясмелага чыноўніка Падпаколіна ажаніцца з купецкай дачкой Агаф’яй Ціханаўнай. Галоўны герой доўга вагаецца і не можа прыняць рашучага рашэння, пакуль у справу не ўмешваецца яго настойлівы сябар Качкароў. Твор выкрывае пустату і недарэчнасць жыцця дробнага чынавенства, дзе шлюб ператвараецца ў фармальную здзелку. Аўтар майстэрска спалучае сатыру з элементамі абсурду, паказваючы страх чалавека перад пераменамі і адказнасцю. Гэтая камедыя застаецца актуальнай дзякуючы свайму глыбокаму псіхалагізму і іранічнаму погляду на чалавечыя слабасці.",
+ "length": 6303.13
+}

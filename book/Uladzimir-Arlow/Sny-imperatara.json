@@ -1,0 +1,175 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 486.12,
+   "title": "1 - 0001.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 486.12,
+   "end": 897.35,
+   "title": "2 - 0002.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 897.35,
+   "end": 1311.11,
+   "title": "3 - 0003.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1311.11,
+   "end": 1607.55,
+   "title": "4 - 0004.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1607.55,
+   "end": 2158.27,
+   "title": "5 - 0005.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 2158.27,
+   "end": 2553.22,
+   "title": "6 - 0006.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 2553.22,
+   "end": 2951.75,
+   "title": "7 - 0007.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2951.75,
+   "end": 3358.64,
+   "title": "8 - 0008.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 3358.64,
+   "end": 4036.81,
+   "title": "9 - 0009.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 4036.81,
+   "end": 4724.7,
+   "title": "10 - 0010.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0010.mp3"
+  },
+  {
+   "id": 10,
+   "start": 4724.7,
+   "end": 5552.42,
+   "title": "11 - 0011.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0011.mp3"
+  },
+  {
+   "id": 11,
+   "start": 5552.42,
+   "end": 6101.26,
+   "title": "12 - 0012.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0012.mp3"
+  },
+  {
+   "id": 12,
+   "start": 6101.26,
+   "end": 6506.27,
+   "title": "13 - 0013.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0013.mp3"
+  },
+  {
+   "id": 13,
+   "start": 6506.27,
+   "end": 6921.83,
+   "title": "14 - 0014.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0014.mp3"
+  },
+  {
+   "id": 14,
+   "start": 6921.83,
+   "end": 7349.43,
+   "title": "15 - 0015.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0015.mp3"
+  },
+  {
+   "id": 15,
+   "start": 7349.43,
+   "end": 8006.94,
+   "title": "16 - 0016.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0016.mp3"
+  },
+  {
+   "id": 16,
+   "start": 8006.94,
+   "end": 8767.16,
+   "title": "17 - 0017.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0017.mp3"
+  },
+  {
+   "id": 17,
+   "start": 8767.16,
+   "end": 9176.74,
+   "title": "18 - 0018.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0018.mp3"
+  },
+  {
+   "id": 18,
+   "start": 9176.74,
+   "end": 9599.85,
+   "title": "19 - 0019.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0019.mp3"
+  },
+  {
+   "id": 19,
+   "start": 9599.85,
+   "end": 10080.27,
+   "title": "20 - 0020.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0020.mp3"
+  },
+  {
+   "id": 20,
+   "start": 10080.27,
+   "end": 10652.93,
+   "title": "21 - 0021.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0021.mp3"
+  },
+  {
+   "id": 21,
+   "start": 10652.93,
+   "end": 10947.18,
+   "title": "22 - 0022.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Sny_impieratara.mp3.zip/0022.mp3"
+  }
+ ],
+ "title": "Сны імператара",
+ "slug": "Sny-imperatara",
+ "author": "Уладзімір Арлоў",
+ "author_slug": "Uladzimir-Arlow",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычная проза",
+  "Апавяданне",
+  "Магічны рэалізм",
+  "Інтэлектуальная проза"
+ ],
+ "source": "https://knihi.com/Uladzimir_Arlou/Sny_impieratara_mp3.zip.html",
+ "cover": "Uladzimir-Arlow/Sny-imperatara.jpg",
+ "description": "Кніга Уладзіміра Арлова Сны імператара ўяўляе сабой зборнік апавяданняў, у якіх гістарычная рэальнасць пераплятаецца з мастацкай выдумкай і містыкай. Аўтар майстэрска даследуе лёсы вядомых гістарычных асоб і звычайных людзей, пагружаючы чытача ў атмасферу мінулых эпох. Праз прызму сноў і мрояў пісьменнік разважае пра месца Беларусі ў еўрапейскім кантэксце, пра каштоўнасць свабоды і чалавечай годнасці. Тон твораў вагаецца ад іранічнага да філасофска-меланхалічнага, што стварае непаўторны аўтарскі стыль. Гэта глыбокае інтэлектуальнае чытанне, якое запрашае да роздуму над складанымі паваротамі нацыянальнай гісторыі.",
+ "length": 10947.18
+}

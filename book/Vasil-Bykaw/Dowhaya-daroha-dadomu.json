@@ -1,0 +1,301 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 649.12,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 649.12,
+   "end": 1261.46,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1261.46,
+   "end": 1759.41,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1759.41,
+   "end": 2310.36,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2310.36,
+   "end": 2887.56,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 2887.56,
+   "end": 3384.2,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3384.2,
+   "end": 3963.62,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 3963.62,
+   "end": 4500.67,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 4500.67,
+   "end": 5137.82,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 5137.82,
+   "end": 5696.58,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 5696.58,
+   "end": 6278.33,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 6278.33,
+   "end": 6923.16,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 6923.16,
+   "end": 7601.09,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 7601.09,
+   "end": 8462.56,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 8462.56,
+   "end": 9081.53,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 9081.53,
+   "end": 9653.38,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 9653.38,
+   "end": 10261.95,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 10261.95,
+   "end": 10871.23,
+   "title": "18 - 18.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 10871.23,
+   "end": 11544.82,
+   "title": "19 - 19.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 11544.82,
+   "end": 12201.25,
+   "title": "20 - 20.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 12201.25,
+   "end": 12799.98,
+   "title": "21 - 21.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 12799.98,
+   "end": 13242.96,
+   "title": "22 - 22.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 13242.96,
+   "end": 13789.65,
+   "title": "23 - 23.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 13789.65,
+   "end": 14393.24,
+   "title": "24 - 24.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 14393.24,
+   "end": 15019.6,
+   "title": "25 - 25.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/25.mp3"
+  },
+  {
+   "id": 25,
+   "start": 15019.6,
+   "end": 15612.92,
+   "title": "26 - 26.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/26.mp3"
+  },
+  {
+   "id": 26,
+   "start": 15612.92,
+   "end": 16151.83,
+   "title": "27 - 27.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/27.mp3"
+  },
+  {
+   "id": 27,
+   "start": 16151.83,
+   "end": 16722.42,
+   "title": "28 - 28.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/28.mp3"
+  },
+  {
+   "id": 28,
+   "start": 16722.42,
+   "end": 17351.16,
+   "title": "29 - 29.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/29.mp3"
+  },
+  {
+   "id": 29,
+   "start": 17351.16,
+   "end": 17963.68,
+   "title": "30 - 30.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/30.mp3"
+  },
+  {
+   "id": 30,
+   "start": 17963.68,
+   "end": 18510.34,
+   "title": "31 - 31.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/31.mp3"
+  },
+  {
+   "id": 31,
+   "start": 18510.34,
+   "end": 19140.13,
+   "title": "32 - 32.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/32.mp3"
+  },
+  {
+   "id": 32,
+   "start": 19140.13,
+   "end": 19687.37,
+   "title": "33 - 33.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/33.mp3"
+  },
+  {
+   "id": 33,
+   "start": 19687.37,
+   "end": 20287.35,
+   "title": "34 - 34.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/34.mp3"
+  },
+  {
+   "id": 34,
+   "start": 20287.35,
+   "end": 20859.17,
+   "title": "35 - 35.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/35.mp3"
+  },
+  {
+   "id": 35,
+   "start": 20859.17,
+   "end": 21445.65,
+   "title": "36 - 36.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/36.mp3"
+  },
+  {
+   "id": 36,
+   "start": 21445.65,
+   "end": 22077.76,
+   "title": "37 - 37.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/37.mp3"
+  },
+  {
+   "id": 37,
+   "start": 22077.76,
+   "end": 22701.51,
+   "title": "38 - 38.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/38.mp3"
+  },
+  {
+   "id": 38,
+   "start": 22701.51,
+   "end": 23305.8,
+   "title": "39 - 39.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/39.mp3"
+  },
+  {
+   "id": 39,
+   "start": 23305.8,
+   "end": 23806.99,
+   "title": "40 - 40.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bykau.Douhaja_daroha_dadomu.mp3.zip/40.mp3"
+  }
+ ],
+ "title": "Доўгая дарога дадому",
+ "slug": "Dowhaya-daroha-dadomu",
+ "author": "Васіль Быкаў",
+ "author_slug": "Vasil-Bykaw",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Аўтабіяграфія",
+  "Мемуары",
+  "Дакументальная проза",
+  "Гістарычная літаратура"
+ ],
+ "source": "https://knihi.com/Vasil_Bykau/Douhaja_daroha_dadomu_mp3.zip.html",
+ "cover": "Vasil-Bykaw/Dowhaya-daroha-dadomu.jpg",
+ "description": "Доўгая дарога дадому гэта аўтабіяграфічная кніга выбітнага беларускага пісьменніка Васіля Быкава, у якой ён шчыра і пранікнёна апісвае свой жыццёвы шлях. Аўтар узгадвае падзеі дзяцінства, гады вайны і складаны пасляваенны перыяд, калі яму даводзілася сутыкацца з ціскам савецкай сістэмы. Праз прызму асабістых успамінаў раскрываецца няпросты лёс інтэлігента, які заўсёды імкнуўся захаваць уласную годнасць і сумленне. Тон аповеду спалучае ў сабе глыбокі філасофскі роздум, сум па страчаным і нязломную веру ў праўду. Гэты твор з’яўляецца важным гістарычным сведчаннем і духоўным запаветам аўтара для будучых пакаленняў.",
+ "length": 23806.99
+}

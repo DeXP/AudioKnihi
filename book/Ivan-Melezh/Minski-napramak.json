@@ -1,0 +1,48 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3410.34,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Ivan_Mielez.Minsk_napramak.1976.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3410.34,
+   "end": 6458.18,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Ivan_Mielez.Minsk_napramak.1976.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 6458.18,
+   "end": 9854.2,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Ivan_Mielez.Minsk_napramak.1976.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 9854.2,
+   "end": 13205.68,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Ivan_Mielez.Minsk_napramak.1976.mp3.zip/04.mp3"
+  }
+ ],
+ "title": "Мінскі напрамак",
+ "slug": "Minski-napramak",
+ "author": "Іван Мележ",
+ "author_slug": "Ivan-Melezh",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Ваенная проза",
+  "Гістарычны раман",
+  "Савецкая літаратура"
+ ],
+ "source": "https://knihi.com/Ivan_Mielez/Minski_napramak_mp3.zip.html",
+ "cover": "Ivan-Melezh/Minski-napramak.jpg",
+ "description": "Раман Мінскі напрамак з'яўляецца значнай часткай эпічнай трылогіі Івана Мележа, якая прысвечана падзеям Вялікай Айчыннай вайны. У цэнтры сюжэта знаходзіцца дзейнасць беларускага падполля і партызанскага руху, якія вядуць бязлітасную барацьбу з нямецкімі акупантамі. Аўтар майстэрска паказвае складаныя лёсы простых людзей, вымушаных рабіць цяжкі маральны выбар ва ўмовах ваеннага ліхалецця. Твор прасякнуты глыбокім патрыятызмам, трагізмам страт і непахіснай верай у перамогу над ворагам. Гэта маштабнае палатно, якое даследуе псіхалогію чалавека ў экстрэмальных абставінах і ўслаўляе гераізм беларускага народа.",
+ "length": 13205.68
+}

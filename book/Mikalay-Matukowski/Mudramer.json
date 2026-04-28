@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3035.74,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Mikalaj_Matukouski.Mudramier.mp3.zip/1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3035.74,
+   "end": 6294.99,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Mikalaj_Matukouski.Mudramier.mp3.zip/2.mp3"
+  }
+ ],
+ "title": "Мудрамер",
+ "slug": "Mudramer",
+ "author": "Мікалай Матукоўскі",
+ "author_slug": "Mikalay-Matukowski",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сатыра",
+  "Драма",
+  "П’еса",
+  "Сацыяльная проза"
+ ],
+ "source": "https://knihi.com/Mikalaj_Matukouski/Mudramier_mp3.zip.html",
+ "cover": "Mikalay-Matukowski/Mudramer.jpg",
+ "description": "Сатырычная п’еса Мікалая Матукоўскага распавядае пра вынаходніка Мурашкі, які стварыў унікальны прыбор для вымярэння чалавечай мудрасці. Гэты апарат становіцца сапраўдным выпрабаваннем для мясцовых чыноўнікаў і кіраўнікоў, бо выкрывае іх некампетэнтнасць і фальш. Твор падымае вострыя сацыяльныя пытанні праўды, кар’ерызму і маральнай адказнасці перад грамадствам. Праз гумар і іронію аўтар выкрывае заганы бюракратычнай сістэмы, якая баіцца сапраўднага розуму і аб’ектыўнасці. Гэта глыбокая і актуальная гісторыя пра тое, як цяжка заставацца мудрым у свеце, дзе цэняцца толькі паслухмянасць і пасады.",
+ "length": 6294.99
+}

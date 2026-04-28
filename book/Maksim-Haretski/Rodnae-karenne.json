@@ -1,0 +1,67 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 720.136,
+   "title": "2 - 2_01.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Rodnaje_karennie.Valer_Mazynski.mp3.zip/2_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 720.136,
+   "end": 1571.856,
+   "title": "2 - 2_02.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Rodnaje_karennie.Valer_Mazynski.mp3.zip/2_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1571.856,
+   "end": 1838.104,
+   "title": "2 - 2_03.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Rodnaje_karennie.Valer_Mazynski.mp3.zip/2_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1838.104,
+   "end": 2451.36,
+   "title": "2 - 2_04.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Rodnaje_karennie.Valer_Mazynski.mp3.zip/2_04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2451.36,
+   "end": 3588.52,
+   "title": "2 - 2_05.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Rodnaje_karennie.Valer_Mazynski.mp3.zip/2_05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3588.52,
+   "end": 4846.896,
+   "title": "2 - 2_06.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Rodnaje_karennie.Valer_Mazynski.mp3.zip/2_06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4846.896,
+   "end": 6531.509,
+   "title": "2 - 2_07.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Rodnaje_karennie.Valer_Mazynski.mp3.zip/2_07.mp3"
+  }
+ ],
+ "title": "Роднае карэнне",
+ "slug": "Rodnae-karenne",
+ "author": "Максім Гарэцкі",
+ "author_slug": "Maksim-Haretski",
+ "narrators": [
+  "Андрэй Каляда"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [],
+ "source": "https://knihi.com/Maksim_Harecki/Rodnaje_karennie_mp3.zip.html",
+ "cover": "Maksim-Haretski/Rodnae-karenne.jpg",
+ "description": "",
+ "length": 6531.509
+}

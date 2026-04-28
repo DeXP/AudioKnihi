@@ -1,0 +1,25 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 817.65,
+   "title": "Цёмныя алеі",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bunin.Ciomnyja_aleji.m4a"
+  }
+ ],
+ "title": "Цёмныя алеі",
+ "slug": "Tsyomnyya-alei",
+ "author": "Іван Бунін",
+ "author_slug": "Ivan-Bunin",
+ "narrators": [
+  "Уладзімір Рагаўцоў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [],
+ "source": "https://knihi.com/Ivan_Bunin/Ciomnyja_alei_audio.html",
+ "cover": "Ivan-Bunin/Tsyomnyya-alei.jpg",
+ "description": "",
+ "length": 817.65
+}

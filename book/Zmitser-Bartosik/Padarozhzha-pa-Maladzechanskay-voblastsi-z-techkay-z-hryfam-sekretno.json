@@ -1,0 +1,296 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 976.64,
+   "title": "1 - дажынкі 1950-га. Падарожжа па Маладзечанскай вобласьці з тэчкай з грыфам секретно.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/001.Сумныя дажынкі 1950-га. Падарожжа па Маладзечанскай вобласьці з тэчкай з грыфам секретно.mp3"
+  },
+  {
+   "id": 1,
+   "start": 976.64,
+   "end": 1930.95,
+   "title": "2 - цяжкія твае працадні, гаспадыня.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/002.Ох, і цяжкія твае працадні, гаспадыня.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1930.95,
+   "end": 2932.85,
+   "title": "3 - ыя дні.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/003.Радасныя дні.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2932.85,
+   "end": 4070.38,
+   "title": "4 - я бітва за ўраджай.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/004.Апошняя бітва за ўраджай.mp3"
+  },
+  {
+   "id": 4,
+   "start": 4070.38,
+   "end": 4971.19,
+   "title": "5 - вор, 1946, частка 1.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/005.Новы Двор, 1946, частка 1.mp3"
+  },
+  {
+   "id": 5,
+   "start": 4971.19,
+   "end": 5924.89,
+   "title": "6 - вор, 1946, частка 2.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/006.Новы Двор, 1946, частка 2.mp3"
+  },
+  {
+   "id": 6,
+   "start": 5924.89,
+   "end": 6817.76,
+   "title": "7 - вор, 1946, частка 3.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/007.Новы Двор, 1946, частка 3.mp3"
+  },
+  {
+   "id": 7,
+   "start": 6817.76,
+   "end": 7740.25,
+   "title": "8 - Крывіцкага. Частка 1.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/008.Банда Крывіцкага. Частка 1.mp3"
+  },
+  {
+   "id": 8,
+   "start": 7740.25,
+   "end": 8683.92,
+   "title": "9 - Крывіцкага. Частка 2.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/009.Банда Крывіцкага. Частка 2.mp3"
+  },
+  {
+   "id": 9,
+   "start": 8683.92,
+   "end": 9642.72,
+   "title": "10 - ыя і памяркоўныя.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/010.Рахманыя і памяркоўныя.mp3"
+  },
+  {
+   "id": 10,
+   "start": 9642.72,
+   "end": 10555.78,
+   "title": "11 - нкі — часьціца Масквы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/011.Засьценкі — часьціца Масквы.mp3"
+  },
+  {
+   "id": 11,
+   "start": 10555.78,
+   "end": 11463.04,
+   "title": "12 - Ляскоўскага, частка1.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/012.Банда Ляскоўскага, частка1.mp3"
+  },
+  {
+   "id": 12,
+   "start": 11463.04,
+   "end": 12362.93,
+   "title": "13 - Ляскоўскага, частка2. Цярпілка і другія.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/013.Банда Ляскоўскага, частка2. Цярпілка і другія.mp3"
+  },
+  {
+   "id": 13,
+   "start": 12362.93,
+   "end": 13304.44,
+   "title": "14 - — мой хлопчык.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/014.Генрых — мой хлопчык.mp3"
+  },
+  {
+   "id": 14,
+   "start": 13304.44,
+   "end": 14204.54,
+   "title": "15 - ыя Казлы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/015.Ахвярныя Казлы.mp3"
+  },
+  {
+   "id": 15,
+   "start": 14204.54,
+   "end": 15186.14,
+   "title": "16 - ньне крамаў — ня грэх.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/016.Рабаваньне крамаў — ня грэх.mp3"
+  },
+  {
+   "id": 16,
+   "start": 15186.14,
+   "end": 16142.27,
+   "title": "17 - ы правадыр.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/017.Зрынуты правадыр.mp3"
+  },
+  {
+   "id": 17,
+   "start": 16142.27,
+   "end": 17055.8,
+   "title": "18 - андыт.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/018.Я не бандыт.mp3"
+  },
+  {
+   "id": 18,
+   "start": 17055.8,
+   "end": 17955.9,
+   "title": "19 - і старой сядзібы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/019.Мэлёдыі старой сядзібы.mp3"
+  },
+  {
+   "id": 19,
+   "start": 17955.9,
+   "end": 18907.93,
+   "title": "20 - , у якой сьпявала сумная дзяўчынка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/020.Царква, у якой сьпявала сумная дзяўчынка.mp3"
+  },
+  {
+   "id": 20,
+   "start": 18907.93,
+   "end": 19802.26,
+   "title": "21 - еларускай мовы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/021.Цана беларускай мовы.mp3"
+  },
+  {
+   "id": 21,
+   "start": 19802.26,
+   "end": 20716.15,
+   "title": "23 - тая вёска Галоднічы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/023.Няпростая вёска Галоднічы.mp3"
+  },
+  {
+   "id": 22,
+   "start": 20716.15,
+   "end": 21657.81,
+   "title": "24 - кое працадзень.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/024.Што такое працадзень.mp3"
+  },
+  {
+   "id": 23,
+   "start": 21657.81,
+   "end": 22635.91,
+   "title": "25 - цудоўнай эпохі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/025.Сьляды цудоўнай эпохі.mp3"
+  },
+  {
+   "id": 24,
+   "start": 22635.91,
+   "end": 23566.39,
+   "title": "27 - ныя сьляды.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/027.Замеценыя сьляды.mp3"
+  },
+  {
+   "id": 25,
+   "start": 23566.39,
+   "end": 24537.57,
+   "title": "28 - — гэта свабода.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/028.Хутар — гэта свабода.mp3"
+  },
+  {
+   "id": 26,
+   "start": 24537.57,
+   "end": 25560.6,
+   "title": "29 - песня.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/029.Лясная песня.mp3"
+  },
+  {
+   "id": 27,
+   "start": 25560.6,
+   "end": 26528.52,
+   "title": "30 - ая мера за каляндар.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/030.Вышэйшая мера за каляндар.mp3"
+  },
+  {
+   "id": 28,
+   "start": 26528.52,
+   "end": 27501.71,
+   "title": "31 - ны ксёндз.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/031.Адстаяны ксёндз.mp3"
+  },
+  {
+   "id": 29,
+   "start": 27501.71,
+   "end": 28528.11,
+   "title": "32 - к у пекла.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/032.Пропуск у пекла.mp3"
+  },
+  {
+   "id": 30,
+   "start": 28528.11,
+   "end": 29448.95,
+   "title": "33 - ыцьця звычайнага беларуса.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/033.Цуды жыцьця звычайнага беларуса.mp3"
+  },
+  {
+   "id": 31,
+   "start": 29448.95,
+   "end": 30385.62,
+   "title": "34 - бяды.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/034.Знакі бяды.mp3"
+  },
+  {
+   "id": 32,
+   "start": 30385.62,
+   "end": 31374.75,
+   "title": "35 - нка з племені Дайнова.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/035.Дзяўчынка з племені Дайнова.mp3"
+  },
+  {
+   "id": 33,
+   "start": 31374.75,
+   "end": 32321.92,
+   "title": "36 - ітацыя для нашчадкаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/036.Рэабілітацыя для нашчадкаў.mp3"
+  },
+  {
+   "id": 34,
+   "start": 32321.92,
+   "end": 33336.15,
+   "title": "37 - ГУЛага.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/037.Дзіця ГУЛага.mp3"
+  },
+  {
+   "id": 35,
+   "start": 33336.15,
+   "end": 34346.7,
+   "title": "38 - ы называеце бандытамі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/038.Каго вы называеце бандытамі.mp3"
+  },
+  {
+   "id": 36,
+   "start": 34346.7,
+   "end": 35340.14,
+   "title": "39 - ць кулямёт.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/039.Адкапаць кулямёт.mp3"
+  },
+  {
+   "id": 37,
+   "start": 35340.14,
+   "end": 36323.96,
+   "title": "40 - іраўскія страсьці ў Папках.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/040.Шэксьпіраўскія страсьці ў Папках.mp3"
+  },
+  {
+   "id": 38,
+   "start": 36323.96,
+   "end": 37334.35,
+   "title": "41 - я жанчына 1948-га году.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/maladzechna.mp3.zip/041.Ракавая жанчына 1948-га году.mp3"
+  }
+ ],
+ "title": "Падарожжа па Маладзечанскай вобласьці з тэчкай з грыфам «секретно»",
+ "slug": "Padarozhzha-pa-Maladzechanskay-voblastsi-z-techkay-z-hryfam-sekretno",
+ "author": "Зьміцер Бартосік",
+ "author_slug": "Zmitser-Bartosik",
+ "narrators": [
+  "Зьміцер Бартосік"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дакумэнтальная проза",
+  "Гістарычная літаратура",
+  "Публіцыстыка",
+  "Мэмуары"
+ ],
+ "source": "https://knihi.com/Zmicier_Bartosik/Padarozza_pa_Maladziecanskaj_voblasci_z_teckaj_z_hryfam_siekrietno_mp3.zip.html",
+ "cover": "Zmitser-Bartosik/Padarozhzha-pa-Maladzechanskay-voblastsi-z-techkay-z-hryfam-sekretno.jpg",
+ "description": "У гэтай кнізе вядомы беларускі літаратар Зьміцер Бартосік адпраўляецца ў падарожжа па Маладзечаншчыне, узброіўшыся архіўнымі дакумэнтамі з грыфам сакрэтнасьці. Аўтар дасьледуе трагічныя старонкі гісторыі рэгіёну, супастаўляючы афіцыйныя справаздачы савецкіх спэцслужбаў з жывымі ўспамінамі мясцовых жыхароў. Праз прызму лёсаў звычайных людзей у кнізе раскрываюцца тэмы рэпрэсіяў, супраціву і складанага выбару ў таталітарным грамадзтве. Тэкст вылучаецца спалучэньнем дакумэнтальнай дакладнасьці, публіцыстычнай вастрыні і глыбокай эмпатыі да герояў. Гэта своеасаблівае расьсьледаваньне, якое дапамагае вярнуць памяць пра забытыя падзеі мінулага стагодзьдзя.",
+ "length": 37334.35
+}

@@ -1,0 +1,113 @@
+name: Build & Deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:  # Allow manual trigger
+
+# Prevent concurrent runs on same branch
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # === Job 1: Detect what changed ===
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      books_changed: ${{ steps.filter.outputs.books }}
+      app_changed: ${{ steps.filter.outputs.app }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Need previous commit for diff
+      
+      - uses: dorny/paths-filter@v4  # Popular path-filter action [[13]]
+        id: filter
+        with:
+          filters: |
+            books:
+              - 'book/**'
+              - 'scripts/**'
+              - 'catalog.json'
+            app:
+              - 'src/**'
+              - 'public/**'
+              - '*.json'  # package.json, vite.config.js, etc.
+              - '!book/**'
+              - '!scripts/**'
+              - '!catalog.json'
+
+  # === Job 2: Regenerate catalog.json (only if book files changed) ===
+  generate-catalog:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.books_changed == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Generate catalog.json
+        run: node scripts/generate.js
+      
+      - name: Commit updated catalog.json
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add catalog.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: regenerate catalog.json [skip ci]"
+          git push
+
+  # === Job 3: Build & Deploy Vue app (only if app files changed OR catalog changed) ===
+  build-deploy:
+    needs: [detect-changes, generate-catalog]
+    # Run if: app changed, OR books changed (catalog updated), OR manual trigger
+    if: >
+      needs.detect-changes.outputs.app_changed == 'true' ||
+      needs.detect-changes.outputs.books_changed == 'true' ||
+      github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write      # Required for GitHub Pages deployment
+      id-token: write   # Required for OIDC token
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Build Vite app
+        run: npm run build
+        env:
+          # Critical: Set base path for GitHub Pages subdirectory deployment [[8]]
+          VITE_BASE: /${{ github.event.repository.name }}/
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+      
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,63 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3041.344,
+   "title": "1 - 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Kupala.Tutejsyja.mp3.zip/var1/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3041.344,
+   "end": 5449.239,
+   "title": "2 - 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Kupala.Tutejsyja.mp3.zip/var1/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 5449.239,
+   "end": 8694.7,
+   "title": "3 - 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Kupala.Tutejsyja.mp3.zip/var1/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 8694.7,
+   "end": 9477.347,
+   "title": "4 - var1/Intervju_z_Viktaram_Manajevym.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Kupala.Tutejsyja.mp3.zip/var1/Intervju_z_Viktaram_Manajevym.mp3"
+  },
+  {
+   "id": 4,
+   "start": 9477.347,
+   "end": 17509.964,
+   "title": "1 - 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Kupala.Tutejsyja.mp3.zip/var2/01.mp3"
+  },
+  {
+   "id": 5,
+   "start": 17509.964,
+   "end": 25184.05,
+   "title": "2 - 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatr/Kupala.Tutejsyja.mp3.zip/var2/02.mp3"
+  }
+ ],
+ "title": "Тутэйшыя",
+ "slug": "Tuteyshyya",
+ "author": "Янка Купала",
+ "author_slug": "Yanka-Kupala",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Трагікамедыя",
+  "Сатыра",
+  "П'еса",
+  "Драма"
+ ],
+ "source": "https://knihi.com/Janka_Kupala/Tutejsyja_mp3.zip.html",
+ "cover": "Yanka-Kupala/Tuteyshyya.jpg",
+ "description": "Трагікамедыя Янкі Купалы Тутэйшыя з’яўляецца адным з самых значных твораў беларускай літаратуры, у якім аўтар праз прызму сатыры даследуе складаны лёс беларускага народа ў перыяд рэвалюцыйных змен. Галоўны герой Мікіта Зносак увасабляе тып прыстасаванца, які імкнецца выжыць пры любой уладзе, адмаўляючыся ад уласнага нацыянальнага годнасці. Праз вострыя дыялогі і камічныя сітуацыі драматург падымае глыбокія пытанні нацыянальнай ідэнтычнасці, інтэлігенцыі і гістарычнага выбару. Твор прасякнуты болем за лёс роднага краю і іроніяй над тымі, хто страціў свае карані. Гэтая п’еса застаецца актуальнай і сёння, прымушаючы кожнага чытача задумацца пра сваё месца ў гісторыі.",
+ "length": 25184.05
+}

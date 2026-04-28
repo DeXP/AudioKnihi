@@ -1,0 +1,42 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2333.68,
+   "title": "1 - 01",
+   "url": "https://files.knihi.com/Audio/audio/Arlou.Dom_z_damavikami.mp3.zip/Dom_z_damavikami_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2333.68,
+   "end": 4481.9,
+   "title": "2 - 02",
+   "url": "https://files.knihi.com/Audio/audio/Arlou.Dom_z_damavikami.mp3.zip/Dom_z_damavikami_2.mp3"
+  },
+  {
+   "id": 2,
+   "start": 4481.9,
+   "end": 6833.83,
+   "title": "3 - 03",
+   "url": "https://files.knihi.com/Audio/audio/Arlou.Dom_z_damavikami.mp3.zip/Dom_z_damavikami_3.mp3"
+  }
+ ],
+ "title": "Дом з дамавікамі",
+ "slug": "Dom-z-damavikami",
+ "author": "Уладзімір Арлоў",
+ "author_slug": "Uladzimir-Arlow",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Апавяданні",
+  "Магічны рэалізм",
+  "Фантастыка"
+ ],
+ "source": "https://knihi.com/Uladzimir_Arlou/Dom_z_damavikami_mp3.zip.html",
+ "cover": "Uladzimir-Arlow/Dom-z-damavikami.jpg",
+ "description": "Гэтая кніга Уладзіміра Арлова ўяўляе сабой зборнік апавяданняў, у якіх рэальнасць цесна пераплятаецца з містыкай і беларускім фальклорам. Аўтар майстэрску стварае атмасферу таямнічасці, дзе звычайныя бытавыя сітуацыі напаўняюцца прысутнасцю казачных істот і духаў. Праз прызму іроніі і глыбокага лірызму пісьменнік разважае пра лёс беларусаў, гістарычную памяць і сувязь пакаленняў. Тэксты вызначаюцца вытанчанай мовай і здольнасцю аўтара бачыць незвычайнае ў паўсядзённым жыцці. Гэта твор пра пошук духоўных каранёў і захаванне ўласнай ідэнтычнасці ў зменлівым свеце.",
+ "length": 6833.83
+}

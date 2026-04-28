@@ -1,0 +1,71 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 552.48,
+   "title": "1 - 01_01.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Litouski_chutarok.Valer_Mazynski.mp3.zip/01_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 552.48,
+   "end": 1058.984,
+   "title": "1 - 01_02.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Litouski_chutarok.Valer_Mazynski.mp3.zip/01_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1058.984,
+   "end": 1824.944,
+   "title": "1 - 01_03.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Litouski_chutarok.Valer_Mazynski.mp3.zip/01_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1824.944,
+   "end": 2551.864,
+   "title": "1 - 01_04.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Litouski_chutarok.Valer_Mazynski.mp3.zip/01_04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2551.864,
+   "end": 2977.344,
+   "title": "1 - 01_05.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Litouski_chutarok.Valer_Mazynski.mp3.zip/01_05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 2977.344,
+   "end": 3406.536,
+   "title": "1 - 01_06.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Litouski_chutarok.Valer_Mazynski.mp3.zip/01_06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3406.536,
+   "end": 4109.904,
+   "title": "1 - 01_07.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Maksim_Harecki.Litouski_chutarok.Valer_Mazynski.mp3.zip/01_07.mp3"
+  }
+ ],
+ "title": "Літоўскі хутарок",
+ "slug": "Litowski-khutarok",
+ "author": "Максім Гарэцкі",
+ "author_slug": "Maksim-Haretski",
+ "narrators": [
+  "Андрэй Каляда"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Аповесць",
+  "Псіхалагічная проза",
+  "Мастацкая літаратура"
+ ],
+ "source": "https://knihi.com/Maksim_Harecki/Litouski_chutarok_mazynski_mp3.zip.html",
+ "cover": "Maksim-Haretski/Litowski-khutarok.jpg",
+ "description": "Аповесць Максіма Гарэцкага Літоўскі хутарок з’яўляецца глыбокім псіхалагічным творам, які раскрывае складаныя лёсы людзей у перыяд сацыяльных узрушэнняў пачатку дваццатага стагоддзя. У цэнтры сюжэта знаходзіцца жыццё беларускага інтэлігента, які спрабуе знайсці гармонію і ўласны шлях сярод зменлівых гістарычных абставін. Аўтар майстэрска перадае атмасферу адзіноты і роздуму, падкрэсліваючы канфлікт паміж асабістымі імкненнямі і рэальнасцю навакольнага свету. Твор вызначаецца лірычнасцю, філасофскай глыбінёй і тонкім разуменнем чалавечай душы. Праз вобраз хутара пісьменнік сімвалічна паказвае пошук духоўнага прытулку і нацыянальнай ідэнтычнасці ў эпоху вялікіх пераменаў.",
+ "length": 4109.904
+}

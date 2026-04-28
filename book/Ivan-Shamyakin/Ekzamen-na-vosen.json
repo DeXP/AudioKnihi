@@ -1,0 +1,34 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1782.1,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Samiakin.Ekzamien_na_vosien.1976.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1782.1,
+   "end": 3580.63,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Samiakin.Ekzamien_na_vosien.1976.mp3.zip/02.mp3"
+  }
+ ],
+ "title": "Экзамен на восень",
+ "slug": "Ekzamen-na-vosen",
+ "author": "Іван Шамякін",
+ "author_slug": "Ivan-Shamyakin",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сацыяльна-псіхалагічная проза",
+  "Аповесць",
+  "Рэалізм"
+ ],
+ "source": "https://knihi.com/Ivan_Samiakin/Ekzamien_na_vosien_mp3.zip.html",
+ "cover": "Ivan-Shamyakin/Ekzamen-na-vosen.jpg",
+ "description": "Аповесць Івана Шамякіна распавядае пра складаны перыяд у жыцці маладога настаўніка, які пасля заканчэння інстытута трапляе ў глыбінку. Галоўны герой сутыкаецца з сур'ёзнымі прафесійнымі і маральнымі выпрабаваннямі, якія становяцца для яго сапраўдным экзаменам на сталасць. Аўтар глыбока аналізуе тэмы адказнасці перад грамадствам, сумленнасці і пошуку ўласнага месца ў жыцці. Твор вызначаецца рэалістычным падыходам да апісання савецкай рэчаіснасці і псіхалагічнай праніклівасцю ў раскрыцці характараў. Гэта кранальная гісторыя пра станаўленне асобы, якая прымушае чытача задумацца пра важнасць выбару і вернасць сваім прынцыпам.",
+ "length": 3580.63
+}

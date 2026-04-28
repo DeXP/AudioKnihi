@@ -1,0 +1,41 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 710.66,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Hienadz_Aulasienka.Racnyja_pryhody.mp3.zip/Racnyja_pryhody_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 710.66,
+   "end": 1478.06,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Hienadz_Aulasienka.Racnyja_pryhody.mp3.zip/Racnyja_pryhody_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1478.06,
+   "end": 2372.05,
+   "title": "3 - Частка 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Hienadz_Aulasienka.Racnyja_pryhody.mp3.zip/Racnyja_pryhody_03.mp3"
+  }
+ ],
+ "title": "Рачныя прыгоды",
+ "slug": "Rachnyya-pryhody",
+ "author": "Генадзь Аўласенка",
+ "author_slug": "Henadz-Awlasenka",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Прыгоды",
+  "Аповесць"
+ ],
+ "source": "https://knihi.com/Hienadz_Aulasienka/Racnyja_pryhody_mp3.zip.html",
+ "cover": "Henadz-Awlasenka/Rachnyya-pryhody.jpg",
+ "description": "Кніга Генадзя Аўласенкі Рачныя прыгоды запрашае юных чытачоў у захапляльнае падарожжа па маляўнічых беларускіх рэках. Галоўныя героі сутыкаюцца з нечаканымі выпрабаваннямі, якія вучаць іх адвазе, узаемавыручцы і любові да роднай прыроды. Аўтар майстэрска спалучае дынамічны сюжэт з пазнавальнымі фактамі пра навакольны свет, ствараючы атмасферу сапраўднага летняга адпачынку. Гэты твор вызначаецца лёгкім і жывым стылем апавядання, які будзе цікавы як дзецям, так і дарослым. Кніга выхоўвае беражлівыя адносіны да экалогіі і пакідае пасля сябе светлыя ўражанні.",
+ "length": 2372.05
+}

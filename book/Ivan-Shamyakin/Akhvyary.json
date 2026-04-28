@@ -1,0 +1,358 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 14.4,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 14.4,
+   "end": 669.17,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 669.17,
+   "end": 1338.75,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1338.75,
+   "end": 2063.55,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2063.55,
+   "end": 2608.81,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 2608.81,
+   "end": 3263.19,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3263.19,
+   "end": 3913.12,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 3913.12,
+   "end": 4633.48,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 4633.48,
+   "end": 5202.2,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 5202.2,
+   "end": 5849.0,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 5849.0,
+   "end": 6525.4,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 6525.4,
+   "end": 7162.25,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 7162.25,
+   "end": 7805.55,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 7805.55,
+   "end": 8423.28,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 8423.28,
+   "end": 9138.26,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 9138.26,
+   "end": 9735.85,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 9735.85,
+   "end": 10400.65,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 10400.65,
+   "end": 10989.88,
+   "title": "18 - 18.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 10989.88,
+   "end": 11772.67,
+   "title": "19 - 19.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 11772.67,
+   "end": 12392.75,
+   "title": "20 - 20.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 12392.75,
+   "end": 13005.7,
+   "title": "21 - 21.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 13005.7,
+   "end": 13641.95,
+   "title": "22 - 22.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 13641.95,
+   "end": 14364.98,
+   "title": "23 - 23.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 14364.98,
+   "end": 14999.27,
+   "title": "24 - 24.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 14999.27,
+   "end": 15605.76,
+   "title": "25 - 25.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/25.mp3"
+  },
+  {
+   "id": 25,
+   "start": 15605.76,
+   "end": 16217.03,
+   "title": "26 - 26.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/26.mp3"
+  },
+  {
+   "id": 26,
+   "start": 16217.03,
+   "end": 16908.29,
+   "title": "27 - 27.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/27.mp3"
+  },
+  {
+   "id": 27,
+   "start": 16908.29,
+   "end": 17573.06,
+   "title": "28 - 28.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/28.mp3"
+  },
+  {
+   "id": 28,
+   "start": 17573.06,
+   "end": 18216.26,
+   "title": "29 - 29.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/29.mp3"
+  },
+  {
+   "id": 29,
+   "start": 18216.26,
+   "end": 18859.64,
+   "title": "30 - 30.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/30.mp3"
+  },
+  {
+   "id": 30,
+   "start": 18859.64,
+   "end": 19599.04,
+   "title": "31 - 31.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/31.mp3"
+  },
+  {
+   "id": 31,
+   "start": 19599.04,
+   "end": 20165.57,
+   "title": "32 - 32.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/32.mp3"
+  },
+  {
+   "id": 32,
+   "start": 20165.57,
+   "end": 20821.41,
+   "title": "33 - 33.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/33.mp3"
+  },
+  {
+   "id": 33,
+   "start": 20821.41,
+   "end": 21494.33,
+   "title": "34 - 34.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/34.mp3"
+  },
+  {
+   "id": 34,
+   "start": 21494.33,
+   "end": 22160.83,
+   "title": "35 - 35.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/35.mp3"
+  },
+  {
+   "id": 35,
+   "start": 22160.83,
+   "end": 22779.73,
+   "title": "36 - 36.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/36.mp3"
+  },
+  {
+   "id": 36,
+   "start": 22779.73,
+   "end": 23377.86,
+   "title": "37 - 37.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/37.mp3"
+  },
+  {
+   "id": 37,
+   "start": 23377.86,
+   "end": 24035.47,
+   "title": "38 - 38.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/38.mp3"
+  },
+  {
+   "id": 38,
+   "start": 24035.47,
+   "end": 24721.04,
+   "title": "39 - 39.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/39.mp3"
+  },
+  {
+   "id": 39,
+   "start": 24721.04,
+   "end": 25332.86,
+   "title": "40 - 40.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/40.mp3"
+  },
+  {
+   "id": 40,
+   "start": 25332.86,
+   "end": 25927.83,
+   "title": "41 - 41.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/41.mp3"
+  },
+  {
+   "id": 41,
+   "start": 25927.83,
+   "end": 26478.26,
+   "title": "42 - 42.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/42.mp3"
+  },
+  {
+   "id": 42,
+   "start": 26478.26,
+   "end": 27129.42,
+   "title": "43 - 43.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/43.mp3"
+  },
+  {
+   "id": 43,
+   "start": 27129.42,
+   "end": 27620.48,
+   "title": "44 - 44.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/44.mp3"
+  },
+  {
+   "id": 44,
+   "start": 27620.48,
+   "end": 28190.82,
+   "title": "45 - 45.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/45.mp3"
+  },
+  {
+   "id": 45,
+   "start": 28190.82,
+   "end": 28756.93,
+   "title": "46 - 46.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/46.mp3"
+  },
+  {
+   "id": 46,
+   "start": 28756.93,
+   "end": 29256.01,
+   "title": "47 - 47.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/47.mp3"
+  },
+  {
+   "id": 47,
+   "start": 29256.01,
+   "end": 29272.92,
+   "title": "48 - 48.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Ivan_Samiakin.Achviary.Lilija_Pilkievic.mp3.zip/48.mp3"
+  }
+ ],
+ "title": "Ахвяры",
+ "slug": "Akhvyary",
+ "author": "Іван Шамякін",
+ "author_slug": "Ivan-Shamyakin",
+ "narrators": [
+  "Лілія Пількевіч"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сацыяльна-псіхалагічная проза",
+  "Раман",
+  "Гістарычная драма"
+ ],
+ "source": "https://knihi.com/Ivan_Samiakin/Achviary_mp3.zip.html",
+ "cover": "Ivan-Shamyakin/Akhvyary.jpg",
+ "description": "Раман Івана Шамякіна Ахвяры ўяўляе сабой глыбокае псіхалагічнае даследаванне чалавечых лёсаў у складаных гістарычных абставінах. Твор закранае балючыя тэмы маральнага выбару, адказнасці за ўласныя ўчынкі і цяжкага цяжару мінулага, якое не адпускае герояў. Праз лёсы персанажаў аўтар паказвае, як палітычныя падзеі і сацыяльныя перамены ламаюць жыцці звычайных людзей, ператвараючы іх у ахвяр абставін. Кніга вызначаецца драматычным і напружаным тонам, які прымушае чытача суперажываць героям і разважаць пра вечныя этычныя пытанні. Гэта твор пра пошук праўды і справядлівасці ў свеце, дзе чалавечае жыццё часта аказваецца разменнай манетай.",
+ "length": 29272.92
+}

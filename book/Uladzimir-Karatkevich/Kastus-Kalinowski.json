@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3116.73,
+   "title": "1 - Уладзімер. Кастусь Каліноўскі 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/teatrbielaruskaharadyjo/Karatkievic_Uladzimier.Kastus_Kalinouski.1979.ogg.zip/Karatkievic_Uladzimier.Kastus_Kalinouski_1.1979.ogg"
+  },
+  {
+   "id": 1,
+   "start": 3116.73,
+   "end": 6032.19,
+   "title": "2 - Уладзімер. Кастусь Каліноўскі 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/teatrbielaruskaharadyjo/Karatkievic_Uladzimier.Kastus_Kalinouski.1979.ogg.zip/Karatkievic_Uladzimier.Kastus_Kalinouski_2.1979.ogg"
+  }
+ ],
+ "title": "Кастусь Каліноўскі",
+ "slug": "Kastus-Kalinowski",
+ "author": "Уладзімір Караткевіч",
+ "author_slug": "Uladzimir-Karatkevich",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычны раман",
+  "Біяграфічная проза",
+  "Драма",
+  "Палітычная літаратура"
+ ],
+ "source": "https://knihi.com/Uladzimir_Karatkievic/Kastus_Kalinouski_ogg.zip.html",
+ "cover": "Uladzimir-Karatkevich/Kastus-Kalinowski.jpg",
+ "description": "Гэты гістарычны твор Уладзіміра Караткевіча прысвечаны лёсу легендарнага кіраўніка паўстання 1863 года Кастуся Каліноўскага. Аўтар майстэрска ўзнаўляе атмасферу драматычнай барацьбы беларускага народа за сваю свабоду і незалежнасць супраць царскага самаўладства. Праз вобраз галоўнага героя раскрываюцца тэмы патрыятызму, самаахвярнасці і нязломнай веры ў лепшую будучыню роднага краю. Раман вызначаецца высокім эмацыйным напалам, глыбокім псіхалагізмам і ўражлівай мастацкай мовай. Гэта твор пра чалавека, які стаў сімвалам нацыянальнага адраджэння і назаўжды застаўся ў памяці нашчадкаў як сапраўдны герой.",
+ "length": 6032.19
+}

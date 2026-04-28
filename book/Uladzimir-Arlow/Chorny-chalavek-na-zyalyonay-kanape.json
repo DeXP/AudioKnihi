@@ -1,0 +1,42 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2184.1,
+   "title": "1 - 01",
+   "url": "https://files.knihi.com/Audio/audio/Arlou.Corny_calaviek_na_zialonaj_kanapie.mp3.zip/Corny_calaviek_na_zialonaj_kanapie_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2184.1,
+   "end": 4558.6,
+   "title": "2 - 02",
+   "url": "https://files.knihi.com/Audio/audio/Arlou.Corny_calaviek_na_zialonaj_kanapie.mp3.zip/Corny_calaviek_na_zialonaj_kanapie_2.mp3"
+  },
+  {
+   "id": 2,
+   "start": 4558.6,
+   "end": 6888.58,
+   "title": "3 - 03",
+   "url": "https://files.knihi.com/Audio/audio/Arlou.Corny_calaviek_na_zialonaj_kanapie.mp3.zip/Corny_calaviek_na_zialonaj_kanapie_3.mp3"
+  }
+ ],
+ "title": "Чорны чалавек на зялёнай канапе",
+ "slug": "Chorny-chalavek-na-zyalyonay-kanape",
+ "author": "Уладзімір Арлоў",
+ "author_slug": "Uladzimir-Arlow",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Апавяданні",
+  "Сучасная літаратура",
+  "Філасофская проза"
+ ],
+ "source": "https://knihi.com/Uladzimir_Arlou/Corny_calaviek_na_zialonaj_kanapie_mp3.zip.html",
+ "cover": "Uladzimir-Arlow/Chorny-chalavek-na-zyalyonay-kanape.jpg",
+ "description": "Гэтая кніга Уладзіміра Арлова ўяўляе сабой зборнік апавяданняў, у якіх рэальнасць цесна пераплятаецца з містыкай і гістарычнымі рэмінісцэнцыямі. Аўтар майстэрску стварае атмасферу інтэлектуальнай гульні, дзе звычайныя побытавыя сітуацыі набываюць нечаканыя філасофскія вымярэнні. Праз прызму іроніі і глыбокага псіхалагізму пісьменнік даследуе тэмы адзіноты, памяці і пошуку ўласнага месца ў зменлівым свеце. Тон твораў вагаецца ад лёгкага гумару да меланхалічнай задуменнасці, што робіць чытанне захапляльным інтэлектуальным падарожжам. Кніга застаецца адным з найбольш яскравых узораў сучаснай беларускай прозы, якая спалучае ў сабе літаратурную вытанчанасць і ўвагу да чалавечай душы.",
+ "length": 6888.58
+}

@@ -1,0 +1,63 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 625.22,
+   "title": "55 - 0055.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Daloka_da_viasny.mp3.zip/0055.mp3"
+  },
+  {
+   "id": 1,
+   "start": 625.22,
+   "end": 1174.42,
+   "title": "56 - 0056.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Daloka_da_viasny.mp3.zip/0056.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1174.42,
+   "end": 1675.43,
+   "title": "57 - 0057.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Daloka_da_viasny.mp3.zip/0057.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1675.43,
+   "end": 2268.39,
+   "title": "58 - 0058.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Daloka_da_viasny.mp3.zip/0058.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2268.39,
+   "end": 2683.17,
+   "title": "59 - 0059.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Daloka_da_viasny.mp3.zip/0059.mp3"
+  },
+  {
+   "id": 5,
+   "start": 2683.17,
+   "end": 3245.59,
+   "title": "60 - 0060.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Daloka_da_viasny.mp3.zip/0060.mp3"
+  }
+ ],
+ "title": "Далёка да вясны",
+ "slug": "Dalyoka-da-vyasny",
+ "author": "Уладзімір Арлоў",
+ "author_slug": "Uladzimir-Arlow",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Апавяданні",
+  "Сучасная беларуская літаратура",
+  "Філасофская проза"
+ ],
+ "source": "https://knihi.com/Uladzimir_Arlou/Daloka_da_viasny_mp3.zip.html",
+ "cover": "Uladzimir-Arlow/Dalyoka-da-vyasny.jpg",
+ "description": "Кніга Уладзіміра Арлова Далёка да вясны ўяўляе сабой зборнік празаічных твораў, у якіх аўтар тонка даследуе складаныя чалавечыя лёсы на фоне гістарычных падзей і штодзённага жыцця. Праз прызму сваіх герояў пісьменнік разважае пра каханне, адзіноту, пошук сэнсу і няпросты выбар паміж асабістым шчасцем і грамадзянскім абавязкам. Тэксты вызначаюцца глыбокім псіхалагізмам, лірычнай інтанацыяй і адметным аўтарскім стылем, які спалучае рэалізм з элементамі філасофскай рэфлексіі. Гэта твор пра чаканне пераменаў, духоўную стойкасць і нязменную веру ў лепшае, нават калі да вясны яшчэ вельмі далёка.",
+ "length": 3245.59
+}

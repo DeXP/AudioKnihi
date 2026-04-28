@@ -1,0 +1,744 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 548.872,
+   "title": "1 - /0001.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r1/0001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 548.872,
+   "end": 1758.736,
+   "title": "2 - /0002.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r1/0002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1758.736,
+   "end": 3021.72,
+   "title": "3 - /0003.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r1/0003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 3021.72,
+   "end": 4196.768,
+   "title": "4 - /0004.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r2/0004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 4196.768,
+   "end": 5488.936,
+   "title": "5 - /0005.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r2/0005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 5488.936,
+   "end": 6835.504,
+   "title": "6 - /0006.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r2/0006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 6835.504,
+   "end": 7991.48,
+   "title": "7 - /0007.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r3/0007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 7991.48,
+   "end": 9401.92,
+   "title": "8 - /0008.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r3/0008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 9401.92,
+   "end": 10705.352,
+   "title": "9 - /0009.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r3/0009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 10705.352,
+   "end": 11883.856,
+   "title": "10 - /0010.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r4/0010.mp3"
+  },
+  {
+   "id": 10,
+   "start": 11883.856,
+   "end": 13144.792,
+   "title": "11 - /0011.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r4/0011.mp3"
+  },
+  {
+   "id": 11,
+   "start": 13144.792,
+   "end": 14272.608,
+   "title": "12 - /0012.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r4/0012.mp3"
+  },
+  {
+   "id": 12,
+   "start": 14272.608,
+   "end": 15381.992,
+   "title": "13 - /0013.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r4/0013.mp3"
+  },
+  {
+   "id": 13,
+   "start": 15381.992,
+   "end": 16508.656,
+   "title": "14 - /0014.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r5/0014.mp3"
+  },
+  {
+   "id": 14,
+   "start": 16508.656,
+   "end": 17538.424,
+   "title": "15 - /0015.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r5/0015.mp3"
+  },
+  {
+   "id": 15,
+   "start": 17538.424,
+   "end": 18478.976,
+   "title": "16 - /0016.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r5/0016.mp3"
+  },
+  {
+   "id": 16,
+   "start": 18478.976,
+   "end": 19252.744,
+   "title": "17 - /0017.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r5/0017.mp3"
+  },
+  {
+   "id": 17,
+   "start": 19252.744,
+   "end": 20247.952,
+   "title": "18 - /0018.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r5/0018.mp3"
+  },
+  {
+   "id": 18,
+   "start": 20247.952,
+   "end": 21447.576,
+   "title": "19 - /0019.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r6/0019.mp3"
+  },
+  {
+   "id": 19,
+   "start": 21447.576,
+   "end": 22502.176,
+   "title": "20 - /0020.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r6/0020.mp3"
+  },
+  {
+   "id": 20,
+   "start": 22502.176,
+   "end": 24000.04,
+   "title": "21 - /0021.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r6/0021.mp3"
+  },
+  {
+   "id": 21,
+   "start": 24000.04,
+   "end": 24921.392,
+   "title": "22 - /0022.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r6/0022.mp3"
+  },
+  {
+   "id": 22,
+   "start": 24921.392,
+   "end": 26577.976,
+   "title": "23 - /0023.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka1/r6/0023.mp3"
+  },
+  {
+   "id": 23,
+   "start": 26577.976,
+   "end": 27557.44,
+   "title": "24 - /0024.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r1/0024.mp3"
+  },
+  {
+   "id": 24,
+   "start": 27557.44,
+   "end": 28553.16,
+   "title": "25 - /0025.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r1/0025.mp3"
+  },
+  {
+   "id": 25,
+   "start": 28553.16,
+   "end": 29823.824,
+   "title": "26 - /0026.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r1/0026.mp3"
+  },
+  {
+   "id": 26,
+   "start": 29823.824,
+   "end": 31034.072,
+   "title": "27 - /0027.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r1/0027.mp3"
+  },
+  {
+   "id": 27,
+   "start": 31034.072,
+   "end": 31896.288,
+   "title": "28 - /0028.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r1/0028.mp3"
+  },
+  {
+   "id": 28,
+   "start": 31896.288,
+   "end": 32673.64,
+   "title": "29 - /0029.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r2/0029.mp3"
+  },
+  {
+   "id": 29,
+   "start": 32673.64,
+   "end": 33543.536,
+   "title": "30 - /0030.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r2/0030.mp3"
+  },
+  {
+   "id": 30,
+   "start": 33543.536,
+   "end": 35017.08,
+   "title": "31 - /0031.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r2/0031.mp3"
+  },
+  {
+   "id": 31,
+   "start": 35017.08,
+   "end": 35907.584,
+   "title": "32 - /0032.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r2/0032.mp3"
+  },
+  {
+   "id": 32,
+   "start": 35907.584,
+   "end": 36990.088,
+   "title": "33 - /0033.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r2/0033.mp3"
+  },
+  {
+   "id": 33,
+   "start": 36990.088,
+   "end": 37839.12,
+   "title": "34 - /0034.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0034.mp3"
+  },
+  {
+   "id": 34,
+   "start": 37839.12,
+   "end": 38951.704,
+   "title": "35 - /0035.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0035.mp3"
+  },
+  {
+   "id": 35,
+   "start": 38951.704,
+   "end": 39339.808,
+   "title": "36 - /0036.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0036.mp3"
+  },
+  {
+   "id": 36,
+   "start": 39339.808,
+   "end": 39817.0,
+   "title": "37 - /0037.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0037.mp3"
+  },
+  {
+   "id": 37,
+   "start": 39817.0,
+   "end": 40795.952,
+   "title": "38 - /0038.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0038.mp3"
+  },
+  {
+   "id": 38,
+   "start": 40795.952,
+   "end": 41285.304,
+   "title": "39 - /0039.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0039.mp3"
+  },
+  {
+   "id": 39,
+   "start": 41285.304,
+   "end": 42361.664,
+   "title": "40 - /0040.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0040.mp3"
+  },
+  {
+   "id": 40,
+   "start": 42361.664,
+   "end": 43000.904,
+   "title": "41 - /0041.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0041.mp3"
+  },
+  {
+   "id": 41,
+   "start": 43000.904,
+   "end": 43591.248,
+   "title": "42 - /0042.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r3/0042.mp3"
+  },
+  {
+   "id": 42,
+   "start": 43591.248,
+   "end": 44448.984,
+   "title": "43 - /0043.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r4/0043.mp3"
+  },
+  {
+   "id": 43,
+   "start": 44448.984,
+   "end": 45030.88,
+   "title": "44 - /0044.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r4/0044.mp3"
+  },
+  {
+   "id": 44,
+   "start": 45030.88,
+   "end": 46245.096,
+   "title": "45 - /0045.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r4/0045.mp3"
+  },
+  {
+   "id": 45,
+   "start": 46245.096,
+   "end": 47185.008,
+   "title": "46 - /0046.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r4/0046.mp3"
+  },
+  {
+   "id": 46,
+   "start": 47185.008,
+   "end": 48113.912,
+   "title": "47 - /0047.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r4/0047.mp3"
+  },
+  {
+   "id": 47,
+   "start": 48113.912,
+   "end": 48535.936,
+   "title": "48 - /0048.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r4/0048.mp3"
+  },
+  {
+   "id": 48,
+   "start": 48535.936,
+   "end": 49227.4,
+   "title": "49 - /0049.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r5/0049.mp3"
+  },
+  {
+   "id": 49,
+   "start": 49227.4,
+   "end": 49815.44,
+   "title": "50 - /0050.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r5/0050.mp3"
+  },
+  {
+   "id": 50,
+   "start": 49815.44,
+   "end": 50414.104,
+   "title": "51 - /0051.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r5/0051.mp3"
+  },
+  {
+   "id": 51,
+   "start": 50414.104,
+   "end": 50992.672,
+   "title": "52 - /0052.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r5/0052.mp3"
+  },
+  {
+   "id": 52,
+   "start": 50992.672,
+   "end": 51625.512,
+   "title": "53 - /0053.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r5/0053.mp3"
+  },
+  {
+   "id": 53,
+   "start": 51625.512,
+   "end": 51907.76,
+   "title": "54 - /0054.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r5/0054.mp3"
+  },
+  {
+   "id": 54,
+   "start": 51907.76,
+   "end": 52277.944,
+   "title": "55 - /0055.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r6/0055.mp3"
+  },
+  {
+   "id": 55,
+   "start": 52277.944,
+   "end": 52721.216,
+   "title": "56 - /0056.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r6/0056.mp3"
+  },
+  {
+   "id": 56,
+   "start": 52721.216,
+   "end": 53338.568,
+   "title": "57 - /0057.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r6/0057.mp3"
+  },
+  {
+   "id": 57,
+   "start": 53338.568,
+   "end": 53840.72,
+   "title": "58 - /0058.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r6/0058.mp3"
+  },
+  {
+   "id": 58,
+   "start": 53840.72,
+   "end": 54333.4,
+   "title": "59 - /0059.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r6/0059.mp3"
+  },
+  {
+   "id": 59,
+   "start": 54333.4,
+   "end": 54938.08,
+   "title": "60 - /0060.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r6/0060.mp3"
+  },
+  {
+   "id": 60,
+   "start": 54938.08,
+   "end": 55457.128,
+   "title": "61 - /0061.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka2/r6/0061.mp3"
+  },
+  {
+   "id": 61,
+   "start": 55457.128,
+   "end": 56065.392,
+   "title": "62 - /0062.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r1/0062.mp3"
+  },
+  {
+   "id": 62,
+   "start": 56065.392,
+   "end": 57058.808,
+   "title": "63 - /0063.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r1/0063.mp3"
+  },
+  {
+   "id": 63,
+   "start": 57058.808,
+   "end": 57790.976,
+   "title": "64 - /0064.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r1/0064.mp3"
+  },
+  {
+   "id": 64,
+   "start": 57790.976,
+   "end": 58558.6,
+   "title": "65 - /0065.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r1/0065.mp3"
+  },
+  {
+   "id": 65,
+   "start": 58558.6,
+   "end": 59093.776,
+   "title": "66 - /0066.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r1/0066.mp3"
+  },
+  {
+   "id": 66,
+   "start": 59093.776,
+   "end": 60016.664,
+   "title": "67 - /0067.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r1/0067.mp3"
+  },
+  {
+   "id": 67,
+   "start": 60016.664,
+   "end": 60891.808,
+   "title": "68 - /0068.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r2/0068.mp3"
+  },
+  {
+   "id": 68,
+   "start": 60891.808,
+   "end": 61541.032,
+   "title": "69 - /0069.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r2/0069.mp3"
+  },
+  {
+   "id": 69,
+   "start": 61541.032,
+   "end": 61961.776,
+   "title": "70 - /0070.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r2/0070.mp3"
+  },
+  {
+   "id": 70,
+   "start": 61961.776,
+   "end": 62588.984,
+   "title": "71 - /0071.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r2/0071.mp3"
+  },
+  {
+   "id": 71,
+   "start": 62588.984,
+   "end": 63531.456,
+   "title": "72 - /0072.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r2/0072.mp3"
+  },
+  {
+   "id": 72,
+   "start": 63531.456,
+   "end": 64093.512,
+   "title": "73 - /0073.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r3/0073.mp3"
+  },
+  {
+   "id": 73,
+   "start": 64093.512,
+   "end": 64622.416,
+   "title": "74 - /0074.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r3/0074.mp3"
+  },
+  {
+   "id": 74,
+   "start": 64622.416,
+   "end": 65294.68,
+   "title": "75 - /0075.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r3/0075.mp3"
+  },
+  {
+   "id": 75,
+   "start": 65294.68,
+   "end": 65818.72,
+   "title": "76 - /0076.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r3/0076.mp3"
+  },
+  {
+   "id": 76,
+   "start": 65818.72,
+   "end": 66481.384,
+   "title": "77 - /0077.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r3/0077.mp3"
+  },
+  {
+   "id": 77,
+   "start": 66481.384,
+   "end": 67293.552,
+   "title": "78 - /0078.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r3/0078.mp3"
+  },
+  {
+   "id": 78,
+   "start": 67293.552,
+   "end": 67945.08,
+   "title": "79 - /0079.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r3/0079.mp3"
+  },
+  {
+   "id": 79,
+   "start": 67945.08,
+   "end": 68845.056,
+   "title": "80 - /0080.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r3/0080.mp3"
+  },
+  {
+   "id": 80,
+   "start": 68845.056,
+   "end": 69243.272,
+   "title": "81 - /0081.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0081.mp3"
+  },
+  {
+   "id": 81,
+   "start": 69243.272,
+   "end": 69736.592,
+   "title": "82 - /0082.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0082.mp3"
+  },
+  {
+   "id": 82,
+   "start": 69736.592,
+   "end": 70947.608,
+   "title": "83 - /0083.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0083.mp3"
+  },
+  {
+   "id": 83,
+   "start": 70947.608,
+   "end": 72252.96,
+   "title": "84 - /0084.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0084.mp3"
+  },
+  {
+   "id": 84,
+   "start": 72252.96,
+   "end": 72543.4,
+   "title": "85 - /0085.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0085.mp3"
+  },
+  {
+   "id": 85,
+   "start": 72543.4,
+   "end": 73163.44,
+   "title": "86 - /0086.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0086.mp3"
+  },
+  {
+   "id": 86,
+   "start": 73163.44,
+   "end": 73613.24,
+   "title": "87 - /0087.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0087.mp3"
+  },
+  {
+   "id": 87,
+   "start": 73613.24,
+   "end": 74441.28,
+   "title": "88 - /0088.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0088.mp3"
+  },
+  {
+   "id": 88,
+   "start": 74441.28,
+   "end": 75217.224,
+   "title": "89 - /0089.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r4/0089.mp3"
+  },
+  {
+   "id": 89,
+   "start": 75217.224,
+   "end": 75654.864,
+   "title": "90 - /0090.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r5/0090.mp3"
+  },
+  {
+   "id": 90,
+   "start": 75654.864,
+   "end": 76618.328,
+   "title": "91 - /0091.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r5/0091.mp3"
+  },
+  {
+   "id": 91,
+   "start": 76618.328,
+   "end": 77045.216,
+   "title": "92 - /0092.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r5/0092.mp3"
+  },
+  {
+   "id": 92,
+   "start": 77045.216,
+   "end": 77847.784,
+   "title": "93 - /0093.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r5/0093.mp3"
+  },
+  {
+   "id": 93,
+   "start": 77847.784,
+   "end": 78855.664,
+   "title": "94 - /0094.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r5/0094.mp3"
+  },
+  {
+   "id": 94,
+   "start": 78855.664,
+   "end": 79576.312,
+   "title": "95 - /0095.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r5/0095.mp3"
+  },
+  {
+   "id": 95,
+   "start": 79576.312,
+   "end": 80440.064,
+   "title": "96 - /0096.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r5/0096.mp3"
+  },
+  {
+   "id": 96,
+   "start": 80440.064,
+   "end": 81341.32,
+   "title": "97 - /0097.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r5/0097.mp3"
+  },
+  {
+   "id": 97,
+   "start": 81341.32,
+   "end": 82088.336,
+   "title": "98 - /0098.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r6/0098.mp3"
+  },
+  {
+   "id": 98,
+   "start": 82088.336,
+   "end": 82820.76,
+   "title": "99 - /0099.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r6/0099.mp3"
+  },
+  {
+   "id": 99,
+   "start": 82820.76,
+   "end": 83745.312,
+   "title": " - /0100.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r6/0100.mp3"
+  },
+  {
+   "id": 100,
+   "start": 83745.312,
+   "end": 84290.088,
+   "title": "1 - /0101.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r6/0101.mp3"
+  },
+  {
+   "id": 101,
+   "start": 84290.088,
+   "end": 84730.672,
+   "title": "2 - /0102.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r6/0102.mp3"
+  },
+  {
+   "id": 102,
+   "start": 84730.672,
+   "end": 84913.976,
+   "title": "3 - /0103.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Podych_navalnicy.Andrej_Kalada.mp3.zip/Castka3/r6/0103.mp3"
+  }
+ ],
+ "title": "Подых навальніцы",
+ "slug": "Podykh-navalnitsy",
+ "author": "Іван Мележ",
+ "author_slug": "Ivan-Melezh",
+ "narrators": [
+  "Андрэй Каляда"
+ ],
+ "series": "Палеская хроніка",
+ "series_num": 2,
+ "genres": [
+  "Гістарычны раман",
+  "Сацыяльная драма",
+  "Рэалізм",
+  "Беларуская класіка"
+ ],
+ "source": "https://knihi.com/Ivan_Mielez/Podych_navalnicy_kalada_mp3.zip.html",
+ "cover": "Ivan-Melezh/Podykh-navalnitsy.jpg",
+ "description": "Раман Івана Мележа Падых навальніцы з яўляецца працягам знакамітай Палескай хронікі і глыбока раскрывае драматычныя падзеі калектывізацыі ў беларускай вёсцы. У цэнтры сюжэта знаходзяцца складаныя лёсы жыхароў Курачоў, якія сутыкаюцца з неабходнасцю выбару паміж традыцыйным укладам жыцця і новымі савецкімі парадкамі. Аўтар майстэрска паказвае псіхалагічны надлом людзей, выкліканы сацыяльнымі ўзрушэннямі, страхам і нявызначанасцю будучыні. Твор прасякнуты трывожным адчуваннем набліжэння вялікіх пераменаў, якія нясуць як надзеі, так і непазбежныя трагедыі. Гэта глыбокае філасофскае даследаванне чалавечай прыроды ў экстрэмальных гістарычных умовах.",
+ "length": 84913.976
+}

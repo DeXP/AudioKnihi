@@ -1,0 +1,28 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1244.14,
+   "title": "Багіра",
+   "url": "https://files.knihi.com/Audio/mininfarm/Skolnikam/6_klas/Janka_Maur/Janka_Maur.Bahira.mp3"
+  }
+ ],
+ "title": "Багіра",
+ "slug": "Bahira",
+ "author": "Янка Маўр",
+ "author_slug": "Yanka-Mawr",
+ "narrators": [
+  "Наталля Кухарава"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Класікі беларускай літаратуры",
+  "Дзецям і падлеткам"
+ ],
+ "source": "https://knihi.com/Janka_Maur/Bahira_audio.html",
+ "cover": "Yanka-Mawr/Bahira.jpg",
+ "description": "Звесткі пра кнігу «Багіра» Янка Маўр:\n  апісанне, спасылкі на розныя крыніцы дзе можна паслухаць кнігу.",
+ "length": 1244.14
+}

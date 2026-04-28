@@ -1,0 +1,414 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2624.447,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2624.447,
+   "end": 5316.29,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 5316.29,
+   "end": 7896.42,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 7896.42,
+   "end": 10563.538,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 10563.538,
+   "end": 13154.444,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 13154.444,
+   "end": 15817.448,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 15817.448,
+   "end": 18525.709,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 18525.709,
+   "end": 21152.507,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 21152.507,
+   "end": 23721.431,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 23721.431,
+   "end": 26290.119,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 26290.119,
+   "end": 28883.336,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 28883.336,
+   "end": 31522.868,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 31522.868,
+   "end": 34069.457,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 34069.457,
+   "end": 36741.355,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 36741.355,
+   "end": 39226.23,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 39226.23,
+   "end": 41837.198,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 41837.198,
+   "end": 44552.002,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 44552.002,
+   "end": 47232.09,
+   "title": "18 - 18.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 47232.09,
+   "end": 49784.125,
+   "title": "19 - 19.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 49784.125,
+   "end": 52410.57,
+   "title": "20 - 20.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 52410.57,
+   "end": 54987.174,
+   "title": "21 - 21.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 54987.174,
+   "end": 57647.121,
+   "title": "22 - 22.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 57647.121,
+   "end": 60279.13,
+   "title": "23 - 23.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 60279.13,
+   "end": 62853.147,
+   "title": "24 - 24.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 62853.147,
+   "end": 65476.928,
+   "title": "25 - 25.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/25.mp3"
+  },
+  {
+   "id": 25,
+   "start": 65476.928,
+   "end": 68072.888,
+   "title": "26 - 26.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/26.mp3"
+  },
+  {
+   "id": 26,
+   "start": 68072.888,
+   "end": 70667.673,
+   "title": "27 - 27.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/27.mp3"
+  },
+  {
+   "id": 27,
+   "start": 70667.673,
+   "end": 73341.452,
+   "title": "28 - 28.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/28.mp3"
+  },
+  {
+   "id": 28,
+   "start": 73341.452,
+   "end": 75904.263,
+   "title": "29 - 29.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/29.mp3"
+  },
+  {
+   "id": 29,
+   "start": 75904.263,
+   "end": 78629.294,
+   "title": "30 - 30.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/30.mp3"
+  },
+  {
+   "id": 30,
+   "start": 78629.294,
+   "end": 81157.545,
+   "title": "31 - 31.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/31.mp3"
+  },
+  {
+   "id": 31,
+   "start": 81157.545,
+   "end": 83794.413,
+   "title": "32 - 32.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/32.mp3"
+  },
+  {
+   "id": 32,
+   "start": 83794.413,
+   "end": 86434.298,
+   "title": "33 - 33.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/33.mp3"
+  },
+  {
+   "id": 33,
+   "start": 86434.298,
+   "end": 88988.567,
+   "title": "34 - 34.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/34.mp3"
+  },
+  {
+   "id": 34,
+   "start": 88988.567,
+   "end": 91556.785,
+   "title": "35 - 35.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/35.mp3"
+  },
+  {
+   "id": 35,
+   "start": 91556.785,
+   "end": 94210.62,
+   "title": "36 - 36.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/36.mp3"
+  },
+  {
+   "id": 36,
+   "start": 94210.62,
+   "end": 96831.462,
+   "title": "37 - 37.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/37.mp3"
+  },
+  {
+   "id": 37,
+   "start": 96831.462,
+   "end": 99531.494,
+   "title": "38 - 38.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/38.mp3"
+  },
+  {
+   "id": 38,
+   "start": 99531.494,
+   "end": 102177.962,
+   "title": "39 - 39.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/39.mp3"
+  },
+  {
+   "id": 39,
+   "start": 102177.962,
+   "end": 104828.74,
+   "title": "40 - 40.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/40.mp3"
+  },
+  {
+   "id": 40,
+   "start": 104828.74,
+   "end": 107528.067,
+   "title": "41 - 41.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/41.mp3"
+  },
+  {
+   "id": 41,
+   "start": 107528.067,
+   "end": 110180.844,
+   "title": "42 - 42.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/42.mp3"
+  },
+  {
+   "id": 42,
+   "start": 110180.844,
+   "end": 112710.427,
+   "title": "43 - 43.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/43.mp3"
+  },
+  {
+   "id": 43,
+   "start": 112710.427,
+   "end": 115404.386,
+   "title": "44 - 44.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/44.mp3"
+  },
+  {
+   "id": 44,
+   "start": 115404.386,
+   "end": 117996.271,
+   "title": "45 - 45.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/45.mp3"
+  },
+  {
+   "id": 45,
+   "start": 117996.271,
+   "end": 120603.359,
+   "title": "46 - 46.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/46.mp3"
+  },
+  {
+   "id": 46,
+   "start": 120603.359,
+   "end": 123266.402,
+   "title": "47 - 47.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/47.mp3"
+  },
+  {
+   "id": 47,
+   "start": 123266.402,
+   "end": 125874.823,
+   "title": "48 - 48.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/48.mp3"
+  },
+  {
+   "id": 48,
+   "start": 125874.823,
+   "end": 128456.324,
+   "title": "49 - 49.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/49.mp3"
+  },
+  {
+   "id": 49,
+   "start": 128456.324,
+   "end": 131152.007,
+   "title": "50 - 50.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/50.mp3"
+  },
+  {
+   "id": 50,
+   "start": 131152.007,
+   "end": 133804.901,
+   "title": "51 - 51.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/51.mp3"
+  },
+  {
+   "id": 51,
+   "start": 133804.901,
+   "end": 136432.13,
+   "title": "52 - 52.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/52.mp3"
+  },
+  {
+   "id": 52,
+   "start": 136432.13,
+   "end": 138942.239,
+   "title": "53 - 53.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/53.mp3"
+  },
+  {
+   "id": 53,
+   "start": 138942.239,
+   "end": 141639.763,
+   "title": "54 - 54.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/54.mp3"
+  },
+  {
+   "id": 54,
+   "start": 141639.763,
+   "end": 144320.164,
+   "title": "55 - 55.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/55.mp3"
+  },
+  {
+   "id": 55,
+   "start": 144320.164,
+   "end": 147005.502,
+   "title": "56 - 56.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Karatkievic.Corny_zamak_Alsanski.Viniarski.mp3.zip/56.mp3"
+  }
+ ],
+ "title": "Чорны замак Альшанскі",
+ "slug": "Chorny-zamak-Alshanski",
+ "author": "Уладзімір Караткевіч",
+ "author_slug": "Uladzimir-Karatkevich",
+ "narrators": [
+  "Андрэй Каляда"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычны дэтэктыў",
+  "Прыгодніцкі раман",
+  "Гатычная проза"
+ ],
+ "source": "https://knihi.com/Uladzimir_Karatkievic/Corny_zamak_Alsanski_audioviniarski_mp3.zip.html",
+ "cover": "Uladzimir-Karatkevich/Chorny-zamak-Alshanski.jpg",
+ "description": "Гістарычны дэтэктыў Уладзіміра Караткевіча распавядае пра прыгоды маладога навукоўца Антона Косміча, які выпадкова знаходзіць старажытны рукапіс з таямніцай роду Альшанскіх. Пошукі скарбаў і разгадка сямейнага праклёну прыводзяць героя ў змрочны замак, дзе мінулае цесна пераплятаецца з сучаснасцю. Аўтар майстэрска спалучае атмасферу гатычнага трылера з глыбокім даследаваннем беларускай гісторыі і нацыянальнай ідэнтычнасці. Кніга вызначаецца напружаным сюжэтам, багатай мовай і філасофскімі разважаннямі пра адказнасць перад продкамі. Гэта твор пра барацьбу дабра са злом, дзе кожны крок героя можа стаць фатальным у лабірынтах старажытных муроў.",
+ "length": 147005.502
+}

@@ -1,0 +1,197 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1268.69,
+   "title": "1 - здабычы",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1268.69,
+   "end": 3066.02,
+   "title": "2 - Ваўчыца",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3066.02,
+   "end": 5367.72,
+   "title": "3 - ду",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5367.72,
+   "end": 7452.16,
+   "title": "4 - оў",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 7452.16,
+   "end": 9215.58,
+   "title": "5 - Логава",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 9215.58,
+   "end": 10349.97,
+   "title": "6 - к",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 10349.97,
+   "end": 12686.57,
+   "title": "7 - у",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 12686.57,
+   "end": 13847.77,
+   "title": "8 - ычы",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 13847.77,
+   "end": 16115.96,
+   "title": "9 - ю",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 16115.96,
+   "end": 17849.32,
+   "title": "10 - Няволя",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 17849.32,
+   "end": 18825.39,
+   "title": "11 - Адшчапенец",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 18825.39,
+   "end": 19963.81,
+   "title": "12 - багоў",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 19963.81,
+   "end": 21821.51,
+   "title": "13 - Дагавор",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 21821.51,
+   "end": 23806.24,
+   "title": "14 - Голад",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 23806.24,
+   "end": 25904.45,
+   "title": "15 - Вораг",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 25904.45,
+   "end": 27764.97,
+   "title": "16 - Шалёны бог",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 27764.97,
+   "end": 28843.83,
+   "title": "17 - навісці",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 28843.83,
+   "end": 30869.31,
+   "title": "18 - ерці",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 30869.31,
+   "end": 31844.77,
+   "title": "19 - аны",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 31844.77,
+   "end": 34705.67,
+   "title": "20 - падар",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 34705.67,
+   "end": 35645.66,
+   "title": "21 - дарогу",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 35645.66,
+   "end": 36788.86,
+   "title": "22 - На поўдні",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 36788.86,
+   "end": 39038.34,
+   "title": "23 - ога",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 39038.34,
+   "end": 40402.74,
+   "title": "24 - і",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 40402.74,
+   "end": 42295.81,
+   "title": "25 - оўк",
+   "url": "https://files.knihi.com/Audio/audiobooks/dzek_londan_biely_klyk.mp3.zip/25.mp3"
+  }
+ ],
+ "title": "Белы клык",
+ "slug": "Bely-klyk",
+ "author": "Джэк Лёндан",
+ "author_slug": "Dzhek-Lyondan",
+ "narrators": [
+  "Андрэй Каляда"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Прыгодніцкая літаратура",
+  "Класічная літаратура",
+  "Анімалістычная проза"
+ ],
+ "source": "https://knihi.com/Dzek_Londan/Biely_klyk_mp3.zip.html",
+ "cover": "Dzhek-Lyondan/Bely-klyk.jpg",
+ "description": "Прыгодніцкая аповесць Джэка Лондана, галоўным героем якой з'яўляецца воўк па мянушцы Белы Клык. Упершыню твор быў апублікаваны ў некалькіх нумарах часопіса The Outing Magazine з мая па кастрычнік 1906 года. Кніга распавядае пра лёс прыручанага ваўка падчас залатой ліхаманкі на Алясцы ў канцы XIX стагоддзя. Вялікая частка творы паказана вачыма жывёлы і, у прыватнасці, самога Белага Клыка. У кнізе адлюстравана рознае стаўленне людзей да прадстаўнікоў жывёльнага свету.",
+ "length": 42295.81
+}

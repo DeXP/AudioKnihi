@@ -1,0 +1,280 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3495.709,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3495.709,
+   "end": 6469.7,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 6469.7,
+   "end": 8648.08,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 8648.08,
+   "end": 12124.092,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 12124.092,
+   "end": 15672.62,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 15672.62,
+   "end": 19219.477,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 19219.477,
+   "end": 22507.094,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 22507.094,
+   "end": 25677.84,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 25677.84,
+   "end": 28961.748,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 28961.748,
+   "end": 32072.255,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 32072.255,
+   "end": 35331.66,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 35331.66,
+   "end": 38800.724,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 38800.724,
+   "end": 42286.088,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 42286.088,
+   "end": 45356.68,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 45356.68,
+   "end": 48514.887,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 48514.887,
+   "end": 52085.226,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 52085.226,
+   "end": 55515.211,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 55515.211,
+   "end": 58774.616,
+   "title": "18 - 18.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 58774.616,
+   "end": 61900.222,
+   "title": "19 - 19.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 61900.222,
+   "end": 65010.468,
+   "title": "20 - 20.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 65010.468,
+   "end": 68138.059,
+   "title": "21 - 21.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 68138.059,
+   "end": 71486.333,
+   "title": "22 - 22.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 71486.333,
+   "end": 74683.776,
+   "title": "23 - 23.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 74683.776,
+   "end": 78053.763,
+   "title": "24 - 24.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 78053.763,
+   "end": 81423.894,
+   "title": "25 - 25.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/25.mp3"
+  },
+  {
+   "id": 25,
+   "start": 81423.894,
+   "end": 84789.356,
+   "title": "26 - 26.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/26.mp3"
+  },
+  {
+   "id": 26,
+   "start": 84789.356,
+   "end": 87849.342,
+   "title": "27 - 27.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/27.mp3"
+  },
+  {
+   "id": 27,
+   "start": 87849.342,
+   "end": 91363.598,
+   "title": "28 - 28.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/28.mp3"
+  },
+  {
+   "id": 28,
+   "start": 91363.598,
+   "end": 94611.979,
+   "title": "29 - 29.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/29.mp3"
+  },
+  {
+   "id": 29,
+   "start": 94611.979,
+   "end": 97766.476,
+   "title": "30 - 30.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/30.mp3"
+  },
+  {
+   "id": 30,
+   "start": 97766.476,
+   "end": 101002.946,
+   "title": "31 - 31.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/31.mp3"
+  },
+  {
+   "id": 31,
+   "start": 101002.946,
+   "end": 104417.31,
+   "title": "32 - 32.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/32.mp3"
+  },
+  {
+   "id": 32,
+   "start": 104417.31,
+   "end": 107874.253,
+   "title": "33 - 33.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/33.mp3"
+  },
+  {
+   "id": 33,
+   "start": 107874.253,
+   "end": 111084.026,
+   "title": "34 - 34.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/34.mp3"
+  },
+  {
+   "id": 34,
+   "start": 111084.026,
+   "end": 114617.403,
+   "title": "35 - 35.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/35.mp3"
+  },
+  {
+   "id": 35,
+   "start": 114617.403,
+   "end": 117672.269,
+   "title": "36 - 36.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/36.mp3"
+  },
+  {
+   "id": 36,
+   "start": 117672.269,
+   "end": 120917.15,
+   "title": "37 - 37.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Kuzma_Corny.Ziamla.mp3.zip/37.mp3"
+  }
+ ],
+ "title": "Зямля",
+ "slug": "Zyamlya",
+ "author": "Кузьма Чорны",
+ "author_slug": "Kuzma-Chorny",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сацыяльна-псіхалагічны раман",
+  "Рэалізм",
+  "Беларуская класіка",
+  "Сямейная сага"
+ ],
+ "source": "https://knihi.com/Kuzma_Corny/Ziamla_mp3.zip.html",
+ "cover": "Kuzma-Chorny/Zyamlya.jpg",
+ "description": "Раман Зямля з'яўляецца адным з найбольш значных твораў Кузьмы Чорнага, у якім праз лёс адной сялянскай сям'і паказаны драматычныя сацыяльныя зрухі ў беларускай вёсцы пачатку дваццатага стагоддзя. Галоўны герой Антон Мурашка ўвасабляе ў сабе спрадвечную сувязь чалавека з роднай зямлёй, якая становіцца для яго галоўным сэнсам жыцця і крыніцай маральнай сілы. Аўтар глыбока даследуе псіхалогію сваіх персанажаў, паказваючы іх унутраную барацьбу паміж асабістым шчасцем і цяжкімі выпрабаваннямі часу. Твор вызначаецца філасофскай глыбінёй, лірызмам і трагічным адчуваннем змен, што адбываюцца ў народным побыце і свядомасці. Гэта гісторыя пра любоў да роднага краю, працавітасць і нязломнасць духу перад тварам гістарычных пераменаў.",
+ "length": 120917.15
+}

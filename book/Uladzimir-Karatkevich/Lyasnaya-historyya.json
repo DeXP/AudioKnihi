@@ -1,0 +1,34 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2478.53,
+   "title": "1 - lg_01.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Karatkievic.Liasnaja_historyja.mp3.zip/lg_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2478.53,
+   "end": 3600.39,
+   "title": "2 - lg_02.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Karatkievic.Liasnaja_historyja.mp3.zip/lg_02.mp3"
+  }
+ ],
+ "title": "Лясная гісторыя",
+ "slug": "Lyasnaya-historyya",
+ "author": "Уладзімір Караткевіч",
+ "author_slug": "Uladzimir-Karatkevich",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Апавяданне",
+  "Прыродазнаўчая проза"
+ ],
+ "source": "https://knihi.com/Uladzimir_Karatkievic/Lasnaja_historyja_mp3.zip.html",
+ "cover": "Uladzimir-Karatkevich/Lyasnaya-historyya.jpg",
+ "description": "Лясная гісторыя Уладзіміра Караткевіча гэта кранальны і павучальны твор, які распавядае пра жыццё лясных насельнікаў і іх узаемадзеянне з чалавечым светам. Аўтар праз вобразы звяроў паказвае важнасць беражлівых адносін да прыроды і ўсяго жывога на зямлі. Гэтая гісторыя напоўнена глыбокім гуманізмам, любоўю да роднага краю і характэрнай для пісьменніка паэтычнасцю мовы. Сюжэт закранае тэмы дабрыні, справядлівасці і адказнасці, якія актуальныя для чытачоў любога ўзросту. Твор вызначаецца светлым і крыху настальгічным настроем, што робіць яго сапраўдным узорам беларускай дзіцячай літаратуры.",
+ "length": 3600.39
+}

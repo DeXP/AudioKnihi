@@ -1,0 +1,328 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1983.25,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1983.25,
+   "end": 4488.4,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 4488.4,
+   "end": 7106.22,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 7106.22,
+   "end": 9387.81,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 9387.81,
+   "end": 11627.45,
+   "title": "5 - 05_2.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/05_2.mp3"
+  },
+  {
+   "id": 5,
+   "start": 11627.45,
+   "end": 13290.88,
+   "title": "5 - 05_3.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/05_3.mp3"
+  },
+  {
+   "id": 6,
+   "start": 13290.88,
+   "end": 15847.13,
+   "title": "5 - 05_4.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/05_4.mp3"
+  },
+  {
+   "id": 7,
+   "start": 15847.13,
+   "end": 17833.67,
+   "title": "5 - 05_5.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/05_5.mp3"
+  },
+  {
+   "id": 8,
+   "start": 17833.67,
+   "end": 19989.85,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/05.mp3"
+  },
+  {
+   "id": 9,
+   "start": 19989.85,
+   "end": 22573.5,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/06.mp3"
+  },
+  {
+   "id": 10,
+   "start": 22573.5,
+   "end": 26916.39,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/07.mp3"
+  },
+  {
+   "id": 11,
+   "start": 26916.39,
+   "end": 30177.16,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/08.mp3"
+  },
+  {
+   "id": 12,
+   "start": 30177.16,
+   "end": 33156.59,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/09.mp3"
+  },
+  {
+   "id": 13,
+   "start": 33156.59,
+   "end": 35652.96,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/10.mp3"
+  },
+  {
+   "id": 14,
+   "start": 35652.96,
+   "end": 37199.57,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/11.mp3"
+  },
+  {
+   "id": 15,
+   "start": 37199.57,
+   "end": 39739.39,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/12.mp3"
+  },
+  {
+   "id": 16,
+   "start": 39739.39,
+   "end": 42705.73,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/13.mp3"
+  },
+  {
+   "id": 17,
+   "start": 42705.73,
+   "end": 43907.66,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/14.mp3"
+  },
+  {
+   "id": 18,
+   "start": 43907.66,
+   "end": 46507.95,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/15.mp3"
+  },
+  {
+   "id": 19,
+   "start": 46507.95,
+   "end": 50248.72,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/16.mp3"
+  },
+  {
+   "id": 20,
+   "start": 50248.72,
+   "end": 52720.15,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/17.mp3"
+  },
+  {
+   "id": 21,
+   "start": 52720.15,
+   "end": 54815.91,
+   "title": "18 - 18.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/18.mp3"
+  },
+  {
+   "id": 22,
+   "start": 54815.91,
+   "end": 55909.95,
+   "title": "19 - 19.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/19.mp3"
+  },
+  {
+   "id": 23,
+   "start": 55909.95,
+   "end": 56697.21,
+   "title": "20 - 20.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/20.mp3"
+  },
+  {
+   "id": 24,
+   "start": 56697.21,
+   "end": 58800.88,
+   "title": "21 - 21.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/21.mp3"
+  },
+  {
+   "id": 25,
+   "start": 58800.88,
+   "end": 61058.15,
+   "title": "22 - 22.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/22.mp3"
+  },
+  {
+   "id": 26,
+   "start": 61058.15,
+   "end": 66144.2,
+   "title": "23 - 23.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/23.mp3"
+  },
+  {
+   "id": 27,
+   "start": 66144.2,
+   "end": 67698.96,
+   "title": "24 - 24.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/24.mp3"
+  },
+  {
+   "id": 28,
+   "start": 67698.96,
+   "end": 69586.5,
+   "title": "25 - 25.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/25.mp3"
+  },
+  {
+   "id": 29,
+   "start": 69586.5,
+   "end": 71361.63,
+   "title": "26 - 26.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/26.mp3"
+  },
+  {
+   "id": 30,
+   "start": 71361.63,
+   "end": 72193.77,
+   "title": "27 - 27.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/27.mp3"
+  },
+  {
+   "id": 31,
+   "start": 72193.77,
+   "end": 72794.65,
+   "title": "28 - 28.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/28.mp3"
+  },
+  {
+   "id": 32,
+   "start": 72794.65,
+   "end": 76369.7,
+   "title": "29 - 29.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/29.mp3"
+  },
+  {
+   "id": 33,
+   "start": 76369.7,
+   "end": 78347.41,
+   "title": "30 - 30.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/30.mp3"
+  },
+  {
+   "id": 34,
+   "start": 78347.41,
+   "end": 80117.87,
+   "title": "31 - 31.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/31.mp3"
+  },
+  {
+   "id": 35,
+   "start": 80117.87,
+   "end": 81872.86,
+   "title": "32 - 32.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/32.mp3"
+  },
+  {
+   "id": 36,
+   "start": 81872.86,
+   "end": 83707.06,
+   "title": "33 - 33.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/33.mp3"
+  },
+  {
+   "id": 37,
+   "start": 83707.06,
+   "end": 85741.98,
+   "title": "34 - 34.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/34.mp3"
+  },
+  {
+   "id": 38,
+   "start": 85741.98,
+   "end": 87519.05,
+   "title": "35 - 35.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/35.mp3"
+  },
+  {
+   "id": 39,
+   "start": 87519.05,
+   "end": 88982.52,
+   "title": "36 - 36.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/36.mp3"
+  },
+  {
+   "id": 40,
+   "start": 88982.52,
+   "end": 89319.74,
+   "title": "37 - 37.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/37.mp3"
+  },
+  {
+   "id": 41,
+   "start": 89319.74,
+   "end": 90371.57,
+   "title": "38 - 38.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/38.mp3"
+  },
+  {
+   "id": 42,
+   "start": 90371.57,
+   "end": 90991.23,
+   "title": "39 - 39.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/39.mp3"
+  },
+  {
+   "id": 43,
+   "start": 90991.23,
+   "end": 92518.62,
+   "title": "40 - 40.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Ivan_Samiakin.Serca_na_daloni.mp3.zip/40.mp3"
+  }
+ ],
+ "title": "Сэрца на далоні",
+ "slug": "Sertsa-na-daloni",
+ "author": "Іван Шамякін",
+ "author_slug": "Ivan-Shamyakin",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сацыяльна-псіхалагічны раман",
+  "Рэалізм",
+  "Драма"
+ ],
+ "source": "https://knihi.com/Ivan_Samiakin/Serca_na_daloni_audio_mp3.zip.html",
+ "cover": "Ivan-Shamyakin/Sertsa-na-daloni.jpg",
+ "description": "Раман Івана Шамякіна Сэрца на далоні з’яўляецца адным з самых значных твораў беларускай літаратуры савецкага перыяду, дзе ў цэнтры ўвагі аказваецца складаны маральны выбар чалавека. Сюжэт разгортваецца вакол лёсу доктара Антона Яраша, які выпадкова сустракае чалавека з мінулага, што прымушае яго пераасэнсаваць свае ўчынкі і прынцыпы. Аўтар майстэрска падымае тэмы сумлення, адказнасці за мінулае і важнасці захавання чалавечай годнасці ў любых абставінах. Кніга вызначаецца глыбокім псіхалагізмам, шчырасцю апавядання і імкненнем аўтара даследаваць супярэчлівую прыроду чалавечай душы. Гэта твор пра тое, як цяжка бывае заставацца верным сабе, калі жыццё ставіць перад выбарам паміж камфортам і праўдай.",
+ "length": 92518.62
+}

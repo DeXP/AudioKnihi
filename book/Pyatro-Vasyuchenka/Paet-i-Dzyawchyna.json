@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2422.18,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Piotro_Vasiucenka.Paet_i_Dziaucyna.mp3.zip/Piotro_Vasiucenka.Paet_i_Dziaucyna-1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2422.18,
+   "end": 5204.82,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Piotro_Vasiucenka.Paet_i_Dziaucyna.mp3.zip/Piotro_Vasiucenka.Paet_i_Dziaucyna-2.mp3"
+  }
+ ],
+ "title": "Паэт і Дзяўчына",
+ "slug": "Paet-i-Dzyawchyna",
+ "author": "Пятро Васючэнка",
+ "author_slug": "Pyatro-Vasyuchenka",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Філасофская аповесць",
+  "Інтэлектуальная літаратура",
+  "Прытча"
+ ],
+ "source": "https://knihi.com/Piatro_Vasiucenka/Paet_i_Dziaucyna_mp3.zip.html",
+ "cover": "Pyatro-Vasyuchenka/Paet-i-Dzyawchyna.jpg",
+ "description": "Гэты твор Пятра Васючэнкі ўяўляе сабой глыбокае філасофскае асэнсаванне прыроды мастацтва і месца творцы ў свеце. Сюжэт будуецца вакол складаных узаемаадносін паміж паэтам і яго музай, якая ўвасабляе ідэал і недасяжную прыгажосць. Аўтар майстэрска спалучае рэалістычныя дэталі з элементамі сімвалізму, ствараючы атмасферу інтэлектуальнай гульні і роздуму. Галоўныя тэмы твора закранаюць пытанні ахвярнасці дзеля творчасці, адзіноты мастака і вечнага пошуку гармоніі. Тон аповесці вызначаецца лірычнасцю, іроніяй і тонкім псіхалагізмам, характэрным для стылю пісьменніка.",
+ "length": 5204.82
+}

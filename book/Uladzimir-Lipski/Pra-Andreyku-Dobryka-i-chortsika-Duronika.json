@@ -1,0 +1,63 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 997.43,
+   "title": "1 - ку Добрыка і чорціка Дуроніка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Uladzimir_Lipski.Pra_Andrejku_Dobryka_i_corcika_Duronika.mp3.zip/Pra_Andrejku_Dobryka_i_corcika_Duronika_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 997.43,
+   "end": 1965.87,
+   "title": "2 - ку Добрыка і чорціка Дуроніка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Uladzimir_Lipski.Pra_Andrejku_Dobryka_i_corcika_Duronika.mp3.zip/Pra_Andrejku_Dobryka_i_corcika_Duronika_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1965.87,
+   "end": 2844.08,
+   "title": "3 - ку Добрыка і чорціка Дуроніка 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Uladzimir_Lipski.Pra_Andrejku_Dobryka_i_corcika_Duronika.mp3.zip/Pra_Andrejku_Dobryka_i_corcika_Duronika_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2844.08,
+   "end": 3709.73,
+   "title": "4 - ку Добрыка і чорціка Дуроніка 4",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Uladzimir_Lipski.Pra_Andrejku_Dobryka_i_corcika_Duronika.mp3.zip/Pra_Andrejku_Dobryka_i_corcika_Duronika_04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 3709.73,
+   "end": 4250.1,
+   "title": "5 - ку Добрыка і чорціка Дуроніка 5",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Uladzimir_Lipski.Pra_Andrejku_Dobryka_i_corcika_Duronika.mp3.zip/Pra_Andrejku_Dobryka_i_corcika_Duronika_05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 4250.1,
+   "end": 4901.28,
+   "title": "6 - ку Добрыка і чорціка Дуроніка 6",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Uladzimir_Lipski.Pra_Andrejku_Dobryka_i_corcika_Duronika.mp3.zip/Pra_Andrejku_Dobryka_i_corcika_Duronika_06.mp3"
+  }
+ ],
+ "title": "Пра Андрэйку Добрыка і чорціка Дуроніка",
+ "slug": "Pra-Andreyku-Dobryka-i-chortsika-Duronika",
+ "author": "Уладзімір Ліпскі",
+ "author_slug": "Uladzimir-Lipski",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казка",
+  "Фэнтэзі",
+  "Прыгоды"
+ ],
+ "source": "https://knihi.com/Uladzimir_Lipski/Pra_Andrejku_Dobryka_i_corcika_Duronika_mp3.zip.html",
+ "cover": "Uladzimir-Lipski/Pra-Andreyku-Dobryka-i-chortsika-Duronika.jpg",
+ "description": "Гэтая займальная аповесць Уладзіміра Ліпскага расказвае пра незвычайнае сяброўства паміж звычайным хлопчыкам Андрэйкам Добрыкам і гарэзлівым чорцікам Дуронікам. Галоўны герой сутыкаецца з містычным істотай, якая прыносіць у яго жыццё шмат смешных і павучальных сітуацый. Праз прыгоды персанажаў аўтар даследуе тэмы дабрыні, сумленнасці і важнасці выбару паміж правільнымі і памылковымі ўчынкамі. Кніга напісана ў лёгкай і гумарыстычнай форме, што робіць яе цікавай для чытання як дзецям, так і дарослым. Твор вучыць юных чытачоў быць адказнымі за свае дзеянні і заўсёды імкнуцца да святла і дабра.",
+ "length": 4901.28
+}

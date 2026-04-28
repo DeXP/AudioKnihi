@@ -1,0 +1,393 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 360.013,
+   "title": "1 - 1/0001.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r1/0001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 360.013,
+   "end": 1526.015,
+   "title": "2 - 1/0002.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r1/0002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1526.015,
+   "end": 2288.954,
+   "title": "3 - 2/0003.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r2/0003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2288.954,
+   "end": 3284.683,
+   "title": "4 - 2/0004.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r2/0004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 3284.683,
+   "end": 3890.456,
+   "title": "5 - 3/0005.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r3/0005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3890.456,
+   "end": 4388.886,
+   "title": "6 - 3/0006.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r3/0006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4388.886,
+   "end": 5115.737,
+   "title": "7 - 3/0007.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r3/0007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 5115.737,
+   "end": 6149.572,
+   "title": "8 - 3/0008.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r3/0008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 6149.572,
+   "end": 6572.886,
+   "title": "9 - 4/0009.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r4/0009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 6572.886,
+   "end": 6882.685,
+   "title": "10 - 4/0010.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r4/0010.mp3"
+  },
+  {
+   "id": 10,
+   "start": 6882.685,
+   "end": 7315.325,
+   "title": "11 - 4/0011.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r4/0011.mp3"
+  },
+  {
+   "id": 11,
+   "start": 7315.325,
+   "end": 7830.819,
+   "title": "12 - 4/0012.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r4/0012.mp3"
+  },
+  {
+   "id": 12,
+   "start": 7830.819,
+   "end": 8614.486,
+   "title": "13 - 4/0013.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r4/0013.mp3"
+  },
+  {
+   "id": 13,
+   "start": 8614.486,
+   "end": 9300.723,
+   "title": "14 - 4/0014.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r4/0014.mp3"
+  },
+  {
+   "id": 14,
+   "start": 9300.723,
+   "end": 10353.523,
+   "title": "15 - 5/0015.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r5/0015.mp3"
+  },
+  {
+   "id": 15,
+   "start": 10353.523,
+   "end": 11265.046,
+   "title": "16 - 5/0016.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_1/r5/0016.mp3"
+  },
+  {
+   "id": 16,
+   "start": 11265.046,
+   "end": 11886.532,
+   "title": "17 - 1/0017.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r1/0017.mp3"
+  },
+  {
+   "id": 17,
+   "start": 11886.532,
+   "end": 12498.104,
+   "title": "18 - 1/0018.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r1/0018.mp3"
+  },
+  {
+   "id": 18,
+   "start": 12498.104,
+   "end": 12988.168,
+   "title": "19 - 1/0019.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r1/0019.mp3"
+  },
+  {
+   "id": 19,
+   "start": 12988.168,
+   "end": 13732.279,
+   "title": "20 - 2/0020.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r2/0020.mp3"
+  },
+  {
+   "id": 20,
+   "start": 13732.279,
+   "end": 14071.486,
+   "title": "21 - 2/0021.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r2/0021.mp3"
+  },
+  {
+   "id": 21,
+   "start": 14071.486,
+   "end": 14674.673,
+   "title": "22 - 2/0022.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r2/0022.mp3"
+  },
+  {
+   "id": 22,
+   "start": 14674.673,
+   "end": 15771.81,
+   "title": "23 - 2/0023.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r2/0023.mp3"
+  },
+  {
+   "id": 23,
+   "start": 15771.81,
+   "end": 16361.244,
+   "title": "24 - 2/0024.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r2/0024.mp3"
+  },
+  {
+   "id": 24,
+   "start": 16361.244,
+   "end": 16869.528,
+   "title": "25 - 2/0025.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r2/0025.mp3"
+  },
+  {
+   "id": 25,
+   "start": 16869.528,
+   "end": 17150.429,
+   "title": "26 - 3/0026.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r3/0026.mp3"
+  },
+  {
+   "id": 26,
+   "start": 17150.429,
+   "end": 18289.492,
+   "title": "27 - 3/0027.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r3/0027.mp3"
+  },
+  {
+   "id": 27,
+   "start": 18289.492,
+   "end": 18993.185,
+   "title": "28 - 3/0028.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r3/0028.mp3"
+  },
+  {
+   "id": 28,
+   "start": 18993.185,
+   "end": 20380.96,
+   "title": "29 - 4/0029.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r4/0029.mp3"
+  },
+  {
+   "id": 29,
+   "start": 20380.96,
+   "end": 21522.949,
+   "title": "30 - 4/0030.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r4/0030.mp3"
+  },
+  {
+   "id": 30,
+   "start": 21522.949,
+   "end": 22446.423,
+   "title": "31 - 4/0031.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r4/0031.mp3"
+  },
+  {
+   "id": 31,
+   "start": 22446.423,
+   "end": 23092.32,
+   "title": "32 - 5/0032.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r5/0032.mp3"
+  },
+  {
+   "id": 32,
+   "start": 23092.32,
+   "end": 24432.787,
+   "title": "33 - 5/0033.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r5/0033.mp3"
+  },
+  {
+   "id": 33,
+   "start": 24432.787,
+   "end": 24667.674,
+   "title": "34 - 5/0034.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_2/r5/0034.mp3"
+  },
+  {
+   "id": 34,
+   "start": 24667.674,
+   "end": 25974.757,
+   "title": "35 - 1/0035.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r1/0035.mp3"
+  },
+  {
+   "id": 35,
+   "start": 25974.757,
+   "end": 26600.409,
+   "title": "36 - 1/0036.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r1/0036.mp3"
+  },
+  {
+   "id": 36,
+   "start": 26600.409,
+   "end": 27435.381,
+   "title": "37 - 1/0037.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r1/0037.mp3"
+  },
+  {
+   "id": 37,
+   "start": 27435.381,
+   "end": 28794.395,
+   "title": "38 - 1/0038.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r1/0038.mp3"
+  },
+  {
+   "id": 38,
+   "start": 28794.395,
+   "end": 29994.611,
+   "title": "39 - 2/0039.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r2/0039.mp3"
+  },
+  {
+   "id": 39,
+   "start": 29994.611,
+   "end": 30778.931,
+   "title": "40 - 2/0040.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r2/0040.mp3"
+  },
+  {
+   "id": 40,
+   "start": 30778.931,
+   "end": 31490.761,
+   "title": "41 - 2/0041.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r2/0041.mp3"
+  },
+  {
+   "id": 41,
+   "start": 31490.761,
+   "end": 32200.502,
+   "title": "42 - 3/0042.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r3/0042.mp3"
+  },
+  {
+   "id": 42,
+   "start": 32200.502,
+   "end": 32936.705,
+   "title": "43 - 3/0043.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r3/0043.mp3"
+  },
+  {
+   "id": 43,
+   "start": 32936.705,
+   "end": 33752.999,
+   "title": "44 - 3/0044.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r3/0044.mp3"
+  },
+  {
+   "id": 44,
+   "start": 33752.999,
+   "end": 34545.234,
+   "title": "45 - 3/0045.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r3/0045.mp3"
+  },
+  {
+   "id": 45,
+   "start": 34545.234,
+   "end": 34683.624,
+   "title": "46 - 3/0046.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r3/0046.mp3"
+  },
+  {
+   "id": 46,
+   "start": 34683.624,
+   "end": 35380.617,
+   "title": "47 - 4/0047.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r4/0047.mp3"
+  },
+  {
+   "id": 47,
+   "start": 35380.617,
+   "end": 36206.838,
+   "title": "48 - 4/0048.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r4/0048.mp3"
+  },
+  {
+   "id": 48,
+   "start": 36206.838,
+   "end": 37007.015,
+   "title": "49 - 4/0049.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r4/0049.mp3"
+  },
+  {
+   "id": 49,
+   "start": 37007.015,
+   "end": 37906.196,
+   "title": "50 - 4/0050.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r4/0050.mp3"
+  },
+  {
+   "id": 50,
+   "start": 37906.196,
+   "end": 38433.863,
+   "title": "51 - 4/0051.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r4/0051.mp3"
+  },
+  {
+   "id": 51,
+   "start": 38433.863,
+   "end": 39724.358,
+   "title": "52 - 4/0052.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r4/0052.mp3"
+  },
+  {
+   "id": 52,
+   "start": 39724.358,
+   "end": 40198.526,
+   "title": "53 - 4/0053.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Ivan_Mielez.Zavieji_sniezan.Andrej_Kalada.mp3.zip/Castka_3/r4/0053.mp3"
+  }
+ ],
+ "title": "Завеі, снежань",
+ "slug": "Zavei-snezhan",
+ "author": "Іван Мележ",
+ "author_slug": "Ivan-Melezh",
+ "narrators": [
+  "Андрэй Каляда"
+ ],
+ "series": "Палеская хроніка",
+ "series_num": 3,
+ "genres": [
+  "Гістарычны раман",
+  "Сацыяльна-псіхалагічная проза",
+  "Рэалізм"
+ ],
+ "source": "https://knihi.com/Ivan_Mielez/Zaviei,_sniezan_mp3.zip.html",
+ "cover": "Ivan-Melezh/Zavei-snezhan.jpg",
+ "description": "Раман Івана Мележа Завеі, снежань з’яўляецца адным з найбольш значных твораў беларускай літаратуры, які адлюстроўвае драматычныя падзеі рэвалюцыйнага часу. У цэнтры сюжэта знаходзіцца лёс маладога настаўніка Яўхіма, які спрабуе знайсці сваё месца ў віры гістарычных пераменаў і сацыяльных узрушэнняў. Аўтар майстэрска перадае атмасферу нявызначанасці і трывогі, што панавала ў грамадстве ў перыяд станаўлення новай улады. Праз псіхалагічны аналіз персанажаў кніга падымае вечныя пытанні маральнага выбару, сумлення і чалавечай годнасці перад абліччам жорсткай рэчаіснасці. Тон аповеду спалучае ў сабе эпічную шырыню і глыбокі лірызм, што робіць твор надзвычай пранікнёным і актуальным.",
+ "length": 40198.526
+}

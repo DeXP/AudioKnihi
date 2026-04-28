@@ -1,0 +1,79 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 915.407,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Rubleuskaja.Nocy_na_plabanskich_mlynach.harbuz.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 915.407,
+   "end": 2637.238,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Rubleuskaja.Nocy_na_plabanskich_mlynach.harbuz.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 2637.238,
+   "end": 4461.453,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Rubleuskaja.Nocy_na_plabanskich_mlynach.harbuz.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 4461.453,
+   "end": 5592.908,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Rubleuskaja.Nocy_na_plabanskich_mlynach.harbuz.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 5592.908,
+   "end": 7989.283,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Rubleuskaja.Nocy_na_plabanskich_mlynach.harbuz.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 7989.283,
+   "end": 9897.81,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Rubleuskaja.Nocy_na_plabanskich_mlynach.harbuz.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 9897.81,
+   "end": 12012.329,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Rubleuskaja.Nocy_na_plabanskich_mlynach.harbuz.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 12012.329,
+   "end": 14965.672,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Rubleuskaja.Nocy_na_plabanskich_mlynach.harbuz.mp3.zip/08.mp3"
+  }
+ ],
+ "title": "Ноч на плябанскіх млынах",
+ "slug": "Noch-na-plyabanskikh-mlynakh",
+ "author": "Людміла Рублеўская",
+ "author_slug": "Lyudmila-Rublewskaya",
+ "narrators": [
+  "Алег Гарбуз"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычны раман",
+  "Містыка",
+  "Дэтэктыў",
+  "Фэнтэзі"
+ ],
+ "source": "https://knihi.com/Ludmila_Rubleuskaja/Noc_na_plabanskich_mlynach_mp3.zip.html",
+ "cover": "Lyudmila-Rublewskaya/Noch-na-plyabanskikh-mlynakh.jpg",
+ "description": "Гэты раман Людмілы Рублеўскай уяўляе сабой захапляльную гісторыю, дзе рэаліі беларускага жыцця пачатку дваццатага стагоддзя пераплятаюцца з містычнымі падзеямі і старажытнымі легендамі. У цэнтры сюжэту апынаецца малады чалавек, які сутыкаецца з загадкавымі з’явамі на старых млынах, што хаваюць у сабе шматлікія таямніцы мінулага. Аўтар майстэрска спалучае элементы дэтэктыва, гатычнага рамана і гістарычнай прозы, ствараючы атмасферу трывожнага чакання і непрадказальнасці. Твор закранае тэмы лёсу, спадчыннай памяці і барацьбы чалавека з невядомымі сіламі, якія кіруюць яго жыццём. Кніга вызначаецца багатай мовай, глыбокім псіхалагізмам і ўменнем перадаць непаўторны каларыт беларускай міфалогіі.",
+ "length": 14965.672
+}

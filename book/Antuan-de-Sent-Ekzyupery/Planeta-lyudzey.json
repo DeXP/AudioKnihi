@@ -1,0 +1,77 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3325.42,
+   "title": "1 - ная лінія.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Ekziupery.Planeta_ludziej.mp3.zip/1. Паветраная лінія.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3325.42,
+   "end": 6643.95,
+   "title": "2 - ы.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Ekziupery.Planeta_ludziej.mp3.zip/2. Таварышы.mp3"
+  },
+  {
+   "id": 2,
+   "start": 6643.95,
+   "end": 7355.98,
+   "title": "3 - .mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Ekziupery.Planeta_ludziej.mp3.zip/3. Самалёт.mp3"
+  },
+  {
+   "id": 3,
+   "start": 7355.98,
+   "end": 9574.07,
+   "title": "4 - і планета.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Ekziupery.Planeta_ludziej.mp3.zip/4. Самалёт і планета.mp3"
+  },
+  {
+   "id": 4,
+   "start": 9574.07,
+   "end": 10731.88,
+   "title": "5 - p3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Ekziupery.Planeta_ludziej.mp3.zip/5. Аазіс.mp3"
+  },
+  {
+   "id": 5,
+   "start": 10731.88,
+   "end": 16563.59,
+   "title": "6 - ні.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Ekziupery.Planeta_ludziej.mp3.zip/6. У пустыні.mp3"
+  },
+  {
+   "id": 6,
+   "start": 16563.59,
+   "end": 24966.75,
+   "title": "7 - пустыні.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Ekziupery.Planeta_ludziej.mp3.zip/7. У сэрцы пустыні.mp3"
+  },
+  {
+   "id": 7,
+   "start": 24966.75,
+   "end": 29242.11,
+   "title": "8 - p3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Ekziupery.Planeta_ludziej.mp3.zip/8. Людзі.mp3"
+  }
+ ],
+ "title": "Планета людзей",
+ "slug": "Planeta-lyudzey",
+ "author": "Антуан дэ Сэнт-Экзюпэры",
+ "author_slug": "Antuan-de-Sent-Ekzyupery",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Мемуары",
+  "Філасофская проза",
+  "Эсэістыка",
+  "Прыгодніцкая літаратура"
+ ],
+ "source": "https://knihi.com/Antuan_de_Sent-Ekziupery/Planieta_ludziej_mp3.zip.html",
+ "cover": "Antuan-de-Sent-Ekzyupery/Planeta-lyudzey.jpg",
+ "description": "Гэтая кніга з’яўляецца глыбока філасофскім роздумам пісьменніка і лётчыка пра сэнс чалавечага існавання і каштоўнасць жыцця. Праз успаміны пра свае небяспечныя палёты над пустынямі і горнымі вяршынямі аўтар даследуе тэмы адказнасці, сяброўства і салідарнасці паміж людзьмі. Твор напоўнены паэтычнымі апісаннямі прыроды і роздумамі пра тое, што робіць нас сапраўднымі людзьмі ў складаных абставінах. Экзюперы сцвярджае, што свет — гэта агульны дом, дзе кожны чалавек нясе адказнасць за ўсё, што адбываецца вакол. Гэта твор пра мужнасць, высакароднасць і нязгасную веру ў чалавечы дух, які здольны пераадолець любыя выпрабаванні.",
+ "length": 29242.11
+}

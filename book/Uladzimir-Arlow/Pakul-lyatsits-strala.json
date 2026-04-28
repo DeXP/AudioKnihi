@@ -1,0 +1,722 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 286.48,
+   "title": "1 - Гавэл супроць Пятра І.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/001.Вацлаў Гавэл супроць Пятра І.mp3"
+  },
+  {
+   "id": 1,
+   "start": 286.48,
+   "end": 586.48,
+   "title": "2 - а, згаданая Гамэрам.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/002.Дзьвіна, згаданая Гамэрам.mp3"
+  },
+  {
+   "id": 2,
+   "start": 586.48,
+   "end": 951.37,
+   "title": "3 - чарка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/003.Сёмая чарка.mp3"
+  },
+  {
+   "id": 3,
+   "start": 951.37,
+   "end": 1274.94,
+   "title": "4 - й мове спрачаліся Вітаўт зь Ягайлам.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/004.На якой мове спрачаліся Вітаўт зь Ягайлам.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1274.94,
+   "end": 1562.59,
+   "title": "5 - Грунвальду.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/005.Сьцягі Грунвальду.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1562.59,
+   "end": 1910.47,
+   "title": "6 - ндрыя й Дзікае паляваньне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/006.Александрыя й Дзікае паляваньне.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1910.47,
+   "end": 2341.22,
+   "title": "7 - ба сьпісваць.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/007.Ня трэба сьпісваць.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2341.22,
+   "end": 2780.29,
+   "title": "8 - на рыцарскіх турнірах допінг-кантроль.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/008.Ці быў на рыцарскіх турнірах допінг-кантроль.mp3"
+  },
+  {
+   "id": 8,
+   "start": 2780.29,
+   "end": 3080.29,
+   "title": "9 - нкі, вольныя ліцьвінкі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/009.Ліцьвінкі, вольныя ліцьвінкі.mp3"
+  },
+  {
+   "id": 9,
+   "start": 3080.29,
+   "end": 3380.29,
+   "title": "10 - зброю, сядзь на каня.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/010.Вазьмі зброю, сядзь на каня.mp3"
+  },
+  {
+   "id": 10,
+   "start": 3380.29,
+   "end": 3774.73,
+   "title": "11 - іянскі Гарацый вярнуўся дадому.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/011.Хрысьціянскі Гарацый вярнуўся дадому.mp3"
+  },
+  {
+   "id": 11,
+   "start": 3774.73,
+   "end": 4219.74,
+   "title": "12 - і скрыня каньяку.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/012.Спадар і скрыня каньяку.mp3"
+  },
+  {
+   "id": 12,
+   "start": 4219.74,
+   "end": 4598.66,
+   "title": "13 - халоднага расолу.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/013.Карэц халоднага расолу.mp3"
+  },
+  {
+   "id": 13,
+   "start": 4598.66,
+   "end": 4930.37,
+   "title": "14 - званы слухаў Чарадзей.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/014.Ці тыя званы слухаў Чарадзей.mp3"
+  },
+  {
+   "id": 14,
+   "start": 4930.37,
+   "end": 5231.79,
+   "title": "15 - одная Андора.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/015.Наша родная Андора.mp3"
+  },
+  {
+   "id": 15,
+   "start": 5231.79,
+   "end": 5636.43,
+   "title": "16 - рыны да Свабоды.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/016.Ад Скарыны да Свабоды.mp3"
+  },
+  {
+   "id": 16,
+   "start": 5636.43,
+   "end": 6081.7,
+   "title": "17 - я дамова караля Станіслава Аўгуста.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/017.Саюзная дамова караля Станіслава Аўгуста.mp3"
+  },
+  {
+   "id": 17,
+   "start": 6081.7,
+   "end": 6476.87,
+   "title": "18 - оўскі карлік Лукашка здаў графа.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/018.Як шклоўскі карлік Лукашка здаў графа.mp3"
+  },
+  {
+   "id": 18,
+   "start": 6476.87,
+   "end": 6830.12,
+   "title": "19 - нскі легіён Вялікай арміі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/019.Ліцьвінскі легіён Вялікай арміі.mp3"
+  },
+  {
+   "id": 19,
+   "start": 6830.12,
+   "end": 7121.97,
+   "title": "20 - вучыў Маскву чытаць.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/020.Хто навучыў Маскву чытаць.mp3"
+  },
+  {
+   "id": 20,
+   "start": 7121.97,
+   "end": 7448.33,
+   "title": "21 - нас не Бэрнадоты.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/021.Чаму ў нас не Бэрнадоты.mp3"
+  },
+  {
+   "id": 21,
+   "start": 7448.33,
+   "end": 7786.43,
+   "title": "22 - адзімы пазначым крывёю.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/022.Межы Радзімы пазначым крывёю.mp3"
+  },
+  {
+   "id": 22,
+   "start": 7786.43,
+   "end": 8467.6,
+   "title": "23 - аўёўскі б гальштук ўзьдзець.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/023.Ім мураўёўскі б гальштук ўзьдзець.mp3"
+  },
+  {
+   "id": 23,
+   "start": 8467.6,
+   "end": 8767.6,
+   "title": "24 - Янка — беларускі інсургент.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/024.Мурын Янка — беларускі інсургент.mp3"
+  },
+  {
+   "id": 24,
+   "start": 8767.6,
+   "end": 9067.6,
+   "title": "25 - — Айчыне, гонар — нікому.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/025.Славу — Айчыне, гонар — нікому.mp3"
+  },
+  {
+   "id": 25,
+   "start": 9067.6,
+   "end": 9367.6,
+   "title": "26 - нас ад сябе самога, трэці Рым.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/026.Ратуй нас ад сябе самога, трэці Рым.mp3"
+  },
+  {
+   "id": 26,
+   "start": 9367.6,
+   "end": 9667.6,
+   "title": "27 - , дзе асьветай кіраваў Тарашкевіч.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/027.Краіна, дзе асьветай кіраваў Тарашкевіч.mp3"
+  },
+  {
+   "id": 27,
+   "start": 9667.6,
+   "end": 9967.6,
+   "title": "28 - йграў ад пакту Молатава — Рыбэнтропа.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/028.Хто выйграў ад пакту Молатава — Рыбэнтропа.mp3"
+  },
+  {
+   "id": 28,
+   "start": 9967.6,
+   "end": 10232.38,
+   "title": "29 - энец Рудольф Абіхт.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/029.Адраджэнец Рудольф Абіхт.mp3"
+  },
+  {
+   "id": 29,
+   "start": 10232.38,
+   "end": 10557.44,
+   "title": "30 - омсьцілі за таварыша Кірава.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/030.Мы адпомсьцілі за таварыша Кірава.mp3"
+  },
+  {
+   "id": 30,
+   "start": 10557.44,
+   "end": 10639.63,
+   "title": "31 - грошы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/031.Першыя грошы.mp3"
+  },
+  {
+   "id": 31,
+   "start": 10639.63,
+   "end": 10986.0,
+   "title": "32 - граць на балалайцы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/032.Я ўмею граць на балалайцы.mp3"
+  },
+  {
+   "id": 32,
+   "start": 10986.0,
+   "end": 11537.51,
+   "title": "33 - лі прараба ў трубу.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/033.Заварылі прараба ў трубу.mp3"
+  },
+  {
+   "id": 33,
+   "start": 11537.51,
+   "end": 11837.51,
+   "title": "34 - чарніла, бажале.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/034.Парыж, чарніла, бажале.mp3"
+  },
+  {
+   "id": 34,
+   "start": 11837.51,
+   "end": 12156.15,
+   "title": "35 - ць пяць рулёнчыкаў Ластоўскага.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/035.Дваццаць пяць рулёнчыкаў Ластоўскага.mp3"
+  },
+  {
+   "id": 35,
+   "start": 12156.15,
+   "end": 12475.42,
+   "title": "36 - окаў нацыянальнага піваізму.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/036.Ля вытокаў нацыянальнага піваізму.mp3"
+  },
+  {
+   "id": 36,
+   "start": 12475.42,
+   "end": 12775.42,
+   "title": "37 - — no, Beatles — yes.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/037.Zykina — no, Beatles — yes.mp3"
+  },
+  {
+   "id": 37,
+   "start": 12775.42,
+   "end": 13189.58,
+   "title": "38 - тва Акудовіча.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/038.Прароцтва Акудовіча.mp3"
+  },
+  {
+   "id": 38,
+   "start": 13189.58,
+   "end": 13569.54,
+   "title": "39 - беларусаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/039.Ніякіх беларусаў.mp3"
+  },
+  {
+   "id": 39,
+   "start": 13569.54,
+   "end": 13870.21,
+   "title": "40 - на Ніла Гілевіча.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/040.Замах на Ніла Гілевіча.mp3"
+  },
+  {
+   "id": 40,
+   "start": 13870.21,
+   "end": 14170.21,
+   "title": "41 - ртая падзея — гэта.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/041.Чацьвертая падзея — гэта.mp3"
+  },
+  {
+   "id": 41,
+   "start": 14170.21,
+   "end": 14573.93,
+   "title": "42 - арыя і тата Аляксей.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/042.Мама Марыя і тата Аляксей.mp3"
+  },
+  {
+   "id": 42,
+   "start": 14573.93,
+   "end": 14873.93,
+   "title": "43 - эсэрт — манэта Жыгімонта.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/043.А на дэсэрт — манэта Жыгімонта.mp3"
+  },
+  {
+   "id": 43,
+   "start": 14873.93,
+   "end": 15127.33,
+   "title": "44 - стаіць непарушна.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/044.Лазьня стаіць непарушна.mp3"
+  },
+  {
+   "id": 44,
+   "start": 15127.33,
+   "end": 15457.6,
+   "title": "45 - е дыханьне для Ірачкі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/045.Штучнае дыханьне для Ірачкі.mp3"
+  },
+  {
+   "id": 45,
+   "start": 15457.6,
+   "end": 15757.6,
+   "title": "46 - це, гэта мой пэрыяд.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/046.Прабачце, гэта мой пэрыяд.mp3"
+  },
+  {
+   "id": 46,
+   "start": 15757.6,
+   "end": 15930.38,
+   "title": "47 - яльна-тэхнічная база Нінкі Марозавай.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/047.Матэрыяльна-тэхнічная база Нінкі Марозавай.mp3"
+  },
+  {
+   "id": 47,
+   "start": 15930.38,
+   "end": 16285.07,
+   "title": "48 - іч як удзельнік дзяржаўнага перавароту.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/048.Шушкевіч як удзельнік дзяржаўнага перавароту.mp3"
+  },
+  {
+   "id": 48,
+   "start": 16285.07,
+   "end": 16602.27,
+   "title": "49 - кое тэйгелэх.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/049.Што такое тэйгелэх.mp3"
+  },
+  {
+   "id": 49,
+   "start": 16602.27,
+   "end": 16916.71,
+   "title": "50 - першай каханай.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/050.Ножка першай каханай.mp3"
+  },
+  {
+   "id": 50,
+   "start": 16916.71,
+   "end": 16949.68,
+   "title": "51 - к авантурызму.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/051.Кілішак авантурызму.mp3"
+  },
+  {
+   "id": 51,
+   "start": 16949.68,
+   "end": 17537.55,
+   "title": "52 - кі грасбух і муж адной паэткі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/052.Гэбісцкі грасбух і муж адной паэткі.mp3"
+  },
+  {
+   "id": 52,
+   "start": 17537.55,
+   "end": 17969.91,
+   "title": "53 - алі на туалетнай паперы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/053.Вы пісалі на туалетнай паперы.mp3"
+  },
+  {
+   "id": 53,
+   "start": 17969.91,
+   "end": 18291.76,
+   "title": "54 - анёльскіх крылаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/054.Пошум анёльскіх крылаў.mp3"
+  },
+  {
+   "id": 54,
+   "start": 18291.76,
+   "end": 18317.8,
+   "title": "55 - што.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/055.Пакуль што.mp3"
+  },
+  {
+   "id": 55,
+   "start": 18317.8,
+   "end": 18724.39,
+   "title": "56 - ы Вялес і Задніца Эўропы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/056.Гліняны Вялес і Задніца Эўропы.mp3"
+  },
+  {
+   "id": 56,
+   "start": 18724.39,
+   "end": 19054.19,
+   "title": "57 - ць пад слоўнікамі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/057.Загінуць пад слоўнікамі.mp3"
+  },
+  {
+   "id": 57,
+   "start": 19054.19,
+   "end": 19354.19,
+   "title": "58 - дахоўка і брук, там — бэтонны паркан.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/058.Тут — дахоўка і брук, там — бэтонны паркан.mp3"
+  },
+  {
+   "id": 58,
+   "start": 19354.19,
+   "end": 19622.38,
+   "title": "59 - ыце мне свой анэкдот.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/059.Раскажыце мне свой анэкдот.mp3"
+  },
+  {
+   "id": 59,
+   "start": 19622.38,
+   "end": 20015.67,
+   "title": "60 - а да чаркі гарбаты.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/060.Закуска да чаркі гарбаты.mp3"
+  },
+  {
+   "id": 60,
+   "start": 20015.67,
+   "end": 20472.94,
+   "title": "61 - а адрэзала органы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/061.Цэнзура адрэзала органы.mp3"
+  },
+  {
+   "id": 61,
+   "start": 20472.94,
+   "end": 20772.94,
+   "title": "62 - нат СССР по академической (гр)ебле.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/062.Чемпионат СССР по академической (гр)ебле.mp3"
+  },
+  {
+   "id": 62,
+   "start": 20772.94,
+   "end": 21191.48,
+   "title": "63 - ы чытаюць Мазоха.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/063.Садысты чытаюць Мазоха.mp3"
+  },
+  {
+   "id": 63,
+   "start": 21191.48,
+   "end": 21491.48,
+   "title": "64 - і вынаходнік, адважны няўрымсьлівы вершнік.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/064.Ён такі вынаходнік, адважны няўрымсьлівы вершнік.mp3"
+  },
+  {
+   "id": 64,
+   "start": 21491.48,
+   "end": 21590.11,
+   "title": "65 - і прываражу.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/065.Вазьму і прываражу.mp3"
+  },
+  {
+   "id": 65,
+   "start": 21590.11,
+   "end": 21909.48,
+   "title": "66 - ысяч без уліку маркітантак.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/066.Пяць тысяч без уліку маркітантак.mp3"
+  },
+  {
+   "id": 66,
+   "start": 21909.48,
+   "end": 22225.56,
+   "title": "67 - Бел-чырвона-белы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/067.Зялёны Бел-чырвона-белы.mp3"
+  },
+  {
+   "id": 67,
+   "start": 22225.56,
+   "end": 22516.73,
+   "title": "68 - рыдумалі зулусы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/068.Сэкс прыдумалі зулусы.mp3"
+  },
+  {
+   "id": 68,
+   "start": 22516.73,
+   "end": 22559.93,
+   "title": "69 - ьле міністра.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/069.У крэсьле міністра.mp3"
+  },
+  {
+   "id": 69,
+   "start": 22559.93,
+   "end": 22707.15,
+   "title": "70 - Поле нашай падсьвядомасьці.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/070.Дзікае Поле нашай падсьвядомасьці.mp3"
+  },
+  {
+   "id": 70,
+   "start": 22707.15,
+   "end": 22881.97,
+   "title": "71 - ы выпадак у мэтро.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/071.Страшны выпадак у мэтро.mp3"
+  },
+  {
+   "id": 71,
+   "start": 22881.97,
+   "end": 22943.14,
+   "title": "72 - .Корчмы.Ліра за сьпіною.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/072.Дарогі.Корчмы.Ліра за сьпіною.mp3"
+  },
+  {
+   "id": 72,
+   "start": 22943.14,
+   "end": 22981.96,
+   "title": "73 - ю сябе дарагога.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/073.Пачытаю сябе дарагога.mp3"
+  },
+  {
+   "id": 73,
+   "start": 22981.96,
+   "end": 23325.59,
+   "title": "74 - хава.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/074.Маё Люхава.mp3"
+  },
+  {
+   "id": 74,
+   "start": 23325.59,
+   "end": 23663.71,
+   "title": "75 - ь жыцьцё гадзіньніка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/075.Пражыць жыцьцё гадзіньніка.mp3"
+  },
+  {
+   "id": 75,
+   "start": 23663.71,
+   "end": 23962.97,
+   "title": "76 - ія настрадамусы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/076.Полацкія настрадамусы.mp3"
+  },
+  {
+   "id": 76,
+   "start": 23962.97,
+   "end": 24423.66,
+   "title": "77 - атальлі Арсеньневай.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/077.Юшка Натальлі Арсеньневай.mp3"
+  },
+  {
+   "id": 77,
+   "start": 24423.66,
+   "end": 24831.84,
+   "title": "78 - лябірынтаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/078.Дзеці лябірынтаў.mp3"
+  },
+  {
+   "id": 78,
+   "start": 24831.84,
+   "end": 25294.09,
+   "title": "79 - сьвечкай йшоў па гулкіх сутарэньнях.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/079.Хто зь сьвечкай йшоў па гулкіх сутарэньнях.mp3"
+  },
+  {
+   "id": 79,
+   "start": 25294.09,
+   "end": 25340.05,
+   "title": "80 - вернецца.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/080.Плошча вернецца.mp3"
+  },
+  {
+   "id": 80,
+   "start": 25340.05,
+   "end": 25745.73,
+   "title": "81 - а для Напалеона.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/081.Булачка для Напалеона.mp3"
+  },
+  {
+   "id": 81,
+   "start": 25745.73,
+   "end": 26121.34,
+   "title": "82 - наваньне сьвятога Стэфана.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/082.Закаменаваньне сьвятога Стэфана.mp3"
+  },
+  {
+   "id": 82,
+   "start": 26121.34,
+   "end": 26356.07,
+   "title": "83 - ь або Вікенці.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/083.Кастусь або Вікенці.mp3"
+  },
+  {
+   "id": 83,
+   "start": 26356.07,
+   "end": 26656.07,
+   "title": "84 - аўтра — канец сьвету.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/084.Калі заўтра — канец сьвету.mp3"
+  },
+  {
+   "id": 84,
+   "start": 26656.07,
+   "end": 26916.78,
+   "title": "85 - герояў будзе выхадны.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/085.Дзень герояў будзе выхадны.mp3"
+  },
+  {
+   "id": 85,
+   "start": 26916.78,
+   "end": 27208.79,
+   "title": "86 - сабе выспу.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/086.Куплю сабе выспу.mp3"
+  },
+  {
+   "id": 86,
+   "start": 27208.79,
+   "end": 27587.45,
+   "title": "87 - ВБ на грудзях у яго.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/087.Знак СВБ на грудзях у яго.mp3"
+  },
+  {
+   "id": 87,
+   "start": 27587.45,
+   "end": 27887.45,
+   "title": "88 - окімі гарамі, за глыбокімі марамі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/088.За высокімі гарамі, за глыбокімі марамі.mp3"
+  },
+  {
+   "id": 88,
+   "start": 27887.45,
+   "end": 28142.65,
+   "title": "89 - эстыт Вова Арлоў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/089.Трансвэстыт Вова Арлоў.mp3"
+  },
+  {
+   "id": 89,
+   "start": 28142.65,
+   "end": 28354.63,
+   "title": "90 - з намі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/090.Маркес з намі.mp3"
+  },
+  {
+   "id": 90,
+   "start": 28354.63,
+   "end": 28616.96,
+   "title": "91 - зе ў кіраўніка Беларусі жаночае імя.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/091.Ці будзе ў кіраўніка Беларусі жаночае імя.mp3"
+  },
+  {
+   "id": 91,
+   "start": 28616.96,
+   "end": 28916.96,
+   "title": "92 - Венера, Вяргіня.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/092.Воля, Венера, Вяргіня.mp3"
+  },
+  {
+   "id": 92,
+   "start": 28916.96,
+   "end": 28940.94,
+   "title": "93 - ясьці.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/093.Яе запясьці.mp3"
+  },
+  {
+   "id": 93,
+   "start": 28940.94,
+   "end": 29232.06,
+   "title": "94 - палёт гімнасткі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/094.Апошні палёт гімнасткі.mp3"
+  },
+  {
+   "id": 94,
+   "start": 29232.06,
+   "end": 29588.21,
+   "title": "95 - а выпіць з прэзыдэнтам.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/095.Прыемна выпіць з прэзыдэнтам.mp3"
+  },
+  {
+   "id": 95,
+   "start": 29588.21,
+   "end": 29880.17,
+   "title": "96 - аньне ад прыдзьвінскай ведзьмы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/096.Прывітаньне ад прыдзьвінскай ведзьмы.mp3"
+  },
+  {
+   "id": 96,
+   "start": 29880.17,
+   "end": 30236.19,
+   "title": "97 - анку з Ігнатам Грынявіцкім.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/097.На мачанку з Ігнатам Грынявіцкім.mp3"
+  },
+  {
+   "id": 97,
+   "start": 30236.19,
+   "end": 30828.21,
+   "title": "98 - ьныя аборты і помнік СССР.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/098.Падпольныя аборты і помнік СССР.mp3"
+  },
+  {
+   "id": 98,
+   "start": 30828.21,
+   "end": 31128.21,
+   "title": "99 - і, як зь вялікай балюшкі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/099.Пайсьці, як зь вялікай балюшкі.mp3"
+  },
+  {
+   "id": 99,
+   "start": 31128.21,
+   "end": 31192.3,
+   "title": " - не самому сабе.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Uladzimir_Arlou.Pakul_lacic_strala.mp3.zip/100.Пытаньне самому сабе.mp3"
+  }
+ ],
+ "title": "Пакуль ляціць страла",
+ "slug": "Pakul-lyatsits-strala",
+ "author": "Уладзімір Арлоў",
+ "author_slug": "Uladzimir-Arlow",
+ "narrators": [
+  "Уладзімір Арлоў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычная проза",
+  "Эсэістыка",
+  "Малая проза"
+ ],
+ "source": "https://knihi.com/Uladzimir_Arlou/Pakul_lacic_strala_mp3.zip.html",
+ "cover": "Uladzimir-Arlow/Pakul-lyatsits-strala.jpg",
+ "description": "Гэтая кніга ўяўляе сабой зборнік гістарычных апавяданняў і эсэ, у якіх аўтар майстэрска спалучае рэальныя падзеі мінулага з мастацкім вымыслам. Уладзімір Арлоў запрашае чытача ў падарожжа па старонках беларускай гісторыі, ажыўляючы лёсы выбітных асоб і звычайных людзей. Асноўныя тэмы твора закранаюць пытанні нацыянальнай ідэнтычнасці, захавання памяці і пошуку ўласнага шляху ў зменлівым свеце. Тон апавядання напоўнены глыбокім лірызмам, інтэлектуальнай рэфлексіяй і шчырай любоўю да роднага краю. Кніга прымушае задумацца пра хуткаплыннасць часу і важнасць кожнага імгнення, якое пралятае, нібы выпушчаная страла.",
+ "length": 31192.3
+}

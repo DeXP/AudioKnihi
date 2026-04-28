@@ -1,0 +1,49 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2120.18,
+   "title": "1 - yc_1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Karatkievic.Nielha_zabyc.mp3.zip/Nielha_zabyc_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2120.18,
+   "end": 2940.35,
+   "title": "2 - yc_2.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Karatkievic.Nielha_zabyc.mp3.zip/Nielha_zabyc_2.mp3"
+  },
+  {
+   "id": 2,
+   "start": 2940.35,
+   "end": 5029.47,
+   "title": "3 - yc_3.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Karatkievic.Nielha_zabyc.mp3.zip/Nielha_zabyc_3.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5029.47,
+   "end": 6624.95,
+   "title": "4 - yc_4.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Karatkievic.Nielha_zabyc.mp3.zip/Nielha_zabyc_4.mp3"
+  }
+ ],
+ "title": "Леаніды не вернуцца да зямлі(Нельга забыць)",
+ "slug": "Leanidy-ne-vernutstsa-da-zyamli(Nelha-zabyts)",
+ "author": "Уладзімір Караткевіч",
+ "author_slug": "Uladzimir-Karatkevich",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычны раман",
+  "Псіхалагічная проза",
+  "Дэтэктыў",
+  "Філасофская літаратура"
+ ],
+ "source": "https://knihi.com/Uladzimir_Karatkievic/Leanidy_nie_viernucca_da_ziamli_Nielha_zabyc_mp3.zip.html",
+ "cover": "Uladzimir-Karatkevich/Leanidy-ne-vernutstsa-da-zyamli(Nelha-zabyts).jpg",
+ "description": "Раман Уладзіміра Караткевіча Леаніды не вернуцца да зямлі з’яўляецца адным з самых глыбокіх і драматычных твораў у беларускай літаратуры. Сюжэт разгортваецца вакол лёсу маладога гісторыка Андрэя Андрэевіча, які праз выпадковую знаходку ўцягваецца ў даследаванне таямнічага мінулага свайго роду. Аўтар майстэрска пераплятае падзеі сучаснасці з трагічнымі старонкамі паўстання 1863 года, паказваючы непарыўную сувязь пакаленняў. Галоўныя тэмы твора ўключаюць пошук нацыянальнай ідэнтычнасці, адказнасць перад продкамі і вечнае змаганне за свабоду духу. Кніга вызначаецца філасофскім роздумам, лірызмам і адчуваннем глыбокага смутку па страчаных магчымасцях і людзях.",
+ "length": 6624.95
+}

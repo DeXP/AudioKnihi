@@ -1,0 +1,78 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1325.27,
+   "title": "1 - paцiлi",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Kolas.Kazki_zyccia.mp3.zip/01.Штo яны cтpaцiлi.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1325.27,
+   "end": 2284.41,
+   "title": "2 - Kpынiцa",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Kolas.Kazki_zyccia.mp3.zip/02.Kpынiцa.mp3"
+  },
+  {
+   "id": 2,
+   "start": 2284.41,
+   "end": 3262.3,
+   "title": "3 - Cтapы лec",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Kolas.Kazki_zyccia.mp3.zip/03.Cтapы лec.mp3"
+  },
+  {
+   "id": 3,
+   "start": 3262.3,
+   "end": 4320.81,
+   "title": "4 - убах",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Kolas.Kazki_zyccia.mp3.zip/04.У старых дубах.mp3"
+  },
+  {
+   "id": 4,
+   "start": 4320.81,
+   "end": 4897.07,
+   "title": "5 - pyнцe",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Kolas.Kazki_zyccia.mp3.zip/05.Ha чyжым гpyнцe.mp3"
+  },
+  {
+   "id": 5,
+   "start": 4897.07,
+   "end": 5652.11,
+   "title": "6 - Жывaя вaдa",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Kolas.Kazki_zyccia.mp3.zip/06.Жывaя вaдa.mp3"
+  },
+  {
+   "id": 6,
+   "start": 5652.11,
+   "end": 5942.38,
+   "title": "7 - eнь",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Kolas.Kazki_zyccia.mp3.zip/07.Чopтaў кaмeнь.mp3"
+  },
+  {
+   "id": 7,
+   "start": 5942.38,
+   "end": 6569.76,
+   "title": "8 - cвeтлякi",
+   "url": "https://files.knihi.com/Audio/mininfarm/Klasika/Kolas.Kazki_zyccia.mp3.zip/08.Kyпaльcкiя cвeтлякi.mp3"
+  }
+ ],
+ "title": "Казкі жыцця",
+ "slug": "Kazki-zhytstsya",
+ "author": "Якуб Колас",
+ "author_slug": "Yakub-Kolas",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Алегорыя",
+  "Прытча",
+  "Казка",
+  "Філасофская проза",
+  "Беларуская літаратура"
+ ],
+ "source": "https://knihi.com/Jakub_Kolas/Kazki_zyccia_mp3.zip.html",
+ "cover": "Yakub-Kolas/Kazki-zhytstsya.jpg",
+ "description": "Зборнік Казкі жыцця з’яўляецца адным з самых значных твораў Якуба Коласа, у якім аўтар праз алегарычныя вобразы прыроды і жывёл раскрывае складаныя сацыяльныя і філасофскія праблемы. Праз прызму казачных сюжэтаў пісьменнік разважае пра сэнс чалавечага існавання, справядлівасць, працу і ўзаемаадносіны паміж людзьмі. Творы вызначаюцца глыбокім лірызмам, мудрасцю і шчырай любоўю да роднай зямлі. Гэтая кніга вучыць чытача быць уважлівым да навакольнага свету і заўсёды захоўваць чалавечую годнасць. Тон апавядання спалучае ў сабе народную паэтыку і глыбокі роздум, што робіць гэтыя казкі блізкімі як дзецям, так і дарослым.",
+ "length": 6569.76
+}

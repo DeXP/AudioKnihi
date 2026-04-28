@@ -1,0 +1,25 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 815.81,
+   "title": "Сонечны ўдар",
+   "url": "https://files.knihi.com/Audio/audiobooks/Bunin.Soniecny_udar.m4a"
+  }
+ ],
+ "title": "Сонечны ўдар",
+ "slug": "Sonechny-wdar",
+ "author": "Іван Бунін",
+ "author_slug": "Ivan-Bunin",
+ "narrators": [
+  "Уладзімір Рагаўцоў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [],
+ "source": "https://knihi.com/Ivan_Bunin/Soniecny_udar_audio.html",
+ "cover": "Ivan-Bunin/Sonechny-wdar.jpg",
+ "description": "",
+ "length": 815.81
+}

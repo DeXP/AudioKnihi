@@ -1,0 +1,71 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1712.35,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Blizkaje_i_niablizkaje.mp3.zip/Blizkaje_i_niablizkaje_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1712.35,
+   "end": 3459.86,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Blizkaje_i_niablizkaje.mp3.zip/Blizkaje_i_niablizkaje_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3459.86,
+   "end": 5191.18,
+   "title": "3 - Частка 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Blizkaje_i_niablizkaje.mp3.zip/Blizkaje_i_niablizkaje_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5191.18,
+   "end": 6899.69,
+   "title": "4 - Частка 4",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Blizkaje_i_niablizkaje.mp3.zip/Blizkaje_i_niablizkaje_04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 6899.69,
+   "end": 8665.44,
+   "title": "5 - Частка 5",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Blizkaje_i_niablizkaje.mp3.zip/Blizkaje_i_niablizkaje_05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 8665.44,
+   "end": 10337.59,
+   "title": "6 - Частка 6",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Blizkaje_i_niablizkaje.mp3.zip/Blizkaje_i_niablizkaje_06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 10337.59,
+   "end": 11923.88,
+   "title": "7 - Частка 7",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Mielez.Blizkaje_i_niablizkaje.mp3.zip/Blizkaje_i_niablizkaje_07.mp3"
+  }
+ ],
+ "title": "Блізкае і няблізкае",
+ "slug": "Blizkae-i-nyablizkae",
+ "author": "Іван Мележ",
+ "author_slug": "Ivan-Melezh",
+ "narrators": [
+  "Ліка Пташук"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Публіцыстыка",
+  "Літаратурная крытыка",
+  "Эсэістыка"
+ ],
+ "source": "https://knihi.com/Ivan_Mielez/Blizkaje_i_niablizkaje_mp3.zip.html",
+ "cover": "Ivan-Melezh/Blizkae-i-nyablizkae.jpg",
+ "description": "Кніга Івана Мележа Блізкае і няблізкае ўяўляе сабой зборнік публіцыстычных артыкулаў, эсэ і літаратурна-крытычных нататак, у якіх аўтар разважае пра лёс беларускай літаратуры і ролю пісьменніка ў грамадстве. Праз прызму ўласнага творчага вопыту і назіранняў за жыццём пісьменнік аналізуе складаныя працэсы духоўнага станаўлення чалавека і захавання нацыянальнай ідэнтычнасці. Тон твора спакойны, разважлівы і глыбока інтэлігентны, што дазваляе чытачу па-новай зірнуць на класічную спадчыну і сучасныя яму праблемы культуры. Гэта своеасаблівы роздум пра сувязь пакаленняў, маральны выбар і адказнасць мастака перад сваім народам.",
+ "length": 11923.88
+}
