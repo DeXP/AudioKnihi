@@ -54,7 +54,7 @@ jobs:
           node-version: '20'
       
       - name: Generate catalog.json
-        run: node scripts/generate.js
+        run: node scripts/generate.cjs
       
       - name: Commit updated catalog.json
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
