@@ -1,0 +1,42 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3468.7,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Uladzimir_Salamacha.I_niama_slachu_cuzoha.mp3.zip/1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3468.7,
+   "end": 7597.85,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Uladzimir_Salamacha.I_niama_slachu_cuzoha.mp3.zip/2.mp3"
+  },
+  {
+   "id": 2,
+   "start": 7597.85,
+   "end": 12065.89,
+   "title": "3 - частка 3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Uladzimir_Salamacha.I_niama_slachu_cuzoha.mp3.zip/3.mp3"
+  }
+ ],
+ "title": "І няма шляху чужога",
+ "slug": "I-nyama-shlyakhu-chuzhoha",
+ "author": "Уладзімір Саламаха",
+ "author_slug": "Uladzimir-Salamakha",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Раман",
+  "Псіхалагічная проза",
+  "Філасофская літаратура",
+  "Беларуская проза"
+ ],
+ "source": "https://knihi.com/Uladzimir_Salamacha/I_niama_slachu_cuzoha_mp3.zip.html",
+ "cover": "Uladzimir-Salamakha/I-nyama-shlyakhu-chuzhoha.jpg",
+ "description": "Раман Уладзіміра Саламахі І няма шляху чужога ўяўляе сабой глыбокае філасофскае роздум пра лёс чалавека і яго непарыўную сувязь з роднай зямлёй. У цэнтры сюжэта знаходзіцца пошук героем свайго прызначэння і сэнсу жыцця праз выпрабаванні, якія рыхтуе яму няпросты час. Аўтар майстэрска даследуе тэмы маральнага выбару, адказнасці перад продкамі і важнасці захавання ўласнай ідэнтычнасці ў зменлівым свеце. Твор вызначаецца лірычнай інтанацыяй і псіхалагічнай дакладнасцю, што дазваляе чытачу глыбока пранікнуцца перажываннямі персанажаў. Гэта кніга пра тое, што кожны чалавек павінен прайсці свой уласны шлях, які заўсёды вядзе да вытокаў і разумення сапраўдных каштоўнасцей.",
+ "length": 12065.89
+}

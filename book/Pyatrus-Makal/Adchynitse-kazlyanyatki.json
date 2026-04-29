@@ -1,0 +1,69 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 380.53,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Piatrus_Makal.Adcynicie_kazlaniatki.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 380.53,
+   "end": 764.58,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Piatrus_Makal.Adcynicie_kazlaniatki.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 764.58,
+   "end": 1197.66,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Piatrus_Makal.Adcynicie_kazlaniatki.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1197.66,
+   "end": 1545.95,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Piatrus_Makal.Adcynicie_kazlaniatki.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1545.95,
+   "end": 1904.48,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Piatrus_Makal.Adcynicie_kazlaniatki.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1904.48,
+   "end": 2237.52,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Piatrus_Makal.Adcynicie_kazlaniatki.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 2237.52,
+   "end": 2652.63,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Piatrus_Makal.Adcynicie_kazlaniatki.mp3.zip/07.mp3"
+  }
+ ],
+ "title": "Адчыніце, казляняткі",
+ "slug": "Adchynitse-kazlyanyatki",
+ "author": "Пятрусь Макаль",
+ "author_slug": "Pyatrus-Makal",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Паэзія",
+  "Казкі"
+ ],
+ "source": "https://knihi.com/Piatrus_Makal/Adcynicie,_kazlaniatki_mp3.zip.html",
+ "cover": "Pyatrus-Makal/Adchynitse-kazlyanyatki.jpg",
+ "description": "Гэтая кніга ўяўляе сабой зборнік вершаў і казак для дзяцей, напісаны выдатным беларускім паэтам Пятрусём Макалем. Аўтар майстэрску выкарыстоўвае фальклорныя матывы і вобразы, каб стварыць свет, напоўнены дабрынёй, гумарам і павучальнымі гісторыямі. Праз лёгкія і рытмічныя радкі пісьменнік знаёміць маленькіх чытачоў з прыгажосцю роднай прыроды і важнасцю сяброўства. Тон твораў светлы і аптымістычны, што робіць іх ідэальнымі для сямейнага чытання перад сном. Кніга выхоўвае ў дзяцей любоў да роднага слова і развівае іх уяўленне праз яркія паэтычныя вобразы.",
+ "length": 2652.63
+}

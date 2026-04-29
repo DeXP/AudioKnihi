@@ -1,0 +1,49 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 725.29,
+   "title": "1 - евіч. Чорная закавыка",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Sierz_Minskievic.Cornaja_zakavyka.mp3.zip/Cornaja_zakavyka_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 725.29,
+   "end": 1279.5,
+   "title": "2 - евіч. Чорная закавыка",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Sierz_Minskievic.Cornaja_zakavyka.mp3.zip/Cornaja_zakavyka_02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1279.5,
+   "end": 1866.45,
+   "title": "3 - евіч. Чорная закавыка",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Sierz_Minskievic.Cornaja_zakavyka.mp3.zip/Cornaja_zakavyka_03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1866.45,
+   "end": 2548.59,
+   "title": "4 - евіч. Чорная закавыка",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Sierz_Minskievic.Cornaja_zakavyka.mp3.zip/Cornaja_zakavyka_04.mp3"
+  }
+ ],
+ "title": "Чорная закавыка",
+ "slug": "Chornaya-zakavyka",
+ "author": "Серж Мінскевіч",
+ "author_slug": "Serzh-Minskevich",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дэтэктыў",
+  "Містыка",
+  "Гарадская проза",
+  "Інтэлектуальная проза"
+ ],
+ "source": "https://knihi.com/Sierz_Minskievic/Cornaja_zakavyka_mp3.zip.html",
+ "cover": "Serzh-Minskevich/Chornaya-zakavyka.jpg",
+ "description": "Раман Сержа Мінскевіча Чорная закавыка ўяўляе сабой захапляльнае спалучэнне дэтэктыўнага сюжэту і містычнай атмасферы старажытнага Мінска. Галоўны герой апынаецца ўцягнутым у заблытаную гісторыю, дзе рэальнасць цесна пераплятаецца з гарадскімі легендамі і таямнічымі знакамі мінулага. Аўтар майстэрска выкарыстоўвае іранічны стыль і гульню са словамі, каб паказаць незвычайны бок паўсядзённага жыцця сталіцы. Твор падымае пытанні пошуку ісціны ў свеце, дзе кожная дэталь можа аказацца фатальнай пасткай. Гэта кніга для тых, хто любіць інтэлектуальную прозу з прысмакам інтрыгі і глыбокім культурным кантэкстам.",
+ "length": 2548.59
+}

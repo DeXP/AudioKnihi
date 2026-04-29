@@ -1,0 +1,42 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1758.57,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Marcuk.Davyd-Haradockija_kanony.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1758.57,
+   "end": 3517.19,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Marcuk.Davyd-Haradockija_kanony.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3517.19,
+   "end": 5212.91,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Marcuk.Davyd-Haradockija_kanony.mp3.zip/03.mp3"
+  }
+ ],
+ "title": "Давыд-Гарадоцкія каноны",
+ "slug": "Davyd-Haradotskiya-kanony",
+ "author": "Георгій Марчук",
+ "author_slug": "Heorhiy-Marchuk",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычны раман",
+  "Сямейная сага",
+  "Проза",
+  "Мастацкая літаратура"
+ ],
+ "source": "https://knihi.com/Hieorhij_Marcuk/Davyd-Haradockija_kanony_mp3.zip.html",
+ "cover": "Heorhiy-Marchuk/Davyd-Haradotskiya-kanony.jpg",
+ "description": "Раман Георгія Марчука Давыд-Гарадоцкія каноны ўяўляе сабой маштабнае палатно, якое ахоплівае гістарычны лёс беларускага Палесся праз прызму жыцця аднаго старажытнага горада. Аўтар майстэрска пераплятае рэальныя гістарычныя падзеі з лёсамі звычайных людзей, ствараючы глыбокую філасофскую рэфлексію пра сувязь пакаленняў. Галоўныя тэмы твора закранаюць пытанні нацыянальнай ідэнтычнасці, захавання духоўных каштоўнасцяў і няпростага выбару чалавека ў пераломныя моманты гісторыі. Тон аповеду спалучае ў сабе эпічную ўрачыстасць і лірычную пранікнёнасць, што дазваляе чытачу адчуць атмасферу мінулых эпох. Гэтая кніга з'яўляецца важным укладам у сучасную беларускую літаратуру, запрашаючы да роздуму над вытокамі народнай памяці.",
+ "length": 5212.91
+}

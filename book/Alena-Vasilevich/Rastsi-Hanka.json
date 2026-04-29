@@ -1,0 +1,42 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 5266.863,
+   "title": "1 - Alena.Rasci,_Hanka_1.mp3",
+   "url": "https://files.knihi.com/Audio/audio-staroeradio.ru/Vasilevic_Alena.Rasci,_Hanka.mp3.zip/Vasilevic_Alena.Rasci,_Hanka_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 5266.863,
+   "end": 10536.835,
+   "title": "2 - Alena.Rasci,_Hanka_2.mp3",
+   "url": "https://files.knihi.com/Audio/audio-staroeradio.ru/Vasilevic_Alena.Rasci,_Hanka.mp3.zip/Vasilevic_Alena.Rasci,_Hanka_2.mp3"
+  },
+  {
+   "id": 2,
+   "start": 10536.835,
+   "end": 15512.72,
+   "title": "3 - Alena.Rasci,_Hanka_3.mp3",
+   "url": "https://files.knihi.com/Audio/audio-staroeradio.ru/Vasilevic_Alena.Rasci,_Hanka.mp3.zip/Vasilevic_Alena.Rasci,_Hanka_3.mp3"
+  }
+ ],
+ "title": "Расьці, Ганька !",
+ "slug": "Rastsi-Hanka",
+ "author": "Алена Васілевіч",
+ "author_slug": "Alena-Vasilevich",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Аповесць",
+  "Рэалізм",
+  "Мастацкая проза"
+ ],
+ "source": "https://knihi.com/Alena_Vasilevic/Rasci,_Hanka_mp3.zip.html",
+ "cover": "Alena-Vasilevich/Rastsi-Hanka.jpg",
+ "description": "Аповесць Алены Васілевіч Расьці, Ганька распавядае пра няпростае станаўленне асобы вясковай дзяўчынкі, якая сутыкаецца з выпрабаваннямі лёсу ў складаны гістарычны перыяд. Праз прызму дзіцячага ўспрымання аўтарка паказвае працэс сталення, фарміраванне характару і пошук свайго месца ў жыцці. Галоўная гераіня вучыцца дабрыні, спагадзе і адказнасці, пераадольваючы шматлікія перашкоды на шляху да даросласці. Твор вызначаецца шчырасцю, лірызмам і глыбокім псіхалагізмам, што робіць яго блізкім для чытачоў розных пакаленняў. Гэта светлая і кранальная гісторыя пра веру ў лепшае і нязломнасць чалавечага духу.",
+ "length": 15512.72
+}
