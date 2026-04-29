@@ -12,85 +12,13 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+# Opt-in to Node.js 24 for JavaScript actions (fixes deprecation warning)
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
-  # === Job 1: Detect what changed ===
-  detect-changes:
-    runs-on: ubuntu-latest
-    outputs:
-      books_changed: ${{ steps.filter.outputs.books }}
-      app_changed: ${{ steps.filter.outputs.app }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2  # Need previous commit for diff
-      
-      - uses: dorny/paths-filter@v4
-        id: filter
-        with:
-          filters: |
-            books:
-              - 'book/**'
-              - 'scripts/generate.cjs'
-              - 'catalog.json'
-            app:
-              - 'src/**'
-              - 'public/**'
-              - 'index.html'
-              - 'vite.config.js'
-              - 'package*.json'
-              - '!book/**'
-              - '!scripts/generate.cjs'
-              - '!catalog.json'
-
-  # === Job 2: Regenerate catalog.json (only if book files changed) ===
-  generate-catalog:
-    needs: detect-changes
-    if: needs.detect-changes.outputs.books_changed == 'true'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write  # 🔑 Allows git push
-    
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-      
-      - name: Install dependencies (if needed for generate script)
-        run: npm ci --ignore-scripts || true  # Safe: generate.cjs doesn't need deps
-      
-      - name: Generate catalog.json
-        run: node scripts/generate.cjs
-      
-      - name: Commit updated catalog.json
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add catalog.json
-          # Only commit if there are actual changes
-          if ! git diff --quiet && ! git diff --staged --quiet; then
-            git commit -m "chore: regenerate catalog.json [skip ci]"
-            git push
-            echo "✅ catalog.json committed"
-          else
-            echo "ℹ️ catalog.json unchanged, skipping commit"
-          fi
-
-  # === Job 3: Build & Deploy Vue app ===
+  # === Job: Build & Deploy Vue app + Generate Catalog ===
   build-deploy:
-    needs: [detect-changes, generate-catalog]
-    # Run if: app changed, OR books changed (catalog updated), OR manual trigger
-    if: >
-      needs.detect-changes.outputs.app_changed == 'true' ||
-      needs.detect-changes.outputs.books_changed == 'true' ||
-      github.event_name == 'workflow_dispatch'
-    
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -102,10 +30,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '20'
           cache: 'npm'
@@ -113,33 +41,37 @@ jobs:
       - name: Install dependencies
         run: npm ci
       
+      # === 🔥 Generate catalog.json fresh on every build ===
+      - name: Generate catalog.json
+        run: node scripts/generate.cjs
+        # ✅ catalog.json is created in repo root, then copied to dist/
+      
       - name: Build Vite app
         run: npm run build
         env:
-          # Set base path for GitHub Pages + custom domain
-          # For audioknihi.dexp.in (root domain), '/' is correct
+          # For custom domain audioknihi.dexp.in (root), use '/'
           VITE_BASE: '/'
       
-      # === 🔥 CRITICAL: Copy static data to dist for deployment ===
+      # === Copy static data to dist for deployment ===
       - name: Copy catalog.json and book folder to dist
         run: |
           echo "📦 Copying static assets to dist/"
           cp catalog.json dist/
           cp -r book dist/
-          echo "✅ Contents of dist/:"
+          echo "✅ dist/ contents:"
           ls -la dist/
-          echo "✅ Book folder in dist:"
-          ls -la dist/book/ | head -10
+          # Optional: show book count
+          echo "📚 Books in deployment: $(ls dist/book/*.json 2>/dev/null | wc -l)"
       
       # === GitHub Pages deployment steps ===
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
       
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: ./dist  # ✅ Only dist/ contents are deployed
+          path: ./dist
       
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
