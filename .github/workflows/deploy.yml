@@ -24,20 +24,22 @@ jobs:
         with:
           fetch-depth: 2  # Need previous commit for diff
       
-      - uses: dorny/paths-filter@v4  # Popular path-filter action [[13]]
+      - uses: dorny/paths-filter@v4
         id: filter
         with:
           filters: |
             books:
               - 'book/**'
-              - 'scripts/**'
+              - 'scripts/generate.cjs'
               - 'catalog.json'
             app:
               - 'src/**'
               - 'public/**'
-              - '*.json'  # package.json, vite.config.js, etc.
+              - 'index.html'
+              - 'vite.config.js'
+              - 'package*.json'
               - '!book/**'
-              - '!scripts/**'
+              - '!scripts/generate.cjs'
               - '!catalog.json'
 
   # === Job 2: Regenerate catalog.json (only if book files changed) ===
@@ -45,14 +47,11 @@ jobs:
     needs: detect-changes
     if: needs.detect-changes.outputs.books_changed == 'true'
     runs-on: ubuntu-latest
-    
-    # CRITICAL: Grant write access to repo contents
     permissions:
-      contents: write  #  Allows git push
+      contents: write  # 🔑 Allows git push
     
     steps:
       - uses: actions/checkout@v4
-        # CRITICAL: Use token for auth on push
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
@@ -60,6 +59,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies (if needed for generate script)
+        run: npm ci --ignore-scripts || true  # Safe: generate.cjs doesn't need deps
       
       - name: Generate catalog.json
         run: node scripts/generate.cjs
@@ -70,11 +73,16 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add catalog.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: regenerate catalog.json [skip ci]"
-          # GITHUB_TOKEN is automatically used for HTTPS auth
-          git push
+          # Only commit if there are actual changes
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "chore: regenerate catalog.json [skip ci]"
+            git push
+            echo "✅ catalog.json committed"
+          else
+            echo "ℹ️ catalog.json unchanged, skipping commit"
+          fi
 
-  # === Job 3: Build & Deploy Vue app (only if app files changed OR catalog changed) ===
+  # === Job 3: Build & Deploy Vue app ===
   build-deploy:
     needs: [detect-changes, generate-catalog]
     # Run if: app changed, OR books changed (catalog updated), OR manual trigger
@@ -82,11 +90,13 @@ jobs:
       needs.detect-changes.outputs.app_changed == 'true' ||
       needs.detect-changes.outputs.books_changed == 'true' ||
       github.event_name == 'workflow_dispatch'
+    
     runs-on: ubuntu-latest
     permissions:
       contents: read
       pages: write      # Required for GitHub Pages deployment
       id-token: write   # Required for OIDC token
+    
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -106,16 +116,29 @@ jobs:
       - name: Build Vite app
         run: npm run build
         env:
-          # Critical: Set base path for GitHub Pages subdirectory deployment [[8]]
-          VITE_BASE: /${{ github.event.repository.name }}/
+          # Set base path for GitHub Pages + custom domain
+          # For audioknihi.dexp.in (root domain), '/' is correct
+          VITE_BASE: '/'
       
+      # === 🔥 CRITICAL: Copy static data to dist for deployment ===
+      - name: Copy catalog.json and book folder to dist
+        run: |
+          echo "📦 Copying static assets to dist/"
+          cp catalog.json dist/
+          cp -r book dist/
+          echo "✅ Contents of dist/:"
+          ls -la dist/
+          echo "✅ Book folder in dist:"
+          ls -la dist/book/ | head -10
+      
+      # === GitHub Pages deployment steps ===
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: ./dist  # ✅ Only dist/ contents are deployed
       
       - name: Deploy to GitHub Pages
         id: deployment
