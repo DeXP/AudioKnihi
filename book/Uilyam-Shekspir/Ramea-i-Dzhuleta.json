@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3829.24,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Sekspir.Ramea_i_Dzuljeta.1952.mp3.zip/Ramea_i_Dzuljeta_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3829.24,
+   "end": 6920.7,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Sekspir.Ramea_i_Dzuljeta.1952.mp3.zip/Ramea_i_Dzuljeta_02.mp3"
+  }
+ ],
+ "title": "Рамэа і Джульета",
+ "slug": "Ramea-i-Dzhuleta",
+ "author": "Уільям Шэкспір",
+ "author_slug": "Uilyam-Shekspir",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Трагедыя",
+  "Драма",
+  "Класічная літаратура",
+  "Рамантычная літаратура"
+ ],
+ "source": "https://knihi.com/Uiljam_Sekspir/Ramea_i_Dzuljeta_mp3.zip.html",
+ "cover": "Uilyam-Shekspir/Ramea-i-Dzhuleta.jpg",
+ "description": "Гэтая сусветна вядомая трагедыя апавядае пра кранальную і фатальную гісторыю кахання юных прадстаўнікоў варагуючых дваранскіх родаў Вероны. Рамэа і Джульета вымушаны хаваць свае пачуцці ад сем’яў, што прыводзіць да шэрагу драматычных падзей і непазбежнага трагічнага фіналу. У творы аўтар майстэрска даследуе тэмы канфлікту пакаленняў, сляпой нянавісці і ўсепераможнай сілы сапраўднага кахання. Эмацыйны тон п’есы вагаецца ад светлай рамантыкі да глыбокага смутку, пакідаючы чытача ў стане суперажывання. Гэта класічны твор, які на працягу стагоддзяў застаецца сімвалам чыстага і ахвярнага пачуцця.",
+ "length": 6920.7
+}

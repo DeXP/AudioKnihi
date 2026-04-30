@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2699.248,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Halina_Scarbakova.Raman_i_Julka.1980.dnk.mp3.zip/Raman_i_Julka_01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2699.248,
+   "end": 5147.878,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Halina_Scarbakova.Raman_i_Julka.1980.dnk.mp3.zip/Raman_i_Julka_02.mp3"
+  }
+ ],
+ "title": "Раман і Юлька",
+ "slug": "Raman-i-Yulka",
+ "author": "Галіна Шчарбакова",
+ "author_slug": "Halina-Shcharbakova",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Драма",
+  "Падлеткавая літаратура",
+  "Сацыяльная проза",
+  "Рамантыка"
+ ],
+ "source": "https://knihi.com/Halina_Scarbakova/Raman_i_Julka_mp3.zip.html",
+ "cover": "Halina-Shcharbakova/Raman-i-Yulka.jpg",
+ "description": "Гэтая кранальная аповесць распавядае пра першае каханне двух падлеткаў, Рамана і Юлькі, якія сутыкаюцца з неразуменнем і жорсткасцю дарослых. Іх пачуцці становяцца выпрабаваннем для навакольных, бо бацькі спрабуюць разлучыць закаханых, кіруючыся ўласнымі забабонамі і эгаізмам. Аўтар майстэрска паказвае канфлікт пакаленняў і тое, як бескампраміснасць дарослых можа прывесці да трагічных наступстваў. Твор прасякнуты глыбокім псіхалагізмам і смуткам, прымушаючы чытача задумацца пра адказнасць за лёсы дзяцей. Гэта гісторыя пра тое, як далікатнае пачуццё можа быць знішчана чужой нянавісцю і абыякавасцю.",
+ "length": 5147.878
+}

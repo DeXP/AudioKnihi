@@ -1,0 +1,34 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2783.27,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Vasil_Tkacou.Ihnatau_rubiez.mp3.zip/1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2783.27,
+   "end": 6757.07,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Vasil_Tkacou.Ihnatau_rubiez.mp3.zip/2.mp3"
+  }
+ ],
+ "title": "Ігнатаў рубеж",
+ "slug": "Ihnataw-rubezh",
+ "author": "Васіль Ткачоў",
+ "author_slug": "Vasil-Tkachow",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Раман",
+  "Гістарычная проза",
+  "Псіхалагічная драма"
+ ],
+ "source": "https://knihi.com/Vasil_Tkacou/Ihnatau_rubiez_mp3.zip.html",
+ "cover": "Vasil-Tkachow/Ihnataw-rubezh.jpg",
+ "description": "Раман Васіля Ткачова Ігнатаў рубеж уяўляе сабой глыбокае псіхалагічнае даследаванне лёсу чалавека на фоне складаных гістарычных падзей. У цэнтры сюжэта знаходзіцца вобраз Ігната, чыё жыццё становіцца сімвалам маральнага выбару і ўнутранай барацьбы паміж абавязкам і сумленнем. Аўтар майстэрска перадае атмасферу эпохі, засяроджваючыся на экзістэнцыяльных пытаннях чалавечага існавання і пошуку ўласнага месца ў зменлівым свеце. Твор вызначаецца лірычнасцю мовы і філасофскай глыбінёй, што прымушае чытача задумацца над вечнымі каштоўнасцямі. Гэта кніга пра мужнасць заставацца сабой нават у самыя цяжкія моманты гісторыі.",
+ "length": 6757.07
+}

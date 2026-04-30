@@ -1,0 +1,34 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3188.64,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Donald_Koburn._Hulnia_u_dzyn.mp3.zip/Donald_Koburn._Hulnia_u_dzyn_-_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3188.64,
+   "end": 6099.57,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Donald_Koburn._Hulnia_u_dzyn.mp3.zip/Donald_Koburn._Hulnia_u_dzyn_-_2.mp3"
+  }
+ ],
+ "title": "Гульня ў джын",
+ "slug": "Hulnya-w-dzhyn",
+ "author": "Дональд Кобурн",
+ "author_slug": "Donald-Koburn",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Драма",
+  "Псіхалагічная п’еса",
+  "Тэатральная літаратура"
+ ],
+ "source": "https://knihi.com/Donald_Koburn/Hulnia_u_dzyn_mp3.zip.html",
+ "cover": "Donald-Koburn/Hulnya-w-dzhyn.jpg",
+ "description": "П’еса Дональда Кобурна распавядае пра двух пажылых людзей, якія сустракаюцца ў доме састарэлых і вырашаюць правесці час за гульнёй у джын-рамі. Паступова гэтыя партыі ператвараюцца ў глыбокі псіхалагічны паядынак, дзе кожная карта становіцца метафарай іх пражытага жыцця, страчаных магчымасцей і адзіноты. Праз вострыя дыялогі і канфлікты героі раскрываюць свае балючыя ўспаміны, дэманструючы складанасць чалавечых характараў. Твор спалучае ў сабе элементы іроніі і драмы, прымушаючы гледача задумацца пра сэнс старэння і важнасць чалавечага кантакту. Гэта кранальная гісторыя пра тое, як за звычайнай гульнёй хаваецца сапраўдная барацьба за ўласную годнасць і прызнанне.",
+ "length": 6099.57
+}

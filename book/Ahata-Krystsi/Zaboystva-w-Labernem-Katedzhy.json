@@ -1,0 +1,43 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 734.34,
+   "title": "1 - ч. 1",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ahata_Krysci.Zabojstva.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 734.34,
+   "end": 1238.46,
+   "title": "2 - ч. 3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ahata_Krysci.Zabojstva.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1238.46,
+   "end": 1986.04,
+   "title": "3 - ч. 3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ahata_Krysci.Zabojstva.mp3.zip/03.mp3"
+  }
+ ],
+ "title": "Забойства ў Лабернэм-Катэджы",
+ "slug": "Zaboystva-w-Labernem-Katedzhy",
+ "author": "Агата Крысьці",
+ "author_slug": "Ahata-Krystsi",
+ "narrators": [
+  "Галіна Кухальская"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дэтэктыў",
+  "Класічная літаратура",
+  "Крымінальны раман"
+ ],
+ "source": "https://knihi.com/Ahata_Krysci/Zabojstva_u_Labiernem-Katedzy_mp3.zip.html",
+ "cover": "Ahata-Krystsi/Zaboystva-w-Labernem-Katedzhy.jpg",
+ "description": "Гэты захапляльны дэтэктыў Агаты Крысці пераносіць чытача ў ціхі англійскі маёнтак, дзе спакойнае жыццё парушаецца нечаканым і загадкавым забойствам. Галоўная гераіня апынаецца ў цэнтры заблытанай інтрыгі, дзе кожны з прысутных у доме мае свае таямніцы і магчымыя матывы для злачынства. Аўтар майстэрска выбудоўвае сюжэт, паступова раскрываючы дэталі, якія прымушаюць сумнявацца ў відавочных фактах. Твор напоўнены атмасферай класічнага брытанскага дэтэктыва, дзе інтэлектуальная гульня розуму выходзіць на першы план. Гісторыя трымае ў напружанні да апошняй старонкі, дэманструючы непераўзыдзенае ўменне пісьменніцы ствараць непрадказальныя развязкі.",
+ "length": 1986.04
+}

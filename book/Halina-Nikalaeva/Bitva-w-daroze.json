@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 4305.24,
+   "title": "1 - Halina.Bitva_u_darozie_1.mp3",
+   "url": "https://files.knihi.com/Audio/audio-staroeradio.ru/Nikalajeva_Halina.Bitva_u_darozie.mp3.zip/Nikalajeva_Halina.Bitva_u_darozie_1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 4305.24,
+   "end": 7389.8,
+   "title": "2 - Halina.Bitva_u_darozie_2.mp3",
+   "url": "https://files.knihi.com/Audio/audio-staroeradio.ru/Nikalajeva_Halina.Bitva_u_darozie.mp3.zip/Nikalajeva_Halina.Bitva_u_darozie_2.mp3"
+  }
+ ],
+ "title": "Бітва ў дарозе",
+ "slug": "Bitva-w-daroze",
+ "author": "Галіна Нікалаева",
+ "author_slug": "Halina-Nikalaeva",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сацыяльны раман",
+  "Вытворчы раман",
+  "Савецкая проза",
+  "Драма"
+ ],
+ "source": "https://knihi.com/Halina_Nikalajeva/Bitva_u_darozie_mp3.zip.html",
+ "cover": "Halina-Nikalaeva/Bitva-w-daroze.jpg",
+ "description": "Раман Галіны Нікалаевай Бітва ў дарозе з'яўляецца знакавым творам савецкай літаратуры, які паглыбляецца ў складаныя працэсы пасляваеннага аднаўлення прамысловасці. У цэнтры сюжэту знаходзіцца прынцыповы і энергічны дырэктар трактарнага завода Дзмітрый Бахіраў, які сутыкаецца з бюракратыяй, кар'ерызмам і застоем у кіраванні. Аўтар майстэрску паказвае канфлікт паміж наватарамі і прыхільнікамі старых метадаў працы, падкрэсліваючы важнасць маральнага выбару і сумленнасці. Твор прасякнуты атмасферай сацыяльных пераменаў і пошуку праўды, што робіць яго не толькі вытворчым раманам, але і глыбокай псіхалагічнай драмай. Гэта кніга пра нястомную барацьбу чалавека за свае ідэалы і лепшую будучыню ў складаных гістарычных умовах.",
+ "length": 7389.8
+}

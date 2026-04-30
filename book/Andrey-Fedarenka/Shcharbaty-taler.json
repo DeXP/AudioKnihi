@@ -1,0 +1,393 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 619.49,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 619.49,
+   "end": 1361.47,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1361.47,
+   "end": 2041.65,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2041.65,
+   "end": 2744.37,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2744.37,
+   "end": 3419.71,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3419.71,
+   "end": 4005.22,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4005.22,
+   "end": 4518.6,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 4518.6,
+   "end": 4985.93,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 4985.93,
+   "end": 5539.13,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 5539.13,
+   "end": 6016.83,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 6016.83,
+   "end": 6463.13,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 6463.13,
+   "end": 7262.35,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 7262.35,
+   "end": 8150.98,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 8150.98,
+   "end": 8797.82,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 8797.82,
+   "end": 9246.84,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 9246.84,
+   "end": 9709.05,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 9709.05,
+   "end": 10361.14,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 10361.14,
+   "end": 10669.78,
+   "title": "18 - 18.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 10669.78,
+   "end": 11422.63,
+   "title": "19 - 19.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 11422.63,
+   "end": 11819.3,
+   "title": "20 - 20.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 11819.3,
+   "end": 12493.86,
+   "title": "21 - 21.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 12493.86,
+   "end": 13058.76,
+   "title": "22 - 22.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 13058.76,
+   "end": 13493.33,
+   "title": "23 - 23.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 13493.33,
+   "end": 13915.99,
+   "title": "24 - 24.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 13915.99,
+   "end": 14301.17,
+   "title": "25 - 25.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/25.mp3"
+  },
+  {
+   "id": 25,
+   "start": 14301.17,
+   "end": 15034.45,
+   "title": "26 - 26.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/26.mp3"
+  },
+  {
+   "id": 26,
+   "start": 15034.45,
+   "end": 15457.16,
+   "title": "27 - 27.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/27.mp3"
+  },
+  {
+   "id": 27,
+   "start": 15457.16,
+   "end": 16061.06,
+   "title": "28 - 28.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/28.mp3"
+  },
+  {
+   "id": 28,
+   "start": 16061.06,
+   "end": 16699.54,
+   "title": "29 - 29.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/29.mp3"
+  },
+  {
+   "id": 29,
+   "start": 16699.54,
+   "end": 17095.3,
+   "title": "30 - 30.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/30.mp3"
+  },
+  {
+   "id": 30,
+   "start": 17095.3,
+   "end": 17560.15,
+   "title": "31 - 31.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/31.mp3"
+  },
+  {
+   "id": 31,
+   "start": 17560.15,
+   "end": 17987.1,
+   "title": "32 - 32.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/32.mp3"
+  },
+  {
+   "id": 32,
+   "start": 17987.1,
+   "end": 18559.5,
+   "title": "33 - 33.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/33.mp3"
+  },
+  {
+   "id": 33,
+   "start": 18559.5,
+   "end": 18917.14,
+   "title": "34 - 34.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/34.mp3"
+  },
+  {
+   "id": 34,
+   "start": 18917.14,
+   "end": 19607.95,
+   "title": "35 - 35.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/35.mp3"
+  },
+  {
+   "id": 35,
+   "start": 19607.95,
+   "end": 20287.45,
+   "title": "36 - 36.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/36.mp3"
+  },
+  {
+   "id": 36,
+   "start": 20287.45,
+   "end": 20725.31,
+   "title": "37 - 37.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/37.mp3"
+  },
+  {
+   "id": 37,
+   "start": 20725.31,
+   "end": 21463.82,
+   "title": "38 - 38.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/38.mp3"
+  },
+  {
+   "id": 38,
+   "start": 21463.82,
+   "end": 22582.41,
+   "title": "39 - 39.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/39.mp3"
+  },
+  {
+   "id": 39,
+   "start": 22582.41,
+   "end": 23289.0,
+   "title": "40 - 40.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/40.mp3"
+  },
+  {
+   "id": 40,
+   "start": 23289.0,
+   "end": 23801.0,
+   "title": "41 - 41.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/41.mp3"
+  },
+  {
+   "id": 41,
+   "start": 23801.0,
+   "end": 24603.48,
+   "title": "42 - 42.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/42.mp3"
+  },
+  {
+   "id": 42,
+   "start": 24603.48,
+   "end": 25389.64,
+   "title": "43 - 43.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/43.mp3"
+  },
+  {
+   "id": 43,
+   "start": 25389.64,
+   "end": 25906.08,
+   "title": "44 - 44.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/44.mp3"
+  },
+  {
+   "id": 44,
+   "start": 25906.08,
+   "end": 26462.64,
+   "title": "45 - 45.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/45.mp3"
+  },
+  {
+   "id": 45,
+   "start": 26462.64,
+   "end": 27194.04,
+   "title": "46 - 46.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/46.mp3"
+  },
+  {
+   "id": 46,
+   "start": 27194.04,
+   "end": 27928.47,
+   "title": "47 - 47.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/47.mp3"
+  },
+  {
+   "id": 47,
+   "start": 27928.47,
+   "end": 28753.81,
+   "title": "48 - 48.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/48.mp3"
+  },
+  {
+   "id": 48,
+   "start": 28753.81,
+   "end": 29627.66,
+   "title": "49 - 49.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/49.mp3"
+  },
+  {
+   "id": 49,
+   "start": 29627.66,
+   "end": 30573.37,
+   "title": "50 - 50.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/50.mp3"
+  },
+  {
+   "id": 50,
+   "start": 30573.37,
+   "end": 31314.86,
+   "title": "51 - 51.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/51.mp3"
+  },
+  {
+   "id": 51,
+   "start": 31314.86,
+   "end": 32495.1,
+   "title": "52 - 52.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/52.mp3"
+  },
+  {
+   "id": 52,
+   "start": 32495.1,
+   "end": 33001.2,
+   "title": "53 - 53.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Fiedarenka_Andrej.Scarbaty_taler.ptasuk.mp3.zip/53.mp3"
+  }
+ ],
+ "title": "Шчарбаты талер",
+ "slug": "Shcharbaty-taler",
+ "author": "Андрэй Федарэнка",
+ "author_slug": "Andrey-Fedarenka",
+ "narrators": [
+  "Ліка Пташук"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Прыгодніцкая літаратура",
+  "Дзіцячая літаратура",
+  "Дэтэктыў"
+ ],
+ "source": "https://knihi.com/Andrej_Fiedarenka/Scarbaty_taler_mp3.zip.html",
+ "cover": "Andrey-Fedarenka/Shcharbaty-taler.jpg",
+ "description": "Гэты прыгодніцкі твор распавядае пра падлетка Алеся, які выпадкова знаходзіць старадаўні скарб і апынаецца ў цэнтры небяспечных падзей. Сюжэт кнігі цесна пераплятае рэальнасць сучаснага жыцця з таямніцамі мінулага, прымушаючы галоўнага героя сутыкнуцца з сапраўднымі выпрабаваннямі. Аўтар майстэрска паказвае станаўленне характару юнака, які вучыцца адрозніваць дабро ад зла і вернасць ад здрады. Апавяданне вызначаецца дынамічным развіццём падзей, лёгкім гумарам і глыбокай павагай да гістарычнай спадчыны Беларусі. Гэта захапляльная гісторыя пра пошук сябе, сяброўства і адказнасць за ўласныя ўчынкі.",
+ "length": 33001.2
+}
