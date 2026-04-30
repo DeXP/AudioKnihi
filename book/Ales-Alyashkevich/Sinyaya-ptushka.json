@@ -1,0 +1,58 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1475.01,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Alaskievic.Siniaja_ptuska.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1475.01,
+   "end": 2631.64,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Alaskievic.Siniaja_ptuska.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 2631.64,
+   "end": 3727.43,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Alaskievic.Siniaja_ptuska.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 3727.43,
+   "end": 5186.43,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Alaskievic.Siniaja_ptuska.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 5186.43,
+   "end": 6300.22,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Alaskievic.Siniaja_ptuska.mp3.zip/05.mp3"
+  }
+ ],
+ "title": "Сіняя птушка",
+ "slug": "Sinyaya-ptushka",
+ "author": "Алесь Аляшкевіч",
+ "author_slug": "Ales-Alyashkevich",
+ "narrators": [
+  "Маргарыта Захарыя"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Сучасная беларуская літаратура",
+  "Апавяданні",
+  "Філасофская проза"
+ ],
+ "source": "https://knihi.com/Ales_Alaskievic/Siniaja_ptuska_mp3.zip.html",
+ "cover": "Ales-Alyashkevich/Sinyaya-ptushka.jpg",
+ "description": "Кніга Алеся Аляшкевіча Сіняя птушка ўяўляе сабой кранальны зборнік прозы, які закранае глыбокія пытанні чалавечага існавання і пошуку шчасця. Праз шэраг сюжэтных ліній аўтар даследуе тэмы адзіноты, вернасці мары і складанасці міжасобасных адносін у сучасным свеце. Тэкст вызначаецца лірычнасцю і псіхалагічнай дакладнасцю, што дазваляе чытачу пагрузіцца ў разважанні пра сэнс жыцця. Апавяданні напісаны з адчувальнай любоўю да роднага краю і чалавечай душы, ствараючы атмасферу светлага смутку і надзеі. Гэта твор, які заклікае спыніцца ў штодзённай мітусні і паглядзець на свет вачыма, поўнымі дабрыні і разумення.",
+ "length": 6300.22
+}
