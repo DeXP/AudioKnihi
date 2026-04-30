@@ -1,0 +1,34 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3968.05,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Nadar_Dumbadze.Zakon_viecnasci.mp3.zip/1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3968.05,
+   "end": 7823.04,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Nadar_Dumbadze.Zakon_viecnasci.mp3.zip/2.mp3"
+  }
+ ],
+ "title": "Закон вечнасці",
+ "slug": "Zakon-vechnastsi",
+ "author": "Надар Думбадзэ",
+ "author_slug": "Nadar-Dumbadze",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Філасофская проза",
+  "Сацыяльна-псіхалагічны раман",
+  "Класічная літаратура"
+ ],
+ "source": "https://knihi.com/Nadar_Dumbadze/Zakon_viecnasci_mp3.zip.html",
+ "cover": "Nadar-Dumbadze/Zakon-vechnastsi.jpg",
+ "description": "Раман Надара Думбадзэ Закон вечнасці з'яўляецца глыбокім філасофскім роздумам пра сэнс чалавечага існавання, дабрыню і адказнасць перад будучыняй. Галоўны герой Бачана Рамішвілі, які апынуўся на мяжы жыцця і смерці, пераасэнсоўвае сваё мінулае і спрабуе знайсці адказы на вечныя пытанні быцця. Аўтар майстэрска пераплятае рэалістычныя падзеі з маральна-этычнымі пошукамі, падкрэсліваючы, што любоў да бліжняга і праўда з'яўляюцца адзінымі апорамі ў свеце. Твор прасякнуты светлым сумам, гуманізмам і непахіснай верай у перамогу жыцця над нябытам. Гэтая кніга заклікае чытача спыніцца і задумацца пра ўласны след, які кожны з нас пакідае на зямлі.",
+ "length": 7823.04
+}

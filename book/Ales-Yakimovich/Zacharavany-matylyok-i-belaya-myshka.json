@@ -1,0 +1,90 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 634.33,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 634.33,
+   "end": 1307.06,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1307.06,
+   "end": 1893.93,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1893.93,
+   "end": 2549.55,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2549.55,
+   "end": 3134.01,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3134.01,
+   "end": 3675.45,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3675.45,
+   "end": 4443.74,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 4443.74,
+   "end": 5269.84,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 5269.84,
+   "end": 6070.41,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 6070.41,
+   "end": 6722.43,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Alaksiej_Jakimovic.Zacaravany_matylok_i_bielaja_myska.mp3.zip/10.mp3"
+  }
+ ],
+ "title": "Зачараваны матылёк і белая мышка",
+ "slug": "Zacharavany-matylyok-i-belaya-myshka",
+ "author": "Алесь Якімовіч",
+ "author_slug": "Ales-Yakimovich",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казка",
+  "Беларуская проза"
+ ],
+ "source": "https://knihi.com/Ales_Jakimovic/Zacaravany_matylok_i_bielaja_myska_mp3.zip.html",
+ "cover": "Ales-Yakimovich/Zacharavany-matylyok-i-belaya-myshka.jpg",
+ "description": "Гэтая кніга Алеся Якімовіча ўяўляе сабой зборнік займальных казак, якія вучаць дзяцей дабрыні, спагадзе і справядлівасці. Галоўныя героі твораў трапляюць у незвычайныя сітуацыі, дзе ім даводзіцца рабіць маральны выбар і пераадольваць цяжкасці. Аўтар майстэрска спалучае элементы чароўнага свету з рэальнымі жыццёвымі каштоўнасцямі, што робіць аповед павучальным і цікавым. Светлы і пазітыўны тон апавядання дапамагае маленькім чытачам лепш зразумець важнасць сяброўства і клопату пра навакольных. Гэтыя гісторыі застаюцца актуальнымі для многіх пакаленняў, захапляючы сваёй шчырасцю і цеплынёй.",
+ "length": 6722.43
+}

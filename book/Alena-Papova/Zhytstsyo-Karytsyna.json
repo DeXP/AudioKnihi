@@ -1,0 +1,34 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 4131.74,
+   "title": "1 - 1.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Alena_Papova.Zyccio_Karycyna.mp3.zip/1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 4131.74,
+   "end": 7406.27,
+   "title": "2 - 2.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Alena_Papova.Zyccio_Karycyna.mp3.zip/2.mp3"
+  }
+ ],
+ "title": "Жыцьцё Карыцына",
+ "slug": "Zhytstsyo-Karytsyna",
+ "author": "Алена Папова",
+ "author_slug": "Alena-Papova",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сучасная проза",
+  "Псыхалягічны раман",
+  "Драма"
+ ],
+ "source": "https://knihi.com/Alena_Papova/Zyccio_Karycyna_mp3.zip.html",
+ "cover": "Alena-Papova/Zhytstsyo-Karytsyna.jpg",
+ "description": "Раман Алены Паповай Жыцьцё Карыцына ўяўляе сабой глыбокае дасьледаваньне чалавечага лёсу на фоне складаных гістарычных і сацыяльных пераменаў. Галоўная гераіня праходзіць праз шэраг выпрабаваньняў, якія прымушаюць яе пераасэнсаваць уласныя каштоўнасьці і месца ў сьвеце. Твор закранае тэмы пошуку сябе, сямейнай памяці і ўнутранай свабоды, што робіць яго блізкім кожнаму чытачу. Аўтарка выкарыстоўвае праніклівую і крыху мэлянхалічную мову, каб перадаць атмасфэру эпохі і псыхалягічныя нюансы перажываньняў пэрсанажаў. Гэтая кніга запрашае да разважаньняў пра тое, як мінулае фармуе наш сёньняшні дзень і як важна заставацца верным сабе ў любых абставінах.",
+ "length": 7406.27
+}

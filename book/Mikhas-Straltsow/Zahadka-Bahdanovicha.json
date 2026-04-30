@@ -1,0 +1,91 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1831.24,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1831.24,
+   "end": 3669.61,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3669.61,
+   "end": 5507.01,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5507.01,
+   "end": 7252.17,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 7252.17,
+   "end": 9079.54,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 9079.54,
+   "end": 10737.53,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 10737.53,
+   "end": 12559.05,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 12559.05,
+   "end": 14219.55,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 14219.55,
+   "end": 15888.07,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 15888.07,
+   "end": 17722.21,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Michas_Stralcou.Zahadka_Bahdanovica.mp3.zip/10.mp3"
+  }
+ ],
+ "title": "Загадка Багдановіча",
+ "slug": "Zahadka-Bahdanovicha",
+ "author": "Міхась Стральцоў",
+ "author_slug": "Mikhas-Straltsow",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Літаратурная крытыка",
+  "Эсэістыка",
+  "Літаратуразнаўства",
+  "Біяграфічны нарыс"
+ ],
+ "source": "https://knihi.com/Michas_Stralcou/Zahadka_Bahdanovica_mp3.zip.html",
+ "cover": "Mikhas-Straltsow/Zahadka-Bahdanovicha.jpg",
+ "description": "У гэтым эсэ Міхась Стральцоў з глыбокім лірызмам і аналітычнай праніклівасцю даследуе творчы феномен Максіма Багдановіча. Аўтар імкнецца разгадаць таямніцу паэтычнага генія, які здолеў у кароткім жыцці стварыць неўміручыя шэдэўры беларускай літаратуры. Праз прызму ўласнага ўспрымання Стральцоў аналізуе эстэтыку вершаў Багдановіча, іх сувязь з еўрапейскай культурай і нацыянальнымі каранямі. Тэкст вызначаецца высокай інтэлектуальнасцю, эмацыйнай стрыманасцю і шчырай павагай да спадчыны класіка. Гэта твор пра сутнасць паэзіі, лёс мастака і вечную прыгажосць слова.",
+ "length": 17722.21
+}

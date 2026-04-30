@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3539.23,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Uladzislau_Syrakomla.Mahnaty_i_sirata.Sofja_kniaziouna_Sluckaja.mp3.zip/1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3539.23,
+   "end": 7339.03,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Uladzislau_Syrakomla.Mahnaty_i_sirata.Sofja_kniaziouna_Sluckaja.mp3.zip/2.mp3"
+  }
+ ],
+ "title": "Магнаты і сірата. Соф’я, князёўна Слуцкая",
+ "slug": "Mahnaty-i-sirata-Sofya-knyazyowna-Slutskaya",
+ "author": "Уладзіслаў Сыракомля",
+ "author_slug": "Uladzislaw-Syrakomlya",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычная проза",
+  "Аповесць",
+  "Рамантызм",
+  "Біяграфічная літаратура"
+ ],
+ "source": "https://knihi.com/Uladzislau_Syrakomla/Mahnaty_i_sirata_Sofja,_kniaziouna_Sluckaja_mp3.zip.html",
+ "cover": "Uladzislaw-Syrakomlya/Mahnaty-i-sirata-Sofya-knyazyowna-Slutskaya.jpg",
+ "description": "Гэты твор Уладзіслава Сыракомлі ўяўляе сабой гістарычную аповесць, прысвечаную драматычнаму лёсу князёўны Соф’і Слуцкай. Аўтар майстэрска спалучае рэальныя падзеі мінулага з мастацкім вымыслам, паказваючы няпростае жыццё сіраты ў асяроддзі магутных магнацкіх родаў Вялікага Княства Літоўскага. Галоўнымі тэмамі кнігі становяцца гонар, вернасць сваім прынцыпам і барацьба за ўласную свабоду ў свеце палітычных інтрыг. Тон аповесці напоўнены лірызмам і глыбокай павагай да нацыянальнай гісторыі, што робіць яе класічным узорам беларускай рамантычнай прозы. Праз вобраз Соф’і пісьменнік раскрывае ідэал высакароднасці, які супрацьстаіць прагнасці і жорсткасці тагачаснай эліты.",
+ "length": 7339.03
+}
