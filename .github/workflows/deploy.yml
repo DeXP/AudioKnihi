@@ -12,18 +12,17 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
-# Opt-in to Node.js 24 for JavaScript actions (fixes deprecation warning)
+# 🔑 Opt-in to Node.js 24 for JavaScript actions (fixes deprecation warning)
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  # === Job: Build & Deploy Vue app + Generate Catalog ===
   build-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pages: write      # Required for GitHub Pages deployment
-      id-token: write   # Required for OIDC token
+      pages: write
+      id-token: write
     
     environment:
       name: github-pages
@@ -44,15 +43,41 @@ jobs:
       # === 🔥 Generate catalog.json fresh on every build ===
       - name: Generate catalog.json
         run: node scripts/generate.cjs
-        # ✅ catalog.json is created in repo root, then copied to dist/
+        # ✅ catalog.json is created in repo root
       
+      # === 📤 FTP Upload: catalog.json → audioknihi_catalog.cache.json ===
+      - name: Prepare catalog for FTP upload
+        # Create a copy with the target filename for FTP
+        run: cp catalog.json audioknihi_catalog.cache.json
+      
+      - name: Upload catalog cache via FTP
+        # Only run on push to main AND if FTP secrets are configured
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main' && secrets.FTP_HOST != ''
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          # Upload from repo root where we just created audioknihi_catalog.cache.json
+          local-dir: ./
+          server-dir: ${{ secrets.FTP_PATH }}
+          # ✅ Upload ONLY the renamed catalog file
+          file-list: |
+            audioknihi_catalog.cache.json
+          # Exclude everything else by default (safety net)
+          exclude: |
+            **/*
+            !audioknihi_catalog.cache.json
+          # Optional: log details
+          log-level: verbose
+      
+      # === Continue with Vite build ===
       - name: Build Vite app
         run: npm run build
         env:
-          # For custom domain audioknihi.dexp.in (root), use '/'
           VITE_BASE: '/'
       
-      # === Copy static data to dist for deployment ===
+      # === Copy static data to dist for GitHub Pages ===
       - name: Copy catalog.json and book folder to dist
         run: |
           echo "📦 Copying static assets to dist/"
@@ -60,10 +85,9 @@ jobs:
           cp -r book dist/
           echo "✅ dist/ contents:"
           ls -la dist/
-          # Optional: show book count
-          echo "📚 Books in deployment: $(ls dist/book/*.json 2>/dev/null | wc -l)"
+          echo "📚 Books: $(ls dist/book/*.json 2>/dev/null | wc -l)"
       
-      # === GitHub Pages deployment steps ===
+      # === GitHub Pages deployment ===
       - name: Setup Pages
         uses: actions/configure-pages@v5
       
