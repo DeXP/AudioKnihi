@@ -47,21 +47,34 @@ jobs:
         run: |
           mkdir -p ftp-upload
           cp catalog.json ftp-upload/audioknihi_catalog.cache.json
-          echo "✅ Prepared $(ls ftp-upload/ | wc -l) file(s) for FTP upload"
-      
+          echo "✅ Files in ftp-upload/:"
+          ls -la ftp-upload/
+
+      # 🔍 DEBUG: Verify file exists before FTP step (optional but helpful)
+      - name: Verify FTP file exists
+        run: |
+          if [ -f "ftp-upload/audioknihi_catalog.cache.json" ]; then
+            echo "✅ File ready for upload"
+            ls -lh ftp-upload/audioknihi_catalog.cache.json
+          else
+            echo "❌ File not found!"
+            exit 1
+          fi
+
       - name: Upload catalog cache via FTP
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         continue-on-error: true
-        uses: SamKirkland/FTP-Deploy-Action@v4.4.0  # ✅ Correct case + latest version
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
           port: ${{ secrets.FTP_PORT || 21 }}
           protocol: ${{ secrets.FTP_PROTOCOL || 'ftp' }}
-          local-dir: ./ftp-upload/  # ✅ Only catalog file inside
+          # ✅ CRITICAL FIX: Use absolute path via github.workspace
+          local-dir: ${{ github.workspace }}/ftp-upload
           server-dir: ${{ secrets.FTP_PATH }}
-          exclude: ''  # Nothing to exclude (directory is already isolated)
+          exclude: ''
           log-level: verbose
           dangerous-clean-slate: false
       
