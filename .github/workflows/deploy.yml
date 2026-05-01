@@ -11,7 +11,7 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
-# 🔑 Opt-in to Node.js 24 for JavaScript actions (suppresses deprecation errors)
+# 🔑 Opt-in to Node.js 24 for JavaScript actions
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -28,12 +28,12 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6  # ✅ Updated to v6 (recommended by FTP action)
       
       - name: Setup Node
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@v4  # ✅ Keep v4 (v5 not yet widely available)
         with:
-          node-version: '20'  # Your app runtime — still valid
+          node-version: '20'
           cache: 'npm'
       
       - name: Install dependencies
@@ -44,30 +44,25 @@ jobs:
       
       # === 📤 FTP Upload: catalog.json → audioknihi_catalog.cache.json ===
       - name: Prepare FTP upload directory
-        # Create isolated folder with ONLY the file to upload
         run: |
           mkdir -p ftp-upload
           cp catalog.json ftp-upload/audioknihi_catalog.cache.json
           echo "✅ Prepared $(ls ftp-upload/ | wc -l) file(s) for FTP upload"
       
       - name: Upload catalog cache via FTP
-        # Only run on push to main
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        continue-on-error: true  # Graceful skip if secrets missing
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.7  # ✅ Updated to latest
+        continue-on-error: true
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0  # ✅ Correct case + latest version
         with:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASS }}
-          port: ${{ secrets.FTP_PORT || 21 }}  # Optional: default to 21
-          protocol: ${{ secrets.FTP_PROTOCOL || 'ftp' }}  # 'ftp' or 'ftps'
-          # ✅ Upload from isolated directory (only catalog file inside)
-          local-dir: ./ftp-upload/
+          port: ${{ secrets.FTP_PORT || 21 }}
+          protocol: ${{ secrets.FTP_PROTOCOL || 'ftp' }}
+          local-dir: ./ftp-upload/  # ✅ Only catalog file inside
           server-dir: ${{ secrets.FTP_PATH }}
-          # No file-list needed — directory contains only our target file
-          exclude: ''  # Nothing to exclude
+          exclude: ''  # Nothing to exclude (directory is already isolated)
           log-level: verbose
-          # Optional: prevent accidental deletions on server
           dangerous-clean-slate: false
       
       # === Continue with Vite build ===
@@ -96,7 +91,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v5
       
-      # === Cleanup: remove temp FTP directory ===
+      # === Cleanup ===
       - name: Cleanup FTP temp files
-        if: always()  # Run even if previous steps fail
+        if: always()
         run: rm -rf ftp-upload/
