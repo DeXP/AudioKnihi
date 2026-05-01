@@ -1,0 +1,135 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 770.9,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 770.9,
+   "end": 1505.31,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1505.31,
+   "end": 2264.9,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2264.9,
+   "end": 3015.89,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 3015.89,
+   "end": 3784.57,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3784.57,
+   "end": 4530.76,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4530.76,
+   "end": 5325.46,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 5325.46,
+   "end": 6106.34,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 6106.34,
+   "end": 6872.22,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 6872.22,
+   "end": 7683.3,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 7683.3,
+   "end": 8455.74,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 8455.74,
+   "end": 9269.27,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 9269.27,
+   "end": 10002.89,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 10002.89,
+   "end": 10791.87,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 10791.87,
+   "end": 11576.72,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 11576.72,
+   "end": 12390.62,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Stanislau_Suskievic.Na_pieralomie.mp3.zip/16.mp3"
+  }
+ ],
+ "title": "На пераломе",
+ "slug": "Na-peralome",
+ "author": "Станіслаў С. Шушкевіч",
+ "author_slug": "Stanislaw-S-Shushkevich",
+ "narrators": [
+  "Станіслаў С. Шушкевіч"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Мемуары",
+  "Палітычная літаратура",
+  "Гістарычная дакументалістыка",
+  "Біяграфія"
+ ],
+ "source": "https://knihi.com/Stanislau_S_Suskievic/Na_pieralomie_mp3.zip.html",
+ "cover": "Stanislaw-S-Shushkevich/Na-peralome.jpg",
+ "description": "У кнізе На пераломе Станіслаў Шушкевіч дзеліцца ўспамінамі пра лёсавызначальныя падзеі ў гісторыі Беларусі, звязаныя з распадам Савецкага Саюза і здабыццём незалежнасці. Аўтар падрабязна апісвае закуліссе палітычных перамоў у Віскулях, якія назаўсёды змянілі геапалітычную карту свету. Тэкст спалучае ў сабе асабістыя перажыванні навукоўца і палітыка з глыбокім аналізам складаных працэсаў дзяржаўнага будаўніцтва. Гэта шчырая і рэфлексіўная споведзь чалавека, які апынуўся ў эпіцэнтры гістарычных пераменаў. Кніга мае сур’ёзны, аналітычны і адначасова мемуарны тон, што робіць яе каштоўнай крыніцай для разумення беларускай гісторыі канца дваццатага стагоддзя.",
+ "length": 12390.62
+}

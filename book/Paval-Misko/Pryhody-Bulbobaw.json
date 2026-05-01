@@ -1,0 +1,111 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 842.48,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 842.48,
+   "end": 1536.79,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1536.79,
+   "end": 2307.82,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2307.82,
+   "end": 3215.13,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 3215.13,
+   "end": 4115.62,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 4115.62,
+   "end": 5223.79,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 5223.79,
+   "end": 6307.4,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 6307.4,
+   "end": 7337.72,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 7337.72,
+   "end": 8335.41,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 8335.41,
+   "end": 9280.6,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 9280.6,
+   "end": 10079.82,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 10079.82,
+   "end": 10741.01,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 10741.01,
+   "end": 11582.44,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Paval_Misko.Pryhody_Bulbobau.mp3.zip/13.mp3"
+  }
+ ],
+ "title": "Прыгоды Бульбобаў",
+ "slug": "Pryhody-Bulbobaw",
+ "author": "Павал Місько",
+ "author_slug": "Paval-Misko",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Фантастыка",
+  "Гумарыстычная проза"
+ ],
+ "source": "https://knihi.com/Paval_Misko/Pryhody_Bulbobau_mp3.zip.html",
+ "cover": "Paval-Misko/Pryhody-Bulbobaw.jpg",
+ "description": "Гэтая займальная аповесць Паўла Місько распавядае пра незвычайную сям’ю Бульбобаў, якія жывуць у звычайнай кватэры, але валодаюць здольнасцю ператварацца ў розныя прадметы. Галоўныя героі сутыкаюцца з мноствам камічных і фантастычных сітуацый, спрабуючы схаваць сваю таямніцу ад навакольных людзей. Праз гумарыстычную форму аўтар уздымае важныя тэмы сямейных каштоўнасцей, узаемаразумення і прыняцця непаўторнасці кожнага чалавека. Кніга вызначаецца лёгкім і жывым стылем апавядання, які будзе цікавы як дзецям, так і дарослым чытачам. Гэта светлая і добрая гісторыя, напоўненая прыгодамі і нечаканымі паваротамі сюжэта.",
+ "length": 11582.44
+}
