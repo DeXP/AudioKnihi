@@ -1,0 +1,300 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1199.57,
+   "title": "1 - 001.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1199.57,
+   "end": 2399.24,
+   "title": "2 - 002.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 2399.24,
+   "end": 3598.97,
+   "title": "3 - 003.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 3598.97,
+   "end": 4799.04,
+   "title": "4 - 004.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 4799.04,
+   "end": 5998.58,
+   "title": "5 - 005.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 5998.58,
+   "end": 7199.53,
+   "title": "6 - 006.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 7199.53,
+   "end": 8400.48,
+   "title": "7 - 007.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 8400.48,
+   "end": 9601.33,
+   "title": "8 - 008.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 9601.33,
+   "end": 10802.88,
+   "title": "9 - 009.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 10802.88,
+   "end": 11999.89,
+   "title": "10 - 010.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/010.mp3"
+  },
+  {
+   "id": 10,
+   "start": 11999.89,
+   "end": 13199.56,
+   "title": "11 - 011.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/011.mp3"
+  },
+  {
+   "id": 11,
+   "start": 13199.56,
+   "end": 14399.68,
+   "title": "12 - 012.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/012.mp3"
+  },
+  {
+   "id": 12,
+   "start": 14399.68,
+   "end": 15599.95,
+   "title": "13 - 013.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/013.mp3"
+  },
+  {
+   "id": 13,
+   "start": 15599.95,
+   "end": 16800.02,
+   "title": "14 - 014.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/014.mp3"
+  },
+  {
+   "id": 14,
+   "start": 16800.02,
+   "end": 17999.95,
+   "title": "15 - 015.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/015.mp3"
+  },
+  {
+   "id": 15,
+   "start": 17999.95,
+   "end": 19199.94,
+   "title": "16 - 016.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/016.mp3"
+  },
+  {
+   "id": 16,
+   "start": 19199.94,
+   "end": 20399.43,
+   "title": "17 - 017.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/017.mp3"
+  },
+  {
+   "id": 17,
+   "start": 20399.43,
+   "end": 21601.98,
+   "title": "18 - 018.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/018.mp3"
+  },
+  {
+   "id": 18,
+   "start": 21601.98,
+   "end": 22804.63,
+   "title": "19 - 019.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/019.mp3"
+  },
+  {
+   "id": 19,
+   "start": 22804.63,
+   "end": 24004.51,
+   "title": "20 - 020.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/020.mp3"
+  },
+  {
+   "id": 20,
+   "start": 24004.51,
+   "end": 25206.72,
+   "title": "21 - 021.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/021.mp3"
+  },
+  {
+   "id": 21,
+   "start": 25206.72,
+   "end": 26409.01,
+   "title": "22 - 022.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/022.mp3"
+  },
+  {
+   "id": 22,
+   "start": 26409.01,
+   "end": 27611.79,
+   "title": "23 - 023.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/023.mp3"
+  },
+  {
+   "id": 23,
+   "start": 27611.79,
+   "end": 28814.36,
+   "title": "24 - 024.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/024.mp3"
+  },
+  {
+   "id": 24,
+   "start": 28814.36,
+   "end": 30016.72,
+   "title": "25 - 025.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/025.mp3"
+  },
+  {
+   "id": 25,
+   "start": 30016.72,
+   "end": 31219.24,
+   "title": "26 - 026.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/026.mp3"
+  },
+  {
+   "id": 26,
+   "start": 31219.24,
+   "end": 32420.98,
+   "title": "27 - 027.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/027.mp3"
+  },
+  {
+   "id": 27,
+   "start": 32420.98,
+   "end": 33622.38,
+   "title": "28 - 028.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/028.mp3"
+  },
+  {
+   "id": 28,
+   "start": 33622.38,
+   "end": 34821.92,
+   "title": "29 - 029.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/029.mp3"
+  },
+  {
+   "id": 29,
+   "start": 34821.92,
+   "end": 36021.67,
+   "title": "30 - 030.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/030.mp3"
+  },
+  {
+   "id": 30,
+   "start": 36021.67,
+   "end": 37223.17,
+   "title": "31 - 031.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/031.mp3"
+  },
+  {
+   "id": 31,
+   "start": 37223.17,
+   "end": 38424.31,
+   "title": "32 - 032.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/032.mp3"
+  },
+  {
+   "id": 32,
+   "start": 38424.31,
+   "end": 39625.58,
+   "title": "33 - 033.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/033.mp3"
+  },
+  {
+   "id": 33,
+   "start": 39625.58,
+   "end": 40827.11,
+   "title": "34 - 034.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/034.mp3"
+  },
+  {
+   "id": 34,
+   "start": 40827.11,
+   "end": 42028.22,
+   "title": "35 - 035.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/035.mp3"
+  },
+  {
+   "id": 35,
+   "start": 42028.22,
+   "end": 43229.75,
+   "title": "36 - 036.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/036.mp3"
+  },
+  {
+   "id": 36,
+   "start": 43229.75,
+   "end": 44431.43,
+   "title": "37 - 037.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/037.mp3"
+  },
+  {
+   "id": 37,
+   "start": 44431.43,
+   "end": 45633.04,
+   "title": "38 - 038.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/038.mp3"
+  },
+  {
+   "id": 38,
+   "start": 45633.04,
+   "end": 46834.31,
+   "title": "39 - 039.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/039.mp3"
+  },
+  {
+   "id": 39,
+   "start": 46834.31,
+   "end": 48035.94,
+   "title": "40 - 040.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Belarusian_language_lessons.mp3.zip/040.mp3"
+  }
+ ],
+ "title": "Урокі беларускай мовы для замежнікаў",
+ "slug": "Uroki-belaruskay-movy-dlya-zamezhnikaw",
+ "author": "Тацьцяна Сівец",
+ "author_slug": "Tatstsyana-Sivets",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Навучальная літаратура",
+  "Дапаможнік",
+  "Мовазнаўства"
+ ],
+ "source": "https://knihi.com/Tacciana_Siviec/Uroki_bielaruskaj_movy_dla_zamieznikau_mp3.zip.html",
+ "cover": "Tatstsyana-Sivets/Uroki-belaruskay-movy-dlya-zamezhnikaw.jpg",
+ "description": "Гэтае выданне ўяўляе сабой практычны дапаможнік, прызначаны для тых, хто робіць першыя крокі ў вывучэнні беларускай мовы. Аўтар прапануе сістэматызаваны падыход, які спалучае асновы граматыкі з жывой лексікай, неабходнай для паўсядзённых зносін. Кніга напісана ў даступнай і лаканічнай форме, што робіць працэс навучання лёгкім і зразумелым для замежных студэнтаў. Асаблівая ўвага надаецца фарміраванню навыкаў пісьмовага і вуснага маўлення праз цікавыя практыкаванні. Гэты дапаможнік стане выдатным памочнікам для ўсіх, хто імкнецца авалодаць беларускай мовай і далучыцца да багатай культуры нашага народа.",
+ "length": 48035.94
+}

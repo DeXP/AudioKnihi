@@ -1,0 +1,93 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 953.164,
+   "title": "1 - 01-001.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 953.164,
+   "end": 1829.844,
+   "title": "1 - 01-002.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1829.844,
+   "end": 2622.172,
+   "title": "1 - 01-003.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2622.172,
+   "end": 3189.638,
+   "title": "1 - 01-004.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 3189.638,
+   "end": 4264.846,
+   "title": "1 - 01-005.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 4264.846,
+   "end": 5237.654,
+   "title": "1 - 01-006.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 5237.654,
+   "end": 6526.75,
+   "title": "1 - 01-007.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 6526.75,
+   "end": 7932.454,
+   "title": "1 - 01-008.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 7932.454,
+   "end": 9067.31,
+   "title": "1 - 01-009.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 9067.31,
+   "end": 10144.31,
+   "title": "1 - 01-010.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Ferma.mp3.zip/01-010.mp3"
+  }
+ ],
+ "title": "Фэрма",
+ "slug": "Ferma",
+ "author": "Джордж Оруэл",
+ "author_slug": "Dzhordzh-Oruel",
+ "narrators": [
+  "Валер Будзевіч"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сатыра",
+  "Антыўтопія",
+  "Алегорыя",
+  "Палітычная проза"
+ ],
+ "source": "https://knihi.com/Dzordz_Oruel/Ferma_mp3.zip.html",
+ "cover": "Dzhordzh-Oruel/Ferma.jpg",
+ "description": "Гэта знакамітая сатырычная аповесць-прытча распавядае пра групу жывёл, якія паўстаюць супраць свайго гаспадара-чалавека, каб стварыць справядлівае грамадства на ўласнай ферме. З цягам часу ідэалы роўнасці і свабоды паступова ператвараюцца ў жорсткую дыктатуру свіней, якія пераймаюць горшыя рысы людзей. Твор з'яўляецца вострай алегорыяй на падзеі рэвалюцыі 1917 года і наступнае станаўленне таталітарнага рэжыму ў СССР. Аўтар майстэрску паказвае, як прага ўлады і прапаганда могуць сказіць любыя высакародныя памкненні. Кніга вылучаецца змрочным, іранічным тонам і глыбокім філасофскім падтэкстам, які застаецца актуальным і сёння.",
+ "length": 10144.31
+}

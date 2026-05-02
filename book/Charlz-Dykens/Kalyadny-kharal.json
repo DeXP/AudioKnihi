@@ -1,0 +1,79 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2118.546,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Dykiens.Kaladny_charal.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2118.546,
+   "end": 4531.048,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Dykiens.Kaladny_charal.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 4531.048,
+   "end": 6760.915,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Dykiens.Kaladny_charal.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 6760.915,
+   "end": 8988.47,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Dykiens.Kaladny_charal.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 8988.47,
+   "end": 11317.589,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Dykiens.Kaladny_charal.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 11317.589,
+   "end": 13646.708,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Dykiens.Kaladny_charal.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 13646.708,
+   "end": 16110.306,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Dykiens.Kaladny_charal.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 16110.306,
+   "end": 18648.98,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Dykiens.Kaladny_charal.mp3.zip/08.mp3"
+  }
+ ],
+ "title": "Калядны харал",
+ "slug": "Kalyadny-kharal",
+ "author": "Чарлз Дыкенс",
+ "author_slug": "Charlz-Dykens",
+ "narrators": [
+  "Ісай Свістулькін"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Класічная літаратура",
+  "Фэнтэзі",
+  "Калядная аповесць",
+  "Прыпавесць"
+ ],
+ "source": "https://knihi.com/Carlz_Dykiens/Kaladny_charal_mp3.zip.html",
+ "cover": "Charlz-Dykens/Kalyadny-kharal.jpg",
+ "description": "Гэта класічная гісторыя пра скупога і чэрствага Эбенезера Скруджа, які ненавідзіць Каляды і ўсё, што з імі звязана. У калядную ноч да яго прыходзяць прывіды мінулага, цяперашняга і будучага, каб паказаць яму сапраўдны сэнс жыцця і наступствы яго эгаізму. Праз гэтыя сустрэчы галоўны герой праходзіць праз глыбокую духоўную трансфармацыю і вучыцца спачуванню да бліжніх. Твор прасякнуты атмасферай святочнага цуду, маральнага перараджэння і веры ў лепшае ў чалавеку. Гэтая аповесць застаецца адным з самых вядомых і кранальных твораў сусветнай літаратуры, якія нагадваюць пра важнасць дабрыні і міласэрнасці.",
+ "length": 18648.98
+}

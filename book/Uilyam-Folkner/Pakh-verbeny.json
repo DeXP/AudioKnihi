@@ -1,0 +1,49 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1326.01,
+   "title": "1 - f01.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Folknier.Pach_vierbieny.mp3.zip/f01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1326.01,
+   "end": 3150.6,
+   "title": "2 - f02.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Folknier.Pach_vierbieny.mp3.zip/f02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3150.6,
+   "end": 4528.49,
+   "title": "3 - f03.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Folknier.Pach_vierbieny.mp3.zip/f03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 4528.49,
+   "end": 6273.5,
+   "title": "4 - f04.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Susvietnaja_litaratura/Folknier.Pach_vierbieny.mp3.zip/f04.mp3"
+  }
+ ],
+ "title": "Пах вербены",
+ "slug": "Pakh-verbeny",
+ "author": "Уільям Фолкнер",
+ "author_slug": "Uilyam-Folkner",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Мадэрнісцкая літаратура",
+  "Паўднёвая готыка",
+  "Гістарычная проза",
+  "Апавяданне"
+ ],
+ "source": "https://knihi.com/Uiljam_Folknier/Pach_vierbieny_mp3.zip.html",
+ "cover": "Uilyam-Folkner/Pakh-verbeny.jpg",
+ "description": "Апавяданне Уільяма Фолкнера Пах вербены з'яўляецца фінальнай часткай цыкла пра сям'ю Сарторысаў і глыбока даследуе тэмы гонару, помсты і пераемнасці пакаленняў на Поўдні ЗША. Галоўны герой Баярд Сарторыс сутыкаецца з цяжкім маральным выбарам пасля забойства свайго бацькі, разрываючыся паміж сямейнай традыцыяй крывавай помсты і ўласным жаданнем міру. Праз вобраз паху вербены аўтар майстэрска перадае настальгію па мінулым і адчуванне непазбежнасці змен у грамадстве. Твор вызначаецца складанай псіхалагічнай глыбінёй, атмасферай трагізму і філасофскім роздумам пра месца чалавека ў гісторыі. Гэта магутная гісторыя пра сталенне і спробу вырвацца з зачараванага кола гвалту.",
+ "length": 6273.5
+}

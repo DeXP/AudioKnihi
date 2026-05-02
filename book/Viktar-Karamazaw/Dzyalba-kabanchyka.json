@@ -1,0 +1,42 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1118.55,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Skolnikam/9_klas/Viktar_Karamazau.Dzialba_kabancyka.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1118.55,
+   "end": 2632.09,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Skolnikam/9_klas/Viktar_Karamazau.Dzialba_kabancyka.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 2632.09,
+   "end": 3981.14,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/mininfarm/Skolnikam/9_klas/Viktar_Karamazau.Dzialba_kabancyka.mp3.zip/03.mp3"
+  }
+ ],
+ "title": "Дзяльба кабанчыка",
+ "slug": "Dzyalba-kabanchyka",
+ "author": "Віктар Карамазаў",
+ "author_slug": "Viktar-Karamazaw",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Апавяданне",
+  "Рэалізм",
+  "Беларуская літаратура"
+ ],
+ "source": "https://knihi.com/Viktar_Karamazau/Dzialba_kabancyka_audio_mp3.zip.html",
+ "cover": "Viktar-Karamazaw/Dzyalba-kabanchyka.jpg",
+ "description": "Апавяданне Віктара Карамазава Дзяльба кабанчыка ўяўляе сабой глыбокае і праніклівае даследаванне вясковага побыту і чалавечых узаемаадносін. У цэнтры сюжэту знаходзіцца традыцыйны для беларускай вёскі працэс падзелу мяса пасля забою свінні, які становіцца своеасаблівым люстэркам маральных якасцяў герояў. Праз бытавую дэталь аўтар раскрывае складаныя псіхалагічныя партрэты персанажаў, іх прагнасць, шчырасць або ўзаемную падтрымку. Твор вызначаецца лірычнасцю, увагай да дэталяў і адчуваннем настальгіі па мінулым укладзе жыцця. Гэта гісторыя пра тое, як у звычайных штодзённых клопатах выпрабоўваецца чалавечая годнасць і сумленне.",
+ "length": 3981.14
+}

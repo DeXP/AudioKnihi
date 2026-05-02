@@ -1,0 +1,35 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3477.08,
+   "title": "1 - частка 1",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Uladzimir_Butramiejeu.Strasci_pa_Audzieju.mp3.zip/1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3477.08,
+   "end": 6405.93,
+   "title": "2 - частка 2",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjoteatarplus/Uladzimir_Butramiejeu.Strasci_pa_Audzieju.mp3.zip/2.mp3"
+  }
+ ],
+ "title": "Страсці па Аўдзею",
+ "slug": "Strastsi-pa-Awdzeyu",
+ "author": "Уладзімір Бутрамееў",
+ "author_slug": "Uladzimir-Butrameew",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычны раман",
+  "Сацыяльная драма",
+  "Проза",
+  "Філасофская літаратура"
+ ],
+ "source": "https://knihi.com/Uladzimir_Butramiejeu/Strasci_pa_Audzieju_mp3.zip.html",
+ "cover": "Uladzimir-Butrameew/Strastsi-pa-Awdzeyu.jpg",
+ "description": "Раман Уладзіміра Бутрамеева Страсці па Аўдзею ўяўляе сабой глыбокае філасофскае даследаванне лёсу беларускага селяніна на фоне драматычных гістарычных падзей дваццатага стагоддзя. Галоўны герой Аўдзей увасабляе ў сабе нязломнасць духу і трагізм чалавека, які вымушаны супрацьстаяць жорсткім абставінам часу і сацыяльным пераменам. Аўтар майстэрска спалучае рэалістычнае апісанне вясковага побыту з экзістэнцыяльнымі разважаннямі пра сэнс жыцця, веру і маральны выбар. Твор вызначаецца высокай эмацыйнай напружанасцю і шчырасцю, прымушаючы чытача суперажываць кожнаму кроку героя. Гэта кніга пра любоў да роднай зямлі, пра выпрабаванні сумлення і пра тое, як захаваць чалавечнасць у бязлітасным свеце.",
+ "length": 6405.93
+}

@@ -1,0 +1,37 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1709.29,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Mikola_Husouski.Piesnia_pra_zubra.1980.aviarjanau.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1709.29,
+   "end": 3369.52,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Mikola_Husouski.Piesnia_pra_zubra.1980.aviarjanau.mp3.zip/02.mp3"
+  }
+ ],
+ "title": "Песня пра зубра",
+ "slug": "Pesnya-pra-zubra",
+ "author": "Мікола Гусоўскі",
+ "author_slug": "Mikola-Husowski",
+ "narrators": [
+  "Юры Авер'янаў, пераклад Язэпа Семяжона"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Паэма",
+  "Эпічная паэзія",
+  "Гістарычная літаратура",
+  "Класіка"
+ ],
+ "source": "https://knihi.com/Mikola_Husouski/Piesnia_pra_zubra_mp3.zip.html",
+ "cover": "Mikola-Husowski/Pesnya-pra-zubra.jpg",
+ "description": "Песня пра зубра гэта выдатны помнік старажытнай беларускай літаратуры, напісаны Міколам Гусоўскім у пачатку шаснаццатага стагоддзя. У творы аўтар праз вобраз магутнага зубра ўслаўляе прыроду роднага краю, яго багацце і непаўторную прыгажосць. Акрамя апісанняў палявання і жывёльнага свету, паэма закранае важныя тэмы патрыятызму, абароны айчыны ад знешніх ворагаў і мудрасці кіравання дзяржавай. Тон твора ўрачысты і філасофскі, ён прасякнуты глыбокай любоўю да роднай зямлі і клопатам пра яе будучыню. Гэты твор застаецца сімвалам нацыянальнай годнасці і гістарычнай памяці беларускага народа.",
+ "length": 3369.52
+}

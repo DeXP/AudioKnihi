@@ -1,0 +1,401 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 160.0,
+   "title": "1 - 1. Спевы салаўя",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 160.0,
+   "end": 697.03,
+   "title": "2 - ныя званы",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 697.03,
+   "end": 1486.45,
+   "title": "3 - я лапы",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1486.45,
+   "end": 2172.9,
+   "title": "4 - зямлі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2172.9,
+   "end": 2839.21,
+   "title": "5 - ун варон страляе",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 2839.21,
+   "end": 3463.64,
+   "title": "6 - ак па-панску",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3463.64,
+   "end": 4285.84,
+   "title": "7 - ць панам",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 4285.84,
+   "end": 5549.49,
+   "title": "8 - ва чыстае, як неба",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 5549.49,
+   "end": 6190.4,
+   "title": "9 - і курыца",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 6190.4,
+   "end": 6994.63,
+   "title": "10 - пані Вашамірская",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 6994.63,
+   "end": 7658.85,
+   "title": "11 - канцэрт",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 7658.85,
+   "end": 8281.66,
+   "title": "12 - мары розных людзей",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 8281.66,
+   "end": 9037.1,
+   "title": "13 - 1. Вайна між рэжысёрам і драматургам",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 9037.1,
+   "end": 9726.99,
+   "title": "14 - дух",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 9726.99,
+   "end": 10792.6,
+   "title": "15 - ьная рэпетыцыя",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 10792.6,
+   "end": 11725.3,
+   "title": "16 - Пан Езус",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 11725.3,
+   "end": 12028.32,
+   "title": "17 - ра Зоську не забыўся",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 12028.32,
+   "end": 12387.5,
+   "title": "18 - я, красная дзеўчына",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 12387.5,
+   "end": 13055.27,
+   "title": "19 - , а свой",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 13055.27,
+   "end": 13793.05,
+   "title": "20 - панскі баль",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 13793.05,
+   "end": 14393.06,
+   "title": "21 - ычная ноч",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 14393.06,
+   "end": 14950.9,
+   "title": "22 - ыдэк»",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 14950.9,
+   "end": 15535.91,
+   "title": "23 - скія матывы",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 15535.91,
+   "end": 16240.67,
+   "title": "24 - льскі, купец польскі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 16240.67,
+   "end": 16850.37,
+   "title": "25 - ыя сны",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/25.mp3"
+  },
+  {
+   "id": 25,
+   "start": 16850.37,
+   "end": 17381.1,
+   "title": "26 - у быць панскім салаўём",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/26.mp3"
+  },
+  {
+   "id": 26,
+   "start": 17381.1,
+   "end": 18195.44,
+   "title": "27 - . 1. Кплівы смех і французская гравюра",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/27.mp3"
+  },
+  {
+   "id": 27,
+   "start": 18195.44,
+   "end": 18862.63,
+   "title": "28 - муз",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/28.mp3"
+  },
+  {
+   "id": 28,
+   "start": 18862.63,
+   "end": 19441.82,
+   "title": "29 - тэатра стайня",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/29.mp3"
+  },
+  {
+   "id": 29,
+   "start": 19441.82,
+   "end": 20310.34,
+   "title": "30 - літасці не прасіла",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/30.mp3"
+  },
+  {
+   "id": 30,
+   "start": 20310.34,
+   "end": 20966.67,
+   "title": "31 - казка",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/31.mp3"
+  },
+  {
+   "id": 31,
+   "start": 20966.67,
+   "end": 21410.41,
+   "title": "32 - ацялілася",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/32.mp3"
+  },
+  {
+   "id": 32,
+   "start": 21410.41,
+   "end": 22577.85,
+   "title": "33 - аці",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/33.mp3"
+  },
+  {
+   "id": 33,
+   "start": 22577.85,
+   "end": 23679.72,
+   "title": "34 - ліся людзі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/34.mp3"
+  },
+  {
+   "id": 34,
+   "start": 23679.72,
+   "end": 24405.43,
+   "title": "35 - 9. У пушчы",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/35.mp3"
+  },
+  {
+   "id": 35,
+   "start": 24405.43,
+   "end": 25195.11,
+   "title": "36 - шымбжыцкі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/36.mp3"
+  },
+  {
+   "id": 36,
+   "start": 25195.11,
+   "end": 26258.22,
+   "title": "37 - ернардынец",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/37.mp3"
+  },
+  {
+   "id": 37,
+   "start": 26258.22,
+   "end": 27144.48,
+   "title": "38 - 12. Помста",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/38.mp3"
+  },
+  {
+   "id": 38,
+   "start": 27144.48,
+   "end": 27448.08,
+   "title": "39 - ны курган",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/39.mp3"
+  },
+  {
+   "id": 39,
+   "start": 27448.08,
+   "end": 28272.22,
+   "title": "40 - . Без споведзі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/40.mp3"
+  },
+  {
+   "id": 40,
+   "start": 28272.22,
+   "end": 28661.13,
+   "title": "41 - заціркі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/41.mp3"
+  },
+  {
+   "id": 41,
+   "start": 28661.13,
+   "end": 29070.16,
+   "title": "42 - Сымоніхі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/42.mp3"
+  },
+  {
+   "id": 42,
+   "start": 29070.16,
+   "end": 29898.56,
+   "title": "43 - Злодзей",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/43.mp3"
+  },
+  {
+   "id": 43,
+   "start": 29898.56,
+   "end": 30204.77,
+   "title": "44 - асекі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/44.mp3"
+  },
+  {
+   "id": 44,
+   "start": 30204.77,
+   "end": 30716.35,
+   "title": "45 - Сымон",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/45.mp3"
+  },
+  {
+   "id": 45,
+   "start": 30716.35,
+   "end": 31803.85,
+   "title": "46 - к сыну",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/46.mp3"
+  },
+  {
+   "id": 46,
+   "start": 31803.85,
+   "end": 32714.3,
+   "title": "47 - Умарыўся",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/47.mp3"
+  },
+  {
+   "id": 47,
+   "start": 32714.3,
+   "end": 34273.29,
+   "title": "48 - яйкі",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/48.mp3"
+  },
+  {
+   "id": 48,
+   "start": 34273.29,
+   "end": 36086.5,
+   "title": "49 - Бондар",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/49.mp3"
+  },
+  {
+   "id": 49,
+   "start": 36086.5,
+   "end": 37177.14,
+   "title": "50 - На балоце",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/50.mp3"
+  },
+  {
+   "id": 50,
+   "start": 37177.14,
+   "end": 37976.67,
+   "title": "51 - і",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/51.mp3"
+  },
+  {
+   "id": 51,
+   "start": 37976.67,
+   "end": 39013.91,
+   "title": "52 - Віхор",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/52.mp3"
+  },
+  {
+   "id": 52,
+   "start": 39013.91,
+   "end": 40651.89,
+   "title": "53 - Летапісцы",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/53.mp3"
+  },
+  {
+   "id": 53,
+   "start": 40651.89,
+   "end": 41474.85,
+   "title": "54 - Анчар",
+   "url": "https://files.knihi.com/Audio/audiobooks/zmitrok_biadulia_salavei.mp3.zip/54.mp3"
+  }
+ ],
+ "title": "Салавей",
+ "slug": "Salavey",
+ "author": "Зьмітрок Бядуля",
+ "author_slug": "Zmitrok-Byadulya",
+ "narrators": [
+  "Леанід Дзяркач"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычная проза",
+  "Аповесць",
+  "Сацыяльная драма",
+  "Рамантызм"
+ ],
+ "source": "https://knihi.com/Zmitrok_Biadula/Salaviej_mp3.zip.html",
+ "cover": "Zmitrok-Byadulya/Salavey.jpg",
+ "description": "Аповесць Зьмітрака Бядулі Салавей распавядае пра трагічны лёс прыгонных музыкі Сымона і яго каханай Алены, якія імкнуцца вырвацца з-пад прыгнёту жорсткага пана. Галоўны герой валодае незвычайным талентам іграць на скрыпцы, што становіцца як яго выратаваннем, так і прычынай шматлікіх пакут. Твор глыбока раскрывае тэмы сацыяльнай несправядлівасці, духоўнай свабоды чалавека і непераможнай сілы мастацтва. Аўтар майстэрна перадае атмасферу прыгонніцкай вёскі, спалучаючы рэалістычныя апісанні з лірычнымі і драматычнымі нотамі. Гэта кранальная гісторыя пра каханне, якое выпрабоўваецца лёсам, і пра імкненне чалавечай душы да святла і незалежнасці.",
+ "length": 41474.85
+}

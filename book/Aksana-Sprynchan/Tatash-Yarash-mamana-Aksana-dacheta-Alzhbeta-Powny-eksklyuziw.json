@@ -1,0 +1,63 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 825.47,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Aksana_Spryncan.Tatas_Jaras_mamana_Aksana_daceta_Alzbeta.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 825.47,
+   "end": 1520.77,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Aksana_Spryncan.Tatas_Jaras_mamana_Aksana_daceta_Alzbeta.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1520.77,
+   "end": 2254.86,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Aksana_Spryncan.Tatas_Jaras_mamana_Aksana_daceta_Alzbeta.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2254.86,
+   "end": 2876.42,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Aksana_Spryncan.Tatas_Jaras_mamana_Aksana_daceta_Alzbeta.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2876.42,
+   "end": 3490.66,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Aksana_Spryncan.Tatas_Jaras_mamana_Aksana_daceta_Alzbeta.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3490.66,
+   "end": 4191.86,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/dnk/Aksana_Spryncan.Tatas_Jaras_mamana_Aksana_daceta_Alzbeta.mp3.zip/06.mp3"
+  }
+ ],
+ "title": "Таташ Яраш, мамана Аксана, дачэта Альжбэта. Поўны эксклюзіў",
+ "slug": "Tatash-Yarash-mamana-Aksana-dacheta-Alzhbeta-Powny-eksklyuziw",
+ "author": "Аксана Спрынчан",
+ "author_slug": "Aksana-Sprynchan",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзённік",
+  "Мемуары",
+  "Сямейная проза",
+  "Публіцыстыка"
+ ],
+ "source": "https://knihi.com/Aksana_Spryncan/Tatas_Jaras,_mamana_Aksana,_daceta_Alzbeta_Pouny_ekskluziu_mp3.zip.html",
+ "cover": "Aksana-Sprynchan/Tatash-Yarash-mamana-Aksana-dacheta-Alzhbeta-Powny-eksklyuziw.jpg",
+ "description": "Гэтая кніга ўяўляе сабой шчыры і кранальны дзённік сямейнага жыцця, напісаны вядомай беларускай паэткай Аксанай Спрынчан. Аўтарка дзеліцца асабістымі назіраннямі за сталеннем сваёй дачкі Альжбэты і ўзаемаадносінамі ўнутры сям’і, дзе кожны дзень напоўнены любоўю і творчым пошукам. Тэкст вызначаецца лёгкасцю, гумарам і глыбокай філасофскай рэфлексіяй над простымі рэчамі, якія складаюць шчасце. Праз прызму мацярынства чытач адкрывае для сябе свет дзіцячага ўспрымання рэчаіснасці і важнасць захавання сямейных каштоўнасцяў. Гэта светлая і жыццесцвярджальная гісторыя, якая натхняе цаніць кожнае імгненне, праведзенае з самымі блізкімі людзьмі.",
+ "length": 4191.86
+}
