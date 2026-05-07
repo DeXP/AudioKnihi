@@ -1,0 +1,751 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 178.91,
+   "title": "1 - юро.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/001.Палітбюро.mp3"
+  },
+  {
+   "id": 1,
+   "start": 178.91,
+   "end": 357.82,
+   "title": "2 - сямейныя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/002.Трусы сямейныя.mp3"
+  },
+  {
+   "id": 2,
+   "start": 357.82,
+   "end": 657.82,
+   "title": "3 - ек-амфібія».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/003.«Чалавек-амфібія».mp3"
+  },
+  {
+   "id": 3,
+   "start": 657.82,
+   "end": 836.73,
+   "title": "4 - з чэхамі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/004.Хакей з чэхамі.mp3"
+  },
+  {
+   "id": 4,
+   "start": 836.73,
+   "end": 1015.64,
+   "title": "5 - а.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/005.Трыбуна.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1015.64,
+   "end": 1315.64,
+   "title": "6 - с «Корея».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/006.Часопіс «Корея».mp3"
+  },
+  {
+   "id": 6,
+   "start": 1315.64,
+   "end": 1494.55,
+   "title": "7 - аль Сопацкі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/007.Фэстываль Сопацкі.mp3"
+  },
+  {
+   "id": 7,
+   "start": 1494.55,
+   "end": 1673.46,
+   "title": "8 - зкі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/008.Вадалазкі.mp3"
+  },
+  {
+   "id": 8,
+   "start": 1673.46,
+   "end": 1852.37,
+   "title": "9 - трацыі сьвяточныя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/009.Дэманстрацыі сьвяточныя.mp3"
+  },
+  {
+   "id": 9,
+   "start": 1852.37,
+   "end": 2031.28,
+   "title": "10 - ня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/010.Балёньня.mp3"
+  },
+  {
+   "id": 10,
+   "start": 2031.28,
+   "end": 2208.99,
+   "title": "11 - ік дзявочы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/011.Сьпеўнік дзявочы.mp3"
+  },
+  {
+   "id": 11,
+   "start": 2208.99,
+   "end": 2387.9,
+   "title": "12 - ь.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/012.Дэмбель.mp3"
+  },
+  {
+   "id": 12,
+   "start": 2387.9,
+   "end": 2566.81,
+   "title": "13 - укі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/013.Гальштукі.mp3"
+  },
+  {
+   "id": 13,
+   "start": 2566.81,
+   "end": 2745.72,
+   "title": "14 - школьныя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/014.Сумкі школьныя.mp3"
+  },
+  {
+   "id": 14,
+   "start": 2745.72,
+   "end": 2924.63,
+   "title": "15 - Анджэла.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/015.Дэвіс Анджэла.mp3"
+  },
+  {
+   "id": 15,
+   "start": 2924.63,
+   "end": 3103.54,
+   "title": "16 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/016.Клёшы.mp3"
+  },
+  {
+   "id": 16,
+   "start": 3103.54,
+   "end": 3282.45,
+   "title": "17 - ыгада.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/017.Агітбрыгада.mp3"
+  },
+  {
+   "id": 17,
+   "start": 3282.45,
+   "end": 3461.83,
+   "title": "18 - ан Вадзім.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/018.Мулерман Вадзім.mp3"
+  },
+  {
+   "id": 18,
+   "start": 3461.83,
+   "end": 3635.94,
+   "title": "19 - з матузкамі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/019.Плаўкі з матузкамі.mp3"
+  },
+  {
+   "id": 19,
+   "start": 3635.94,
+   "end": 3814.85,
+   "title": "20 - ан Луіс.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/020.Карлаван Луіс.mp3"
+  },
+  {
+   "id": 20,
+   "start": 3814.85,
+   "end": 3993.76,
+   "title": "21 - дка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/021.Кінабудка.mp3"
+  },
+  {
+   "id": 21,
+   "start": 3993.76,
+   "end": 4293.76,
+   "title": "22 - зямля».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/022.«Малая зямля».mp3"
+  },
+  {
+   "id": 22,
+   "start": 4293.76,
+   "end": 4472.67,
+   "title": "23 - .mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/023.Цаліна.mp3"
+  },
+  {
+   "id": 23,
+   "start": 4472.67,
+   "end": 4772.67,
+   "title": "24 - орканал».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/024.«Беламорканал».mp3"
+  },
+  {
+   "id": 24,
+   "start": 4772.67,
+   "end": 4951.03,
+   "title": "25 - а.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/025.Авоська.mp3"
+  },
+  {
+   "id": 25,
+   "start": 4951.03,
+   "end": 5131.82,
+   "title": "26 - нскі Валеры.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/026.Абадзінскі Валеры.mp3"
+  },
+  {
+   "id": 26,
+   "start": 5131.82,
+   "end": 5310.73,
+   "title": "27 - ас.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/027.Фантамас.mp3"
+  },
+  {
+   "id": 27,
+   "start": 5310.73,
+   "end": 5489.64,
+   "title": "28 - ж.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/028.Сакваяж.mp3"
+  },
+  {
+   "id": 28,
+   "start": 5489.64,
+   "end": 5668.55,
+   "title": "29 - шарыкавая.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/029.Асадка шарыкавая.mp3"
+  },
+  {
+   "id": 29,
+   "start": 5668.55,
+   "end": 5847.46,
+   "title": "30 - а Патрыс.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/030.Люмумба Патрыс.mp3"
+  },
+  {
+   "id": 30,
+   "start": 5847.46,
+   "end": 6026.37,
+   "title": "31 - з.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/031.Керагаз.mp3"
+  },
+  {
+   "id": 31,
+   "start": 6026.37,
+   "end": 6205.28,
+   "title": "32 - ты па заяўках.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/032.Канцэрты па заяўках.mp3"
+  },
+  {
+   "id": 32,
+   "start": 6205.28,
+   "end": 6384.19,
+   "title": "33 - ра.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/033.Шклатара.mp3"
+  },
+  {
+   "id": 33,
+   "start": 6384.19,
+   "end": 6563.1,
+   "title": "34 - югаслаўскай эстрады.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/034.Зоркі югаслаўскай эстрады.mp3"
+  },
+  {
+   "id": 34,
+   "start": 6563.1,
+   "end": 6742.01,
+   "title": "35 - туалетная.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/035.Папера туалетная.mp3"
+  },
+  {
+   "id": 35,
+   "start": 6742.01,
+   "end": 6920.92,
+   "title": "36 - стары.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/036.Транзыстары.mp3"
+  },
+  {
+   "id": 36,
+   "start": 6920.92,
+   "end": 7220.92,
+   "title": "37 - ён «Сустрэча».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/037.Павільён «Сустрэча».mp3"
+  },
+  {
+   "id": 37,
+   "start": 7220.92,
+   "end": 7399.83,
+   "title": "38 - цікі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/038.Валасацікі.mp3"
+  },
+  {
+   "id": 38,
+   "start": 7399.83,
+   "end": 7578.79,
+   "title": "39 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/039.Чэргі.mp3"
+  },
+  {
+   "id": 39,
+   "start": 7578.79,
+   "end": 7757.91,
+   "title": "40 - нат 1963 году.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/040.Чэмпіянат 1963 году.mp3"
+  },
+  {
+   "id": 40,
+   "start": 7757.91,
+   "end": 7937.95,
+   "title": "41 - ы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/041.Храмачы.mp3"
+  },
+  {
+   "id": 41,
+   "start": 7937.95,
+   "end": 8117.2,
+   "title": "42 - .mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/042.Нэйлён.mp3"
+  },
+  {
+   "id": 42,
+   "start": 8117.2,
+   "end": 8296.53,
+   "title": "43 - сава й Пратапопаў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/043.Белавусава й Пратапопаў.mp3"
+  },
+  {
+   "id": 43,
+   "start": 8296.53,
+   "end": 8476.33,
+   "title": "44 - ат.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/044.Дыплямат.mp3"
+  },
+  {
+   "id": 44,
+   "start": 8476.33,
+   "end": 8655.45,
+   "title": "45 - яцоўка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/045.Танцпляцоўка.mp3"
+  },
+  {
+   "id": 45,
+   "start": 8655.45,
+   "end": 8955.45,
+   "title": "46 - Швэцыя».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/046.«Радыё Швэцыя».mp3"
+  },
+  {
+   "id": 46,
+   "start": 8955.45,
+   "end": 9134.73,
+   "title": "47 - анчохі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/047.Боты-панчохі.mp3"
+  },
+  {
+   "id": 47,
+   "start": 9134.73,
+   "end": 9313.8,
+   "title": "48 - пра космас.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/048.Песьні пра космас.mp3"
+  },
+  {
+   "id": 48,
+   "start": 9313.8,
+   "end": 9492.71,
+   "title": "49 - .mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/049.Каралі.mp3"
+  },
+  {
+   "id": 49,
+   "start": 9492.71,
+   "end": 9671.62,
+   "title": "50 - кі жаночыя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/050.Прычоскі жаночыя.mp3"
+  },
+  {
+   "id": 50,
+   "start": 9671.62,
+   "end": 9971.62,
+   "title": "51 - ская баляда».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/051.«Гусарская баляда».mp3"
+  },
+  {
+   "id": 51,
+   "start": 9971.62,
+   "end": 10150.64,
+   "title": "52 - еў Мусьлім.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/052.Магамаеў Мусьлім.mp3"
+  },
+  {
+   "id": 52,
+   "start": 10150.64,
+   "end": 10329.76,
+   "title": "53 - а.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/053.Чарніла.mp3"
+  },
+  {
+   "id": 53,
+   "start": 10329.76,
+   "end": 10509.33,
+   "title": "54 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/054.Тэлік.mp3"
+  },
+  {
+   "id": 54,
+   "start": 10509.33,
+   "end": 10689.16,
+   "title": "55 - а з сыропам.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/055.Газвада з сыропам.mp3"
+  },
+  {
+   "id": 55,
+   "start": 10689.16,
+   "end": 10877.48,
+   "title": "56 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/056.Бітлы.mp3"
+  },
+  {
+   "id": 56,
+   "start": 10877.48,
+   "end": 11056.86,
+   "title": "57 - p3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/057.Магі.mp3"
+  },
+  {
+   "id": 57,
+   "start": 11056.86,
+   "end": 11236.37,
+   "title": "58 - скія парасонікі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/058.Шэрбурскія парасонікі.mp3"
+  },
+  {
+   "id": 58,
+   "start": 11236.37,
+   "end": 11415.28,
+   "title": "59 - ы 1970-х.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/059.Байкеры 1970-х.mp3"
+  },
+  {
+   "id": 59,
+   "start": 11415.28,
+   "end": 11594.9,
+   "title": "60 - і на бульбу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/060.Паездкі на бульбу.mp3"
+  },
+  {
+   "id": 60,
+   "start": 11594.9,
+   "end": 11774.52,
+   "title": "61 - таж.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/061.Літмантаж.mp3"
+  },
+  {
+   "id": 61,
+   "start": 11774.52,
+   "end": 11961.37,
+   "title": "62 - і.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/062.Стылягі.mp3"
+  },
+  {
+   "id": 62,
+   "start": 11961.37,
+   "end": 12146.66,
+   "title": "63 - ц Эміль.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/063.Гаравец Эміль.mp3"
+  },
+  {
+   "id": 63,
+   "start": 12146.66,
+   "end": 12335.03,
+   "title": "64 - а грамадзянская.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/064.Абарона грамадзянская.mp3"
+  },
+  {
+   "id": 64,
+   "start": 12335.03,
+   "end": 12526.04,
+   "title": "65 - пра шпіёнаў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/065.Фільмы пра шпіёнаў.mp3"
+  },
+  {
+   "id": 65,
+   "start": 12526.04,
+   "end": 12699.75,
+   "title": "66 - цявозка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/066.Сьмецьцявозка.mp3"
+  },
+  {
+   "id": 66,
+   "start": 12699.75,
+   "end": 12878.66,
+   "title": "67 - піянэрскія.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/067.Песьні піянэрскія.mp3"
+  },
+  {
+   "id": 67,
+   "start": 12878.66,
+   "end": 13057.57,
+   "title": "68 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/068.Сыфон.mp3"
+  },
+  {
+   "id": 68,
+   "start": 13057.57,
+   "end": 13236.48,
+   "title": "69 - ства аматараў кнігі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/069.Таварыства аматараў кнігі.mp3"
+  },
+  {
+   "id": 69,
+   "start": 13236.48,
+   "end": 13416.44,
+   "title": "70 - Фідэль.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/070.Кастра Фідэль.mp3"
+  },
+  {
+   "id": 70,
+   "start": 13416.44,
+   "end": 13596.27,
+   "title": "71 - ыя наглядная.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/071.Агітацыя наглядная.mp3"
+  },
+  {
+   "id": 71,
+   "start": 13596.27,
+   "end": 13776.1,
+   "title": "72 - ыка камсамольская.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/072.Рамантыка камсамольская.mp3"
+  },
+  {
+   "id": 72,
+   "start": 13776.1,
+   "end": 13971.78,
+   "title": "73 - я вясна.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/073.Праская вясна.mp3"
+  },
+  {
+   "id": 73,
+   "start": 13971.78,
+   "end": 14151.61,
+   "title": "74 - ы з чырвоным цмокам.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/074.Тэрмасы з чырвоным цмокам.mp3"
+  },
+  {
+   "id": 74,
+   "start": 14151.61,
+   "end": 14331.44,
+   "title": "75 - а за 2.20.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/075.Каўбаса за 2.20.mp3"
+  },
+  {
+   "id": 75,
+   "start": 14331.44,
+   "end": 14631.44,
+   "title": "76 - Лявоны».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/076.Гурт «Лявоны».mp3"
+  },
+  {
+   "id": 76,
+   "start": 14631.44,
+   "end": 14811.27,
+   "title": "77 - поліэтыленавыя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/077.Торбы поліэтыленавыя.mp3"
+  },
+  {
+   "id": 77,
+   "start": 14811.27,
+   "end": 14991.1,
+   "title": "78 - кіту й Лёньку.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/078.Пра Мікіту й Лёньку.mp3"
+  },
+  {
+   "id": 78,
+   "start": 14991.1,
+   "end": 15170.93,
+   "title": "79 - пра Леніна.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/079.Фільмы пра Леніна.mp3"
+  },
+  {
+   "id": 79,
+   "start": 15170.93,
+   "end": 15361.31,
+   "title": "80 - лерэя хатняя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/080.Фотагалерэя хатняя.mp3"
+  },
+  {
+   "id": 80,
+   "start": 15361.31,
+   "end": 15541.14,
+   "title": "81 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/081.Велік.mp3"
+  },
+  {
+   "id": 81,
+   "start": 15541.14,
+   "end": 15720.97,
+   "title": "82 - і.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/082.Цікеткі.mp3"
+  },
+  {
+   "id": 82,
+   "start": 15720.97,
+   "end": 15900.8,
+   "title": "83 - Людміла.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/083.Зыкіна Людміла.mp3"
+  },
+  {
+   "id": 83,
+   "start": 15900.8,
+   "end": 16080.63,
+   "title": "84 - сы польскія.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/084.Часопісы польскія.mp3"
+  },
+  {
+   "id": 84,
+   "start": 16080.63,
+   "end": 16260.46,
+   "title": "85 - біны.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/085.Хунвэйбіны.mp3"
+  },
+  {
+   "id": 85,
+   "start": 16260.46,
+   "end": 16440.29,
+   "title": "86 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/086.Парык.mp3"
+  },
+  {
+   "id": 86,
+   "start": 16440.29,
+   "end": 16620.12,
+   "title": "87 - ўэй Эрнэст.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/087.Гэмінгўэй Эрнэст.mp3"
+  },
+  {
+   "id": 87,
+   "start": 16620.12,
+   "end": 16800.63,
+   "title": "88 - з панцырнай сеткай.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/088.Ложак з панцырнай сеткай.mp3"
+  },
+  {
+   "id": 88,
+   "start": 16800.63,
+   "end": 16980.46,
+   "title": "89 - p3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/089.Коры.mp3"
+  },
+  {
+   "id": 89,
+   "start": 16980.46,
+   "end": 17165.67,
+   "title": "90 - .mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/090.Маёўка.mp3"
+  },
+  {
+   "id": 90,
+   "start": 17165.67,
+   "end": 17350.62,
+   "title": "91 - ы з Цэнтральнага камітэту.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/091.Секунцы з Цэнтральнага камітэту.mp3"
+  },
+  {
+   "id": 91,
+   "start": 17350.62,
+   "end": 17530.45,
+   "title": "92 - .mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/092.Фоцікі.mp3"
+  },
+  {
+   "id": 92,
+   "start": 17530.45,
+   "end": 17710.28,
+   "title": "93 - скоп.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/093.Фільмаскоп.mp3"
+  },
+  {
+   "id": 93,
+   "start": 17710.28,
+   "end": 17894.73,
+   "title": "94 - ьны Альбіён 1966 году.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/094.Футбольны Альбіён 1966 году.mp3"
+  },
+  {
+   "id": 94,
+   "start": 17894.73,
+   "end": 18079.18,
+   "title": "95 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/095.Трумо.mp3"
+  },
+  {
+   "id": 95,
+   "start": 18079.18,
+   "end": 18264.99,
+   "title": "96 - угі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/096.Бугі-вугі.mp3"
+  },
+  {
+   "id": 96,
+   "start": 18264.99,
+   "end": 18446.57,
+   "title": "97 - н фібравы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/097.Чамадан фібравы.mp3"
+  },
+  {
+   "id": 97,
+   "start": 18446.57,
+   "end": 18631.96,
+   "title": "98 - тэкаркі вясковыя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/098.Бібліятэкаркі вясковыя.mp3"
+  },
+  {
+   "id": 98,
+   "start": 18631.96,
+   "end": 18817.35,
+   "title": "99 - жавальная.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/099.Гумка жавальная.mp3"
+  },
+  {
+   "id": 99,
+   "start": 18817.35,
+   "end": 19001.46,
+   "title": " - фірмовыя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/100.Кашулі фірмовыя.mp3"
+  },
+  {
+   "id": 100,
+   "start": 19001.46,
+   "end": 19190.8,
+   "title": "1 - новыя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/101.Грошы новыя.mp3"
+  },
+  {
+   "id": 101,
+   "start": 19190.8,
+   "end": 19380.14,
+   "title": "2 - кі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/102.Даманскі.mp3"
+  },
+  {
+   "id": 102,
+   "start": 19380.14,
+   "end": 19569.48,
+   "title": "3 - .mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/103.Выбары.mp3"
+  },
+  {
+   "id": 103,
+   "start": 19569.48,
+   "end": 19869.48,
+   "title": "4 - я старонка «Альбому».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Vinces_Mudrou.Albom_siamiejny.mp3.zip/104.Апошняя старонка «Альбому».mp3"
+  }
+ ],
+ "title": "Альбом сямейны",
+ "slug": "Albom-syameyny",
+ "author": "Вінцэсь Мудроў",
+ "author_slug": "Vintses-Mudrow",
+ "narrators": [
+  "Вінцэсь Мудроў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Апавяданні",
+  "Сучасная беларуская літаратура",
+  "Рэалізм"
+ ],
+ "source": "https://knihi.com/Vinces_Mudrou/Albom_siamiejny_mp3.zip.html",
+ "cover": "Vintses-Mudrow/Albom-syameyny.jpg",
+ "description": "Кніга Вінцэся Мудрова ўяўляе сабой зборнік апавяданняў, у якіх аўтар праз прызму сямейнай гісторыі і побыту адлюстроўвае лёсы людзей у савецкі і постсавецкі час. Праз кароткія сюжэты празаік даследуе тэмы памяці, адзіноты, чалавечай годнасці і няўмольнага плыну часу. Тон аповеду спалучае ў сабе тонкую іронію, лёгкі сум і глыбокі псіхалагізм, характэрны для стылю пісьменніка. Гэтыя тэксты становяцца своеасаблівым летапісам паўсядзённасці, дзе за звычайнымі падзеямі хаваюцца драматычныя перажыванні і роздум пра сэнс жыцця.",
+ "length": 19869.48
+}

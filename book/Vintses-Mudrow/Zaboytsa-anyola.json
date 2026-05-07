@@ -1,0 +1,196 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1164.77,
+   "title": "1 - 01 У лазні",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/01.U_lazni.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1164.77,
+   "end": 2834.83,
+   "title": "2 - Кузік",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/02.Tuzik_i_Kuzik.mp3"
+  },
+  {
+   "id": 2,
+   "start": 2834.83,
+   "end": 3689.11,
+   "title": "3 - оўначы",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/03.Kava_apounacy.mp3"
+  },
+  {
+   "id": 3,
+   "start": 3689.11,
+   "end": 5387.15,
+   "title": "4 - праз цэнтр Зямлі 1",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/04.Paloty_praz_centr_Ziamli_1.mp3"
+  },
+  {
+   "id": 4,
+   "start": 5387.15,
+   "end": 7076.07,
+   "title": "4 - праз цэнтр Зямлі 2",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/04.Paloty_praz_centr_Ziamli_2.mp3"
+  },
+  {
+   "id": 5,
+   "start": 7076.07,
+   "end": 8203.02,
+   "title": "5 - е хлусяць",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/05.Karty_nie_chlusiac.mp3"
+  },
+  {
+   "id": 6,
+   "start": 8203.02,
+   "end": 9673.98,
+   "title": "6 - ь крокаў дарогі 1",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/06.Dvaccac_krokau_darohi_1.mp3"
+  },
+  {
+   "id": 7,
+   "start": 9673.98,
+   "end": 11306.92,
+   "title": "6 - ь крокаў дарогі 2",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/06.Dvaccac_krokau_darohi_2.mp3"
+  },
+  {
+   "id": 8,
+   "start": 11306.92,
+   "end": 12573.39,
+   "title": "7 - ноччу",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/07.Svietlaj_noccu.mp3"
+  },
+  {
+   "id": 9,
+   "start": 12573.39,
+   "end": 14525.13,
+   "title": "8 - 1",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/08.Viedzma_1.mp3"
+  },
+  {
+   "id": 10,
+   "start": 14525.13,
+   "end": 16841.17,
+   "title": "8 - 2",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/08.Viedzma_2.mp3"
+  },
+  {
+   "id": 11,
+   "start": 16841.17,
+   "end": 18680.63,
+   "title": "8 - 3",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/08.Viedzma_3.mp3"
+  },
+  {
+   "id": 12,
+   "start": 18680.63,
+   "end": 20166.97,
+   "title": "8 - 4",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/08.Viedzma_4.mp3"
+  },
+  {
+   "id": 13,
+   "start": 20166.97,
+   "end": 20940.27,
+   "title": "9 - обат",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/09.Miska_Cobat.mp3"
+  },
+  {
+   "id": 14,
+   "start": 20940.27,
+   "end": 22610.43,
+   "title": "10 - ы аповед 1",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/10.Kurortny_apovied_1.mp3"
+  },
+  {
+   "id": 15,
+   "start": 22610.43,
+   "end": 24339.53,
+   "title": "10 - ы аповед 2",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/10.Kurortny_apovied_2.mp3"
+  },
+  {
+   "id": 16,
+   "start": 24339.53,
+   "end": 25958.6,
+   "title": "10 - ы аповед 3",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/10.Kurortny_apovied_3.mp3"
+  },
+  {
+   "id": 17,
+   "start": 25958.6,
+   "end": 27821.39,
+   "title": "10 - ы аповед 4",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/10.Kurortny_apovied_4.mp3"
+  },
+  {
+   "id": 18,
+   "start": 27821.39,
+   "end": 29470.11,
+   "title": "10 - ы аповед 5",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/10.Kurortny_apovied_5.mp3"
+  },
+  {
+   "id": 19,
+   "start": 29470.11,
+   "end": 31340.09,
+   "title": "11 - ад бусліным гняздом",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/11.Palot_nad_buslinym_hniazdom.mp3"
+  },
+  {
+   "id": 20,
+   "start": 31340.09,
+   "end": 32892.78,
+   "title": "12 - з сажнем 1",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/12.Calaviek_z_sazniem_1.mp3"
+  },
+  {
+   "id": 21,
+   "start": 32892.78,
+   "end": 34355.25,
+   "title": "12 - з сажнем 2",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/12.Calaviek_z_sazniem_2.mp3"
+  },
+  {
+   "id": 22,
+   "start": 34355.25,
+   "end": 35805.78,
+   "title": "12 - з сажнем 3",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/12.Calaviek_z_sazniem_3.mp3"
+  },
+  {
+   "id": 23,
+   "start": 35805.78,
+   "end": 37250.82,
+   "title": "12 - з сажнем 4",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/12.Calaviek_z_sazniem_4.mp3"
+  },
+  {
+   "id": 24,
+   "start": 37250.82,
+   "end": 39168.99,
+   "title": "13 - анёла",
+   "url": "https://files.knihi.com/Audio/audio/Vinces_Mudrou.Zabojca_aniola.mp3.zip/13.Zabojca_aniola.mp3"
+  }
+ ],
+ "title": "Забойца анёла",
+ "slug": "Zaboytsa-anyola",
+ "author": "Вінцэсь Мудроў",
+ "author_slug": "Vintses-Mudrow",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Апавяданні",
+  "Сучасная літаратура",
+  "Рэалізм"
+ ],
+ "source": "https://knihi.com/Vinces_Mudrou/Zabojca_aniola_mp3.zip.html",
+ "cover": "Vintses-Mudrow/Zaboytsa-anyola.jpg",
+ "description": "Кніга Вінцэся Мудрова ўяўляе сабой зборнік апавяданняў, у якіх рэаліі савецкага і постсавецкага жыцця пераплятаюцца з глыбокім псіхалагізмам і іроніяй. Аўтар майстэрска апісвае лёсы звычайных людзей, якія апынуліся ў пастцы абставін, адзіноты і ўласных ілюзій. Тэксты вызначаюцца лаканічнасцю мовы, дакладнасцю дэталяў і адчуваннем лёгкага экзістэнцыяльнага смутку. Праз прызму бытавых гісторый пісьменнік даследуе тэмы маральнага выбару, памяці і пошуку сэнсу ў свеце, які імкліва змяняецца. Гэта празаічны твор, які прымушае чытача спыніцца і задумацца над складанасцю чалавечага існавання.",
+ "length": 39168.99
+}

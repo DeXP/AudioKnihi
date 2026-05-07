@@ -1,0 +1,576 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 272.8,
+   "title": "1 - прадмовы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/01.Замест прадмовы.mp3"
+  },
+  {
+   "id": 1,
+   "start": 272.8,
+   "end": 698.67,
+   "title": "2 - аднім ходам.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/02.У ГУМ заднім ходам.mp3"
+  },
+  {
+   "id": 2,
+   "start": 698.67,
+   "end": 1150.8,
+   "title": "3 - ьмех.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/03.Першы сьмех.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1150.8,
+   "end": 1551.15,
+   "title": "4 - ьне Менскам.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/04.Пакараньне Менскам.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1551.15,
+   "end": 1821.18,
+   "title": "5 - к гістарычнага чалавека.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/05.Дзёньнік гістарычнага чалавека.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1821.18,
+   "end": 2002.7,
+   "title": "6 - і прыйшоў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/06.Шоў-шоў і прыйшоў.mp3"
+  },
+  {
+   "id": 6,
+   "start": 2002.7,
+   "end": 2500.1,
+   "title": "7 - ідзе ў КДБ.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/07.Дэпутат ідзе ў КДБ.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2500.1,
+   "end": 3051.47,
+   "title": "8 - ідзе з КДБ.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/08.Дэпутат ідзе з КДБ.mp3"
+  },
+  {
+   "id": 8,
+   "start": 3051.47,
+   "end": 3586.69,
+   "title": "9 - над КДБ.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/09.Сарокі над КДБ.mp3"
+  },
+  {
+   "id": 9,
+   "start": 3586.69,
+   "end": 3816.49,
+   "title": "10 - амбіцыях.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/10.Удар па амбіцыях.mp3"
+  },
+  {
+   "id": 10,
+   "start": 3816.49,
+   "end": 4116.49,
+   "title": "11 - ле па мячыку.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/11.Удар, але па мячыку.mp3"
+  },
+  {
+   "id": 11,
+   "start": 4116.49,
+   "end": 4416.49,
+   "title": "12 - амяці, плюс-мінус.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/12.Дзьве памяці, плюс-мінус.mp3"
+  },
+  {
+   "id": 12,
+   "start": 4416.49,
+   "end": 4995.96,
+   "title": "13 - ці Belorussia.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/13.Russia ці Belorussia.mp3"
+  },
+  {
+   "id": 13,
+   "start": 4995.96,
+   "end": 5287.51,
+   "title": "14 - ка для Мэйлера.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/14.Самагонка для Мэйлера.mp3"
+  },
+  {
+   "id": 14,
+   "start": 5287.51,
+   "end": 5587.51,
+   "title": "15 - tia atropos, сямейства чэкістых.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/15.Acherontia atropos, сямейства чэкістых.mp3"
+  },
+  {
+   "id": 15,
+   "start": 5587.51,
+   "end": 5887.51,
+   "title": "16 - Справы № 34451.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/16.Палёты Справы № 34451.mp3"
+  },
+  {
+   "id": 16,
+   "start": 5887.51,
+   "end": 6156.1,
+   "title": "17 - аў Шушкевіч і шапка з вушамі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/17.Станіслаў Шушкевіч і шапка з вушамі.mp3"
+  },
+  {
+   "id": 17,
+   "start": 6156.1,
+   "end": 6456.1,
+   "title": "18 - дні «расейскага рабочага».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/18.Першыя дні «расейскага рабочага».mp3"
+  },
+  {
+   "id": 18,
+   "start": 6456.1,
+   "end": 6825.92,
+   "title": "19 - нскае танга на Чырвонай.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/19.Аргентынскае танга на Чырвонай.mp3"
+  },
+  {
+   "id": 19,
+   "start": 6825.92,
+   "end": 7125.92,
+   "title": "20 - , не ідыёт.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/20.«Ідэот», не ідыёт.mp3"
+  },
+  {
+   "id": 20,
+   "start": 7125.92,
+   "end": 7589.96,
+   "title": "21 - альд_.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/21.Чый Освальд_.mp3"
+  },
+  {
+   "id": 21,
+   "start": 7589.96,
+   "end": 8175.21,
+   "title": "22 - для Хрушчова.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/22.Песьня для Хрушчова.mp3"
+  },
+  {
+   "id": 22,
+   "start": 8175.21,
+   "end": 8475.21,
+   "title": "23 - карова са штату Аёва.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/23.Хэлоў, карова са штату Аёва.mp3"
+  },
+  {
+   "id": 23,
+   "start": 8475.21,
+   "end": 8819.22,
+   "title": "24 - ейшае з мастацтваў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/24.Найважнейшае з мастацтваў.mp3"
+  },
+  {
+   "id": 24,
+   "start": 8819.22,
+   "end": 9119.22,
+   "title": "25 - !» — і міма.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/25.«Аооаох!» — і міма.mp3"
+  },
+  {
+   "id": 25,
+   "start": 9119.22,
+   "end": 9326.95,
+   "title": "26 - і падзякі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/26.Мэйлер і падзякі.mp3"
+  },
+  {
+   "id": 26,
+   "start": 9326.95,
+   "end": 9592.8,
+   "title": "27 - і Цітавец.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/27.Мэйлер і Цітавец.mp3"
+  },
+  {
+   "id": 27,
+   "start": 9592.8,
+   "end": 9892.8,
+   "title": "28 - і «Цітавец».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/28.Мэйлер і «Цітавец».mp3"
+  },
+  {
+   "id": 28,
+   "start": 9892.8,
+   "end": 10378.39,
+   "title": "29 - з хуткасьцю чарапахі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/29.Гепард з хуткасьцю чарапахі.mp3"
+  },
+  {
+   "id": 29,
+   "start": 10378.39,
+   "end": 10619.29,
+   "title": "30 - ў Освальд Цітаўца_.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/30.Ці ведаў Освальд Цітаўца_.mp3"
+  },
+  {
+   "id": 30,
+   "start": 10619.29,
+   "end": 10919.29,
+   "title": "31 - уй!» І бывай..mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/31.«Здрастуй!» І бывай..mp3"
+  },
+  {
+   "id": 31,
+   "start": 10919.29,
+   "end": 11188.82,
+   "title": "32 - ў манастыр.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/32.Паходы ў манастыр.mp3"
+  },
+  {
+   "id": 32,
+   "start": 11188.82,
+   "end": 11490.51,
+   "title": "33 - на імкненьне знаёміцца з ..mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/33.Заўважана імкненьне знаёміцца з ..mp3"
+  },
+  {
+   "id": 33,
+   "start": 11490.51,
+   "end": 11790.51,
+   "title": "34 - мужчыны зь вялікай задніцай».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/34.КДБ і «мужчыны зь вялікай задніцай».mp3"
+  },
+  {
+   "id": 34,
+   "start": 11790.51,
+   "end": 12027.21,
+   "title": "35 - і гіганты сэксу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/35.Мэйлер і гіганты сэксу.mp3"
+  },
+  {
+   "id": 35,
+   "start": 12027.21,
+   "end": 12191.89,
+   "title": "36 - p3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/36.Цнота.mp3"
+  },
+  {
+   "id": 36,
+   "start": 12191.89,
+   "end": 12371.56,
+   "title": "37 - чыкі з КДБ.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/37.Халтуршчыкі з КДБ.mp3"
+  },
+  {
+   "id": 37,
+   "start": 12371.56,
+   "end": 12643.65,
+   "title": "38 - ае сэрца Освальда.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/38.Разьбітае сэрца Освальда.mp3"
+  },
+  {
+   "id": 38,
+   "start": 12643.65,
+   "end": 12943.65,
+   "title": "39 - эрыканскі грамадзянін!».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/39.«Я — амэрыканскі грамадзянін!».mp3"
+  },
+  {
+   "id": 39,
+   "start": 12943.65,
+   "end": 13331.78,
+   "title": "40 - ы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/40.На танцы.mp3"
+  },
+  {
+   "id": 40,
+   "start": 13331.78,
+   "end": 13724.11,
+   "title": "41 - мнэзіі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/41.Дэман амнэзіі.mp3"
+  },
+  {
+   "id": 41,
+   "start": 13724.11,
+   "end": 14033.77,
+   "title": "42 - ў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/42.З танцаў.mp3"
+  },
+  {
+   "id": 42,
+   "start": 14033.77,
+   "end": 14333.77,
+   "title": "43 - tto, allegro, allegrissimo.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/43.Allegretto, allegro, allegrissimo.mp3"
+  },
+  {
+   "id": 43,
+   "start": 14333.77,
+   "end": 14748.15,
+   "title": "44 - ядовага месяца.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/44.Тайна мядовага месяца.mp3"
+  },
+  {
+   "id": 44,
+   "start": 14748.15,
+   "end": 15103.23,
+   "title": "45 - ірачак у гісторыі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/45.Роля дзірачак у гісторыі.mp3"
+  },
+  {
+   "id": 45,
+   "start": 15103.23,
+   "end": 15395.64,
+   "title": "46 - драмы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/46.Рэцэпт драмы.mp3"
+  },
+  {
+   "id": 46,
+   "start": 15395.64,
+   "end": 15745.86,
+   "title": "47 - льская любоў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/47.Камсамольская любоў.mp3"
+  },
+  {
+   "id": 47,
+   "start": 15745.86,
+   "end": 16045.86,
+   "title": "48 - Маладыя». Акт 1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/48.П’еса «Маладыя». Акт 1.mp3"
+  },
+  {
+   "id": 48,
+   "start": 16045.86,
+   "end": 16345.86,
+   "title": "49 - Маладыя». Акт 2.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/49.П’еса «Маладыя». Акт 2.mp3"
+  },
+  {
+   "id": 49,
+   "start": 16345.86,
+   "end": 16740.88,
+   "title": "50 - ўскі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/50.Талстаеўскі.mp3"
+  },
+  {
+   "id": 50,
+   "start": 16740.88,
+   "end": 17264.16,
+   "title": "51 - і Пушкін.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/51.Освальд і Пушкін.mp3"
+  },
+  {
+   "id": 51,
+   "start": 17264.16,
+   "end": 17901.34,
+   "title": "52 - Амэрыку.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/52.Дагнаць Амэрыку.mp3"
+  },
+  {
+   "id": 52,
+   "start": 17901.34,
+   "end": 18163.53,
+   "title": "53 - ні сьмех.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/53.Навагодні сьмех.mp3"
+  },
+  {
+   "id": 53,
+   "start": 18163.53,
+   "end": 18463.39,
+   "title": "54 - ля Хрушчова.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/54.Бомба для Хрушчова.mp3"
+  },
+  {
+   "id": 54,
+   "start": 18463.39,
+   "end": 18875.11,
+   "title": "55 - а-чорнымі крыламі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/55.Пад бела-чорнымі крыламі.mp3"
+  },
+  {
+   "id": 55,
+   "start": 18875.11,
+   "end": 19293.64,
+   "title": "56 - сел прынёс.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/56.Каго бусел прынёс.mp3"
+  },
+  {
+   "id": 56,
+   "start": 19293.64,
+   "end": 19541.05,
+   "title": "57 - ецкая фармацэўтыка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/57.Антысавецкая фармацэўтыка.mp3"
+  },
+  {
+   "id": 57,
+   "start": 19541.05,
+   "end": 20046.31,
+   "title": "58 - ва бязь межаў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/58.Нахабства бязь межаў.mp3"
+  },
+  {
+   "id": 58,
+   "start": 20046.31,
+   "end": 20346.31,
+   "title": "59 - сабака, мярзотнік, падонак.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/59.Ідыёт, сабака, мярзотнік, падонак.mp3"
+  },
+  {
+   "id": 59,
+   "start": 20346.31,
+   "end": 20646.31,
+   "title": "60 - свабода, каханьне, душа.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/60.Грошы, свабода, каханьне, душа.mp3"
+  },
+  {
+   "id": 60,
+   "start": 20646.31,
+   "end": 20848.05,
+   "title": "61 - ніка падвяла.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/61.Спэцтэхніка падвяла.mp3"
+  },
+  {
+   "id": 61,
+   "start": 20848.05,
+   "end": 21504.25,
+   "title": "62 - антысаветчыка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/62.Нататкі антысаветчыка.mp3"
+  },
+  {
+   "id": 62,
+   "start": 21504.25,
+   "end": 21839.04,
+   "title": "63 - і Сталін.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/63.Освальд і Сталін.mp3"
+  },
+  {
+   "id": 63,
+   "start": 21839.04,
+   "end": 22324.94,
+   "title": "64 - антысаветчыка. Працяг.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/64.Нататкі антысаветчыка. Працяг.mp3"
+  },
+  {
+   "id": 64,
+   "start": 22324.94,
+   "end": 22884.17,
+   "title": "65 - Месяцы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/65.Нашы на Месяцы.mp3"
+  },
+  {
+   "id": 65,
+   "start": 22884.17,
+   "end": 23184.17,
+   "title": "66 - ыў» пра калектыў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/66.«Калектыў» пра калектыў.mp3"
+  },
+  {
+   "id": 66,
+   "start": 23184.17,
+   "end": 23590.17,
+   "title": "67 - матылька.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/67.Злавіць матылька.mp3"
+  },
+  {
+   "id": 67,
+   "start": 23590.17,
+   "end": 23798.13,
+   "title": "68 - клопаты.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/68.Апошнія клопаты.mp3"
+  },
+  {
+   "id": 68,
+   "start": 23798.13,
+   "end": 24108.23,
+   "title": "69 - я Марыны.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/69.Віза для Марыны.mp3"
+  },
+  {
+   "id": 69,
+   "start": 24108.23,
+   "end": 24408.23,
+   "title": "70 - «Доктара Жывага».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/70.Лекі ад «Доктара Жывага».mp3"
+  },
+  {
+   "id": 70,
+   "start": 24408.23,
+   "end": 24708.23,
+   "title": "71 - альд» — 35 разоў па-беларуску.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/71.«Лі Освальд» — 35 разоў па-беларуску.mp3"
+  },
+  {
+   "id": 71,
+   "start": 24708.23,
+   "end": 24931.84,
+   "title": "72 - Мэйлера.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/72.Памылка Мэйлера.mp3"
+  },
+  {
+   "id": 72,
+   "start": 24931.84,
+   "end": 25310.77,
+   "title": "73 - mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/73.Далсты.mp3"
+  },
+  {
+   "id": 73,
+   "start": 25310.77,
+   "end": 25610.77,
+   "title": "74 - — чытач «Гісторыі Освальда».mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/74.Освальд — чытач «Гісторыі Освальда».mp3"
+  },
+  {
+   "id": 74,
+   "start": 25610.77,
+   "end": 25910.77,
+   "title": "75 - які не спазьніўся.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/75.Цягнік, які не спазьніўся.mp3"
+  },
+  {
+   "id": 75,
+   "start": 25910.77,
+   "end": 26600.74,
+   "title": "76 - Месяц узвый.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/76.Хоць на Месяц узвый.mp3"
+  },
+  {
+   "id": 76,
+   "start": 26600.74,
+   "end": 26718.81,
+   "title": "77 - ды перакладаў перакладаў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/77.Пераклады перакладаў перакладаў.mp3"
+  },
+  {
+   "id": 77,
+   "start": 26718.81,
+   "end": 26812.41,
+   "title": "78 - яецца апошні.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/78.Хто сьмяецца апошні.mp3"
+  },
+  {
+   "id": 78,
+   "start": 26812.41,
+   "end": 26964.31,
+   "title": "79 - пасьляслоўя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Lukasuk.Osvald_u_Miensku.mp3.zip/79.Замест пасьляслоўя.mp3"
+  }
+ ],
+ "title": "Cьлед Матылька. Освальд у Менску",
+ "slug": "Cled-Matylka-Osvald-u-Mensku",
+ "author": "Аляксандар Лукашук",
+ "author_slug": "Alyaksandar-Lukashuk",
+ "narrators": [
+  "Аляксандар Лукашук"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дакументальная проза",
+  "Біяграфія",
+  "Гістарычнае даследаванне",
+  "Публіцыстыка"
+ ],
+ "source": "https://knihi.com/Alaksandar_Lukasuk/Cled_Matylka_Osvald_u_Miensku_mp3.zip.html",
+ "cover": "Alyaksandar-Lukashuk/Cled-Matylka-Osvald-u-Mensku.jpg",
+ "description": "Гэтая кніга ўяўляе сабой глыбокае даследаванне менскага перыяду жыцця Лі Харві Освальда, чалавека, які пазней стаў галоўным падазраваным у забойстве прэзідэнта ЗША Джона Кенэдзі. Аўтар Аляксандар Лукашук праз архіўныя дакументы, сведчанні відавочцаў і аналіз савецкіх рэалій аднаўляе атмасферу Мінска канца пяцідзесятых гадоў. Твор спалучае ў сабе рысы дакументальнай хронікі і псіхалагічнага партрэта, спрабуючы зразумець матывацыю і ўнутраны свет маладога амерыканца ў закрытым савецкім грамадстве. Кніга не толькі раскрывае малавядомыя факты біяграфіі Освальда, але і паказвае маштабную карціну эпохі халоднай вайны. Гэта захапляльнае і дэталёвае апавяданне, якое прымушае па-новай зірнуць на адну з самых загадкавых падзей сусветнай гісторыі.",
+ "length": 26964.31
+}

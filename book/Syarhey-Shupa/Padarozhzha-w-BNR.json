@@ -1,0 +1,315 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 789.08,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 789.08,
+   "end": 1482.21,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1482.21,
+   "end": 2122.05,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2122.05,
+   "end": 2806.41,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2806.41,
+   "end": 3297.12,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3297.12,
+   "end": 3856.19,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3856.19,
+   "end": 4501.34,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 4501.34,
+   "end": 5132.07,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 5132.07,
+   "end": 5685.97,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 5685.97,
+   "end": 6221.64,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 6221.64,
+   "end": 6836.17,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 6836.17,
+   "end": 7446.42,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 7446.42,
+   "end": 8090.65,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 8090.65,
+   "end": 8709.49,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 8709.49,
+   "end": 9365.19,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 9365.19,
+   "end": 9929.15,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 9929.15,
+   "end": 10741.35,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/17.mp3"
+  },
+  {
+   "id": 17,
+   "start": 10741.35,
+   "end": 11255.07,
+   "title": "18 - 18.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/18.mp3"
+  },
+  {
+   "id": 18,
+   "start": 11255.07,
+   "end": 11854.24,
+   "title": "19 - 19.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/19.mp3"
+  },
+  {
+   "id": 19,
+   "start": 11854.24,
+   "end": 12511.95,
+   "title": "20 - 20.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/20.mp3"
+  },
+  {
+   "id": 20,
+   "start": 12511.95,
+   "end": 13001.69,
+   "title": "21 - 21.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/21.mp3"
+  },
+  {
+   "id": 21,
+   "start": 13001.69,
+   "end": 13597.93,
+   "title": "22 - 22.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/22.mp3"
+  },
+  {
+   "id": 22,
+   "start": 13597.93,
+   "end": 13980.23,
+   "title": "23 - 23.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/23.mp3"
+  },
+  {
+   "id": 23,
+   "start": 13980.23,
+   "end": 14617.02,
+   "title": "24 - 24.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/24.mp3"
+  },
+  {
+   "id": 24,
+   "start": 14617.02,
+   "end": 15202.79,
+   "title": "25 - 25.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/25.mp3"
+  },
+  {
+   "id": 25,
+   "start": 15202.79,
+   "end": 15813.74,
+   "title": "26 - 26.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/26.mp3"
+  },
+  {
+   "id": 26,
+   "start": 15813.74,
+   "end": 16446.35,
+   "title": "27 - 27.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/27.mp3"
+  },
+  {
+   "id": 27,
+   "start": 16446.35,
+   "end": 17054.09,
+   "title": "28 - 28.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/28.mp3"
+  },
+  {
+   "id": 28,
+   "start": 17054.09,
+   "end": 17629.65,
+   "title": "29 - 29.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/29.mp3"
+  },
+  {
+   "id": 29,
+   "start": 17629.65,
+   "end": 18180.6,
+   "title": "30 - 30.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/30.mp3"
+  },
+  {
+   "id": 30,
+   "start": 18180.6,
+   "end": 18672.98,
+   "title": "31 - 31.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/31.mp3"
+  },
+  {
+   "id": 31,
+   "start": 18672.98,
+   "end": 19243.05,
+   "title": "32 - 32.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/32.mp3"
+  },
+  {
+   "id": 32,
+   "start": 19243.05,
+   "end": 19860.11,
+   "title": "33 - 33.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/33.mp3"
+  },
+  {
+   "id": 33,
+   "start": 19860.11,
+   "end": 20414.56,
+   "title": "34 - 34.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/34.mp3"
+  },
+  {
+   "id": 34,
+   "start": 20414.56,
+   "end": 21079.38,
+   "title": "35 - 35.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/35.mp3"
+  },
+  {
+   "id": 35,
+   "start": 21079.38,
+   "end": 21619.04,
+   "title": "36 - 36.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/36.mp3"
+  },
+  {
+   "id": 36,
+   "start": 21619.04,
+   "end": 22293.29,
+   "title": "37 - 37.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/37.mp3"
+  },
+  {
+   "id": 37,
+   "start": 22293.29,
+   "end": 22899.64,
+   "title": "38 - 38.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/38.mp3"
+  },
+  {
+   "id": 38,
+   "start": 22899.64,
+   "end": 23590.21,
+   "title": "39 - 39.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/39.mp3"
+  },
+  {
+   "id": 39,
+   "start": 23590.21,
+   "end": 24304.5,
+   "title": "40 - 40.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/40.mp3"
+  },
+  {
+   "id": 40,
+   "start": 24304.5,
+   "end": 24709.22,
+   "title": "41 - 41.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/41.mp3"
+  },
+  {
+   "id": 41,
+   "start": 24709.22,
+   "end": 25400.6,
+   "title": "42 - 42.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Supa.Padaroza_u_BNR.mp3.zip/42.mp3"
+  }
+ ],
+ "title": "Падарожжа ў БНР",
+ "slug": "Padarozhzha-w-BNR",
+ "author": "Сяргей Шупа",
+ "author_slug": "Syarhey-Shupa",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычная літаратура",
+  "Дакументальная проза",
+  "Біяграфія",
+  "Публіцыстыка"
+ ],
+ "source": "https://knihi.com/Siarhiej_Supa/Padarozza_u_BNR_mp3.zip.html",
+ "cover": "Syarhey-Shupa/Padarozhzha-w-BNR.jpg",
+ "description": "Кніга Сяргея Шупы ўяўляе сабой маштабнае даследаванне гісторыі Беларускай Народнай Рэспублікі праз прызму лёсаў яе стваральнікаў і сведкаў. Аўтар майстэрска спалучае архіўныя дакументы, успаміны і публіцыстычныя нарысы, ствараючы жывы і шматгранны партрэт эпохі нацыянальнага адраджэння. Твор не толькі рэканструюе падзеі пачатку дваццатага стагоддзя, але і разважае пра значэнне ідэі незалежнасці для сучаснай Беларусі. Гэта глыбокая інтэлектуальная праца, напісаная з павагай да гістарычнай праўды і ўвагай да чалавечага вымярэння вялікай палітыкі. Кніга запрашае чытача ў захапляльнае падарожжа па слядах бацькоў-заснавальнікаў беларускай дзяржаўнасці, дапамагаючы лепш зразумець вытокі нашай нацыянальнай ідэнтычнасці.",
+ "length": 25400.6
+}

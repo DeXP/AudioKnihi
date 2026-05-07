@@ -1,0 +1,125 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 30.35,
+   "title": "1 - ень",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/01.Новы дзень.mp3"
+  },
+  {
+   "id": 1,
+   "start": 30.35,
+   "end": 60.7,
+   "title": "2 - нь",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/02.Поўдзень.mp3"
+  },
+  {
+   "id": 2,
+   "start": 60.7,
+   "end": 91.05,
+   "title": "3 - 03.Кокі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/03.Кокі.mp3"
+  },
+  {
+   "id": 3,
+   "start": 91.05,
+   "end": 121.4,
+   "title": "4 - ны верш",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/04.Пераходны верш.mp3"
+  },
+  {
+   "id": 4,
+   "start": 121.4,
+   "end": 151.75,
+   "title": "5 - 05.Горка",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/05.Горка.mp3"
+  },
+  {
+   "id": 5,
+   "start": 151.75,
+   "end": 182.1,
+   "title": "6 - уселі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/06.Пры каруселі.mp3"
+  },
+  {
+   "id": 6,
+   "start": 182.1,
+   "end": 212.45,
+   "title": "7 - лях",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/07.Пры арэлях.mp3"
+  },
+  {
+   "id": 7,
+   "start": 212.45,
+   "end": 242.8,
+   "title": "8 - ны верш",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/08.Падарожны верш.mp3"
+  },
+  {
+   "id": 8,
+   "start": 242.8,
+   "end": 273.15,
+   "title": "9 - дзеці",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/09.Мышкі і дзеці.mp3"
+  },
+  {
+   "id": 9,
+   "start": 273.15,
+   "end": 303.5,
+   "title": "10 - і поўнік",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/10.Балонік і поўнік.mp3"
+  },
+  {
+   "id": 10,
+   "start": 303.5,
+   "end": 333.85,
+   "title": "11 - азаўра, які хацеў стаць касманаўтам",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/11.Пра Дыназаўра, які хацеў стаць касманаўтам.mp3"
+  },
+  {
+   "id": 11,
+   "start": 333.85,
+   "end": 364.2,
+   "title": "12 - зь на кірмашовым пляцы",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/12.Мядзведзь на кірмашовым пляцы.mp3"
+  },
+  {
+   "id": 12,
+   "start": 364.2,
+   "end": 394.55,
+   "title": "13 - 13.Дочкі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/13.Дочкі.mp3"
+  },
+  {
+   "id": 13,
+   "start": 394.55,
+   "end": 424.9,
+   "title": "14 - ыям. Каток скок на клубок (пераклад)",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/14.Эва Мэрыям. Каток скок на клубок (пераклад).mp3"
+  },
+  {
+   "id": 14,
+   "start": 424.9,
+   "end": 455.25,
+   "title": "15 - н-Баўтун. З вершаў Матусі Гусі (пераклад)",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Myski_i_dzieci.mp3.zip/15.Таўстун-Баўтун. З вершаў Матусі Гусі (пераклад).mp3"
+  }
+ ],
+ "title": "Мышкі і дзеці",
+ "slug": "Myshki-i-dzetsi",
+ "author": "Серж Мінскевіч",
+ "author_slug": "Serzh-Minskevich",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казка",
+  "Прыгоды"
+ ],
+ "source": "https://knihi.com/Sierz_Minskievic/Myski_i_dzieci_mp3.zip.html",
+ "cover": "Serzh-Minskevich/Myshki-i-dzetsi.jpg",
+ "description": "Гэтая кніга Сержа Мінскевіча ўяўляе сабой займальную і павучальную гісторыю, якая запрашае юных чытачоў у свет казачных прыгод. Сюжэт засяроджаны на ўзаемаадносінах паміж маленькімі мышкамі і дзецьмі, падкрэсліваючы важнасць дабрыні, сяброўства і ўзаемаразумення. Аўтар майстэрска спалучае гумар з глыбокім маральным падтэкстам, што робіць твор цікавым як для дзяцей, так і для іх бацькоў. Светлы і аптымістычны тон апавядання стварае ўтульную атмасферу, якая вучыць беражліва ставіцца да ўсяго жывога навокал. Гэта цудоўная літаратурная праца, якая развівае ўяўленне і выхоўвае лепшыя чалавечыя якасці.",
+ "length": 455.25
+}

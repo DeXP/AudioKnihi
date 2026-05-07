@@ -1,0 +1,807 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 343.47,
+   "title": "1 - нне ў любові/0001.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/001 Прызнанне ў любові/0001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 343.47,
+   "end": 822.1,
+   "title": "2 - Белабога/0002.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/002 Унукі Белабога/0002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 822.1,
+   "end": 1270.24,
+   "title": "3 - Белабога/0003.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/002 Унукі Белабога/0003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1270.24,
+   "end": 1828.1,
+   "title": "4 - Белабога/0004.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/002 Унукі Белабога/0004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1828.1,
+   "end": 2458.19,
+   "title": "5 - Белабога/0005.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/002 Унукі Белабога/0005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 2458.19,
+   "end": 3103.61,
+   "title": "6 - Белабога/0006.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/002 Унукі Белабога/0006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3103.61,
+   "end": 3567.04,
+   "title": "7 - Белабога/0007.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/002 Унукі Белабога/0007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 3567.04,
+   "end": 4067.45,
+   "title": "8 - Белабога/0008.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/002 Унукі Белабога/0008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 4067.45,
+   "end": 4507.84,
+   "title": "9 - Белабога/0009.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/002 Унукі Белабога/0009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 4507.84,
+   "end": 5027.74,
+   "title": "10 - валода да Брачыслава/0010.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/003 Ад Рагвалода да Брачыслава/0010.mp3"
+  },
+  {
+   "id": 10,
+   "start": 5027.74,
+   "end": 6047.89,
+   "title": "11 - валода да Брачыслава/0011.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/003 Ад Рагвалода да Брачыслава/0011.mp3"
+  },
+  {
+   "id": 11,
+   "start": 6047.89,
+   "end": 6586.7,
+   "title": "12 - валода да Брачыслава/0012.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/003 Ад Рагвалода да Брачыслава/0012.mp3"
+  },
+  {
+   "id": 12,
+   "start": 6586.7,
+   "end": 7226.53,
+   "title": "13 - валода да Брачыслава/0013.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/003 Ад Рагвалода да Брачыслава/0013.mp3"
+  },
+  {
+   "id": 13,
+   "start": 7226.53,
+   "end": 7816.36,
+   "title": "14 - радзея/0014.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/004 Час Чарадзея/0014.mp3"
+  },
+  {
+   "id": 14,
+   "start": 7816.36,
+   "end": 8491.4,
+   "title": "15 - радзея/0015.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/004 Час Чарадзея/0015.mp3"
+  },
+  {
+   "id": 15,
+   "start": 8491.4,
+   "end": 9248.78,
+   "title": "16 - радзея/0016.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/004 Час Чарадзея/0016.mp3"
+  },
+  {
+   "id": 16,
+   "start": 9248.78,
+   "end": 9916.43,
+   "title": "17 - радзея/0017.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/004 Час Чарадзея/0017.mp3"
+  },
+  {
+   "id": 17,
+   "start": 9916.43,
+   "end": 10462.74,
+   "title": "18 - радзея/0018.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/004 Час Чарадзея/0018.mp3"
+  },
+  {
+   "id": 18,
+   "start": 10462.74,
+   "end": 11001.32,
+   "title": "19 - радзея/0019.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/004 Час Чарадзея/0019.mp3"
+  },
+  {
+   "id": 19,
+   "start": 11001.32,
+   "end": 11460.67,
+   "title": "20 - радзея/0020.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/004 Час Чарадзея/0020.mp3"
+  },
+  {
+   "id": 20,
+   "start": 11460.67,
+   "end": 12086.99,
+   "title": "21 - іца з роду Усяслава/0021.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0021.mp3"
+  },
+  {
+   "id": 21,
+   "start": 12086.99,
+   "end": 12537.2,
+   "title": "22 - іца з роду Усяслава/0022.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0022.mp3"
+  },
+  {
+   "id": 22,
+   "start": 12537.2,
+   "end": 13357.93,
+   "title": "23 - іца з роду Усяслава/0023.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0023.mp3"
+  },
+  {
+   "id": 23,
+   "start": 13357.93,
+   "end": 13874.96,
+   "title": "24 - іца з роду Усяслава/0024.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0024.mp3"
+  },
+  {
+   "id": 24,
+   "start": 13874.96,
+   "end": 14384.96,
+   "title": "25 - іца з роду Усяслава/0025.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0025.mp3"
+  },
+  {
+   "id": 25,
+   "start": 14384.96,
+   "end": 15397.71,
+   "title": "26 - іца з роду Усяслава/0026.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0026.mp3"
+  },
+  {
+   "id": 26,
+   "start": 15397.71,
+   "end": 16041.35,
+   "title": "27 - іца з роду Усяслава/0027.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0027.mp3"
+  },
+  {
+   "id": 27,
+   "start": 16041.35,
+   "end": 16507.47,
+   "title": "28 - іца з роду Усяслава/0028.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0028.mp3"
+  },
+  {
+   "id": 28,
+   "start": 16507.47,
+   "end": 16944.69,
+   "title": "29 - іца з роду Усяслава/0029.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/005 Асветніца з роду Усяслава/0029.mp3"
+  },
+  {
+   "id": 29,
+   "start": 16944.69,
+   "end": 17548.97,
+   "title": "30 - князя Валодшы/0030.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/006 Смерць князя Валодшы/0030.mp3"
+  },
+  {
+   "id": 30,
+   "start": 17548.97,
+   "end": 18418.96,
+   "title": "31 - князя Валодшы/0031.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/006 Смерць князя Валодшы/0031.mp3"
+  },
+  {
+   "id": 31,
+   "start": 18418.96,
+   "end": 19142.09,
+   "title": "32 - князя Валодшы/0032.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/006 Смерць князя Валодшы/0032.mp3"
+  },
+  {
+   "id": 32,
+   "start": 19142.09,
+   "end": 19572.39,
+   "title": "33 - дзяржава/0033.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0033.mp3"
+  },
+  {
+   "id": 33,
+   "start": 19572.39,
+   "end": 20307.02,
+   "title": "34 - дзяржава/0034.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0034.mp3"
+  },
+  {
+   "id": 34,
+   "start": 20307.02,
+   "end": 20810.18,
+   "title": "35 - дзяржава/0035.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0035.mp3"
+  },
+  {
+   "id": 35,
+   "start": 20810.18,
+   "end": 21309.13,
+   "title": "36 - дзяржава/0036.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0036.mp3"
+  },
+  {
+   "id": 36,
+   "start": 21309.13,
+   "end": 21805.7,
+   "title": "37 - дзяржава/0037.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0037.mp3"
+  },
+  {
+   "id": 37,
+   "start": 21805.7,
+   "end": 22463.84,
+   "title": "38 - дзяржава/0038.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0038.mp3"
+  },
+  {
+   "id": 38,
+   "start": 22463.84,
+   "end": 23237.78,
+   "title": "39 - дзяржава/0039.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0039.mp3"
+  },
+  {
+   "id": 39,
+   "start": 23237.78,
+   "end": 23709.75,
+   "title": "40 - дзяржава/0040.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0040.mp3"
+  },
+  {
+   "id": 40,
+   "start": 23709.75,
+   "end": 24495.24,
+   "title": "41 - дзяржава/0041.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0041.mp3"
+  },
+  {
+   "id": 41,
+   "start": 24495.24,
+   "end": 25368.55,
+   "title": "42 - дзяржава/0042.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/007 Новая дзяржава/0042.mp3"
+  },
+  {
+   "id": 42,
+   "start": 25368.55,
+   "end": 25940.72,
+   "title": "43 - одзе Падуанскай/0043.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/008 У гасподзе Падуанскай/0043.mp3"
+  },
+  {
+   "id": 43,
+   "start": 25940.72,
+   "end": 26431.34,
+   "title": "44 - одзе Падуанскай/0044.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/008 У гасподзе Падуанскай/0044.mp3"
+  },
+  {
+   "id": 44,
+   "start": 26431.34,
+   "end": 26872.56,
+   "title": "45 - одзе Падуанскай/0045.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/008 У гасподзе Падуанскай/0045.mp3"
+  },
+  {
+   "id": 45,
+   "start": 26872.56,
+   "end": 27319.06,
+   "title": "46 - одзе Падуанскай/0046.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/008 У гасподзе Падуанскай/0046.mp3"
+  },
+  {
+   "id": 46,
+   "start": 27319.06,
+   "end": 27750.77,
+   "title": "47 - ая вайна/0047.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/009 Полацкая вайна/0047.mp3"
+  },
+  {
+   "id": 47,
+   "start": 27750.77,
+   "end": 28276.03,
+   "title": "48 - ая вайна/0048.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/009 Полацкая вайна/0048.mp3"
+  },
+  {
+   "id": 48,
+   "start": 28276.03,
+   "end": 28899.48,
+   "title": "49 - ая вайна/0049.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/009 Полацкая вайна/0049.mp3"
+  },
+  {
+   "id": 49,
+   "start": 28899.48,
+   "end": 29277.3,
+   "title": "50 - ая вайна/0050.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/009 Полацкая вайна/0050.mp3"
+  },
+  {
+   "id": 50,
+   "start": 29277.3,
+   "end": 29840.98,
+   "title": "51 - ая вайна/0051.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/009 Полацкая вайна/0051.mp3"
+  },
+  {
+   "id": 51,
+   "start": 29840.98,
+   "end": 30814.99,
+   "title": "52 - ая вайна/0052.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/009 Полацкая вайна/0052.mp3"
+  },
+  {
+   "id": 52,
+   "start": 30814.99,
+   "end": 31356.78,
+   "title": "53 - ая вайна/0053.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/009 Полацкая вайна/0053.mp3"
+  },
+  {
+   "id": 53,
+   "start": 31356.78,
+   "end": 31721.8,
+   "title": "54 - ае стагоддзе/0054.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/010 Крывавае стагоддзе/0054.mp3"
+  },
+  {
+   "id": 54,
+   "start": 31721.8,
+   "end": 32410.01,
+   "title": "55 - ае стагоддзе/0055.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/010 Крывавае стагоддзе/0055.mp3"
+  },
+  {
+   "id": 55,
+   "start": 32410.01,
+   "end": 33098.24,
+   "title": "56 - ае стагоддзе/0056.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/010 Крывавае стагоддзе/0056.mp3"
+  },
+  {
+   "id": 56,
+   "start": 33098.24,
+   "end": 33684.94,
+   "title": "57 - ае стагоддзе/0057.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/010 Крывавае стагоддзе/0057.mp3"
+  },
+  {
+   "id": 57,
+   "start": 33684.94,
+   "end": 34163.8,
+   "title": "58 - ае стагоддзе/0058.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/010 Крывавае стагоддзе/0058.mp3"
+  },
+  {
+   "id": 58,
+   "start": 34163.8,
+   "end": 34769.72,
+   "title": "59 - ае стагоддзе/0059.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/010 Крывавае стагоддзе/0059.mp3"
+  },
+  {
+   "id": 59,
+   "start": 34769.72,
+   "end": 35362.71,
+   "title": "60 - ае стагоддзе/0060.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/010 Крывавае стагоддзе/0060.mp3"
+  },
+  {
+   "id": 60,
+   "start": 35362.71,
+   "end": 35996.85,
+   "title": "61 - браверны, царкве і дзяржаве патрэбны/0061.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/011 Муж дабраверны, царкве і дзяржаве патрэбны/0061.mp3"
+  },
+  {
+   "id": 61,
+   "start": 35996.85,
+   "end": 36784.01,
+   "title": "62 - браверны, царкве і дзяржаве патрэбны/0062.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/011 Муж дабраверны, царкве і дзяржаве патрэбны/0062.mp3"
+  },
+  {
+   "id": 62,
+   "start": 36784.01,
+   "end": 37711.13,
+   "title": "63 - браверны, царкве і дзяржаве патрэбны/0063.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/011 Муж дабраверны, царкве і дзяржаве патрэбны/0063.mp3"
+  },
+  {
+   "id": 63,
+   "start": 37711.13,
+   "end": 38404.3,
+   "title": "64 - ваны забойца/0064.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/012 Каранаваны забойца/0064.mp3"
+  },
+  {
+   "id": 64,
+   "start": 38404.3,
+   "end": 39122.47,
+   "title": "65 - ваны забойца/0065.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/012 Каранаваны забойца/0065.mp3"
+  },
+  {
+   "id": 65,
+   "start": 39122.47,
+   "end": 39912.77,
+   "title": "66 - ваны забойца/0066.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/012 Каранаваны забойца/0066.mp3"
+  },
+  {
+   "id": 66,
+   "start": 39912.77,
+   "end": 40433.9,
+   "title": "67 - ваны забойца/0067.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/012 Каранаваны забойца/0067.mp3"
+  },
+  {
+   "id": 67,
+   "start": 40433.9,
+   "end": 40955.19,
+   "title": "68 - ваны забойца/0068.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/012 Каранаваны забойца/0068.mp3"
+  },
+  {
+   "id": 68,
+   "start": 40955.19,
+   "end": 41689.3,
+   "title": "69 - іною – іншая краіна/0069.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/013 За Дзвіною – іншая краіна/0069.mp3"
+  },
+  {
+   "id": 69,
+   "start": 41689.3,
+   "end": 42502.03,
+   "title": "70 - іною – іншая краіна/0070.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/013 За Дзвіною – іншая краіна/0070.mp3"
+  },
+  {
+   "id": 70,
+   "start": 42502.03,
+   "end": 43057.12,
+   "title": "71 - іною – іншая краіна/0071.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/013 За Дзвіною – іншая краіна/0071.mp3"
+  },
+  {
+   "id": 71,
+   "start": 43057.12,
+   "end": 43684.52,
+   "title": "72 - іною – іншая краіна/0072.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/013 За Дзвіною – іншая краіна/0072.mp3"
+  },
+  {
+   "id": 72,
+   "start": 43684.52,
+   "end": 44373.38,
+   "title": "73 - іною – іншая краіна/0073.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/013 За Дзвіною – іншая краіна/0073.mp3"
+  },
+  {
+   "id": 73,
+   "start": 44373.38,
+   "end": 44862.46,
+   "title": "74 - іною – іншая краіна/0074.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/013 За Дзвіною – іншая краіна/0074.mp3"
+  },
+  {
+   "id": 74,
+   "start": 44862.46,
+   "end": 45221.08,
+   "title": "75 - іною – іншая краіна/0075.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/013 За Дзвіною – іншая краіна/0075.mp3"
+  },
+  {
+   "id": 75,
+   "start": 45221.08,
+   "end": 45997.9,
+   "title": "76 - нараджэння Напалеона/0076.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/014 Дзень нараджэння Напалеона/0076.mp3"
+  },
+  {
+   "id": 76,
+   "start": 45997.9,
+   "end": 46540.61,
+   "title": "77 - нараджэння Напалеона/0077.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/014 Дзень нараджэння Напалеона/0077.mp3"
+  },
+  {
+   "id": 77,
+   "start": 46540.61,
+   "end": 47013.41,
+   "title": "78 - нараджэння Напалеона/0078.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/014 Дзень нараджэння Напалеона/0078.mp3"
+  },
+  {
+   "id": 78,
+   "start": 47013.41,
+   "end": 47589.24,
+   "title": "79 - нараджэння Напалеона/0079.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/014 Дзень нараджэння Напалеона/0079.mp3"
+  },
+  {
+   "id": 79,
+   "start": 47589.24,
+   "end": 48141.72,
+   "title": "80 - ater Polocensis/0080.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0080.mp3"
+  },
+  {
+   "id": 80,
+   "start": 48141.72,
+   "end": 48622.39,
+   "title": "81 - ater Polocensis/0081.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0081.mp3"
+  },
+  {
+   "id": 81,
+   "start": 48622.39,
+   "end": 49340.43,
+   "title": "82 - ater Polocensis/0082.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0082.mp3"
+  },
+  {
+   "id": 82,
+   "start": 49340.43,
+   "end": 49890.32,
+   "title": "83 - ater Polocensis/0083.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0083.mp3"
+  },
+  {
+   "id": 83,
+   "start": 49890.32,
+   "end": 50663.35,
+   "title": "84 - ater Polocensis/0084.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0084.mp3"
+  },
+  {
+   "id": 84,
+   "start": 50663.35,
+   "end": 51235.08,
+   "title": "85 - ater Polocensis/0085.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0085.mp3"
+  },
+  {
+   "id": 85,
+   "start": 51235.08,
+   "end": 51940.5,
+   "title": "86 - ater Polocensis/0086.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0086.mp3"
+  },
+  {
+   "id": 86,
+   "start": 51940.5,
+   "end": 52642.24,
+   "title": "87 - ater Polocensis/0087.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0087.mp3"
+  },
+  {
+   "id": 87,
+   "start": 52642.24,
+   "end": 53457.4,
+   "title": "88 - ater Polocensis/0088.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0088.mp3"
+  },
+  {
+   "id": 88,
+   "start": 53457.4,
+   "end": 54177.77,
+   "title": "89 - ater Polocensis/0089.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0089.mp3"
+  },
+  {
+   "id": 89,
+   "start": 54177.77,
+   "end": 54691.14,
+   "title": "90 - ater Polocensis/0090.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/015 Alma mater Polocensis/0090.mp3"
+  },
+  {
+   "id": 90,
+   "start": 54691.14,
+   "end": 55174.6,
+   "title": "91 - і корпус/0091.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/016 Кадэцкі корпус/0091.mp3"
+  },
+  {
+   "id": 91,
+   "start": 55174.6,
+   "end": 55627.71,
+   "title": "92 - і корпус/0092.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/016 Кадэцкі корпус/0092.mp3"
+  },
+  {
+   "id": 92,
+   "start": 55627.71,
+   "end": 56399.77,
+   "title": "93 - і корпус/0093.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/016 Кадэцкі корпус/0093.mp3"
+  },
+  {
+   "id": 93,
+   "start": 56399.77,
+   "end": 56925.39,
+   "title": "94 - і корпус/0094.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/016 Кадэцкі корпус/0094.mp3"
+  },
+  {
+   "id": 94,
+   "start": 56925.39,
+   "end": 57394.8,
+   "title": "95 - і корпус/0095.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/016 Кадэцкі корпус/0095.mp3"
+  },
+  {
+   "id": 95,
+   "start": 57394.8,
+   "end": 57914.07,
+   "title": "96 - і корпус/0096.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/016 Кадэцкі корпус/0096.mp3"
+  },
+  {
+   "id": 96,
+   "start": 57914.07,
+   "end": 58415.74,
+   "title": "97 - і корпус/0097.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/016 Кадэцкі корпус/0097.mp3"
+  },
+  {
+   "id": 97,
+   "start": 58415.74,
+   "end": 58938.33,
+   "title": "98 - кі правінцыйнага рамана/0098.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0098.mp3"
+  },
+  {
+   "id": 98,
+   "start": 58938.33,
+   "end": 59469.91,
+   "title": "99 - кі правінцыйнага рамана/0099.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0099.mp3"
+  },
+  {
+   "id": 99,
+   "start": 59469.91,
+   "end": 59949.53,
+   "title": " - кі правінцыйнага рамана/0100.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0100.mp3"
+  },
+  {
+   "id": 100,
+   "start": 59949.53,
+   "end": 60435.81,
+   "title": "1 - кі правінцыйнага рамана/0101.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0101.mp3"
+  },
+  {
+   "id": 101,
+   "start": 60435.81,
+   "end": 61206.12,
+   "title": "2 - кі правінцыйнага рамана/0102.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0102.mp3"
+  },
+  {
+   "id": 102,
+   "start": 61206.12,
+   "end": 61732.97,
+   "title": "3 - кі правінцыйнага рамана/0103.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0103.mp3"
+  },
+  {
+   "id": 103,
+   "start": 61732.97,
+   "end": 62447.61,
+   "title": "4 - кі правінцыйнага рамана/0104.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0104.mp3"
+  },
+  {
+   "id": 104,
+   "start": 62447.61,
+   "end": 63391.22,
+   "title": "5 - кі правінцыйнага рамана/0105.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0105.mp3"
+  },
+  {
+   "id": 105,
+   "start": 63391.22,
+   "end": 63844.51,
+   "title": "6 - кі правінцыйнага рамана/0106.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/017 Старонкі правінцыйнага рамана/0106.mp3"
+  },
+  {
+   "id": 106,
+   "start": 63844.51,
+   "end": 64457.38,
+   "title": "7 - ь 1910/0107.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/018 Травень 1910/0107.mp3"
+  },
+  {
+   "id": 107,
+   "start": 64457.38,
+   "end": 65094.62,
+   "title": "8 - ь 1910/0108.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/018 Травень 1910/0108.mp3"
+  },
+  {
+   "id": 108,
+   "start": 65094.62,
+   "end": 65664.7,
+   "title": "9 - ь 1910/0109.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/018 Травень 1910/0109.mp3"
+  },
+  {
+   "id": 109,
+   "start": 65664.7,
+   "end": 66208.92,
+   "title": "10 - ь 1910/0110.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/018 Травень 1910/0110.mp3"
+  },
+  {
+   "id": 110,
+   "start": 66208.92,
+   "end": 66621.77,
+   "title": "11 - ь 1910/0111.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/018 Травень 1910/0111.mp3"
+  },
+  {
+   "id": 111,
+   "start": 66621.77,
+   "end": 67411.07,
+   "title": "12 - таў полацкай мінуўшчыны/0112.mp3",
+   "url": "https://files.knihi.com/Audio/rutracker/Arlou.Tajamnicy_polackaj_historyji.mp3.zip/019 Сто датаў полацкай мінуўшчыны/0112.mp3"
+  }
+ ],
+ "title": "Таямніцы полацкай гісторыі",
+ "slug": "Tayamnitsy-polatskay-historyi",
+ "author": "Уладзімір Арлоў",
+ "author_slug": "Uladzimir-Arlow",
+ "narrators": [
+  "Уладзімір Арлоў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычная літаратура",
+  "Публіцыстыка",
+  "Краязнаўства",
+  "Эсэістыка"
+ ],
+ "source": "https://knihi.com/Uladzimir_Arlou/Tajamnicy_polackaj_historyi_mp3.zip.html",
+ "cover": "Uladzimir-Arlow/Tayamnitsy-polatskay-historyi.jpg",
+ "description": "У гэтай кнізе вядомы беларускі пісьменнік Уладзімір Арлоў запрашае чытача ў займальнае падарожжа па старажытным Полацку, які з'яўляецца духоўнай калыскай нашай нацыі. Аўтар майстэрска спалучае дакладныя гістарычныя факты з легендамі і паданнямі, ствараючы жывы і шматгранны вобраз горада на Дзвіне. Праз аповеды пра выдатных асоб, такіх як Ефрасіння Полацкая і Францыск Скарына, раскрываюцца лёсавызначальныя падзеі беларускага мінулага. Тэкст напісаны ў лёгкай і захапляльнай манеры, што робіць яго даступным як для даследчыкаў гісторыі, так і для шырокага кола аматараў нацыянальнай спадчыны. Гэта твор пра любоў да роднага краю, пошук каранёў і ўсведамленне велічы нашай гістарычнай спадчыны.",
+ "length": 67411.07
+}

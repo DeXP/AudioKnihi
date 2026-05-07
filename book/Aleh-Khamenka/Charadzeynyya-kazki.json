@@ -1,0 +1,86 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - ты",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/01.Два браты.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - ўсяго многа",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/02.З рога ўсяго многа.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - анавіч - купецкі сын",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/03.Іван Іванавіч - купецкі сын.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - урань",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/04.Кот і дурань.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - й яшчарка",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/05.Музыка й яшчарка.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - а й мядзьведзь",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/06.Падчарка й мядзьведзь.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1800.0,
+   "end": 2100.0,
+   "title": "7 - сынок",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/07.Піліпка сынок.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2100.0,
+   "end": 2400.0,
+   "title": "8 - сім",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/08.Кот Максім.mp3"
+  },
+  {
+   "id": 8,
+   "start": 2400.0,
+   "end": 2700.0,
+   "title": "9 - чарку",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Caradziejnyja_kazki.mp3.zip/09.Пра падчарку.mp3"
+  }
+ ],
+ "title": "Чарадзейныя казкі",
+ "slug": "Charadzeynyya-kazki",
+ "author": "Алег Хаменка",
+ "author_slug": "Aleh-Khamenka",
+ "narrators": [
+  "Алег Хаменка"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Казкі",
+  "Фэнтэзі",
+  "Дзіцячая літаратура",
+  "Беларуская літаратура"
+ ],
+ "source": "https://knihi.com/none/Caradziejnyja_kazki_mp3.zip.html",
+ "cover": "Aleh-Khamenka/Charadzeynyya-kazki.jpg",
+ "description": "Гэтая кніга ўяўляе сабой зборнік захапляльных гісторый, якія адкрываюць перад чытачом дзверы ў свет беларускага фальклору і магіі. Алег Хаменка майстэрска пераасэнсоўвае народныя сюжэты, напаўняючы іх новымі фарбамі і глыбокім сэнсам. Галоўныя тэмы твораў закранаюць пытанні дабра і зла, мудрасці продкаў і непарыўнай сувязі чалавека з прыродай. Апавяданні напісаны лёгкай і меладычнай мовай, што робіць іх ідэальным чытаннем як для дзяцей, так і для дарослых. Атмасфера кнігі напоўнена светлым чараўніцтвам і павагай да нацыянальных традыцый.",
+ "length": 2700.0
+}

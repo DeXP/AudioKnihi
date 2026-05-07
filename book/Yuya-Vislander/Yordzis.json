@@ -1,0 +1,108 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - я вуліца, дом 1",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/01.Сонечная вуліца, дом 1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - м",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/02.Мой дом.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - рык",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/03.Мік і прык.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - ая бабуля",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/04.Мая мілая бабуля.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - ̈сць свой кінатэатр",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/05.У нас ёсць свой кінатэатр.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - я плямкі і сакрэты",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/06.Чырвоныя плямкі і сакрэты.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1800.0,
+   "end": 2100.0,
+   "title": "7 - вішча на гарышчы",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/07.Вецер свішча на гарышчы.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2100.0,
+   "end": 2400.0,
+   "title": "8 - жудасныя паперкі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/08.Вельмі жудасныя паперкі.mp3"
+  },
+  {
+   "id": 8,
+   "start": 2400.0,
+   "end": 2700.0,
+   "title": "9 - ца",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/09.Казачніца.mp3"
+  },
+  {
+   "id": 9,
+   "start": 2700.0,
+   "end": 3000.0,
+   "title": "10 - праца",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/10.Маміна праца.mp3"
+  },
+  {
+   "id": 10,
+   "start": 3000.0,
+   "end": 3300.0,
+   "title": "11 - ахлівае, што можа здарыцца",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/11.Самае жахлівае, што можа здарыцца.mp3"
+  },
+  {
+   "id": 11,
+   "start": 3300.0,
+   "end": 3600.0,
+   "title": "12 - бывае матацыкл, а бабуля пераяжджае",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Jordzis.mp3.zip/12.Тата набывае матацыкл, а бабуля пераяжджае.mp3"
+  }
+ ],
+ "title": "Ёрдзіс",
+ "slug": "Yordzis",
+ "author": "Юя Вісландэр",
+ "author_slug": "Yuya-Vislander",
+ "narrators": [
+  "Алена Сідарава",
+  "Крысціна Дробыш",
+  "Ісай Свістулькін"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Аповесць",
+  "Мастацкая літаратура"
+ ],
+ "source": "https://knihi.com/Juja_Vislander/Jordzis_mp3.zip.html",
+ "cover": "Yuya-Vislander/Yordzis.jpg",
+ "description": "Гэтая кніга распавядае пра маленькую дзяўчынку па імені Ёрдзіс, якая жыве ў незвычайным свеце і сутыкаецца з паўсядзённымі дзіцячымі клопатамі. Праз прыгоды гераіні аўтарка даследуе тэмы сталення, пошуку ўласнага месца ў грамадстве і важнасці сяброўства. Гісторыя напоўнена шчырасцю, цеплынёй і лёгкім гумарам, што робіць яе зразумелай для самых юных чытачоў. Кніга вучыць дзяцей быць смелымі, адкрытымі да новага і верыць у свае сілы, нягледзячы на любыя перашкоды. Гэта светлая і павучальная аповесць, якая запрашае ў падарожжа па свеце дзяцінства, дзе кожны дзень можа стаць пачаткам чагосьці важнага.",
+ "length": 3600.0
+}

@@ -1,0 +1,59 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - шляхотнага дому",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Pryhody_kata-letuciennika.mp3.zip/01.Кот са шляхотнага дому.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - цудоўны дзень!",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Pryhody_kata-letuciennika.mp3.zip/02.Што за цудоўны дзень!.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - шпацыр пад Месяцам",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Pryhody_kata-letuciennika.mp3.zip/03.Кацiны шпацыр пад Месяцам.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - аралеўскага тыгра",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Pryhody_kata-letuciennika.mp3.zip/04.Сваяк каралеўскага тыгра.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - , сёмага снежня",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Pryhody_kata-letuciennika.mp3.zip/05.Пятнiца, сёмага снежня.mp3"
+  }
+ ],
+ "title": "Прыгоды ката-летуценніка",
+ "slug": "Pryhody-kata-letutsennika",
+ "author": "Вілі Майнк",
+ "author_slug": "Vili-Maynk",
+ "narrators": [
+  "Ісай Свістулькін",
+  "Крысціна Дробыш"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казка",
+  "Фэнтэзі",
+  "Прыгоды"
+ ],
+ "source": "https://knihi.com/Vili_Majnk/Pryhody_kata-letuciennika_mp3.zip.html",
+ "cover": "Vili-Maynk/Pryhody-kata-letutsennika.jpg",
+ "description": "Гэтая кніга распавядае пра незвычайнага ката, які замест звыклага палявання на мышэй аддае перавагу падарожжам у свеце ўласных фантазій. Галоўны герой імкнецца адшукаць адказы на важныя жыццёвыя пытанні і спазнаць таямніцы навакольнага свету праз прызму сваіх летуценняў. Аўтар майстэрска пераплятае рэальнасць з магічнымі элементамі, ствараючы атмасферу дабрыні і філасофскага роздуму. Твор вучыць чытачоў верыць у цуды і не баяцца глядзець на звыклыя рэчы пад новым вуглом. Гэта светлая і павучальная гісторыя, якая будзе цікавая як дзецям, так і дарослым, што захавалі ў душы дзіцячую непасрэднасць.",
+ "length": 1500.0
+}

@@ -1,0 +1,65 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - зік",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Spodacak_dla_cmoka.mp3.zip/01.Юзік Гузік.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - е з кузуркамі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Spodacak_dla_cmoka.mp3.zip/02.Змаганне з кузуркамі.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - яг на сподачку",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Spodacak_dla_cmoka.mp3.zip/03.Белы сцяг на сподачку.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - ўр і пачвары",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Spodacak_dla_cmoka.mp3.zip/04.Цмаказаўр і пачвары.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - а шафай",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Spodacak_dla_cmoka.mp3.zip/05.Зоркі за шафай.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - і бурбалкі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Spodacak_dla_cmoka.mp3.zip/06.Шчасце і бурбалкі.mp3"
+  }
+ ],
+ "title": "Сподачак для цмока",
+ "slug": "Spodachak-dlya-tsmoka",
+ "author": "Надзея Ясмінска",
+ "author_slug": "Nadzeya-Yasminska",
+ "narrators": [
+  "Крысціна Дробыш",
+  "Ісай Свістулькін"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Фэнтэзі",
+  "Казка"
+ ],
+ "source": "https://knihi.com/Nadzieja_Jasminska/Spodacak_dla_cmoka_mp3.zip.html",
+ "cover": "Nadzeya-Yasminska/Spodachak-dlya-tsmoka.jpg",
+ "description": "Гэтая чароўная гісторыя распавядае пра незвычайнае сяброўства паміж маленькім цмокам і дзяўчынкай, якая вырашыла дапамагчы яму знайсці сапраўдны дом. Кніга напоўнена цёплай атмасферай дабрыні, прыгод і веры ў цуды, што робіць яе ідэальнай для сямейнага чытання. Аўтарка майстэрска спалучае казачныя матывы з важнымі тэмамі ўзаемаразумення, клопату пра іншых і пошуку свайго месца ў свеце. Свет твора ажывае дзякуючы яркім вобразам і пяшчотнай мове, якая захапляе як дзяцей, так і дарослых. Гэта светлая казка, якая вучыць бачыць магію ў звычайных рэчах і заўсёды заставацца верным сваім сябрам.",
+ "length": 1800.0
+}

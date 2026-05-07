@@ -1,0 +1,87 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1515.68,
+   "title": "11 - згубіўся калі быў маленькі",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/11.flac"
+  },
+  {
+   "id": 1,
+   "start": 1515.68,
+   "end": 3031.36,
+   "title": "12 - індус святкуюць Каляды",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/12.flac"
+  },
+  {
+   "id": 2,
+   "start": 3031.36,
+   "end": 4547.04,
+   "title": "13 - зджае",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/13.flac"
+  },
+  {
+   "id": 3,
+   "start": 4547.04,
+   "end": 6062.72,
+   "title": "21 - уе",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/21.flac"
+  },
+  {
+   "id": 4,
+   "start": 6062.72,
+   "end": 7578.4,
+   "title": "22 - Час пеўня",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/22.flac"
+  },
+  {
+   "id": 5,
+   "start": 7578.4,
+   "end": 9094.08,
+   "title": "23 - Пэтсана",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/23.flac"
+  },
+  {
+   "id": 6,
+   "start": 9094.08,
+   "end": 10609.76,
+   "title": "31 - агародзе",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/31.flac"
+  },
+  {
+   "id": 7,
+   "start": 10609.76,
+   "end": 12125.44,
+   "title": "32 - т",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/32.flac"
+  },
+  {
+   "id": 8,
+   "start": 12125.44,
+   "end": 13641.12,
+   "title": "33 - на ліса",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Petsan_i_Findus.flac.zip/33.flac"
+  }
+ ],
+ "title": "Пэтсан і Фіндус",
+ "slug": "Petsan-i-Findus",
+ "author": "Свэн Нурдквіст",
+ "author_slug": "Sven-Nurdkvist",
+ "narrators": [
+  "Аня Хітрык",
+  "Павал Харланчук"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казка",
+  "Прыгоды",
+  "Мастацкая літаратура"
+ ],
+ "source": "https://knihi.com/Sven_Nurdkvist/Petsan_i_Findus_flac.zip.html",
+ "cover": "Sven-Nurdkvist/Petsan-i-Findus.jpg",
+ "description": "Гэта серыя кніг распавядае пра жыццё самотнага старога фермера Пэтсана і яго гаваркога кацяняці Фіндуса, якія жывуць у невялікай шведскай вёсцы. Іх будні напоўнены незвычайнымі прыгодамі, вынаходніцтвамі і добрым гумарам, што робіць кожную гісторыю захапляльнай. Асноўнымі тэмамі твораў з’яўляюцца шчырае сяброўства, клопат адзін пра аднаго і ўменне знаходзіць радасць у дробязях. Утульная атмасфера і мудрасць аўтара дапамагаюць чытачам адчуць цеплыню чалавечых адносін і важнасць падтрымкі. Кнігі вылучаюцца дэталёвымі ілюстрацыямі, якія дапаўняюць тэкст і ствараюць непаўторны казачны свет.",
+ "length": 13641.12
+}

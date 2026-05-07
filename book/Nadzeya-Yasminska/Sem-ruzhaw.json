@@ -1,0 +1,81 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - а Густога лесу, або з чаго ўсё пачалося",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_ruzau.mp3.zip/01.Таямніца Густога лесу, або з чаго ўсё пачалося.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - я Ружа i сад вядзьмаркі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_ruzau.mp3.zip/02.Пунсовая Ружа i сад вядзьмаркі.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - Ружа i лясная чарадзейка",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_ruzau.mp3.zip/03.Жоўтая Ружа i лясная чарадзейка.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - ужа і чорны рыцар",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_ruzau.mp3.zip/04.Белая Ружа і чорны рыцар.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - вая Ружа і кароль эльфаў",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_ruzau.mp3.zip/05.Кармінавая Ружа і кароль эльфаў.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - ая Ружа i скарб волаткі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_ruzau.mp3.zip/06.Блакітная Ружа i скарб волаткі.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1800.0,
+   "end": 2100.0,
+   "title": "7 - Ружа i чароўны калодзеж",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_ruzau.mp3.zip/07.Залатая Ружа i чароўны калодзеж.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2100.0,
+   "end": 2400.0,
+   "title": "8 - Ружа i вандроўны музыка",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_ruzau.mp3.zip/08.Чорная Ружа i вандроўны музыка.mp3"
+  }
+ ],
+ "title": "Сем ружаў",
+ "slug": "Sem-ruzhaw",
+ "author": "Надзея Ясмінска",
+ "author_slug": "Nadzeya-Yasminska",
+ "narrators": [
+  "Ісай Свістулькін",
+  "Алена Сідарава",
+  "Крысціна Дробыш"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Фэнтэзі",
+  "Казка",
+  "Магічны рэалізм",
+  "Дзіцячая літаратура"
+ ],
+ "source": "https://knihi.com/Nadzieja_Jasminska/Siem_ruzau_mp3.zip.html",
+ "cover": "Nadzeya-Yasminska/Sem-ruzhaw.jpg",
+ "description": "Гэтая кніга ўяўляе сабой чароўны зборнік казачных гісторый, дзе рэальнасць цесна пераплятаецца з магіяй і старажытнымі легендамі. У цэнтры сюжэту знаходзяцца лёсы герояў, якія сутыкаюцца з выпрабаваннямі, каханнем і пошукам свайго сапраўднага прызначэння. Аўтарка стварае атмасферу светлага суму і надзеі, выкарыстоўваючы багатую метафарычную мову і тонкі псіхалагізм. Творы Надзеі Ясмінскай закранаюць вечныя тэмы дабра і зла, а таксама важнасць захавання чалавечнасці ў складаных абставінах. Гэта літаратура, якая здольная зачараваць як дзяцей, так і дарослых сваёй паэтычнасцю і глыбінёй.",
+ "length": 2400.0
+}

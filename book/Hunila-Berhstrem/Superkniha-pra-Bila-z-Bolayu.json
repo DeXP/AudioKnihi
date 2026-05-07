@@ -1,0 +1,37 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 5138.164,
+   "title": "1 - Частка 1",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Supierkniha_pra_Bila_z_Bolaju.flac.zip/01.flac"
+  },
+  {
+   "id": 1,
+   "start": 5138.164,
+   "end": 10665.499,
+   "title": "2 - Частка 2",
+   "url": "https://files.knihi.com/Audio/audiobooks2/Supierkniha_pra_Bila_z_Bolaju.flac.zip/02.flac"
+  }
+ ],
+ "title": "Суперкніга пра Біла з Болаю",
+ "slug": "Superkniha-pra-Bila-z-Bolayu",
+ "author": "Гуніла Бэргстрэм",
+ "author_slug": "Hunila-Berhstrem",
+ "narrators": [
+  "Павал Харланчук",
+  "Аня Хітрык"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Апавяданні",
+  "Мастацкая літаратура"
+ ],
+ "source": "https://knihi.com/Hunila_Berhstrem/Supierkniha_pra_Bila_z_Bolaju_flac.zip.html",
+ "cover": "Hunila-Berhstrem/Superkniha-pra-Bila-z-Bolayu.jpg",
+ "description": "Гэтая кніга распавядае пра паўсядзённае жыццё маленькага хлопчыка Біла і яго вернага плюшавай сабачкі Болы. Разам яны трапляюць у розныя сітуацыі, якія знаёмыя кожнаму дзіцяці, ад гульняў у хаце да першых сур'ёзных адкрыццяў. Аўтарка з вялікай цеплынёй і разуменнем дзіцячай псіхалогіі паказвае свет вачыма малога, дзе звычайныя рэчы становяцца сапраўднымі прыгодамі. Гісторыі напоўнены дабрынёй, гумарам і ўтульнай атмасферай, што робіць іх ідэальнымі для сумеснага чытання з бацькамі. Кніга вучыць дзяцей быць уважлівымі да навакольнага свету і цаніць сяброўства.",
+ "length": 10665.499
+}

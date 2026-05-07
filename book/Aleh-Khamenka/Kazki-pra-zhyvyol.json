@@ -1,0 +1,239 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - рсюк, казёл, гусак і певень",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/01.Бык, парсюк, казёл, гусак і певень.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - тары сабака ды кот",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/02.Воўк, стары сабака ды кот.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - баба й воўк",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/03.Дзед ды баба й воўк.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - оўк",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/04.Дурны воўк.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - ы чапля",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/05.Жораў ды чапля.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - рота",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/06.Каза Дарота.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1800.0,
+   "end": 2100.0,
+   "title": "7 - мядзведзь, воўк, лісіца ды кабанец",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/07.Гусак, мядзведзь, воўк, лісіца ды кабанец.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2100.0,
+   "end": 2400.0,
+   "title": "8 - баран",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/08.Казёл і баран.mp3"
+  },
+  {
+   "id": 8,
+   "start": 2400.0,
+   "end": 2700.0,
+   "title": "9 - каза",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/09.Казёл і каза.mp3"
+  },
+  {
+   "id": 9,
+   "start": 2700.0,
+   "end": 3000.0,
+   "title": "10 - еўнем ды ліска",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/10.Кот з пеўнем ды ліска.mp3"
+  },
+  {
+   "id": 10,
+   "start": 3000.0,
+   "end": 3300.0,
+   "title": "11 - са ды воўк",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/11.Кот, ліса ды воўк.mp3"
+  },
+  {
+   "id": 11,
+   "start": 3300.0,
+   "end": 3600.0,
+   "title": "12 - аба",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/12.Курка Раба.mp3"
+  },
+  {
+   "id": 12,
+   "start": 3600.0,
+   "end": 3900.0,
+   "title": "13 - талічка",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/13.Ліса-каталічка.mp3"
+  },
+  {
+   "id": 13,
+   "start": 3900.0,
+   "end": 4200.0,
+   "title": "14 - цецярук",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/14.Ліса ды цецярук.mp3"
+  },
+  {
+   "id": 14,
+   "start": 4200.0,
+   "end": 4500.0,
+   "title": "15 - стрычка, заяц, воўк і мядзьведзь",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/15.Ліса-сястрычка, заяц, воўк і мядзьведзь.mp3"
+  },
+  {
+   "id": 15,
+   "start": 4500.0,
+   "end": 4800.0,
+   "title": "16 - сястрычка, заяц, воўк ды мядзьведзь",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/16.Лісічка-сястрычка, заяц, воўк ды мядзьведзь.mp3"
+  },
+  {
+   "id": 16,
+   "start": 4800.0,
+   "end": 5100.0,
+   "title": "17 - а ды пеўнік",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/17.Ляшчынка ды пеўнік.mp3"
+  },
+  {
+   "id": 17,
+   "start": 5100.0,
+   "end": 5400.0,
+   "title": "18 - ы мароз",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/18.Мужык ды мароз.mp3"
+  },
+  {
+   "id": 18,
+   "start": 5400.0,
+   "end": 5700.0,
+   "title": "19 - дзь на ліпавай назе",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/19.Мядзьведзь на ліпавай назе.mp3"
+  },
+  {
+   "id": 19,
+   "start": 5700.0,
+   "end": 6000.0,
+   "title": "20 - воўк і ліса",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/20.Мужык, воўк і ліса.mp3"
+  },
+  {
+   "id": 20,
+   "start": 6000.0,
+   "end": 6300.0,
+   "title": "21 - мядзьведзь і ліса",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/21.Мужык, мядзьведзь і ліса.mp3"
+  },
+  {
+   "id": 21,
+   "start": 6300.0,
+   "end": 6600.0,
+   "title": "22 - 22.Піражок",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/22.Піражок.mp3"
+  },
+  {
+   "id": 22,
+   "start": 6600.0,
+   "end": 6900.0,
+   "title": "23 - рога ката",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/23.Пра старога ката.mp3"
+  },
+  {
+   "id": 23,
+   "start": 6900.0,
+   "end": 7200.0,
+   "title": "24 - й воўк",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/24.Сабака й воўк.mp3"
+  },
+  {
+   "id": 24,
+   "start": 7200.0,
+   "end": 7500.0,
+   "title": "25 - воўк, баран і кот",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/25.Сабака, воўк, баран і кот.mp3"
+  },
+  {
+   "id": 25,
+   "start": 7500.0,
+   "end": 7800.0,
+   "title": "26 - вецер",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/26.Сонца й вецер.mp3"
+  },
+  {
+   "id": 26,
+   "start": 7800.0,
+   "end": 8100.0,
+   "title": "27 - ўкі званка баяцца",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/27.Чаму ваўкі званка баяцца.mp3"
+  },
+  {
+   "id": 27,
+   "start": 8100.0,
+   "end": 8400.0,
+   "title": "28 - ў уцёк з нашай стараны",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/28.Чаму леў уцёк з нашай стараны.mp3"
+  },
+  {
+   "id": 28,
+   "start": 8400.0,
+   "end": 8700.0,
+   "title": "29 - стаў старэйшым за льва",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/29.Як конь стаў старэйшым за льва.mp3"
+  },
+  {
+   "id": 29,
+   "start": 8700.0,
+   "end": 9000.0,
+   "title": "30 - ашукала варона",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/30.Як лісу ашукала варона.mp3"
+  },
+  {
+   "id": 30,
+   "start": 9000.0,
+   "end": 9300.0,
+   "title": "31 - ка трапіла ваўку ў зубы",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_pra_zyviol.mp3.zip/31.Як свінка трапіла ваўку ў зубы.mp3"
+  }
+ ],
+ "title": "Казкі пра жывёл",
+ "slug": "Kazki-pra-zhyvyol",
+ "author": "Алег Хаменка",
+ "author_slug": "Aleh-Khamenka",
+ "narrators": [
+  "Алег Хаменка"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казкі",
+  "Мастацкая літаратура"
+ ],
+ "source": "https://knihi.com/none/Kazki_pra_zyviol_mp3.zip.html",
+ "cover": "Aleh-Khamenka/Kazki-pra-zhyvyol.jpg",
+ "description": "Гэтая кніга ўяўляе сабой зборнік займальных гісторый, у якіх галоўнымі героямі выступаюць разнастайныя лясныя насельнікі. Алег Хаменка праз прызму казачных сюжэтаў даследуе важныя маральныя пытанні, вучачы маленькіх чытачоў дабрыні, справядлівасці і ўзаемадапамозе. Апавяданні напісаны жывой і вобразнай мовай, што робіць іх лёгкімі для ўспрымання і цікавымі для сямейнага чытання. Твор напоўнены светлым гумарам і народнай мудрасцю, якая дапамагае дзецям лепш зразумець навакольны свет. Гэта выдатны выбар для тых, хто хоча пазнаёміць дзяцей з багаццем беларускай дзіцячай літаратуры.",
+ "length": 9300.0
+}

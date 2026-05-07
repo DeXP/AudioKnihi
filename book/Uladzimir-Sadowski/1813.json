@@ -1,0 +1,170 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 282.78,
+   "title": "1 - 001.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 282.78,
+   "end": 966.33,
+   "title": "2 - 002.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 966.33,
+   "end": 1181.11,
+   "title": "3 - 003.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 1181.11,
+   "end": 1399.13,
+   "title": "4 - 004.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1399.13,
+   "end": 2360.78,
+   "title": "5 - 005.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 2360.78,
+   "end": 3143.75,
+   "title": "6 - 006.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 3143.75,
+   "end": 3445.13,
+   "title": "7 - 007.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 3445.13,
+   "end": 4172.38,
+   "title": "8 - 008.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 4172.38,
+   "end": 5115.56,
+   "title": "9 - 009.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 5115.56,
+   "end": 5282.69,
+   "title": "10 - 010.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/010.mp3"
+  },
+  {
+   "id": 10,
+   "start": 5282.69,
+   "end": 6744.06,
+   "title": "11 - 011.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/011.mp3"
+  },
+  {
+   "id": 11,
+   "start": 6744.06,
+   "end": 7193.13,
+   "title": "12 - 012.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/012.mp3"
+  },
+  {
+   "id": 12,
+   "start": 7193.13,
+   "end": 7393.62,
+   "title": "13 - 013.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/013.mp3"
+  },
+  {
+   "id": 13,
+   "start": 7393.62,
+   "end": 8672.11,
+   "title": "14 - 014.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/014.mp3"
+  },
+  {
+   "id": 14,
+   "start": 8672.11,
+   "end": 9389.49,
+   "title": "15 - 015.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/015.mp3"
+  },
+  {
+   "id": 15,
+   "start": 9389.49,
+   "end": 9565.4,
+   "title": "16 - 016.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/016.mp3"
+  },
+  {
+   "id": 16,
+   "start": 9565.4,
+   "end": 10438.13,
+   "title": "17 - 017.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/017.mp3"
+  },
+  {
+   "id": 17,
+   "start": 10438.13,
+   "end": 11165.49,
+   "title": "18 - 018.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/018.mp3"
+  },
+  {
+   "id": 18,
+   "start": 11165.49,
+   "end": 11918.58,
+   "title": "19 - 019.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/019.mp3"
+  },
+  {
+   "id": 19,
+   "start": 11918.58,
+   "end": 12695.94,
+   "title": "20 - 020.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/020.mp3"
+  },
+  {
+   "id": 20,
+   "start": 12695.94,
+   "end": 13202.82,
+   "title": "21 - 021.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/uladzimir_sadouski_1813.mp3.zip/021.mp3"
+  }
+ ],
+ "title": "1813",
+ "slug": "1813",
+ "author": "Уладзімір Садоўскі",
+ "author_slug": "Uladzimir-Sadowski",
+ "narrators": [
+  "Ірына Якавец"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычны раман",
+  "Дэтэктыў",
+  "Прыгоды",
+  "Містыка"
+ ],
+ "source": "https://knihi.com/Uladzimir_Sadouski/1813_mp3.zip.html",
+ "cover": "Uladzimir-Sadowski/1813.jpg",
+ "description": "Раман Уладзіміра Садоўскага 1813 уяўляе сабой захапляльны гістарычны дэтэктыў, дзе падзеі напалеонаўскіх войнаў пераплятаюцца з містычнымі таямніцамі. Сюжэт разгортваецца вакол пошукаў зніклага скарбу, што прымушае герояў сутыкнуцца з небяспечнымі загадкамі мінулага. Аўтар майстэрска стварае атмасферу трывогі і інтрыгі, пагружаючы чытача ў рэаліі пачатку дзевятнаццатага стагоддзя. Твор падымае пытанні чалавечага выбару, гонару і няўмольнага ўплыву гісторыі на лёсы асобных людзей. Гэта глыбокая і дынамічная гісторыя, якая трымае ў напружанні да апошняй старонкі.",
+ "length": 13202.82
+}

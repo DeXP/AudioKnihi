@@ -1,0 +1,107 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 762.31,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 762.31,
+   "end": 1436.71,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1436.71,
+   "end": 2138.07,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2138.07,
+   "end": 2763.44,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2763.44,
+   "end": 3471.7,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3471.7,
+   "end": 4158.8,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4158.8,
+   "end": 4681.67,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 4681.67,
+   "end": 5400.59,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 5400.59,
+   "end": 6220.05,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 6220.05,
+   "end": 6875.85,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 6875.85,
+   "end": 7581.34,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 7581.34,
+   "end": 8231.76,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Lukasuk.Pryhody_ARA_u_Bielarusi.mp3.zip/12.mp3"
+  }
+ ],
+ "title": "Прыгоды АРА Ў Беларусі",
+ "slug": "Pryhody-ARA-W-Belarusi",
+ "author": "Аляксандар Лукашук",
+ "author_slug": "Alyaksandar-Lukashuk",
+ "narrators": [
+  "Аляксандар Лукашук"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Гістарычная дакументалістыка",
+  "Публіцыстыка",
+  "Біяграфія",
+  "Мемуары"
+ ],
+ "source": "https://knihi.com/Alaksandar_Lukasuk/Pryhody_ARA_U_Bielarusi_mp3.zip.html",
+ "cover": "Alyaksandar-Lukashuk/Pryhody-ARA-W-Belarusi.jpg",
+ "description": "Кніга Аляксандра Лукашука распавядае пра драматычную і малавядомую старонку беларускай гісторыі пачатку дваццатых гадоў мінулага стагоддзя. Аўтар падрабязна апісвае дзейнасць Амерыканскай адміністрацыі дапамогі, якая ратавала мільёны людзей ад голаду і эпідэмій у пасляваеннай Беларусі. Праз архіўныя дакументы і сведчанні відавочцаў раскрываецца маштаб гуманітарнай місіі, якая сутыкнулася з жорсткім супрацівам савецкай сістэмы. Гэта глыбокае даследаванне спалучае ў сабе рысы гістарычнай хронікі і публіцыстыкі, падкрэсліваючы важнасць чалавечнасці ў часы палітычных узрушэнняў. Твор прымушае задумацца пра складаныя ўзаемаадносіны паміж дабрачыннасцю і ідэалагічным кантролем у таталітарным грамадстве.",
+ "length": 8231.76
+}
