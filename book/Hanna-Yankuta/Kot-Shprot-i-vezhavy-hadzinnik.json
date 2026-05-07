@@ -1,0 +1,91 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - балконам",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/01.Дом пад балконам.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - марозіва ў сезоне",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/02.Апошняе марозіва ў сезоне.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - кая сустрэча прывідаў",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/03.Восеньская сустрэча прывідаў.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - яе жыхары",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/04.Вежа і яе жыхары.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - працягваюцца",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/05.Дзівосы працягваюцца.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - ае знаёмства",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/06.Нечаканае знаёмства.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1800.0,
+   "end": 2100.0,
+   "title": "7 - ў завулку",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/07.Пагоня ў завулку.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2100.0,
+   "end": 2400.0,
+   "title": "8 - аб'ядноўваюцца",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/08.Прывіды аб'ядноўваюцца.mp3"
+  },
+  {
+   "id": 8,
+   "start": 2400.0,
+   "end": 2700.0,
+   "title": "9 - а Шампіньёна",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/09.Таямніца Шампіньёна.mp3"
+  },
+  {
+   "id": 9,
+   "start": 2700.0,
+   "end": 3000.0,
+   "title": "10 - ралася кніга",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kot_Sprot_i_viezavy_hadzinnik.mp3.zip/10.Як стваралася кніга.mp3"
+  }
+ ],
+ "title": "Кот Шпрот і вежавы гадзіннік",
+ "slug": "Kot-Shprot-i-vezhavy-hadzinnik",
+ "author": "Ганна Янкута",
+ "author_slug": "Hanna-Yankuta",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Фэнтэзі",
+  "Прыгоды",
+  "Казка"
+ ],
+ "source": "https://knihi.com/Hanna_Jankuta/Kot_Sprot_i_viezavy_hadzinnik_mp3.zip.html",
+ "cover": "Hanna-Yankuta/Kot-Shprot-i-vezhavy-hadzinnik.jpg",
+ "description": "Гэтая кніга распавядае пра прыгоды незвычайнага ката па імені Шпрот, які жыве ў старадаўнім горадзе і любіць даследаваць таямнічыя куткі. Аднойчы галоўны герой сутыкаецца з загадкавай падзеяй, звязанай з гарадскім вежавым гадзіннікам, што прымушае яго адправіцца ў захапляльнае падарожжа. Гісторыя напоўнена атмасферай гарадской магіі, сяброўствам і пошукам адказаў на складаныя пытанні. Аўтарка стварае ўтульны і светлы настрой, які будзе цікавы як дзецям, так і дарослым чытачам. Кніга вучыць быць назіральным, смелым і цаніць час, які мы праводзім з блізкімі.",
+ "length": 3000.0
+}

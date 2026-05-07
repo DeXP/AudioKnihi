@@ -1,0 +1,58 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - ы",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_Staroha_Adamkova.mp3.zip/01.Уводзіны.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - за шпалеркай",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_Staroha_Adamkova.mp3.zip/02.Кастусь за шпалеркай.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - і два камякі бруду",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_Staroha_Adamkova.mp3.zip/03.Крумкач і два камякі бруду.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - старога двара",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_Staroha_Adamkova.mp3.zip/04.Кветка старога двара.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - 05.Эпілог",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Kazki_Staroha_Adamkova.mp3.zip/05.Эпілог.mp3"
+  }
+ ],
+ "title": "Казкі Старога Адамкова",
+ "slug": "Kazki-Staroha-Adamkova",
+ "author": "Наталка Харытанюк",
+ "author_slug": "Natalka-Kharytanyuk",
+ "narrators": [
+  "Крысціна Дробыш"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казкі",
+  "Фэнтэзі",
+  "Беларуская проза"
+ ],
+ "source": "https://knihi.com/Natalka_Charytaniuk/Kazki_Staroha_Adamkova_mp3.zip.html",
+ "cover": "Natalka-Kharytanyuk/Kazki-Staroha-Adamkova.jpg",
+ "description": "Гэтая кніга ўяўляе сабой зборнік чароўных гісторый, якія пераносяць чытача ў атмасферу беларускай вёскі з яе адметнымі традыцыямі і міфалагічнымі вобразамі. Галоўны герой, Стары Адамко, выступае ў ролі мудрага апавядальніка, які праз свае казкі вучыць дзяцей дабрыні, павазе да прыроды і разуменню народнай маралі. Тэксты напісаны жывой і вобразнай мовай, што дазваляе лёгка ўявіць казачны свет, напоўнены таямніцамі і нечаканымі сустрэчамі. Агульны тон твора светлы і настальгічны, ён закліканы захаваць духоўную спадчыну для новых пакаленняў. Гэта цудоўнае чытанне для ўсёй сям’і, якое дапамагае адчуць глыбокую сувязь з каранямі і роднай зямлёй.",
+ "length": 1500.0
+}
