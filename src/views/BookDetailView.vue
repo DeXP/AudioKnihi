@@ -53,16 +53,18 @@
           <span v-if="book.series">📚 {{ book.series }}{{ book.series_num ? ` #${book.series_num}` : '' }}</span>
         </div>
 
-        <!-- ✅ External Source Link -->
+        <!-- External Source Link -->
         <div v-if="book.source" class="pt-2">
-          <a 
-            :href="book.source" 
-            target="_blank" 
+          <a
+            :href="book.source"
+            target="_blank"
             rel="noopener noreferrer"
             class="btn btn-sm btn-outline gap-2"
           >
-            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-            Крыніца: knihi.com
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+            </svg>
+            Крыніца: {{ getSourceDomain(book.source) }}
           </a>
         </div>
       </div>
@@ -127,6 +129,16 @@ const loadBook = async () => {
     error.value = e.message
   } finally {
     loading.value = false
+  }
+}
+
+const getSourceDomain = (url) => {
+  if (!url) return null
+  try {
+    const hostname = new URL(url).hostname
+    return hostname.replace(/^www\./, '')
+  } catch {
+    return url
   }
 }
 
