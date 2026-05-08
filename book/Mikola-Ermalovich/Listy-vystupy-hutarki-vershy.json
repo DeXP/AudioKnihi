@@ -1,0 +1,696 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 2283.402,
+   "title": "1 - а і архіўны запіс Міколы Ермаловіча",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/01_Pradmova_i_archiuny_zapis/01.Pradmova_i_archiuny_zapis_Mikoly_Jermalovica.mp3"
+  },
+  {
+   "id": 1,
+   "start": 2283.402,
+   "end": 4532.626,
+   "title": "2 - ія",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/01_Pradmova_i_archiuny_zapis/02.Bijahrafija.mp3"
+  },
+  {
+   "id": 2,
+   "start": 4532.626,
+   "end": 4645.53,
+   "title": "3 - выступы, прамовы - З архіва Уладзіміра Содаля",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/02_Listy_vystupy_pramovy/03.Z_archiva_Uladzimira_Sodala.mp3"
+  },
+  {
+   "id": 3,
+   "start": 4645.53,
+   "end": 4895.394,
+   "title": "4 - выступы, прамовы - Ліст да Мікалая Улашчыка",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/02_Listy_vystupy_pramovy/04.List_da_Mikalaja_Ulascyka.mp3"
+  },
+  {
+   "id": 4,
+   "start": 4895.394,
+   "end": 12862.894,
+   "title": "5 - выступы, прамовы - Лісты Міхасю Белямуку",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/02_Listy_vystupy_pramovy/05.Listy_Michasiu_Bielamuku.mp3"
+  },
+  {
+   "id": 5,
+   "start": 12862.894,
+   "end": 13406.006,
+   "title": "6 - выступы, прамовы - Ідучы насустрач",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/02_Listy_vystupy_pramovy/06.Iducy_nasustrac.mp3"
+  },
+  {
+   "id": 6,
+   "start": 13406.006,
+   "end": 14056.126,
+   "title": "7 - выступы, прамовы - Пад пільным наглядам",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/02_Listy_vystupy_pramovy/07.Pad_pilnym_nahladam.mp3"
+  },
+  {
+   "id": 7,
+   "start": 14056.126,
+   "end": 14386.887,
+   "title": "8 - выступы, прамовы - У авангардзе нацыянальнага адраджэння",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/02_Listy_vystupy_pramovy/08.U_avanhardzie_nacyjanalnaha_adradzennia.mp3"
+  },
+  {
+   "id": 8,
+   "start": 14386.887,
+   "end": 14601.295,
+   "title": "9 - выступы, прамовы - На сямідзесяцігоддзе Анатоля Грыцкевіча",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/02_Listy_vystupy_pramovy/09.Na_siamidziesiacihoddzie_Anatola_Hryckievica.mp3"
+  },
+  {
+   "id": 9,
+   "start": 14601.295,
+   "end": 17451.991,
+   "title": "10 - выступы, прамовы - Выступ у клубе Спадчына 19 красавіка 1988",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/02_Listy_vystupy_pramovy/10.Vystup_u_klubie_Spadcyna_19_krasavika_1988.mp3"
+  },
+  {
+   "id": 10,
+   "start": 17451.991,
+   "end": 18086.111,
+   "title": "11 - Пра гутаркі Міколы Ермаловіча",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/11.Pra_hutarki_Mikoly_Jermalovica.mp3"
+  },
+  {
+   "id": 11,
+   "start": 18086.111,
+   "end": 18343.911,
+   "title": "12 - І вось запрэгліся ўсе трое",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/12.I_vos_zaprehlisia_usie_troje.mp3"
+  },
+  {
+   "id": 12,
+   "start": 18343.911,
+   "end": 19388.399,
+   "title": "13 - Быкоўскі на пасадзе",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/13.Bykouski_na_pasadzie.mp3"
+  },
+  {
+   "id": 13,
+   "start": 19388.399,
+   "end": 19678.071,
+   "title": "14 - Навошта свінні рогі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/14.Navosta_svinni_rohi.mp3"
+  },
+  {
+   "id": 14,
+   "start": 19678.071,
+   "end": 20182.015,
+   "title": "15 - З днём сталінскай канстытуцыі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/15.Z_dniom_stalinskaj_kanstytucyi.mp3"
+  },
+  {
+   "id": 15,
+   "start": 20182.015,
+   "end": 20789.127,
+   "title": "16 - Мова -  сцяг народа",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/16.Mova_-_sciah_naroda.mp3"
+  },
+  {
+   "id": 16,
+   "start": 20789.127,
+   "end": 21133.199,
+   "title": "17 - Прывесці да адпаведнасці",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/17.Pryviesci_da_adpaviednasci.mp3"
+  },
+  {
+   "id": 17,
+   "start": 21133.199,
+   "end": 21579.419,
+   "title": "18 - Таму, хто прачнуўся",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/18.Tamu_chto_pracnuusia.mp3"
+  },
+  {
+   "id": 18,
+   "start": 21579.419,
+   "end": 22305.443,
+   "title": "19 - Рагвалод і Рагнеда",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/19.Rahvalod_i_Rahnieda.mp3"
+  },
+  {
+   "id": 19,
+   "start": 22305.443,
+   "end": 22943.915,
+   "title": "20 - Прычына нашых крыўд і бед",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/20.Prycyna_nasych_kryud_i_bied.mp3"
+  },
+  {
+   "id": 20,
+   "start": 22943.915,
+   "end": 23510.067,
+   "title": "21 - Няміга і Менск",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/21.Niamiha_i_Miensk.mp3"
+  },
+  {
+   "id": 21,
+   "start": 23510.067,
+   "end": 24738.107,
+   "title": "22 - Существительное",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/22.Su_jestv_tielnoje.mp3"
+  },
+  {
+   "id": 22,
+   "start": 24738.107,
+   "end": 25763.397,
+   "title": "23 - Ня верце еўтушэнкам",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/23.Nia_viercie_jeutusenkam.mp3"
+  },
+  {
+   "id": 23,
+   "start": 25763.397,
+   "end": 26480.077,
+   "title": "24 - Кастусь Каліноўскі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/24.Kastus_Kalinouski.mp3"
+  },
+  {
+   "id": 24,
+   "start": 26480.077,
+   "end": 27032.149,
+   "title": "25 - Мсціслаў не аднаго сціснуў",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/25.Mscislau_nie_adnaho_scisnuu.mp3"
+  },
+  {
+   "id": 25,
+   "start": 27032.149,
+   "end": 28210.792,
+   "title": "26 - Прадказанні, якія спраўдзіліся",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/26.Pradkazanni_jakija_spraudzilisia.mp3"
+  },
+  {
+   "id": 26,
+   "start": 28210.792,
+   "end": 28542.32,
+   "title": "27 - Інтэлігенцыя -  вочы народа",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/27.Intelihiencyja_-_vocy_naroda.mp3"
+  },
+  {
+   "id": 27,
+   "start": 28542.32,
+   "end": 28861.816,
+   "title": "28 - Пра змест і форму",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/28.Pra_zmiest_i_formu.mp3"
+  },
+  {
+   "id": 28,
+   "start": 28861.816,
+   "end": 29816.448,
+   "title": "29 - Ці страшная нам культура",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/29.Ci_strasnaja_nam_kultura.mp3"
+  },
+  {
+   "id": 29,
+   "start": 29816.448,
+   "end": 30232.968,
+   "title": "30 - Нацыянальныя інтарэсы -  вышэй за ўсё",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/30.Nacyjanalnyja_intaresy_-_vysej_za_usio.mp3"
+  },
+  {
+   "id": 30,
+   "start": 30232.968,
+   "end": 30765.712,
+   "title": "31 - Ты хочаш жыць для Беларусі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/31.Ty_chocas_zyc_dla_Bielarusi.mp3"
+  },
+  {
+   "id": 31,
+   "start": 30765.712,
+   "end": 31305.368,
+   "title": "32 - Цэнтралізацыя. дэцэнтралізайыя і дэмакратызацыя",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/32.Centralizacyja._decentralizajyja_i_demakratyzacyja.mp3"
+  },
+  {
+   "id": 32,
+   "start": 31305.368,
+   "end": 32385.568,
+   "title": "33 - Зноў цяжар",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/33.Znou_ciazar.mp3"
+  },
+  {
+   "id": 33,
+   "start": 32385.568,
+   "end": 33422.76,
+   "title": "34 - Скаргі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/34.Skarhi.mp3"
+  },
+  {
+   "id": 34,
+   "start": 33422.76,
+   "end": 33646.64,
+   "title": "35 - Чаму няма парадку",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/35.Camu_niama_paradku.mp3"
+  },
+  {
+   "id": 35,
+   "start": 33646.64,
+   "end": 33978.296,
+   "title": "36 - Цяжкасці і перспектывы",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/36.Ciazkasci_i_pierspiektyvy.mp3"
+  },
+  {
+   "id": 36,
+   "start": 33978.296,
+   "end": 34248.512,
+   "title": "37 - Сустрэча з Гогалем",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/37.Sustreca_z_Hohalem.mp3"
+  },
+  {
+   "id": 37,
+   "start": 34248.512,
+   "end": 34415.951,
+   "title": "38 - Клім",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/38.Klim.mp3"
+  },
+  {
+   "id": 38,
+   "start": 34415.951,
+   "end": 34691.159,
+   "title": "39 - Раней пан -  цяпер план",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/39.Raniej_pan_-_ciapier_plan.mp3"
+  },
+  {
+   "id": 39,
+   "start": 34691.159,
+   "end": 35147.359,
+   "title": "40 - Пра ідэалагічнае суіснаванне",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/40.Pra_idealahicnaje_suisnavannie.mp3"
+  },
+  {
+   "id": 40,
+   "start": 35147.359,
+   "end": 35336.295,
+   "title": "41 - У хвасце",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/41.U_chvascie.mp3"
+  },
+  {
+   "id": 41,
+   "start": 35336.295,
+   "end": 35708.655,
+   "title": "42 - Хатынь",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/42.Chatyn.mp3"
+  },
+  {
+   "id": 42,
+   "start": 35708.655,
+   "end": 36057.463,
+   "title": "43 - Пра мову і каўбасу",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/43.Pra_movu_i_kaubasu.mp3"
+  },
+  {
+   "id": 43,
+   "start": 36057.463,
+   "end": 37153.151,
+   "title": "44 - Чужаземец",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/44.Cuzaziemiec.mp3"
+  },
+  {
+   "id": 44,
+   "start": 37153.151,
+   "end": 37335.303,
+   "title": "45 - Жыве Беларусь",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/45.Zyvie_Bielarus.mp3"
+  },
+  {
+   "id": 45,
+   "start": 37335.303,
+   "end": 37751.695,
+   "title": "46 - Самае нацыянальнае",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/46.Samaje_nacyjanalnaje.mp3"
+  },
+  {
+   "id": 46,
+   "start": 37751.695,
+   "end": 37868.439,
+   "title": "47 - Мы будзем добра жыць тады",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/47.My_budziem_dobra_zyc_tady.mp3"
+  },
+  {
+   "id": 47,
+   "start": 37868.439,
+   "end": 38078.111,
+   "title": "48 - Гэта пры нас",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/48.Heta_pry_nas.mp3"
+  },
+  {
+   "id": 48,
+   "start": 38078.111,
+   "end": 38611.751,
+   "title": "49 - Гісторыя аднаго паэта",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/49.Historyja_adnaho_paeta.mp3"
+  },
+  {
+   "id": 49,
+   "start": 38611.751,
+   "end": 38747.951,
+   "title": "50 - Хіба яны правадыры",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/50.Chiba_jany_pravadyry.mp3"
+  },
+  {
+   "id": 50,
+   "start": 38747.951,
+   "end": 38910.135,
+   "title": "51 - Сцяганосцам краіны",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/51.Sciahanoscam_krainy.mp3"
+  },
+  {
+   "id": 51,
+   "start": 38910.135,
+   "end": 39041.727,
+   "title": "52 - Лёс ракі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/52.Los_raki.mp3"
+  },
+  {
+   "id": 52,
+   "start": 39041.727,
+   "end": 39175.239,
+   "title": "53 - Табе патрэбна воля",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/03_Hutarki/53.Tabie_patrebna_vola.mp3"
+  },
+  {
+   "id": 53,
+   "start": 39175.239,
+   "end": 39527.375,
+   "title": "54 - Альбом Лявона Баразны",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/54.Albom_Lavona_Barazny.mp3"
+  },
+  {
+   "id": 54,
+   "start": 39527.375,
+   "end": 39630.935,
+   "title": "55 - Байструкамі за бясцэнак распраданая",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/55.Bajstrukami_za_biascenak_raspradanaja.mp3"
+  },
+  {
+   "id": 55,
+   "start": 39630.935,
+   "end": 39699.551,
+   "title": "56 - Бачу гадаў паўзучых",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/56.Bacu_hadau_pauzucych.mp3"
+  },
+  {
+   "id": 56,
+   "start": 39699.551,
+   "end": 39846.503,
+   "title": "57 - Беларусь У наступленне",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/57.Bielarus_U_nastuplennie.mp3"
+  },
+  {
+   "id": 57,
+   "start": 39846.503,
+   "end": 39982.959,
+   "title": "58 - Водпаведзь",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/58.Vodpaviedz.mp3"
+  },
+  {
+   "id": 58,
+   "start": 39982.959,
+   "end": 40064.505,
+   "title": "59 - Дзе ж",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/59.Dzie_z.mp3"
+  },
+  {
+   "id": 59,
+   "start": 40064.505,
+   "end": 40139.782,
+   "title": "60 - Дзеля таго",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/60.Dziela_taho.mp3"
+  },
+  {
+   "id": 60,
+   "start": 40139.782,
+   "end": 40238.222,
+   "title": "61 - Думка і воля",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/61.Dumka_i_vola.mp3"
+  },
+  {
+   "id": 61,
+   "start": 40238.222,
+   "end": 40368.278,
+   "title": "62 - Колькі развялося ў Беларусі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/62.Kolki_razvialosia_u_Bielarusi.mp3"
+  },
+  {
+   "id": 62,
+   "start": 40368.278,
+   "end": 40515.742,
+   "title": "63 - У нас валатовак шмат на дзіва",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/63.U_nas_valatovak_smat_na_dziva.mp3"
+  },
+  {
+   "id": 63,
+   "start": 40515.742,
+   "end": 40614.059,
+   "title": "64 - Купалле",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/64.Kupalle.mp3"
+  },
+  {
+   "id": 64,
+   "start": 40614.059,
+   "end": 40844.851,
+   "title": "65 - Купальская песня",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/65.Kupalskaja_piesnia.mp3"
+  },
+  {
+   "id": 65,
+   "start": 40844.851,
+   "end": 40981.307,
+   "title": "66 - Матчын лёс",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/66.Matcyn_los.mp3"
+  },
+  {
+   "id": 66,
+   "start": 40981.307,
+   "end": 41100.995,
+   "title": "67 - У Міргарадскім музеі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/67.U_Mirharadskim_muziei.mp3"
+  },
+  {
+   "id": 67,
+   "start": 41100.995,
+   "end": 41263.307,
+   "title": "68 - На выстаўцы Лявона Баразны",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/68.Na_vystaucy_Lavona_Barazny.mp3"
+  },
+  {
+   "id": 68,
+   "start": 41263.307,
+   "end": 41388.115,
+   "title": "69 - На смерць Лявона Баразны",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/69.Na_smierc_Lavona_Barazny.mp3"
+  },
+  {
+   "id": 69,
+   "start": 41388.115,
+   "end": 41463.003,
+   "title": "70 - На судзе бесстароннім",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/70.Na_sudzie_biesstaronnim.mp3"
+  },
+  {
+   "id": 70,
+   "start": 41463.003,
+   "end": 41521.635,
+   "title": "71 - Нам не патрэбны мудрацы",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/71.Nam_nie_patrebny_mudracy.mp3"
+  },
+  {
+   "id": 71,
+   "start": 41521.635,
+   "end": 41682.155,
+   "title": "72 - Наша ніва",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/72.Nasa_niva.mp3"
+  },
+  {
+   "id": 72,
+   "start": 41682.155,
+   "end": 41762.547,
+   "title": "73 - Не верыш, што гэта ў нас Каліноўскі радзіўся",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/73.Nie_vierys_sto_heta_u_nas_Kalinouski_radziusia.mp3"
+  },
+  {
+   "id": 73,
+   "start": 41762.547,
+   "end": 41830.139,
+   "title": "74 - Незайдросную хоць долю маю",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/74.Niezajdrosnuju_choc_dolu_maju.mp3"
+  },
+  {
+   "id": 74,
+   "start": 41830.139,
+   "end": 41931.523,
+   "title": "75 - Ненавісныя прыблуды",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/75.Nienavisnyja_prybludy.mp3"
+  },
+  {
+   "id": 75,
+   "start": 41931.523,
+   "end": 42061.835,
+   "title": "76 - О, Беларусь, у цябе нямала",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/76.O_Bielarus_u_ciabie_niamala.mp3"
+  },
+  {
+   "id": 76,
+   "start": 42061.835,
+   "end": 42161.811,
+   "title": "77 - О колькі няшчасцеў над роднаю нівай",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/77.O_kolki_niascascieu_nad_rodnaju_nivaj.mp3"
+  },
+  {
+   "id": 77,
+   "start": 42161.811,
+   "end": 42225.307,
+   "title": "78 - О, як нуднаю хлуснёю абрыдла",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/78.O_jak_nudnaju_chlusnioju_abrydla.mp3"
+  },
+  {
+   "id": 78,
+   "start": 42225.307,
+   "end": 42291.747,
+   "title": "79 - Пад вясновым лагодным сонцам",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/79.Pad_viasnovym_lahodnym_soncam.mp3"
+  },
+  {
+   "id": 79,
+   "start": 42291.747,
+   "end": 42379.563,
+   "title": "80 - Замчышчаў даўніх вяршыні",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/80.Zamcyscau_daunich_viarsyni.mp3"
+  },
+  {
+   "id": 80,
+   "start": 42379.563,
+   "end": 42586.547,
+   "title": "81 - Песнярам Беларусі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/81.Piesniaram_Bielarusi.mp3"
+  },
+  {
+   "id": 81,
+   "start": 42586.547,
+   "end": 42751.163,
+   "title": "82 - Пракляніце нас, дзеці, за тое",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/82.Praklanicie_nas_dzieci_za_toje.mp3"
+  },
+  {
+   "id": 82,
+   "start": 42751.163,
+   "end": 42833.987,
+   "title": "83 - Слепата, немата, глухата",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/83.Slepata_niemata_hluchata.mp3"
+  },
+  {
+   "id": 83,
+   "start": 42833.987,
+   "end": 42903.883,
+   "title": "84 - Такой начы",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/84.Takoj_nacy.mp3"
+  },
+  {
+   "id": 84,
+   "start": 42903.883,
+   "end": 42955.861,
+   "title": "85 - Ты не памёр і ты не спіш",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/85.Ty_nie_pamior_i_ty_nie_spis.mp3"
+  },
+  {
+   "id": 85,
+   "start": 42955.861,
+   "end": 43171.165,
+   "title": "86 - Сябрам Літвы",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/86.Siabram_Litvy.mp3"
+  },
+  {
+   "id": 86,
+   "start": 43171.165,
+   "end": 43275.237,
+   "title": "87 - Ты бой вядзеш",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/87.Ty_boj_viadzies.mp3"
+  },
+  {
+   "id": 87,
+   "start": 43275.237,
+   "end": 43356.527,
+   "title": "88 - Чужыя кветкі на нашым полі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/88.Cuzyja_kvietki_na_nasym_poli.mp3"
+  },
+  {
+   "id": 88,
+   "start": 43356.527,
+   "end": 43449.591,
+   "title": "89 - Шлях да славы",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/89.Slach_da_slavy.mp3"
+  },
+  {
+   "id": 89,
+   "start": 43449.591,
+   "end": 43543.938,
+   "title": "90 - Станцыя Беларусь",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/90.Stancyja_Bielarus.mp3"
+  },
+  {
+   "id": 90,
+   "start": 43543.938,
+   "end": 43713.935,
+   "title": "91 - Яцвягі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/91.Jacviahi.mp3"
+  },
+  {
+   "id": 91,
+   "start": 43713.935,
+   "end": 43841.431,
+   "title": "92 - Сыны Васіля Цяпінскага",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/92.Syny_Vasila_Ciapinskaha.mp3"
+  },
+  {
+   "id": 92,
+   "start": 43841.431,
+   "end": 43910.431,
+   "title": "93 - Роздум ля помніка Леніна",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/93.Rozdum_la_pomnika_Lenina.mp3"
+  },
+  {
+   "id": 93,
+   "start": 43910.431,
+   "end": 44083.495,
+   "title": "94 - Кастусь Каліноўскі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/94.Kastus_Kalinouski.mp3"
+  },
+  {
+   "id": 94,
+   "start": 44083.495,
+   "end": 44185.391,
+   "title": "95 - Браніслаў Эпімах-Шыпіла",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/95.Branislau_Epimach-Sypila.mp3"
+  },
+  {
+   "id": 95,
+   "start": 44185.391,
+   "end": 44303.287,
+   "title": "96 - Я ўсёй душой з народам Беларусі",
+   "url": "https://files.knihi.com/Audio/rutracker/Mikola_Jermalovic.Listy_vystupy_hutarki_viersy.Valer_Mazynski.mp3.zip/04_Viersy/96.Ja_usioj_dusoj_z_narodam_Bielarusi.mp3"
+  }
+ ],
+ "title": "Лісты, выступы, гутаркі, вершы",
+ "slug": "Listy-vystupy-hutarki-vershy",
+ "author": "Мікола Ермаловіч",
+ "author_slug": "Mikola-Ermalovich",
+ "narrators": [
+  "Валер Мазынскі"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Публіцыстыка",
+  "Эпісталярная літаратура",
+  "Дакументальная проза",
+  "Паэзія",
+  "Мемуарыстыка"
+ ],
+ "source": "https://knihi.com/Mikola_Jermalovic/Listy,_vystupy,_hutarki,_viersy_mp3.zip.html",
+ "cover": "Mikola-Ermalovich/Listy-vystupy-hutarki-vershy.jpg",
+ "description": "Гэтая кніга ўяўляе сабой унікальны зборнік эпісталярнай спадчыны, публічных выказванняў і паэтычных твораў выдатнага беларускага гісторыка і даследчыка Міколы Ермаловіча. Выданне дазваляе чытачу па-новаму зірнуць на асобу вучонага, раскрываючы яго глыбокія разважанні пра лёс беларускай нацыі, захаванне гістарычнай памяці і нацыянальнай ідэнтычнасці. Праз прыватныя лісты і шчырыя гутаркі аўтар паўстае як чалавек бескампраміснай грамадзянскай пазіцыі, адданы сваёй справе і роднай зямлі. Тэксты прасякнуты інтэлектуальнай глыбінёй, патрыятызмам і нязгаснай верай у адраджэнне беларускай культуры. Гэты зборнік з’яўляецца важным дакументам эпохі, які дапамагае лепш зразумець духоўны свет аднаго з найбольш значных інтэлектуалаў Беларусі ХХ стагоддзя.",
+ "length": 44303.287
+}

@@ -1,0 +1,233 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - зень - ч1",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/01.Першы дзень - ч1.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - зень - ч2",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/02.Першы дзень - ч2.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - зень - ч3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/03.Першы дзень - ч3.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - зень - ч1",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/04.Другі дзень - ч1.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - зень - ч2",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/05.другі дзень - ч2.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - зень - ч3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/06.Другі дзень - ч3.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1800.0,
+   "end": 2100.0,
+   "title": "7 - зень - ч4",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/07.Другі дзень - ч4.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2100.0,
+   "end": 2400.0,
+   "title": "8 - зень - ч5",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/08.другі дзень - ч5.mp3"
+  },
+  {
+   "id": 8,
+   "start": 2400.0,
+   "end": 2700.0,
+   "title": "9 - зень - ч1",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/09.Трэці дзень - ч1.mp3"
+  },
+  {
+   "id": 9,
+   "start": 2700.0,
+   "end": 3000.0,
+   "title": "10 - зень - ч2",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/10.Трэці дзень - ч2.mp3"
+  },
+  {
+   "id": 10,
+   "start": 3000.0,
+   "end": 3300.0,
+   "title": "11 - зень - ч3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/11.Трэці дзень - ч3.mp3"
+  },
+  {
+   "id": 11,
+   "start": 3300.0,
+   "end": 3600.0,
+   "title": "12 - зень - ч4",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/12.Трэці дзень - ч4.mp3"
+  },
+  {
+   "id": 12,
+   "start": 3600.0,
+   "end": 3900.0,
+   "title": "13 - ты дзень - ч1",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/13.Чацвёрты дзень - ч1.mp3"
+  },
+  {
+   "id": 13,
+   "start": 3900.0,
+   "end": 4200.0,
+   "title": "14 - ты дзень - ч2",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/14.Чацвёрты дзень - ч2.mp3"
+  },
+  {
+   "id": 14,
+   "start": 4200.0,
+   "end": 4500.0,
+   "title": "15 - ты дзень - ч3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/15.Чацвёрты дзень - ч3.mp3"
+  },
+  {
+   "id": 15,
+   "start": 4500.0,
+   "end": 4800.0,
+   "title": "16 - ень - ч1",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/16.Пяты дзень - ч1.mp3"
+  },
+  {
+   "id": 16,
+   "start": 4800.0,
+   "end": 5100.0,
+   "title": "17 - ень - ч2",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/17.Пяты дзень - ч2.mp3"
+  },
+  {
+   "id": 17,
+   "start": 5100.0,
+   "end": 5400.0,
+   "title": "18 - ень - ч3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/18.Пяты дзень - ч3.mp3"
+  },
+  {
+   "id": 18,
+   "start": 5400.0,
+   "end": 5700.0,
+   "title": "19 - зень - ч1",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/19.Шосты дзень - ч1.mp3"
+  },
+  {
+   "id": 19,
+   "start": 5700.0,
+   "end": 6000.0,
+   "title": "20 - зень - ч2",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/20.Шосты дзень - ч2.mp3"
+  },
+  {
+   "id": 20,
+   "start": 6000.0,
+   "end": 6300.0,
+   "title": "21 - зень - ч3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/21.Шосты дзень - ч3.mp3"
+  },
+  {
+   "id": 21,
+   "start": 6300.0,
+   "end": 6600.0,
+   "title": "22 - зень - ч4",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/22.Шосты дзень - ч4.mp3"
+  },
+  {
+   "id": 22,
+   "start": 6600.0,
+   "end": 6900.0,
+   "title": "23 - зень - ч5",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/23.Шосты дзень - ч5.mp3"
+  },
+  {
+   "id": 23,
+   "start": 6900.0,
+   "end": 7200.0,
+   "title": "24 - зень - ч6",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/24.Шосты дзень - ч6.mp3"
+  },
+  {
+   "id": 24,
+   "start": 7200.0,
+   "end": 7500.0,
+   "title": "25 - зень - ч1",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/25.Cёмы дзень - ч1.mp3"
+  },
+  {
+   "id": 25,
+   "start": 7500.0,
+   "end": 7800.0,
+   "title": "26 - зень - ч2",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/26.Cёмы дзень - ч2.mp3"
+  },
+  {
+   "id": 26,
+   "start": 7800.0,
+   "end": 8100.0,
+   "title": "27 - зень - ч3",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/27.Cёмы дзень - ч3.mp3"
+  },
+  {
+   "id": 27,
+   "start": 8100.0,
+   "end": 8400.0,
+   "title": "28 - зень - ч4",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/28.Cёмы дзень - ч4.mp3"
+  },
+  {
+   "id": 28,
+   "start": 8400.0,
+   "end": 8700.0,
+   "title": "29 - зень - ч5",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/29.Cёмы дзень - ч5.mp3"
+  },
+  {
+   "id": 29,
+   "start": 8700.0,
+   "end": 9000.0,
+   "title": "30 - зень - ч6",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Siem_kamianou.mp3.zip/30.Cёмы дзень - ч6.mp3"
+  }
+ ],
+ "title": "Сем Камянёў",
+ "slug": "Sem-Kamyanyow",
+ "author": "Аляксей Шэін",
+ "author_slug": "Alyaksey-Shein",
+ "narrators": [
+  "Уладзімір Лісоўскі"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Фэнтэзі",
+  "Прыгоды",
+  "Падлеткавая літаратура",
+  "Хрысціянская літаратура"
+ ],
+ "source": "https://knihi.com/Alaksiej_Sein/Siem_Kamianiou_mp3.zip.html",
+ "cover": "Alyaksey-Shein/Sem-Kamyanyow.jpg",
+ "description": "Гэта захапляльная прыгодніцкая гісторыя пра падлетка па імені Янка, які выпадкова трапляе ў паралельны свет пад назвай Эдэм. Галоўны герой павінен прайсці праз шматлікія выпрабаванні, каб адшукаць сем магічных камянёў і выратаваць гэтую краіну ад цемры. Кніга падымае важныя пытанні выбару паміж дабром і злом, вернасці сябрам і пошуку ўласнага прызначэння. Аўтар стварае атмасферу сапраўднага фэнтэзі, дзе магія пераплятаецца з хрысціянскімі каштоўнасцямі і філасофскімі роздумамі. Твор напісаны жывой мовай і будзе цікавы як падлеткам, так і дарослым чытачам, якія любяць глыбокія сюжэты.",
+ "length": 9000.0
+}

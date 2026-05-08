@@ -1,0 +1,708 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 14.66,
+   "title": " - 0000.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0000.mp3"
+  },
+  {
+   "id": 1,
+   "start": 14.66,
+   "end": 314.66,
+   "title": "2 - 0001 - Спроба завершанага жыцьцяпісу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0001 - Спроба завершанага жыцьцяпісу.mp3"
+  },
+  {
+   "id": 2,
+   "start": 314.66,
+   "end": 517.32,
+   "title": "3 - 0002 - Паром празь Ля- Манш.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0002 - Паром празь Ля- Манш.mp3"
+  },
+  {
+   "id": 3,
+   "start": 517.32,
+   "end": 544.49,
+   "title": "4 - 0003 - Сустрэчныя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0003 - Сустрэчныя.mp3"
+  },
+  {
+   "id": 4,
+   "start": 544.49,
+   "end": 774.21,
+   "title": "5 - 0004 - Парыжанка з Кносу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0004 - Парыжанка з Кносу.mp3"
+  },
+  {
+   "id": 5,
+   "start": 774.21,
+   "end": 843.88,
+   "title": "6 - 0005 - Твае імёны.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0005 - Твае імёны.mp3"
+  },
+  {
+   "id": 6,
+   "start": 843.88,
+   "end": 971.54,
+   "title": "7 - 0006 - Архіварыус Война.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0006 - Архіварыус Война.mp3"
+  },
+  {
+   "id": 7,
+   "start": 971.54,
+   "end": 1002.92,
+   "title": "8 - 0007 - Студня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0007 - Студня.mp3"
+  },
+  {
+   "id": 8,
+   "start": 1002.92,
+   "end": 1215.27,
+   "title": "9 - 0008 - Бібліятэка імя Скарыны ў Лёндане.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0008 - Бібліятэка імя Скарыны ў Лёндане.mp3"
+  },
+  {
+   "id": 9,
+   "start": 1215.27,
+   "end": 1257.62,
+   "title": "10 - 0009 - Вучыла бабуля.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0009 - Вучыла бабуля.mp3"
+  },
+  {
+   "id": 10,
+   "start": 1257.62,
+   "end": 1342.76,
+   "title": "11 - 0010 - Мансарда.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0010 - Мансарда.mp3"
+  },
+  {
+   "id": 11,
+   "start": 1342.76,
+   "end": 1416.53,
+   "title": "12 - 0011 - Каханка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0011 - Каханка.mp3"
+  },
+  {
+   "id": 12,
+   "start": 1416.53,
+   "end": 1527.68,
+   "title": "13 - 0012 - Двое вар'ятаў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0012 - Двое вар'ятаў.mp3"
+  },
+  {
+   "id": 13,
+   "start": 1527.68,
+   "end": 1623.89,
+   "title": "14 - 0013 - Рэцэпт неўмітучасці.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0013 - Рэцэпт неўмітучасці.mp3"
+  },
+  {
+   "id": 14,
+   "start": 1623.89,
+   "end": 1662.19,
+   "title": "15 - 0014 - Азярына.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0014 - Азярына.mp3"
+  },
+  {
+   "id": 15,
+   "start": 1662.19,
+   "end": 1822.45,
+   "title": "16 - 0015 - Бэзавы адвячорак на краи стагодьдзя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0015 - Бэзавы адвячорак на краи стагодьдзя.mp3"
+  },
+  {
+   "id": 16,
+   "start": 1822.45,
+   "end": 1892.88,
+   "title": "17 - 0016 - Upupa epops.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0016 - Upupa epops.mp3"
+  },
+  {
+   "id": 17,
+   "start": 1892.88,
+   "end": 2011.04,
+   "title": "18 - 0017 - У Каралевы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0017 - У Каралевы.mp3"
+  },
+  {
+   "id": 18,
+   "start": 2011.04,
+   "end": 2050.62,
+   "title": "19 - 0018 - Поплаў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0018 - Поплаў.mp3"
+  },
+  {
+   "id": 19,
+   "start": 2050.62,
+   "end": 2372.27,
+   "title": "20 - 0019 - Фаўна сноў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0019 - Фаўна сноў.mp3"
+  },
+  {
+   "id": 20,
+   "start": 2372.27,
+   "end": 2412.97,
+   "title": "21 - 0020 - Пакой.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0020 - Пакой.mp3"
+  },
+  {
+   "id": 21,
+   "start": 2412.97,
+   "end": 2514.69,
+   "title": "22 - 0021 - Брытанскі музэй.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0021 - Брытанскі музэй.mp3"
+  },
+  {
+   "id": 22,
+   "start": 2514.69,
+   "end": 2566.0,
+   "title": "23 - 0022 - Deja vu.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0022 - Deja vu.mp3"
+  },
+  {
+   "id": 23,
+   "start": 2566.0,
+   "end": 2707.43,
+   "title": "24 - 0023 - Вяртаньне ў Менск.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0023 - Вяртаньне ў Менск.mp3"
+  },
+  {
+   "id": 24,
+   "start": 2707.43,
+   "end": 2734.52,
+   "title": "25 - 0024 - Памяць.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0024 - Памяць.mp3"
+  },
+  {
+   "id": 25,
+   "start": 2734.52,
+   "end": 2840.16,
+   "title": "26 - 0025 - Ян Баршчэўскі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0025 - Ян Баршчэўскі.mp3"
+  },
+  {
+   "id": 26,
+   "start": 2840.16,
+   "end": 2882.74,
+   "title": "27 - 0026 - Майстэрня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0026 - Майстэрня.mp3"
+  },
+  {
+   "id": 27,
+   "start": 2882.74,
+   "end": 3011.0,
+   "title": "28 - 0027 - Парцэлянавы дамок.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0027 - Парцэлянавы дамок.mp3"
+  },
+  {
+   "id": 28,
+   "start": 3011.0,
+   "end": 3057.55,
+   "title": "29 - 0028 - Пытаю дарогу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0028 - Пытаю дарогу.mp3"
+  },
+  {
+   "id": 29,
+   "start": 3057.55,
+   "end": 3110.16,
+   "title": "30 - 0029 - Матылькі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0029 - Матылькі.mp3"
+  },
+  {
+   "id": 30,
+   "start": 3110.16,
+   "end": 3176.2,
+   "title": "31 - 0030 - Заставайся безыменнаю.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0030 - Заставайся безыменнаю.mp3"
+  },
+  {
+   "id": 31,
+   "start": 3176.2,
+   "end": 3212.41,
+   "title": "32 - 0031 - Гарышча.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0031 - Гарышча.mp3"
+  },
+  {
+   "id": 32,
+   "start": 3212.41,
+   "end": 3411.26,
+   "title": "33 - 0032 - Бэрлінская фантазія.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0032 - Бэрлінская фантазія.mp3"
+  },
+  {
+   "id": 33,
+   "start": 3411.26,
+   "end": 3455.85,
+   "title": "34 - 0033 - Сёньня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0033 - Сёньня.mp3"
+  },
+  {
+   "id": 34,
+   "start": 3455.85,
+   "end": 3574.61,
+   "title": "35 - 0034 - Божая кароўка зь Пятай авеню.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0034 - Божая кароўка зь Пятай авеню.mp3"
+  },
+  {
+   "id": 35,
+   "start": 3574.61,
+   "end": 3601.65,
+   "title": "36 - 0035 - Тое лета.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0035 - Тое лета.mp3"
+  },
+  {
+   "id": 36,
+   "start": 3601.65,
+   "end": 3682.84,
+   "title": "37 - 0036 - Першая жанчына.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0036 - Першая жанчына.mp3"
+  },
+  {
+   "id": 37,
+   "start": 3682.84,
+   "end": 3734.67,
+   "title": "38 - 0037 - Падарожнікі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0037 - Падарожнікі.mp3"
+  },
+  {
+   "id": 38,
+   "start": 3734.67,
+   "end": 3911.68,
+   "title": "39 - 0038 - Прага.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0038 - Прага.mp3"
+  },
+  {
+   "id": 39,
+   "start": 3911.68,
+   "end": 3967.38,
+   "title": "40 - 0039 - Сутоньне.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0039 - Сутоньне.mp3"
+  },
+  {
+   "id": 40,
+   "start": 3967.38,
+   "end": 4033.68,
+   "title": "41 - 0040 - Аднойчы даўно.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0040 - Аднойчы даўно.mp3"
+  },
+  {
+   "id": 41,
+   "start": 4033.68,
+   "end": 4110.67,
+   "title": "42 - 0041 - Раніца 29 сакавіка 1994 году.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0041 - Раніца 29 сакавіка 1994 году.mp3"
+  },
+  {
+   "id": 42,
+   "start": 4110.67,
+   "end": 4205.31,
+   "title": "43 - 0042 - Доўгае разьвітаньне.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0042 - Доўгае разьвітаньне.mp3"
+  },
+  {
+   "id": 43,
+   "start": 4205.31,
+   "end": 4269.1,
+   "title": "44 - 0043 - Мой табар.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0043 - Мой табар.mp3"
+  },
+  {
+   "id": 44,
+   "start": 4269.1,
+   "end": 4314.32,
+   "title": "45 - 0044 - Манэта.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0044 - Манэта.mp3"
+  },
+  {
+   "id": 45,
+   "start": 4314.32,
+   "end": 4434.64,
+   "title": "46 - 0045 - Эпітафія маёй котцы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0045 - Эпітафія маёй котцы.mp3"
+  },
+  {
+   "id": 46,
+   "start": 4434.64,
+   "end": 4467.58,
+   "title": "47 - 0046 - Згадка пра мора.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0046 - Згадка пра мора.mp3"
+  },
+  {
+   "id": 47,
+   "start": 4467.58,
+   "end": 4567.97,
+   "title": "48 - 0047 - Оксфард.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0047 - Оксфард.mp3"
+  },
+  {
+   "id": 48,
+   "start": 4567.97,
+   "end": 4630.41,
+   "title": "49 - 0048 - Цягнік.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0048 - Цягнік.mp3"
+  },
+  {
+   "id": 49,
+   "start": 4630.41,
+   "end": 4861.02,
+   "title": "50 - 0049 - 1 красавіка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0049 - 1 красавіка.mp3"
+  },
+  {
+   "id": 50,
+   "start": 4861.02,
+   "end": 4883.65,
+   "title": "51 - 0050 - Грынвіцкі мерыдыян.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0050 - Грынвіцкі мерыдыян.mp3"
+  },
+  {
+   "id": 51,
+   "start": 4883.65,
+   "end": 4985.58,
+   "title": "52 - 0051 - Дарога ў Полацак.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0051 - Дарога ў Полацак.mp3"
+  },
+  {
+   "id": 52,
+   "start": 4985.58,
+   "end": 5132.57,
+   "title": "53 - 0052 - Музыка з ваколіцаў Сыднэю.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0052 - Музыка з ваколіцаў Сыднэю.mp3"
+  },
+  {
+   "id": 53,
+   "start": 5132.57,
+   "end": 5193.99,
+   "title": "54 - 0053 - Чатыры вятры.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0053 - Чатыры вятры.mp3"
+  },
+  {
+   "id": 54,
+   "start": 5193.99,
+   "end": 5381.87,
+   "title": "55 - 0054 - Архіўны уік-энд.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0054 - Архіўны уік-энд.mp3"
+  },
+  {
+   "id": 55,
+   "start": 5381.87,
+   "end": 5441.88,
+   "title": "56 - 0055 - Нашэсьце мятлушак.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0055 - Нашэсьце мятлушак.mp3"
+  },
+  {
+   "id": 56,
+   "start": 5441.88,
+   "end": 5528.4,
+   "title": "57 - 0056 - Закаханыя глуханямыя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0056 - Закаханыя глуханямыя.mp3"
+  },
+  {
+   "id": 57,
+   "start": 5528.4,
+   "end": 5572.63,
+   "title": "58 - 0057 - Прадчуваньне.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0057 - Прадчуваньне.mp3"
+  },
+  {
+   "id": 58,
+   "start": 5572.63,
+   "end": 5673.94,
+   "title": "59 - 0058 - Над местам.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0058 - Над местам.mp3"
+  },
+  {
+   "id": 59,
+   "start": 5673.94,
+   "end": 5738.99,
+   "title": "60 - 0059 - Вуліца Ніжнепакроўская ў Полацку.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0059 - Вуліца Ніжнепакроўская ў Полацку.mp3"
+  },
+  {
+   "id": 60,
+   "start": 5738.99,
+   "end": 5842.93,
+   "title": "61 - 0060 - Картаген.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0060 - Картаген.mp3"
+  },
+  {
+   "id": 61,
+   "start": 5842.93,
+   "end": 5879.06,
+   "title": "62 - 0061 - Нарач.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0061 - Нарач.mp3"
+  },
+  {
+   "id": 62,
+   "start": 5879.06,
+   "end": 5972.61,
+   "title": "63 - 0062 - Люндуш белы кір папяловы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0062 - Люндуш белы кір папяловы.mp3"
+  },
+  {
+   "id": 63,
+   "start": 5972.61,
+   "end": 6035.44,
+   "title": "64 - 0063 - Варажба на чаінках 27 ліпеня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0063 - Варажба на чаінках 27 ліпеня.mp3"
+  },
+  {
+   "id": 64,
+   "start": 6035.44,
+   "end": 6166.79,
+   "title": "65 - 0064 - Экспэдыцыя ў Сахару.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0064 - Экспэдыцыя ў Сахару.mp3"
+  },
+  {
+   "id": 65,
+   "start": 6166.79,
+   "end": 6249.91,
+   "title": "66 - 0065 - Восеньскі тост.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0065 - Восеньскі тост.mp3"
+  },
+  {
+   "id": 66,
+   "start": 6249.91,
+   "end": 6290.14,
+   "title": "67 - 0066 - Канатаходка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0066 - Канатаходка.mp3"
+  },
+  {
+   "id": 67,
+   "start": 6290.14,
+   "end": 6366.32,
+   "title": "68 - 0067 - Насустрач ночы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0067 - Насустрач ночы.mp3"
+  },
+  {
+   "id": 68,
+   "start": 6366.32,
+   "end": 6406.16,
+   "title": "69 - 0068 - Я рыфмую.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0068 - Я рыфмую.mp3"
+  },
+  {
+   "id": 69,
+   "start": 6406.16,
+   "end": 6486.96,
+   "title": "70 - 0069 - Нявеста паўстанцкага камісара.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0069 - Нявеста паўстанцкага камісара.mp3"
+  },
+  {
+   "id": 70,
+   "start": 6486.96,
+   "end": 6513.84,
+   "title": "71 - 0070 - 25 сакавіка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0070 - 25 сакавіка.mp3"
+  },
+  {
+   "id": 71,
+   "start": 6513.84,
+   "end": 6638.45,
+   "title": "72 - 0071 - У лябірынце.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0071 - У лябірынце.mp3"
+  },
+  {
+   "id": 72,
+   "start": 6638.45,
+   "end": 6679.96,
+   "title": "73 - 0072 - Горад якога няма.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0072 - Горад якога няма.mp3"
+  },
+  {
+   "id": 73,
+   "start": 6679.96,
+   "end": 6736.81,
+   "title": "74 - 0073 - Ранішні верш пра твае грудкі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0073 - Ранішні верш пра твае грудкі.mp3"
+  },
+  {
+   "id": 74,
+   "start": 6736.81,
+   "end": 6754.26,
+   "title": "75 - 0074 - Што бывае ў траўні.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0074 - Што бывае ў траўні.mp3"
+  },
+  {
+   "id": 75,
+   "start": 6754.26,
+   "end": 6843.42,
+   "title": "76 - 0075 - Дождж.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0075 - Дождж.mp3"
+  },
+  {
+   "id": 76,
+   "start": 6843.42,
+   "end": 6914.95,
+   "title": "77 - 0076 - Дзьвіньскі вецер.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0076 - Дзьвіньскі вецер.mp3"
+  },
+  {
+   "id": 77,
+   "start": 6914.95,
+   "end": 6948.13,
+   "title": "78 - 0077 - Вестка пра нас.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0077 - Вестка пра нас.mp3"
+  },
+  {
+   "id": 78,
+   "start": 6948.13,
+   "end": 7044.81,
+   "title": "79 - 0078 - Мая полацкая канапа.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0078 - Мая полацкая канапа.mp3"
+  },
+  {
+   "id": 79,
+   "start": 7044.81,
+   "end": 7116.96,
+   "title": "80 - 0079 - Кабінет.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0079 - Кабінет.mp3"
+  },
+  {
+   "id": 80,
+   "start": 7116.96,
+   "end": 7334.77,
+   "title": "81 - 0080 - Трохі інфантыльная начная размова з бабуляй.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0080 - Трохі інфантыльная начная размова з бабуляй.mp3"
+  },
+  {
+   "id": 81,
+   "start": 7334.77,
+   "end": 7375.6,
+   "title": "82 - 0081 - Прадзіва Сьвятой Дзевы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0081 - Прадзіва Сьвятой Дзевы.mp3"
+  },
+  {
+   "id": 82,
+   "start": 7375.6,
+   "end": 7450.65,
+   "title": "83 - 0082 - Партыя ў більярд.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0082 - Партыя ў більярд.mp3"
+  },
+  {
+   "id": 83,
+   "start": 7450.65,
+   "end": 7585.37,
+   "title": "84 - 0083 - У Англіі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0083 - У Англіі.mp3"
+  },
+  {
+   "id": 84,
+   "start": 7585.37,
+   "end": 7668.73,
+   "title": "85 - 0084 - Абдымаючы цябе.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0084 - Абдымаючы цябе.mp3"
+  },
+  {
+   "id": 85,
+   "start": 7668.73,
+   "end": 7752.22,
+   "title": "86 - 0085 - Лямпа фатэль і кубак.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0085 - Лямпа фатэль і кубак.mp3"
+  },
+  {
+   "id": 86,
+   "start": 7752.22,
+   "end": 7799.53,
+   "title": "87 - 0086 - Сачу твае знакі Свабода.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0086 - Сачу твае знакі Свабода.mp3"
+  },
+  {
+   "id": 87,
+   "start": 7799.53,
+   "end": 8099.53,
+   "title": "88 - 0087 - На Готландзе мне сьніцца востраў Полацак.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0087 - На Готландзе мне сьніцца востраў Полацак.mp3"
+  },
+  {
+   "id": 88,
+   "start": 8099.53,
+   "end": 8207.45,
+   "title": "89 - 0088 - Андэрсэн і ты.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0088 - Андэрсэн і ты.mp3"
+  },
+  {
+   "id": 89,
+   "start": 8207.45,
+   "end": 8363.67,
+   "title": "90 - 0089 - It is all the same.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0089 - It is all the same.mp3"
+  },
+  {
+   "id": 90,
+   "start": 8363.67,
+   "end": 8462.02,
+   "title": "91 - 0090 - Калі-небудзь усё будзе апошнім.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0090 - Калі-небудзь усё будзе апошнім.mp3"
+  },
+  {
+   "id": 91,
+   "start": 8462.02,
+   "end": 8556.33,
+   "title": "92 - 0091 - У Полацку.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0091 - У Полацку.mp3"
+  },
+  {
+   "id": 92,
+   "start": 8556.33,
+   "end": 8641.6,
+   "title": "93 - 0092 - Чаму ты не пазваніў маме.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0092 - Чаму ты не пазваніў маме.mp3"
+  },
+  {
+   "id": 93,
+   "start": 8641.6,
+   "end": 8689.9,
+   "title": "94 - 0093 - Вялікадня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0093 - Вялікадня.mp3"
+  },
+  {
+   "id": 94,
+   "start": 8689.9,
+   "end": 8774.8,
+   "title": "95 - 0094 - У букініста.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0094 - У букініста.mp3"
+  },
+  {
+   "id": 95,
+   "start": 8774.8,
+   "end": 8924.93,
+   "title": "96 - 0095 - Я чытаў свае вершы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0095 - Я чытаў свае вершы.mp3"
+  },
+  {
+   "id": 96,
+   "start": 8924.93,
+   "end": 9025.71,
+   "title": "97 - 0096 - Хоку і танка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0096 - Хоку і танка.mp3"
+  },
+  {
+   "id": 97,
+   "start": 9025.71,
+   "end": 9142.85,
+   "title": "98 - 0097 - Паэту Андрэю Хадановічу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Arlou.Parom_praz_LaMans.mp3.zip/0097 - Паэту Андрэю Хадановічу.mp3"
+  }
+ ],
+ "title": "Паром празь Ля-Манш",
+ "slug": "Parom-praz-Lya-Mansh",
+ "author": "Уладзімір Арлоў",
+ "author_slug": "Uladzimir-Arlow",
+ "narrators": [
+  "Уладзімер Арлоў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Эсэістыка",
+  "Публіцыстыка",
+  "Дакументальная проза"
+ ],
+ "source": "https://knihi.com/Uladzimir_Arlou/Parom_praz_La-Mans_mp3.zip.html",
+ "cover": "Uladzimir-Arlow/Parom-praz-Lya-Mansh.jpg",
+ "description": "Кніга Уладзіміра Арлова ўяўляе сабой зборнік эсэ і нарысаў, у якіх аўтар разважае пра лёс беларускай культуры і месца нашай краіны ў еўрапейскай прасторы. Праз прызму падарожжаў і гістарычных рэмінісцэнцый пісьменнік даследуе сувязі паміж мінулым і сучаснасцю, імкнучыся адшукаць адказы на актуальныя пытанні нацыянальнай ідэнтычнасці. Тэксты вызначаюцца глыбокім інтэлектуалізмам, лірычнасцю і нязменнай любоўю да роднага краю. Аўтар майстэрска спалучае дакументальную дакладнасць з мастацкім асэнсаваннем рэчаіснасці, ствараючы паліфанічную карціну свету. Гэта твор для тых, хто імкнецца асэнсаваць беларускі досвед у шырокім кантэксце сусветнай гісторыі.",
+ "length": 9142.85
+}

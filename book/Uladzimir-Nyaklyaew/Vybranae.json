@@ -1,0 +1,800 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - Ты хмаркаю плыла.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/001.Ты хмаркаю плыла.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - Студня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/002.Студня.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - Чужая станцыя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/003.Чужая станцыя.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - Сад на скрыжаванні.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/004.Сад на скрыжаванні.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - Вадэвіль у двух актах.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/005.Вадэвіль у двух актах.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - З Бадлера.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/006.З Бадлера.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1800.0,
+   "end": 2100.0,
+   "title": "7 - Ваўкі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/007.Ваўкі.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2100.0,
+   "end": 2400.0,
+   "title": "8 - Што за сумныя песні спяваеш ты Белая Русь.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/008.Што за сумныя песні спяваеш ты Белая Русь.mp3"
+  },
+  {
+   "id": 8,
+   "start": 2400.0,
+   "end": 2700.0,
+   "title": "9 - Нядзеля.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/009.Нядзеля.mp3"
+  },
+  {
+   "id": 9,
+   "start": 2700.0,
+   "end": 3000.0,
+   "title": "10 - З паэмы Трэці трамвай.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/010.З паэмы Трэці трамвай.mp3"
+  },
+  {
+   "id": 10,
+   "start": 3000.0,
+   "end": 3300.0,
+   "title": "11 - Вочы твае нібы словы мовы чужой.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/011.Вочы твае нібы словы мовы чужой.mp3"
+  },
+  {
+   "id": 11,
+   "start": 3300.0,
+   "end": 3600.0,
+   "title": "12 - Няміга.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/012.Няміга.mp3"
+  },
+  {
+   "id": 12,
+   "start": 3600.0,
+   "end": 3900.0,
+   "title": "13 - Просьба.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/013.Просьба.mp3"
+  },
+  {
+   "id": 13,
+   "start": 3900.0,
+   "end": 4200.0,
+   "title": "14 - Вакно.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/014.Вакно.mp3"
+  },
+  {
+   "id": 14,
+   "start": 4200.0,
+   "end": 4500.0,
+   "title": "15 - Лісцё.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/015.Лісцё.mp3"
+  },
+  {
+   "id": 15,
+   "start": 4500.0,
+   "end": 4800.0,
+   "title": "16 - Туліцца бэз да зруба.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/016.Туліцца бэз да зруба.mp3"
+  },
+  {
+   "id": 16,
+   "start": 4800.0,
+   "end": 5100.0,
+   "title": "17 - Станцыя Выратаванне.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/017.Станцыя Выратаванне.mp3"
+  },
+  {
+   "id": 17,
+   "start": 5100.0,
+   "end": 5400.0,
+   "title": "18 - Аднавяскоўцы мае.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/018.Аднавяскоўцы мае.mp3"
+  },
+  {
+   "id": 18,
+   "start": 5400.0,
+   "end": 5700.0,
+   "title": "19 - Аблачынка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/019.Аблачынка.mp3"
+  },
+  {
+   "id": 19,
+   "start": 5700.0,
+   "end": 6000.0,
+   "title": "20 - Залатая зала тая.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/020.Залатая зала тая.mp3"
+  },
+  {
+   "id": 20,
+   "start": 6000.0,
+   "end": 6300.0,
+   "title": "21 - Галубіная пошта.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/021.Галубіная пошта.mp3"
+  },
+  {
+   "id": 21,
+   "start": 6300.0,
+   "end": 6600.0,
+   "title": "22 - Мост Шандара Пяцёфі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/022.Мост Шандара Пяцёфі.mp3"
+  },
+  {
+   "id": 22,
+   "start": 6600.0,
+   "end": 6900.0,
+   "title": "23 - Перачытваючы Багдановіча.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/023.Перачытваючы Багдановіча.mp3"
+  },
+  {
+   "id": 23,
+   "start": 6900.0,
+   "end": 7200.0,
+   "title": "24 - Міколу Сідаровічу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/024.Міколу Сідаровічу.mp3"
+  },
+  {
+   "id": 24,
+   "start": 7200.0,
+   "end": 7500.0,
+   "title": "25 - Дыктант.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/025.Дыктант.mp3"
+  },
+  {
+   "id": 25,
+   "start": 7500.0,
+   "end": 7800.0,
+   "title": "26 - Мне трыццаць.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/026.Мне трыццаць.mp3"
+  },
+  {
+   "id": 26,
+   "start": 7800.0,
+   "end": 8100.0,
+   "title": "27 - Семя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/027.Семя.mp3"
+  },
+  {
+   "id": 27,
+   "start": 8100.0,
+   "end": 8400.0,
+   "title": "28 - Пакінуты бераг.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/028.Пакінуты бераг.mp3"
+  },
+  {
+   "id": 28,
+   "start": 8400.0,
+   "end": 8700.0,
+   "title": "29 - Тураў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/029.Тураў.mp3"
+  },
+  {
+   "id": 29,
+   "start": 8700.0,
+   "end": 9000.0,
+   "title": "30 - Словы замовы.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/030.Словы замовы.mp3"
+  },
+  {
+   "id": 30,
+   "start": 9000.0,
+   "end": 9300.0,
+   "title": "31 - Ляўкі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/031.Ляўкі.mp3"
+  },
+  {
+   "id": 31,
+   "start": 9300.0,
+   "end": 9600.0,
+   "title": "32 - Віна.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/032.Віна.mp3"
+  },
+  {
+   "id": 32,
+   "start": 9600.0,
+   "end": 9900.0,
+   "title": "33 - Не дазволь пайсці мне.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/033.Не дазволь пайсці мне.mp3"
+  },
+  {
+   "id": 33,
+   "start": 9900.0,
+   "end": 10200.0,
+   "title": "34 - Леснічоўка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/034.Леснічоўка.mp3"
+  },
+  {
+   "id": 34,
+   "start": 10200.0,
+   "end": 10500.0,
+   "title": "35 - Праводзіла з дому.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/035.Праводзіла з дому.mp3"
+  },
+  {
+   "id": 35,
+   "start": 10500.0,
+   "end": 10800.0,
+   "title": "36 - Скончылася лета Не сумуй.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/036.Скончылася лета Не сумуй.mp3"
+  },
+  {
+   "id": 36,
+   "start": 10800.0,
+   "end": 11100.0,
+   "title": "37 - Харэі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/037.Харэі.mp3"
+  },
+  {
+   "id": 37,
+   "start": 11100.0,
+   "end": 11400.0,
+   "title": "38 - Жанчына.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/038.Жанчына.mp3"
+  },
+  {
+   "id": 38,
+   "start": 11400.0,
+   "end": 11700.0,
+   "title": "39 - З паэмы Маланка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/039.З паэмы Маланка.mp3"
+  },
+  {
+   "id": 39,
+   "start": 11700.0,
+   "end": 12000.0,
+   "title": "40 - Космас.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/040.Космас.mp3"
+  },
+  {
+   "id": 40,
+   "start": 12000.0,
+   "end": 12300.0,
+   "title": "41 - Хадок Уладзіміру Караткевічу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/041.Хадок Уладзіміру Караткевічу.mp3"
+  },
+  {
+   "id": 41,
+   "start": 12300.0,
+   "end": 12600.0,
+   "title": "42 - Варшава Восень 82.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/042.Варшава Восень 82.mp3"
+  },
+  {
+   "id": 42,
+   "start": 12600.0,
+   "end": 12900.0,
+   "title": "43 - Пыл дарог.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/043.Пыл дарог.mp3"
+  },
+  {
+   "id": 43,
+   "start": 12900.0,
+   "end": 13200.0,
+   "title": "44 - Пералётная птушка зламала крыло аб драты.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/044.Пералётная птушка зламала крыло аб драты.mp3"
+  },
+  {
+   "id": 44,
+   "start": 13200.0,
+   "end": 13500.0,
+   "title": "45 - На радасць.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/045.На радасць.mp3"
+  },
+  {
+   "id": 45,
+   "start": 13500.0,
+   "end": 13800.0,
+   "title": "46 - Тракай.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/046.Тракай.mp3"
+  },
+  {
+   "id": 46,
+   "start": 13800.0,
+   "end": 14100.0,
+   "title": "47 - Новы снег.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/047.Новы снег.mp3"
+  },
+  {
+   "id": 47,
+   "start": 14100.0,
+   "end": 14400.0,
+   "title": "48 - Перад табой.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/048.Перад табой.mp3"
+  },
+  {
+   "id": 48,
+   "start": 14400.0,
+   "end": 14700.0,
+   "title": "49 - Спадарожная.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/049.Спадарожная.mp3"
+  },
+  {
+   "id": 49,
+   "start": 14700.0,
+   "end": 15000.0,
+   "title": "50 - Камень жальнік.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/050.Камень жальнік.mp3"
+  },
+  {
+   "id": 50,
+   "start": 15000.0,
+   "end": 15300.0,
+   "title": "51 - Заўтра рана ўставаць.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/051.Заўтра рана ўставаць.mp3"
+  },
+  {
+   "id": 51,
+   "start": 15300.0,
+   "end": 15600.0,
+   "title": "52 - Дзе голаў прытулю.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/052.Дзе голаў прытулю.mp3"
+  },
+  {
+   "id": 52,
+   "start": 15600.0,
+   "end": 15900.0,
+   "title": "53 - Чарот.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/053.Чарот.mp3"
+  },
+  {
+   "id": 53,
+   "start": 15900.0,
+   "end": 16200.0,
+   "title": "54 - Пытанне.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/054.Пытанне.mp3"
+  },
+  {
+   "id": 54,
+   "start": 16200.0,
+   "end": 16500.0,
+   "title": "55 - Кажух.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/055.Кажух.mp3"
+  },
+  {
+   "id": 55,
+   "start": 16500.0,
+   "end": 16800.0,
+   "title": "56 - Радок.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/056.Радок.mp3"
+  },
+  {
+   "id": 56,
+   "start": 16800.0,
+   "end": 17100.0,
+   "title": "57 - Дым.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/057.Дым.mp3"
+  },
+  {
+   "id": 57,
+   "start": 17100.0,
+   "end": 17400.0,
+   "title": "58 - Агонь.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/058.Агонь.mp3"
+  },
+  {
+   "id": 58,
+   "start": 17400.0,
+   "end": 17700.0,
+   "title": "59 - Камень.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/059.Камень.mp3"
+  },
+  {
+   "id": 59,
+   "start": 17700.0,
+   "end": 18000.0,
+   "title": "60 - Насцеж.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/060.Насцеж.mp3"
+  },
+  {
+   "id": 60,
+   "start": 18000.0,
+   "end": 18300.0,
+   "title": "61 - Звер.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/061.Звер.mp3"
+  },
+  {
+   "id": 61,
+   "start": 18300.0,
+   "end": 18600.0,
+   "title": "62 - Воля.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/062.Воля.mp3"
+  },
+  {
+   "id": 62,
+   "start": 18600.0,
+   "end": 18900.0,
+   "title": "63 - Лебедзь.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/063.Лебедзь.mp3"
+  },
+  {
+   "id": 63,
+   "start": 18900.0,
+   "end": 19200.0,
+   "title": "64 - Стан.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/064.Стан.mp3"
+  },
+  {
+   "id": 64,
+   "start": 19200.0,
+   "end": 19500.0,
+   "title": "65 - Праз каліну.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/065.Праз каліну.mp3"
+  },
+  {
+   "id": 65,
+   "start": 19500.0,
+   "end": 19800.0,
+   "title": "66 - Знічка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/066.Знічка.mp3"
+  },
+  {
+   "id": 66,
+   "start": 19800.0,
+   "end": 20100.0,
+   "title": "67 - Змеі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/067.Змеі.mp3"
+  },
+  {
+   "id": 67,
+   "start": 20100.0,
+   "end": 20400.0,
+   "title": "68 - Косць.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/068.Косць.mp3"
+  },
+  {
+   "id": 68,
+   "start": 20400.0,
+   "end": 20700.0,
+   "title": "84 - Пярсцёнак.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/084.Пярсцёнак.mp3"
+  },
+  {
+   "id": 69,
+   "start": 20700.0,
+   "end": 21000.0,
+   "title": "85 - Прыбегла з марозу.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/085.Прыбегла з марозу.mp3"
+  },
+  {
+   "id": 70,
+   "start": 21000.0,
+   "end": 21300.0,
+   "title": "86 - Ветраны ранак апошняга дня лістапада.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/086.Ветраны ранак апошняга дня лістапада.mp3"
+  },
+  {
+   "id": 71,
+   "start": 21300.0,
+   "end": 21600.0,
+   "title": "87 - Глухі завулак Вецер Ноч.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/087.Глухі завулак Вецер Ноч.mp3"
+  },
+  {
+   "id": 72,
+   "start": 21600.0,
+   "end": 21900.0,
+   "title": "88 - У Баранавічах снег.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/088.У Баранавічах снег.mp3"
+  },
+  {
+   "id": 73,
+   "start": 21900.0,
+   "end": 22200.0,
+   "title": "90 - Свечка.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/090.Свечка.mp3"
+  },
+  {
+   "id": 74,
+   "start": 22200.0,
+   "end": 22500.0,
+   "title": "91 - Заплакаць мне па той вясне.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/091.Заплакаць мне па той вясне.mp3"
+  },
+  {
+   "id": 75,
+   "start": 22500.0,
+   "end": 22800.0,
+   "title": "92 - Бронь Божа мне ўспомніць.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/092.Бронь Божа мне ўспомніць.mp3"
+  },
+  {
+   "id": 76,
+   "start": 22800.0,
+   "end": 23100.0,
+   "title": "93 - У нашых снах было каму прысніцца.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/093.У нашых снах было каму прысніцца.mp3"
+  },
+  {
+   "id": 77,
+   "start": 23100.0,
+   "end": 23400.0,
+   "title": "94 - Вечар у ветраным Віцебску.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/094.Вечар у ветраным Віцебску.mp3"
+  },
+  {
+   "id": 78,
+   "start": 23400.0,
+   "end": 23700.0,
+   "title": "95 - Стаў.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/095.Стаў.mp3"
+  },
+  {
+   "id": 79,
+   "start": 23700.0,
+   "end": 24000.0,
+   "title": "96 - Беларуская песня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/096.Беларуская песня.mp3"
+  },
+  {
+   "id": 80,
+   "start": 24000.0,
+   "end": 24300.0,
+   "title": "97 - Ідал.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/097.Ідал.mp3"
+  },
+  {
+   "id": 81,
+   "start": 24300.0,
+   "end": 24600.0,
+   "title": "98 - Мутацыя.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/098.Мутацыя.mp3"
+  },
+  {
+   "id": 82,
+   "start": 24600.0,
+   "end": 24900.0,
+   "title": "99 - Неназваных нас няма.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/099.Неназваных нас няма.mp3"
+  },
+  {
+   "id": 83,
+   "start": 24900.0,
+   "end": 25200.0,
+   "title": " - Малітвы клятвы споведзі.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/100.Малітвы клятвы споведзі.mp3"
+  },
+  {
+   "id": 84,
+   "start": 25200.0,
+   "end": 25500.0,
+   "title": "1 - Прабачаць дурню.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/101.Прабачаць дурню.mp3"
+  },
+  {
+   "id": 85,
+   "start": 25500.0,
+   "end": 25800.0,
+   "title": "2 - Што затужылі воі-мужчыны.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/102.Што затужылі воі-мужчыны.mp3"
+  },
+  {
+   "id": 86,
+   "start": 25800.0,
+   "end": 26100.0,
+   "title": "3 - Маўклівы мітынг.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/103.Маўклівы мітынг.mp3"
+  },
+  {
+   "id": 87,
+   "start": 26100.0,
+   "end": 26400.0,
+   "title": "4 - Хто па чым маркоціцца ў журбе.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/104.Хто па чым маркоціцца ў журбе.mp3"
+  },
+  {
+   "id": 88,
+   "start": 26400.0,
+   "end": 26700.0,
+   "title": "5 - Пакінуўшы свята на свяце.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/105.Пакінуўшы свята на свяце.mp3"
+  },
+  {
+   "id": 89,
+   "start": 26700.0,
+   "end": 27000.0,
+   "title": "6 - Выйшаў летам вярнуўся зімой.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/106.Выйшаў летам вярнуўся зімой.mp3"
+  },
+  {
+   "id": 90,
+   "start": 27000.0,
+   "end": 27300.0,
+   "title": "7 - Не з тымі пайшоў і дарогай не той.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/107.Не з тымі пайшоў і дарогай не той.mp3"
+  },
+  {
+   "id": 91,
+   "start": 27300.0,
+   "end": 27600.0,
+   "title": "8 - Гульня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/108.Гульня.mp3"
+  },
+  {
+   "id": 92,
+   "start": 27600.0,
+   "end": 27900.0,
+   "title": "9 - Вар’ят.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/109.Вар’ят.mp3"
+  },
+  {
+   "id": 93,
+   "start": 27900.0,
+   "end": 28200.0,
+   "title": "10 - Матылёк.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/110.Матылёк.mp3"
+  },
+  {
+   "id": 94,
+   "start": 28200.0,
+   "end": 28500.0,
+   "title": "11 - Галубятня.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/111.Галубятня.mp3"
+  },
+  {
+   "id": 95,
+   "start": 28500.0,
+   "end": 28800.0,
+   "title": "12 - Струменіцца па жылах халадок.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Вершы/112.Струменіцца па жылах халадок.mp3"
+  },
+  {
+   "id": 96,
+   "start": 28800.0,
+   "end": 29100.0,
+   "title": "75 - аэма)/075.частка 1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/075.частка 1.mp3"
+  },
+  {
+   "id": 97,
+   "start": 29100.0,
+   "end": 29400.0,
+   "title": "76 - аэма)/076.частка 2.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/076.частка 2.mp3"
+  },
+  {
+   "id": 98,
+   "start": 29400.0,
+   "end": 29700.0,
+   "title": "77 - аэма)/077.частка 3.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/077.частка 3.mp3"
+  },
+  {
+   "id": 99,
+   "start": 29700.0,
+   "end": 30000.0,
+   "title": "78 - аэма)/078.частка 4.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/078.частка 4.mp3"
+  },
+  {
+   "id": 100,
+   "start": 30000.0,
+   "end": 30300.0,
+   "title": "79 - аэма)/079.частка 5.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/079.частка 5.mp3"
+  },
+  {
+   "id": 101,
+   "start": 30300.0,
+   "end": 30600.0,
+   "title": "80 - аэма)/080.частка 6.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/080.частка 6.mp3"
+  },
+  {
+   "id": 102,
+   "start": 30600.0,
+   "end": 30900.0,
+   "title": "81 - аэма)/081.частка 7.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/081.частка 7.mp3"
+  },
+  {
+   "id": 103,
+   "start": 30900.0,
+   "end": 31200.0,
+   "title": "82 - аэма)/082.частка 8.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/082.частка 8.mp3"
+  },
+  {
+   "id": 104,
+   "start": 31200.0,
+   "end": 31500.0,
+   "title": "83 - аэма)/083.частка 9.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Паланэз (паэма)/083.частка 9.mp3"
+  },
+  {
+   "id": 105,
+   "start": 31500.0,
+   "end": 31800.0,
+   "title": "69 - эма)/069.частка 1.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Прошча (паэма)/069.частка 1.mp3"
+  },
+  {
+   "id": 106,
+   "start": 31800.0,
+   "end": 32100.0,
+   "title": "70 - эма)/070.частка 2.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Прошча (паэма)/070.частка 2.mp3"
+  },
+  {
+   "id": 107,
+   "start": 32100.0,
+   "end": 32400.0,
+   "title": "71 - эма)/071.частка 3.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Прошча (паэма)/071.частка 3.mp3"
+  },
+  {
+   "id": 108,
+   "start": 32400.0,
+   "end": 32700.0,
+   "title": "72 - эма)/072.частка 4.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Прошча (паэма)/072.частка 4.mp3"
+  },
+  {
+   "id": 109,
+   "start": 32700.0,
+   "end": 33000.0,
+   "title": "73 - эма)/073.частка 5.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Прошча (паэма)/073.частка 5.mp3"
+  },
+  {
+   "id": 110,
+   "start": 33000.0,
+   "end": 33300.0,
+   "title": "74 - эма)/074.частка 6.mp3",
+   "url": "https://files.knihi.com/Audio/audiobooks/Niaklajeu.Vybranaje.mp3.zip/Прошча (паэма)/074.частка 6.mp3"
+  }
+ ],
+ "title": "Выбранае",
+ "slug": "Vybranae",
+ "author": "Уладзімір Някляеў",
+ "author_slug": "Uladzimir-Nyaklyaew",
+ "narrators": [
+  "Уладзімір Някляеў"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Паэзія",
+  "Проза",
+  "Літаратура",
+  "Беларуская літаратура"
+ ],
+ "source": "https://knihi.com/Uladzimir_Niaklajeu/Vybranaje_mp3.zip.html",
+ "cover": "Uladzimir-Nyaklyaew/Vybranae.jpg",
+ "description": "У кнігу выбраных твораў Уладзіміра Някляева ўвайшлі найбольш значныя паэтычныя і празаічныя тэксты, якія адлюстроўваюць творчы шлях аднаго з самых адметных беларускіх аўтараў сучаснасці. Праз прызму асабістых перажыванняў і філасофскіх роздумаў паэт даследуе тэмы нацыянальнай ідэнтычнасці, лёсу чалавека ў віры гістарычных падзей і вечнай сілы кахання. Творы вызначаюцца глыбокім лірызмам, метафарычнасцю мовы і нязменнай грамадзянскай пазіцыяй аўтара. Гэтае выданне дазваляе чытачу прасачыць эвалюцыю мастацкага светапогляду пісьменніка, які спалучае ў сабе рамантычную ўзнёсласць і балючую праўду рэчаіснасці. Кніга становіцца своеасаблівым духоўным летапісам эпохі, напоўненым болем, надзеяй і нязгаснай верай у будучыню Беларусі.",
+ "length": 33300.0
+}

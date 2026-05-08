@@ -1,0 +1,891 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 97.25,
+   "title": "1 - шчы бяз слоў. А. Лукашук.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/001.На плошчы бяз слоў. А. Лукашук.mp3"
+  },
+  {
+   "id": 1,
+   "start": 97.25,
+   "end": 188.89,
+   "title": "2 - ф.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/002.Эпіграф.mp3"
+  },
+  {
+   "id": 2,
+   "start": 188.89,
+   "end": 407.18,
+   "title": "3 - ці да сябе.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/003.Прыйсьці да сябе.mp3"
+  },
+  {
+   "id": 3,
+   "start": 407.18,
+   "end": 630.95,
+   "title": "4 - выпадковасьці.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/004.Праўда выпадковасьці.mp3"
+  },
+  {
+   "id": 4,
+   "start": 630.95,
+   "end": 862.86,
+   "title": "5 - ая і дарослая праўда.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/005.Дзіцячая і дарослая праўда.mp3"
+  },
+  {
+   "id": 5,
+   "start": 862.86,
+   "end": 1162.86,
+   "title": "6 - актуаліі і сантымэнты.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/006.Міты, актуаліі і сантымэнты.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1162.86,
+   "end": 1497.56,
+   "title": "7 - прага экстрапаляцыяў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/007.Тайная прага экстрапаляцыяў.mp3"
+  },
+  {
+   "id": 7,
+   "start": 1497.56,
+   "end": 1797.56,
+   "title": "8 - зарачане і прыхадні.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/008.Нашыя, зарачане і прыхадні.mp3"
+  },
+  {
+   "id": 8,
+   "start": 1797.56,
+   "end": 2594.62,
+   "title": "9 - Шандзялоўскіi.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/009.Шмэрка Шандзялоўскіi.mp3"
+  },
+  {
+   "id": 9,
+   "start": 2594.62,
+   "end": 3027.95,
+   "title": "10 - о помніцца.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/010.Пра што помніцца.mp3"
+  },
+  {
+   "id": 10,
+   "start": 3027.95,
+   "end": 3346.38,
+   "title": "11 - пісана ў радаводзе.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/011.Што напісана ў радаводзе.mp3"
+  },
+  {
+   "id": 11,
+   "start": 3346.38,
+   "end": 4045.93,
+   "title": "12 - е ад маці і ў хаце.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/012.Пачутае ад маці і ў хаце.mp3"
+  },
+  {
+   "id": 12,
+   "start": 4045.93,
+   "end": 4381.65,
+   "title": "13 - вы тэатар.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/013.Жыцьцёвы тэатар.mp3"
+  },
+  {
+   "id": 13,
+   "start": 4381.65,
+   "end": 4824.14,
+   "title": "14 - паміж небам і зямлёю.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/014.Словы паміж небам і зямлёю.mp3"
+  },
+  {
+   "id": 14,
+   "start": 4824.14,
+   "end": 5206.64,
+   "title": "15 - га раньняга.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/015.З самага раньняга.mp3"
+  },
+  {
+   "id": 15,
+   "start": 5206.64,
+   "end": 5632.58,
+   "title": "16 - ў браму вучонасьці.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/016.Дарога ў браму вучонасьці.mp3"
+  },
+  {
+   "id": 16,
+   "start": 5632.58,
+   "end": 6096.4,
+   "title": "17 - я жаданьні.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/017.Простыя жаданьні.mp3"
+  },
+  {
+   "id": 17,
+   "start": 6096.4,
+   "end": 6520.05,
+   "title": "18 - льнае існаваньне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/018.Натуральнае існаваньне.mp3"
+  },
+  {
+   "id": 18,
+   "start": 6520.05,
+   "end": 6820.05,
+   "title": "19 - льнае існаваньне, працяг.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/019.Натуральнае існаваньне, працяг.mp3"
+  },
+  {
+   "id": 19,
+   "start": 6820.05,
+   "end": 7289.93,
+   "title": "20 - а на беразе.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/020.Як рыба на беразе.mp3"
+  },
+  {
+   "id": 20,
+   "start": 7289.93,
+   "end": 7731.33,
+   "title": "21 - сікі ў мундзірах.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/021.Беларусікі ў мундзірах.mp3"
+  },
+  {
+   "id": 21,
+   "start": 7731.33,
+   "end": 7963.9,
+   "title": "22 - йскае таварышаваньне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/022.Эўразійскае таварышаваньне.mp3"
+  },
+  {
+   "id": 22,
+   "start": 7963.9,
+   "end": 8302.54,
+   "title": "23 - аньне па-замежнаму.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/023.Шыхтаваньне па-замежнаму.mp3"
+  },
+  {
+   "id": 23,
+   "start": 8302.54,
+   "end": 8602.54,
+   "title": "24 - вакно ў Нямеччыну — «сацыялістычнае» ліставаньне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/024.Першае вакно ў Нямеччыну — «сацыялістычнае» ліставаньне.mp3"
+  },
+  {
+   "id": 24,
+   "start": 8602.54,
+   "end": 8739.74,
+   "title": "25 - з уладыкам.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/025.Побач з уладыкам.mp3"
+  },
+  {
+   "id": 25,
+   "start": 8739.74,
+   "end": 9180.28,
+   "title": "26 - ужы Сьвяты не кідай у ніты.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/026.І на чужы Сьвяты не кідай у ніты.mp3"
+  },
+  {
+   "id": 26,
+   "start": 9180.28,
+   "end": 9480.28,
+   "title": "27 - нічны» начны хрост.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/027.«Экумэнічны» начны хрост.mp3"
+  },
+  {
+   "id": 27,
+   "start": 9480.28,
+   "end": 9645.23,
+   "title": "28 - і малілася.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/028.Як маці малілася.mp3"
+  },
+  {
+   "id": 28,
+   "start": 9645.23,
+   "end": 9954.42,
+   "title": "29 - г і трансцэндэнтнасьць.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/029.Дэміюрг і трансцэндэнтнасьць.mp3"
+  },
+  {
+   "id": 29,
+   "start": 9954.42,
+   "end": 10254.42,
+   "title": "30 - Біблія — лютэранская.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/030.Першая Біблія — лютэранская.mp3"
+  },
+  {
+   "id": 30,
+   "start": 10254.42,
+   "end": 10693.89,
+   "title": "31 - душа.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/031.Храм і душа.mp3"
+  },
+  {
+   "id": 31,
+   "start": 10693.89,
+   "end": 11203.35,
+   "title": "32 - сыстэмай і мэтафарамі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/032.Паміж сыстэмай і мэтафарамі.mp3"
+  },
+  {
+   "id": 32,
+   "start": 11203.35,
+   "end": 12146.37,
+   "title": "33 - мацыя ў Ротэнбургу.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/033.Канфірмацыя ў Ротэнбургу.mp3"
+  },
+  {
+   "id": 33,
+   "start": 12146.37,
+   "end": 12349.38,
+   "title": "34 - рыканскі і эйнштэйнаўскі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/034.Бог афрыканскі і эйнштэйнаўскі.mp3"
+  },
+  {
+   "id": 34,
+   "start": 12349.38,
+   "end": 12578.32,
+   "title": "35 - ньні прыроднага.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/035.Ва ўлоньні прыроднага.mp3"
+  },
+  {
+   "id": 35,
+   "start": 12578.32,
+   "end": 13179.49,
+   "title": "36 - кія жарсьці амаль па Фройду.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/036.Бурсацкія жарсьці амаль па Фройду.mp3"
+  },
+  {
+   "id": 36,
+   "start": 13179.49,
+   "end": 13479.49,
+   "title": "37 - кія жарсьці амаль па Фройду, працяг.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/037.Бурсацкія жарсьці амаль па Фройду, працяг.mp3"
+  },
+  {
+   "id": 37,
+   "start": 13479.49,
+   "end": 13779.49,
+   "title": "38 - ўчат я глядзеў празь лярнэт….mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/038.На дзяўчат я глядзеў празь лярнэт….mp3"
+  },
+  {
+   "id": 38,
+   "start": 13779.49,
+   "end": 14079.49,
+   "title": "39 - айце дачку кадэбіста….mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/039.Не кахайце дачку кадэбіста….mp3"
+  },
+  {
+   "id": 39,
+   "start": 14079.49,
+   "end": 14320.59,
+   "title": "40 - пачуцьцяў на сцэне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/040.Школа пачуцьцяў на сцэне.mp3"
+  },
+  {
+   "id": 40,
+   "start": 14320.59,
+   "end": 14620.59,
+   "title": "41 - пачуцьцяў на сцэне, працяг.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/041.Школа пачуцьцяў на сцэне, працяг.mp3"
+  },
+  {
+   "id": 41,
+   "start": 14620.59,
+   "end": 14920.59,
+   "title": "42 - ат — Бэнэдыкт Сьпіноза.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/042.Мой сват — Бэнэдыкт Сьпіноза.mp3"
+  },
+  {
+   "id": 42,
+   "start": 14920.59,
+   "end": 15099.35,
+   "title": "43 - ды рамантычнае каханьне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/043.Сапраўды рамантычнае каханьне.mp3"
+  },
+  {
+   "id": 43,
+   "start": 15099.35,
+   "end": 15499.13,
+   "title": "44 - іжэньне сямейнай гармоніі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/044.Спасьціжэньне сямейнай гармоніі.mp3"
+  },
+  {
+   "id": 44,
+   "start": 15499.13,
+   "end": 15626.43,
+   "title": "45 - скае рэзюмэ.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/045.Мужчынскае рэзюмэ.mp3"
+  },
+  {
+   "id": 45,
+   "start": 15626.43,
+   "end": 15926.43,
+   "title": "46 - , калыханка, жніво, Цярэжка....mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/046.Малако, калыханка, жніво, Цярэжка....mp3"
+  },
+  {
+   "id": 46,
+   "start": 15926.43,
+   "end": 16155.29,
+   "title": "47 - я шчымлівыя мэлёдыі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/047.Далёкія шчымлівыя мэлёдыі.mp3"
+  },
+  {
+   "id": 47,
+   "start": 16155.29,
+   "end": 16455.29,
+   "title": "48 - ыйду ў поле….mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/048.Як я выйду ў поле….mp3"
+  },
+  {
+   "id": 48,
+   "start": 16455.29,
+   "end": 16683.42,
+   "title": "49 - мэлянхалічныя і самасьцьвярджальныя.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/049.Сьпевы мэлянхалічныя і самасьцьвярджальныя.mp3"
+  },
+  {
+   "id": 49,
+   "start": 16683.42,
+   "end": 16983.42,
+   "title": "50 - нам дапаможа….mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/050.Песьня нам дапаможа….mp3"
+  },
+  {
+   "id": 50,
+   "start": 16983.42,
+   "end": 17696.91,
+   "title": "51 - я стаў доктарам і начфінам.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/051.Як я ня стаў доктарам і начфінам.mp3"
+  },
+  {
+   "id": 51,
+   "start": 17696.91,
+   "end": 18185.77,
+   "title": "52 - міністар Дарашэвіч.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/052.Добры міністар Дарашэвіч.mp3"
+  },
+  {
+   "id": 52,
+   "start": 18185.77,
+   "end": 19306.27,
+   "title": "53 - настаўнікі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/053.Добрыя настаўнікі.mp3"
+  },
+  {
+   "id": 53,
+   "start": 19306.27,
+   "end": 19606.27,
+   "title": "54 - я догмы — і зноў добрыя людзі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/054.Прыкрыя догмы — і зноў добрыя людзі.mp3"
+  },
+  {
+   "id": 54,
+   "start": 19606.27,
+   "end": 20214.47,
+   "title": "55 - тум і дурны характар.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/055.Злы фатум і дурны характар.mp3"
+  },
+  {
+   "id": 55,
+   "start": 20214.47,
+   "end": 20514.47,
+   "title": "56 - ўладкаваў» валютчыка ў ін’яз.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/056.Як я «ўладкаваў» валютчыка ў ін’яз.mp3"
+  },
+  {
+   "id": 56,
+   "start": 20514.47,
+   "end": 21068.89,
+   "title": "57 - пралетарскі рамантызм.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/057.Люмпэн-пралетарскі рамантызм.mp3"
+  },
+  {
+   "id": 57,
+   "start": 21068.89,
+   "end": 21285.3,
+   "title": "58 - упаючы чарговы рубікон.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/058.Пераступаючы чарговы рубікон.mp3"
+  },
+  {
+   "id": 58,
+   "start": 21285.3,
+   "end": 21446.28,
+   "title": "59 - жывы перакладчык.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/059.Першы жывы перакладчык.mp3"
+  },
+  {
+   "id": 59,
+   "start": 21446.28,
+   "end": 21684.36,
+   "title": "60 - ў прафэсію.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/060.Крокі ў прафэсію.mp3"
+  },
+  {
+   "id": 60,
+   "start": 21684.36,
+   "end": 21929.8,
+   "title": "61 - знаньне праз чужы досьвед.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/061.Самапазнаньне праз чужы досьвед.mp3"
+  },
+  {
+   "id": 61,
+   "start": 21929.8,
+   "end": 22105.66,
+   "title": "62 - як громаадвод.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/062.Ленін як громаадвод.mp3"
+  },
+  {
+   "id": 62,
+   "start": 22105.66,
+   "end": 22367.0,
+   "title": "63 - а і палітыка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/063.Тэхніка і палітыка.mp3"
+  },
+  {
+   "id": 63,
+   "start": 22367.0,
+   "end": 22628.13,
+   "title": "64 - частка прыроднага асяродку.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/064.КДБ як частка прыроднага асяродку.mp3"
+  },
+  {
+   "id": 64,
+   "start": 22628.13,
+   "end": 22928.13,
+   "title": "65 - энцыйна гледзячы….mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/065.Экзыстэнцыйна гледзячы….mp3"
+  },
+  {
+   "id": 65,
+   "start": 22928.13,
+   "end": 23228.13,
+   "title": "66 - ітыка І «шпіёны».mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/066.Геапалітыка І «шпіёны».mp3"
+  },
+  {
+   "id": 66,
+   "start": 23228.13,
+   "end": 23651.64,
+   "title": "67 - твары і знаёмствы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/067.Новыя твары і знаёмствы.mp3"
+  },
+  {
+   "id": 67,
+   "start": 23651.64,
+   "end": 23971.69,
+   "title": "68 - Машэраў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/068.Пётар Машэраў.mp3"
+  },
+  {
+   "id": 68,
+   "start": 23971.69,
+   "end": 24272.55,
+   "title": "69 - кія таварышы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/069.Кубінскія таварышы.mp3"
+  },
+  {
+   "id": 69,
+   "start": 24272.55,
+   "end": 24850.33,
+   "title": "70 - лём Быкавым у Нямеччыне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/070.З Васілём Быкавым у Нямеччыне.mp3"
+  },
+  {
+   "id": 70,
+   "start": 24850.33,
+   "end": 25150.33,
+   "title": "71 - лём Быкавым у Нямеччыне, працяг.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/071.З Васілём Быкавым у Нямеччыне, працяг.mp3"
+  },
+  {
+   "id": 71,
+   "start": 25150.33,
+   "end": 25676.92,
+   "title": "72 - ны быкаўскі аўтограф.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/072.Згублены быкаўскі аўтограф.mp3"
+  },
+  {
+   "id": 72,
+   "start": 25676.92,
+   "end": 26026.6,
+   "title": "73 - ьнае слова прафэсіі перакладчыка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/073.Пахвальнае слова прафэсіі перакладчыка.mp3"
+  },
+  {
+   "id": 73,
+   "start": 26026.6,
+   "end": 26426.44,
+   "title": "74 - іжэньне свайго.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/074.Спасьціжэньне свайго.mp3"
+  },
+  {
+   "id": 74,
+   "start": 26426.44,
+   "end": 27313.57,
+   "title": "75 - я стаў філёзафам.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/075.Як я ня стаў філёзафам.mp3"
+  },
+  {
+   "id": 75,
+   "start": 27313.57,
+   "end": 27613.57,
+   "title": "76 - стыка — навука для сэрца і розуму.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/076.Лінгвістыка — навука для сэрца і розуму.mp3"
+  },
+  {
+   "id": 76,
+   "start": 27613.57,
+   "end": 27913.57,
+   "title": "77 - працоўны дзень — хмарны.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/077.Першы працоўны дзень — хмарны.mp3"
+  },
+  {
+   "id": 77,
+   "start": 27913.57,
+   "end": 28130.08,
+   "title": "78 - ць працы і сяброўства.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/078.Радасьць працы і сяброўства.mp3"
+  },
+  {
+   "id": 78,
+   "start": 28130.08,
+   "end": 28430.08,
+   "title": "79 - ць працы і сяброўства, працяг.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/079.Радасьць працы і сяброўства, працяг.mp3"
+  },
+  {
+   "id": 79,
+   "start": 28430.08,
+   "end": 28848.71,
+   "title": "80 - падарунак Міколы Лобана.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/080.Дарагі падарунак Міколы Лобана.mp3"
+  },
+  {
+   "id": 80,
+   "start": 28848.71,
+   "end": 29015.1,
+   "title": "81 - зам за Беларусь.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/081.Усе разам за Беларусь.mp3"
+  },
+  {
+   "id": 81,
+   "start": 29015.1,
+   "end": 29250.43,
+   "title": "82 - амітэце БНФ.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/082.У аргкамітэце БНФ.mp3"
+  },
+  {
+   "id": 82,
+   "start": 29250.43,
+   "end": 29550.43,
+   "title": "83 - дзін： заля са мною.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/083.Я не адзін： заля са мною.mp3"
+  },
+  {
+   "id": 83,
+   "start": 29550.43,
+   "end": 29843.46,
+   "title": "84 - лятурныя паклёпы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/084.Намэнклятурныя паклёпы.mp3"
+  },
+  {
+   "id": 84,
+   "start": 29843.46,
+   "end": 30116.68,
+   "title": "85 - авецкая Прыбалтыка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/085.Яшчэ савецкая Прыбалтыка.mp3"
+  },
+  {
+   "id": 85,
+   "start": 30116.68,
+   "end": 30500.69,
+   "title": "86 - ьны сьпеў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/086.Вызвольны сьпеў.mp3"
+  },
+  {
+   "id": 86,
+   "start": 30500.69,
+   "end": 31227.15,
+   "title": "87 - у і літоўскую Свабоду.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/087.За нашу і літоўскую Свабоду.mp3"
+  },
+  {
+   "id": 87,
+   "start": 31227.15,
+   "end": 31649.41,
+   "title": "88 - лентнасьці гісторыі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/088.Амбівалентнасьці гісторыі.mp3"
+  },
+  {
+   "id": 88,
+   "start": 31649.41,
+   "end": 32238.91,
+   "title": "89 - Пазьняк.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/089.Зянон Пазьняк.mp3"
+  },
+  {
+   "id": 89,
+   "start": 32238.91,
+   "end": 32796.38,
+   "title": "90 - 1990 году.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/090.Выбары 1990 году.mp3"
+  },
+  {
+   "id": 90,
+   "start": 32796.38,
+   "end": 33294.51,
+   "title": "91 - ікі і памочнікі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/091.Супернікі і памочнікі.mp3"
+  },
+  {
+   "id": 91,
+   "start": 33294.51,
+   "end": 34004.37,
+   "title": "92 - аты супраць мітрапаліта.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/092.Дэмакраты супраць мітрапаліта.mp3"
+  },
+  {
+   "id": 92,
+   "start": 34004.37,
+   "end": 34251.06,
+   "title": "93 - ступах да парлямэнтарызму.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/093.На подступах да парлямэнтарызму.mp3"
+  },
+  {
+   "id": 93,
+   "start": 34251.06,
+   "end": 34538.45,
+   "title": "94 - энцкія кантакты і сутыкненьні.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/094.Парлямэнцкія кантакты і сутыкненьні.mp3"
+  },
+  {
+   "id": 94,
+   "start": 34538.45,
+   "end": 34851.84,
+   "title": "95 - ьле амбасадара і дэпутата.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/095.У крэсьле амбасадара і дэпутата.mp3"
+  },
+  {
+   "id": 95,
+   "start": 34851.84,
+   "end": 35151.84,
+   "title": "96 - л з мутнай вады «перабудовы».mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/096.Капітал з мутнай вады «перабудовы».mp3"
+  },
+  {
+   "id": 96,
+   "start": 35151.84,
+   "end": 35451.84,
+   "title": "97 - ныя» ды іншыя гісторыі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/097.«Калійныя» ды іншыя гісторыі.mp3"
+  },
+  {
+   "id": 97,
+   "start": 35451.84,
+   "end": 36081.37,
+   "title": "98 - оўся з Саўмінам.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/098.Як я боўся з Саўмінам.mp3"
+  },
+  {
+   "id": 98,
+   "start": 36081.37,
+   "end": 36354.3,
+   "title": "99 - драх эўрасупрацоўніцтва.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/099.У мэандрах эўрасупрацоўніцтва.mp3"
+  },
+  {
+   "id": 99,
+   "start": 36354.3,
+   "end": 36601.51,
+   "title": " - прачытваецца ў стэнаграмах.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/100.Што не прачытваецца ў стэнаграмах.mp3"
+  },
+  {
+   "id": 100,
+   "start": 36601.51,
+   "end": 36910.39,
+   "title": "1 - лентнасьць намэнклятуры.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/101.Амбівалентнасьць намэнклятуры.mp3"
+  },
+  {
+   "id": 101,
+   "start": 36910.39,
+   "end": 37358.03,
+   "title": "2 - пра Віскулі і жнівеньскі путч.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/102.Трошкі пра Віскулі і жнівеньскі путч.mp3"
+  },
+  {
+   "id": 102,
+   "start": 37358.03,
+   "end": 37618.9,
+   "title": "3 - у Менску перад Віскулямі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/103.Ельцын у Менску перад Віскулямі.mp3"
+  },
+  {
+   "id": 103,
+   "start": 37618.9,
+   "end": 38576.04,
+   "title": "4 - ўка дэпутатаў БНФ.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/104.Галадоўка дэпутатаў БНФ.mp3"
+  },
+  {
+   "id": 104,
+   "start": 38576.04,
+   "end": 38876.04,
+   "title": "5 - ўка дэпутатаў БНФ, працяг.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/105.Галадоўка дэпутатаў БНФ, працяг.mp3"
+  },
+  {
+   "id": 105,
+   "start": 38876.04,
+   "end": 39176.04,
+   "title": "6 - Беларусь. чаканьне новай тыпалёгіі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/106.ЗША — Беларусь. чаканьне новай тыпалёгіі.mp3"
+  },
+  {
+   "id": 106,
+   "start": 39176.04,
+   "end": 39401.64,
+   "title": "7 - ў Манпэлье.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/107.Сьвята ў Манпэлье.mp3"
+  },
+  {
+   "id": 107,
+   "start": 39401.64,
+   "end": 39705.14,
+   "title": "8 - ньне чужога шчасьця.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/108.Сузіраньне чужога шчасьця.mp3"
+  },
+  {
+   "id": 108,
+   "start": 39705.14,
+   "end": 39918.26,
+   "title": "9 - верыць у расейскую дэмакратыю.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/109.Захад верыць у расейскую дэмакратыю.mp3"
+  },
+  {
+   "id": 109,
+   "start": 39918.26,
+   "end": 40286.27,
+   "title": "10 - ршы міністар замежных справаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/110.Наш першы міністар замежных справаў.mp3"
+  },
+  {
+   "id": 110,
+   "start": 40286.27,
+   "end": 40796.46,
+   "title": "11 - ершая амбасада ў Нямеччыне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/111.Наша першая амбасада ў Нямеччыне.mp3"
+  },
+  {
+   "id": 111,
+   "start": 40796.46,
+   "end": 41460.5,
+   "title": "12 - адачы і штодзень.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/112.Макразадачы і штодзень.mp3"
+  },
+  {
+   "id": 112,
+   "start": 41460.5,
+   "end": 41848.8,
+   "title": "13 - для сувэрэннай Беларусі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/113.Грошы для сувэрэннай Беларусі.mp3"
+  },
+  {
+   "id": 113,
+   "start": 41848.8,
+   "end": 42562.26,
+   "title": "14 - у Бэрліне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/114.Ельцын у Бэрліне.mp3"
+  },
+  {
+   "id": 114,
+   "start": 42562.26,
+   "end": 43039.84,
+   "title": "15 - клопаты і пратакольныя хітрасьці.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/115.Пустыя клопаты і пратакольныя хітрасьці.mp3"
+  },
+  {
+   "id": 115,
+   "start": 43039.84,
+   "end": 43339.84,
+   "title": "16 - небясьпечныя журналісты….mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/116.Гэтыя небясьпечныя журналісты….mp3"
+  },
+  {
+   "id": 116,
+   "start": 43339.84,
+   "end": 43679.76,
+   "title": "17 - трагічны і сьветлы ўспамін.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/117.Адзін трагічны і сьветлы ўспамін.mp3"
+  },
+  {
+   "id": 117,
+   "start": 43679.76,
+   "end": 43975.53,
+   "title": "18 - ціхія вулкі да Рэйну.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/118.Празь ціхія вулкі да Рэйну.mp3"
+  },
+  {
+   "id": 118,
+   "start": 43975.53,
+   "end": 44252.66,
+   "title": "19 - тая прастора свабоды і дом-крэпасьць.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/119.Асабістая прастора свабоды і дом-крэпасьць.mp3"
+  },
+  {
+   "id": 119,
+   "start": 44252.66,
+   "end": 44501.18,
+   "title": "20 - на Розэнгайм.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/120.Цягнік на Розэнгайм.mp3"
+  },
+  {
+   "id": 120,
+   "start": 44501.18,
+   "end": 45128.85,
+   "title": "21 - арэктнасьць бязь межаў. як Нямеччына зьядае сама сябе.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/121.Паліткарэктнасьць бязь межаў. як Нямеччына зьядае сама сябе.mp3"
+  },
+  {
+   "id": 121,
+   "start": 45128.85,
+   "end": 45595.96,
+   "title": "22 - ча ў Бадэн - Бадэне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/122.Сустрэча ў Бадэн - Бадэне.mp3"
+  },
+  {
+   "id": 122,
+   "start": 45595.96,
+   "end": 45895.96,
+   "title": "23 - ча ў Бадэн - Бадэне, працяг.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/123.Сустрэча ў Бадэн - Бадэне, працяг.mp3"
+  },
+  {
+   "id": 123,
+   "start": 45895.96,
+   "end": 46524.76,
+   "title": "24 - ны покліч продкаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/moj-shibboleth.mp3.zip/124.Містычны покліч продкаў.mp3"
+  }
+ ],
+ "title": "Мой шыболет",
+ "slug": "Moy-shybolet",
+ "author": "Пётра Садоўскі",
+ "author_slug": "Pyotra-Sadowski",
+ "narrators": [
+  "Пётра Садоўскі"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Эсэістыка",
+  "Мемуары",
+  "Публіцыстыка",
+  "Філасофія"
+ ],
+ "source": "https://knihi.com/Piotra_Sadouski/Moj_sybolet_mp3.zip.html",
+ "cover": "Pyotra-Sadowski/Moy-shybolet.jpg",
+ "description": "Кніга Пётры Садоўскага ўяўляе сабой глыбокае інтэлектуальнае падарожжа ў свет беларускай мовы, культуры і нацыянальнай ідэнтычнасці. Аўтар праз прызму ўласнага жыццёвага досведу і лінгвістычных разважанняў аналізуе складаныя працэсы самавызначэння беларуса ў сучасным свеце. Тэкст напоўнены філасофскімі роздумамі пра ролю роднага слова як своеасаблівага пароля, што адрознівае сваіх ад чужых. Стыль пісьменніка спалучае ў сабе навуковую дакладнасць з эмацыйнай шчырасцю і публіцыстычнай вастрынёй. Гэта твор для тых, хто імкнецца асэнсаваць свае карані і месца ў гістарычным кантэксце праз прыгажосць і сілу роднай мовы.",
+ "length": 46524.76
+}

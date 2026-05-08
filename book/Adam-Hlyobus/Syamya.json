@@ -1,0 +1,93 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - астка першая. ТАТА+МАМА. Тата.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/001.ДОМ. Частка першая. ТАТА+МАМА. Тата.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - астка першая. ТАТА+МАМА. Мама.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/002.ДОМ. Частка першая. ТАТА+МАМА. Мама.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 2856.25,
+   "title": "3 - астка другая. БАБА З ДЗЕДАМ.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/003.ДОМ. Частка другая. БАБА З ДЗЕДАМ.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2856.25,
+   "end": 5780.22,
+   "title": "4 - астка трэцяя. БРАТ.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/004.ДОМ. Частка трэцяя. БРАТ.mp3"
+  },
+  {
+   "id": 4,
+   "start": 5780.22,
+   "end": 8257.58,
+   "title": "5 - астка чацьвёртая. ДЗЯДЗЬКА. ЦЁТКА.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/005.ДОМ. Частка чацьвёртая. ДЗЯДЗЬКА. ЦЁТКА.mp3"
+  },
+  {
+   "id": 5,
+   "start": 8257.58,
+   "end": 10391.91,
+   "title": "6 - астка пятая. ДАЧКА І ЖОНКА. Дачка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/006.ДОМ. Частка пятая. ДАЧКА І ЖОНКА. Дачка.mp3"
+  },
+  {
+   "id": 6,
+   "start": 10391.91,
+   "end": 14430.36,
+   "title": "7 - астка пятая. ДАЧКА І ЖОНКА. Жонка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/007.ДОМ. Частка пятая. ДАЧКА І ЖОНКА. Жонка.mp3"
+  },
+  {
+   "id": 7,
+   "start": 14430.36,
+   "end": 14782.91,
+   "title": "8 - астка шостая. УНУК.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/008.ДОМ. Частка шостая. УНУК.mp3"
+  },
+  {
+   "id": 8,
+   "start": 14782.91,
+   "end": 16664.72,
+   "title": "9 - Ы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/009.ГЛОБУСЫ.mp3"
+  },
+  {
+   "id": 9,
+   "start": 16664.72,
+   "end": 18987.91,
+   "title": "10 - . Чэсь. Ніна.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/adam-globus-syamya.mp3.zip/010.БАЦЬКІ. Чэсь. Ніна.mp3"
+  }
+ ],
+ "title": "Сям’я",
+ "slug": "Syamya",
+ "author": "Адам Глёбус",
+ "author_slug": "Adam-Hlyobus",
+ "narrators": [
+  "Зьміцер Бартосік"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Мемуары",
+  "Аўтабіяграфічная проза",
+  "Эсэістыка",
+  "Сучасная беларуская літаратура"
+ ],
+ "source": "https://knihi.com/Adam_Hlobus/Siamja_mp3.zip.html",
+ "cover": "Adam-Hlyobus/Syamya.jpg",
+ "description": "Кніга Адама Глёбуса Сям’я ўяўляе сабой глыбокае і шчырае даследаванне ўласных каранёў, дзе аўтар праз прызму ўспамінаў пра сваіх блізкіх стварае партрэт цэлага пакалення беларускай інтэлігенцыі. Твор спалучае ў сабе рысы аўтабіяграфічнай прозы і эсэістыкі, дазваляючы чытачу пагрузіцца ў атмасферу сямейнага побыту, традыцый і духоўных пошукаў. Праз апісанне паўсядзённых падзей і ўзаемаадносін паміж роднымі людзьмі пісьменнік разважае пра важнасць памяці, пераемнасці пакаленняў і месца чалавека ў гісторыі краіны. Тон аповеду вызначаецца лірычнасцю, далікатнасцю і адначасова пэўнай філасофскай адстранёнасцю, уласцівай аўтарскаму стылю Глёбуса. Гэтая кніга становіцца своеасаблівым мастком паміж мінулым і сучаснасцю, запрашаючы да роздуму пра тое, што насамрэч фарміруе асобу.",
+ "length": 18987.91
+}

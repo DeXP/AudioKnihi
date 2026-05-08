@@ -1,0 +1,371 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1380.23,
+   "title": "1 - Лойка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/001.Гэнік Лойка.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1380.23,
+   "end": 1680.23,
+   "title": "2 - ка Курцова (Надтачэева).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/002.Вераніка Курцова (Надтачэева).mp3"
+  },
+  {
+   "id": 2,
+   "start": 1680.23,
+   "end": 3078.85,
+   "title": "3 - р Колас.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/003.Зьміцер Колас.mp3"
+  },
+  {
+   "id": 3,
+   "start": 3078.85,
+   "end": 4484.03,
+   "title": "4 - Вячорка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/004.Арына Вячорка.mp3"
+  },
+  {
+   "id": 4,
+   "start": 4484.03,
+   "end": 5881.37,
+   "title": "5 - ь Мацур.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/005.Генадзь Мацур.mp3"
+  },
+  {
+   "id": 5,
+   "start": 5881.37,
+   "end": 6181.37,
+   "title": "6 - Анісім (Амельчыц).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/006.Алена Анісім (Амельчыц).mp3"
+  },
+  {
+   "id": 6,
+   "start": 6181.37,
+   "end": 7579.99,
+   "title": "7 - Кныш.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/007.Сяргей Кныш.mp3"
+  },
+  {
+   "id": 7,
+   "start": 7579.99,
+   "end": 7879.99,
+   "title": "8 - андраль (Лазоўская).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/008.Вера Кандраль (Лазоўская).mp3"
+  },
+  {
+   "id": 8,
+   "start": 7879.99,
+   "end": 9285.17,
+   "title": "9 - Сасноўскі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/009.Мікола Сасноўскі.mp3"
+  },
+  {
+   "id": 9,
+   "start": 9285.17,
+   "end": 9585.17,
+   "title": "10 - ясьніцкая (Лаўрыновіч).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/010.Таня Лясьніцкая (Лаўрыновіч).mp3"
+  },
+  {
+   "id": 10,
+   "start": 9585.17,
+   "end": 10990.35,
+   "title": "11 - Анемпадыстаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/011.Міхал Анемпадыстаў.mp3"
+  },
+  {
+   "id": 11,
+   "start": 10990.35,
+   "end": 11290.35,
+   "title": "12 - Марачкіна (Крук).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/012.Ірына Марачкіна (Крук).mp3"
+  },
+  {
+   "id": 12,
+   "start": 11290.35,
+   "end": 12688.97,
+   "title": "13 - арачкін.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/013.Ігар Марачкін.mp3"
+  },
+  {
+   "id": 13,
+   "start": 12688.97,
+   "end": 12988.97,
+   "title": "14 - Барысевіч (Садоўская).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/014.Аліна Барысевіч (Садоўская).mp3"
+  },
+  {
+   "id": 14,
+   "start": 12988.97,
+   "end": 14394.15,
+   "title": "15 - Ясінскі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/015.Андрэй Ясінскі.mp3"
+  },
+  {
+   "id": 15,
+   "start": 14394.15,
+   "end": 15792.77,
+   "title": "16 - Сімаковіч.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/016.Ларыса Сімаковіч.mp3"
+  },
+  {
+   "id": 16,
+   "start": 15792.77,
+   "end": 17197.9,
+   "title": "17 - эвічы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/017.Міклашэвічы.mp3"
+  },
+  {
+   "id": 17,
+   "start": 17197.9,
+   "end": 18723.09,
+   "title": "18 - Асьлюк.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/018.Віктар Асьлюк.mp3"
+  },
+  {
+   "id": 18,
+   "start": 18723.09,
+   "end": 20241.72,
+   "title": "19 - Шчасная.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/019.Тацяна Шчасная.mp3"
+  },
+  {
+   "id": 19,
+   "start": 20241.72,
+   "end": 21766.88,
+   "title": "20 - едзьвядзёў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/020.Янка Медзьвядзёў.mp3"
+  },
+  {
+   "id": 20,
+   "start": 21766.88,
+   "end": 23285.48,
+   "title": "21 - Папурэнка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/021.Ірэна Папурэнка.mp3"
+  },
+  {
+   "id": 21,
+   "start": 23285.48,
+   "end": 24810.8,
+   "title": "22 - Вольскі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/022.Лявон Вольскі.mp3"
+  },
+  {
+   "id": 22,
+   "start": 24810.8,
+   "end": 26329.59,
+   "title": "23 - дановіч.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/023.Ніна Здановіч.mp3"
+  },
+  {
+   "id": 23,
+   "start": 26329.59,
+   "end": 27854.91,
+   "title": "24 - Суша.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/024.Алесь Суша.mp3"
+  },
+  {
+   "id": 24,
+   "start": 27854.91,
+   "end": 29373.7,
+   "title": "25 - кі і Лапцёнак.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/025.Харэўскі і Лапцёнак.mp3"
+  },
+  {
+   "id": 25,
+   "start": 29373.7,
+   "end": 30899.04,
+   "title": "26 - а Кавалёва.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/026.Віялета Кавалёва.mp3"
+  },
+  {
+   "id": 26,
+   "start": 30899.04,
+   "end": 32417.83,
+   "title": "27 - Костка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/027.Алесь Костка.mp3"
+  },
+  {
+   "id": 27,
+   "start": 32417.83,
+   "end": 33943.17,
+   "title": "28 - скова.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/028.Юля Лыскова.mp3"
+  },
+  {
+   "id": 28,
+   "start": 33943.17,
+   "end": 34243.17,
+   "title": "29 - Кур’ян (Азаранка).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/029.Інэса Кур’ян (Азаранка).mp3"
+  },
+  {
+   "id": 29,
+   "start": 34243.17,
+   "end": 35768.51,
+   "title": "30 - Івашкевіч.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/030.Віктар Івашкевіч.mp3"
+  },
+  {
+   "id": 30,
+   "start": 35768.51,
+   "end": 37287.22,
+   "title": "31 - ы.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/031.Волкавы.mp3"
+  },
+  {
+   "id": 31,
+   "start": 37287.22,
+   "end": 38812.46,
+   "title": "32 - Валасевіч.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/032.Яўген Валасевіч.mp3"
+  },
+  {
+   "id": 32,
+   "start": 38812.46,
+   "end": 40331.14,
+   "title": "33 - Лычкоўская.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/033.Марына Лычкоўская.mp3"
+  },
+  {
+   "id": 33,
+   "start": 40331.14,
+   "end": 41856.35,
+   "title": "34 - Шпакоўскі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/034.Алесь Шпакоўскі.mp3"
+  },
+  {
+   "id": 34,
+   "start": 41856.35,
+   "end": 43375.03,
+   "title": "35 - Клімовіч.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/035.Алена Клімовіч.mp3"
+  },
+  {
+   "id": 35,
+   "start": 43375.03,
+   "end": 44900.24,
+   "title": "36 - Цімохаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/036.Сяржук Цімохаў.mp3"
+  },
+  {
+   "id": 36,
+   "start": 44900.24,
+   "end": 45200.24,
+   "title": "37 - Козік (Храмянкова).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/037.Тацяна Козік (Храмянкова).mp3"
+  },
+  {
+   "id": 37,
+   "start": 45200.24,
+   "end": 46725.45,
+   "title": "38 - Вашко.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/038.Лявон Вашко.mp3"
+  },
+  {
+   "id": 38,
+   "start": 46725.45,
+   "end": 48244.08,
+   "title": "39 - Шупа.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/039.Сяргей Шупа.mp3"
+  },
+  {
+   "id": 39,
+   "start": 48244.08,
+   "end": 48544.08,
+   "title": "40 - ля Лаўрэцкая (Рудак).mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/040.Натальля Лаўрэцкая (Рудак).mp3"
+  },
+  {
+   "id": 40,
+   "start": 48544.08,
+   "end": 50062.76,
+   "title": "41 - Сокалаў-Воюш.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/041.Сяржук Сокалаў-Воюш.mp3"
+  },
+  {
+   "id": 41,
+   "start": 50062.76,
+   "end": 51588.0,
+   "title": "42 - апрудзкі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/042.Ігар Запрудзкі.mp3"
+  },
+  {
+   "id": 42,
+   "start": 51588.0,
+   "end": 53106.68,
+   "title": "43 - Санька.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/043.Сяргей Санька.mp3"
+  },
+  {
+   "id": 43,
+   "start": 53106.68,
+   "end": 54631.89,
+   "title": "44 - Каравай.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/044.Алена Каравай.mp3"
+  },
+  {
+   "id": 44,
+   "start": 54631.89,
+   "end": 56150.57,
+   "title": "45 - р Саўка і Артур Клінаў.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/045.Зьміцер Саўка і Артур Клінаў.mp3"
+  },
+  {
+   "id": 45,
+   "start": 56150.57,
+   "end": 57675.81,
+   "title": "46 - ь Бяляўскі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/046.Анатоль Бяляўскі.mp3"
+  },
+  {
+   "id": 46,
+   "start": 57675.81,
+   "end": 59194.52,
+   "title": "47 - Зайкоўскі.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/047.Эдвард Зайкоўскі.mp3"
+  },
+  {
+   "id": 47,
+   "start": 59194.52,
+   "end": 60719.73,
+   "title": "48 - ана Слуцкая.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/048.Сьвятлана Слуцкая.mp3"
+  },
+  {
+   "id": 48,
+   "start": 60719.73,
+   "end": 62238.38,
+   "title": "49 - Вячорка.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/049.Вінцук Вячорка.mp3"
+  },
+  {
+   "id": 49,
+   "start": 62238.38,
+   "end": 62538.38,
+   "title": "50 - Вячорка, завяршэньне.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarhiej_Dubaviec.Majstrounia.mp3.zip/050.Вінцук Вячорка, завяршэньне.mp3"
+  }
+ ],
+ "title": "Майстроўня. Гісторыя аднаго цуду",
+ "slug": "Maystrownya-Historyya-adnaho-tsudu",
+ "author": "Сяргей Дубавец",
+ "author_slug": "Syarhey-Dubavets",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дакументальная проза",
+  "Гістарычная літаратура",
+  "Мемуары",
+  "Публіцыстыка"
+ ],
+ "source": "https://knihi.com/Siarhiej_Dubaviec/Majstrounia_Historyja_adnaho_cudu_mp3.zip.html",
+ "cover": "Syarhey-Dubavets/Maystrownya-Historyya-adnaho-tsudu.jpg",
+ "description": "Гэтая кніга з’яўляецца дакументальным сведчаннем пра дзейнасць легендарнага моладзевага аб’яднання Майстроўня, якое стала сімвалам беларускага нацыянальнага адраджэння ў пачатку васьмідзесятых гадоў. Сяргей Дубавец праз успаміны ўдзельнікаў і ўласныя рэфлексіі аднаўляе атмасферу таго часу, калі маладыя людзі пачалі адкрыта гаварыць па-беларуску і вывучаць забытую гісторыю. Твор паказвае, як невялікая суполка аднадумцаў здолела змяніць грамадскую свядомасць і закласці падмурак для будучай незалежнасці краіны. Кніга напісана ў шчырай і натхняльнай манеры, якая спалучае гістарычную дакладнасць з асабістым перажываннем падзей. Гэта важны дакумент эпохі, які захоўвае памяць пра людзей, што не пабаяліся кінуць выклік савецкай сістэме дзеля захавання роднай культуры.",
+ "length": 62538.38
+}
