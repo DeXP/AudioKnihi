@@ -5,6 +5,7 @@ const path = require('path');
 const ROOT_DIR = path.resolve(__dirname, '..');
 const BOOK_DIR = path.join(ROOT_DIR, 'book');
 const OUTPUT_FILE = path.join(ROOT_DIR, 'catalog.json');
+const CNAME_FILE = path.join(ROOT_DIR, 'CNAME');
 
 /**
  * Recursively collects all .json files except author.json
@@ -12,11 +13,9 @@ const OUTPUT_FILE = path.join(ROOT_DIR, 'catalog.json');
 async function collectJsonFiles(dir, relativePath = '') {
   const entries = await fs.readdir(dir, { withFileTypes: true });
   const files = [];
-
   for (const entry of entries) {
     const fullPath = path.join(dir, entry.name);
     const relPath = relativePath ? path.join(relativePath, entry.name) : entry.name;
-
     if (entry.isDirectory()) {
       files.push(...await collectJsonFiles(fullPath, relPath));
     } else if (
@@ -54,14 +53,35 @@ async function main() {
       delete book.chapters;
       delete book['chapters '];
 
+      const bookDir = path.dirname(filePath);
+      const coverPath = path.join(bookDir, path.basename(filePath).replace(/\.json$/i, '.jpg'));
+      
+      try {
+        const stat = await fs.stat(coverPath);
+        book.cover_size = stat.size;
+      } catch {
+        book.cover_size = null; // Fallback if cover.jpg doesn't exist
+      }
+
       books.push(book);
     }
 
-    // 4. Build catalog object (extensible for future authors/metadata)
-    const catalog = { books };
+    let source = null;
+    try {
+      source = (await fs.readFile(CNAME_FILE, 'utf-8')).trim();
+    } catch {
+      console.warn('⚠️ CNAME file not found in repo root. source will be null.');
+    }
+
+    const catalog = {
+      books,
+      generation_time: new Date().toISOString(),
+      source,
+      author: "Dmitry Hrabrov a.k.a. DeXPeriX"
+    };
 
     // 5. Write to root catalog.json (pretty-printed)
-    await fs.writeFile(OUTPUT_FILE, JSON.stringify(catalog, null, 2), 'utf-8');
+    await fs.writeFile(OUTPUT_FILE, JSON.stringify(catalog), 'utf-8');
     console.log(`✅ catalog.json generated successfully with ${books.length} books.`);
   } catch (err) {
     console.error('❌ Failed to generate catalog:', err.message);
