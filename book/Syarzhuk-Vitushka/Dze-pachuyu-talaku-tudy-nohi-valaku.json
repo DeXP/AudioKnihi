@@ -1,0 +1,92 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 704.84,
+   "title": "1 - 001.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 704.84,
+   "end": 1454.02,
+   "title": "2 - 002.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1454.02,
+   "end": 2096.6,
+   "title": "3 - 003.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2096.6,
+   "end": 2777.55,
+   "title": "4 - 004.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2777.55,
+   "end": 3430.47,
+   "title": "5 - 005.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3430.47,
+   "end": 4085.79,
+   "title": "6 - 006.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4085.79,
+   "end": 4746.44,
+   "title": "7 - 007.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 4746.44,
+   "end": 5448.85,
+   "title": "8 - 008.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 5448.85,
+   "end": 6065.34,
+   "title": "9 - 009.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 6065.34,
+   "end": 6706.33,
+   "title": "10 - 010.mp3",
+   "url": "https://files.knihi.com/Audio/svaboda.org/Siarzuk_Vituska.Dzie_pacuju_talaku_tudy_nohi_valaku.mp3.zip/010.mp3"
+  }
+ ],
+ "title": "Дзе пачую талаку, туды ногі валаку",
+ "slug": "Dze-pachuyu-talaku-tudy-nohi-valaku",
+ "author": "Сяржук Вітушка",
+ "author_slug": "Syarzhuk-Vitushka",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Дзіцячая літаратура",
+  "Казкі",
+  "Апавяданні",
+  "Педагагічная літаратура",
+  "Культуралогія"
+ ],
+ "source": "https://knihi.com/Siarzuk_Vituska/Dzie_pacuju_talaku,_tudy_nohi_valaku_mp3.zip.html",
+ "cover": "Syarzhuk-Vitushka/Dze-pachuyu-talaku-tudy-nohi-valaku.jpg",
+ "description": "Гэтая кніга з’яўляецца зборнікам твораў вядомага беларускага культурнага дзеяча і педагога Сяржука Вітушкі, які прысвяціў сваё жыццё адраджэнню нацыянальнай свядомасці. У цэнтры ўвагі аўтара знаходзяцца традыцыі беларускага народа, сярод якіх асаблівае месца займае ідэя талакі як сімвала супольнай працы і ўзаемадапамогі. Праз казкі, апавяданні і павучальныя гісторыі пісьменнік знаёміць чытачоў з багаццем роднай мовы і гістарычнай спадчынай нашага краю. Тон выдання вельмі цёплы, шчыры і прасякнуты любоўю да дзяцей, што робіць складаныя тэмы зразумелымі і цікавымі для малых слухачоў. Кніга заклікана выхоўваць у падрастаючага пакалення пачуццё годнасці, адказнасці за сваю краіну і жаданне працаваць разам дзеля агульнага дабра. Гэта не проста літаратурны твор, а сапраўдны падручнік жыцця, які вучыць шанаваць свае карані і быць сапраўдным беларусам у сучасным свеце.",
+ "length": 6706.33
+}
