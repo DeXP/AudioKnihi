@@ -1,0 +1,23 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 785.84,
+   "title": "Адкуль бярэцца хлеб",
+   "url": "https://files.knihi.com/Audio/audio-staroeradio.ru/Makal_Piotr.Adkul_biarecca_chleb.1980.mp3"
+  }
+ ],
+ "title": "Адкуль бярэцца хлеб",
+ "slug": "Adkul-byaretstsa-khleb",
+ "author": "Пятрусь Макаль",
+ "author_slug": "Pyatrus-Makal",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [],
+ "source": "https://knihi.com/Piatrus_Makal/Adkul_biarecca_chleb_audio.html",
+ "cover": "Pyatrus-Makal/Adkul-byaretstsa-khleb.jpg",
+ "description": "",
+ "length": 785.84
+}

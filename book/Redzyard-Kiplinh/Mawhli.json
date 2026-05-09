@@ -1,0 +1,81 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3817.2,
+   "title": "1 - аўглі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/01.Браты Маўглі.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3817.2,
+   "end": 7634.4,
+   "title": "2 - не Каа",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/02.Паляванне Каа.mp3"
+  },
+  {
+   "id": 2,
+   "start": 7634.4,
+   "end": 11451.6,
+   "title": "3 - ыгр!",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/03.Тыгр! Тыгр!.mp3"
+  },
+  {
+   "id": 3,
+   "start": 11451.6,
+   "end": 15268.8,
+   "title": "4 - х прыйшоў у джунглі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/04.Як страх прыйшоў у джунглі.mp3"
+  },
+  {
+   "id": 4,
+   "start": 15268.8,
+   "end": 19086.0,
+   "title": "5 - джунгляў",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/05.Нашэсце джунгляў.mp3"
+  },
+  {
+   "id": 5,
+   "start": 19086.0,
+   "end": 22903.2,
+   "title": "6 - і анкус",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/06.Княжацкі анкус.mp3"
+  },
+  {
+   "id": 6,
+   "start": 22903.2,
+   "end": 26720.4,
+   "title": "7 - сабакі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/07.Дзікія сабакі.mp3"
+  },
+  {
+   "id": 7,
+   "start": 26720.4,
+   "end": 30537.6,
+   "title": "8 - бег",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Mauhli.mp3.zip/08.Вясновы бег.mp3"
+  }
+ ],
+ "title": "Маўглі",
+ "slug": "Mawhli",
+ "author": "Рэдзьярд Кіплінг",
+ "author_slug": "Redzyard-Kiplinh",
+ "narrators": [
+  "Крысціна Дробыш",
+  "Сяргей Чуб",
+  "Ісай Свістулькін"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Прыгоды",
+  "Фэнтэзі",
+  "Дзіцячая літаратура",
+  "Класіка"
+ ],
+ "source": "https://knihi.com/Dzozef_Redzjard_Kiplinh/Mauhli_mp3.zip.html",
+ "cover": "Redzyard-Kiplinh/Mawhli.jpg",
+ "description": "Гісторыя распавядае пра хлопчыка па імені Маўглі, які пасля нападу тыгра Шэр-Хана трапляе ў джунглі і выхоўваецца ў сям’і ваўкоў. Разам са сваімі вернымі сябрамі, пантэрай Багірай і мядзведзем Балу, герой вучыцца выжываць у дзікай прыродзе і спасцігае законы джунгляў. Кніга закранае глыбокія тэмы пошуку ўласнай ідэнтычнасці, вернасці сябрам і супрацьстаяння дабра са злом. Аўтар майстэрска спалучае прыгодніцкі сюжэт з філасофскімі разважаннямі пра месца чалавека ў свеце прыроды. Гэта захапляльны твор, які вучыць мужнасці, справядлівасці і павазе да ўсяго жывога.",
+ "length": 30537.6
+}
