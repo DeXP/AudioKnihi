@@ -1,0 +1,199 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 300.0,
+   "title": "1 - а",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/01.Прадмова.mp3"
+  },
+  {
+   "id": 1,
+   "start": 300.0,
+   "end": 600.0,
+   "title": "2 - ой самы",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/02.Дзень той самы.mp3"
+  },
+  {
+   "id": 2,
+   "start": 600.0,
+   "end": 900.0,
+   "title": "3 - аступны",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/03.Дзень наступны.mp3"
+  },
+  {
+   "id": 3,
+   "start": 900.0,
+   "end": 1200.0,
+   "title": "4 - 10 да 144",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/04.Дні ад 10 да 144.mp3"
+  },
+  {
+   "id": 4,
+   "start": 1200.0,
+   "end": 1500.0,
+   "title": "5 - 45",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/05.Дзень 145.mp3"
+  },
+  {
+   "id": 5,
+   "start": 1500.0,
+   "end": 1800.0,
+   "title": "6 - другая даўжэйшая Італьянская",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/06.Частка другая даўжэйшая Італьянская.mp3"
+  },
+  {
+   "id": 6,
+   "start": 1800.0,
+   "end": 2100.0,
+   "title": "7 - ругі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/07.Дзень другі.mp3"
+  },
+  {
+   "id": 7,
+   "start": 2100.0,
+   "end": 2400.0,
+   "title": "8 - ёмы",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/08.Дзень сёмы.mp3"
+  },
+  {
+   "id": 8,
+   "start": 2400.0,
+   "end": 2700.0,
+   "title": "9 - зявяты",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/09.Дзень дзявяты.mp3"
+  },
+  {
+   "id": 9,
+   "start": 2700.0,
+   "end": 3000.0,
+   "title": "10 - элефонна-падрыхтоўчы",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/10.Дзень тэлефонна-падрыхтоўчы.mp3"
+  },
+  {
+   "id": 10,
+   "start": 3000.0,
+   "end": 3300.0,
+   "title": "11 - Санькі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/11.Дзень у Санькі.mp3"
+  },
+  {
+   "id": 11,
+   "start": 3300.0,
+   "end": 3600.0,
+   "title": "12 - вечар",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/12.Лазневы вечар.mp3"
+  },
+  {
+   "id": 12,
+   "start": 3600.0,
+   "end": 3900.0,
+   "title": "13 - элефанавання",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/13.Дзень тэлефанавання.mp3"
+  },
+  {
+   "id": 13,
+   "start": 3900.0,
+   "end": 4200.0,
+   "title": "14 - ейкі звычайны",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/14.Дзень нейкі звычайны.mp3"
+  },
+  {
+   "id": 14,
+   "start": 4200.0,
+   "end": 4500.0,
+   "title": "15 - яселля",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/15.Дзень вяселля.mp3"
+  },
+  {
+   "id": 15,
+   "start": 4500.0,
+   "end": 4800.0,
+   "title": "16 - асцей",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/16.Дзень гасцей.mp3"
+  },
+  {
+   "id": 16,
+   "start": 4800.0,
+   "end": 5100.0,
+   "title": "17 - аркоўны",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/17.Дзень царкоўны.mp3"
+  },
+  {
+   "id": 17,
+   "start": 5100.0,
+   "end": 5400.0,
+   "title": "18 - арку",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/18.Дзень парку.mp3"
+  },
+  {
+   "id": 18,
+   "start": 5400.0,
+   "end": 5700.0,
+   "title": "19 - азмоўніка ды яшчэ парачка",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/19.Дзень размоўніка ды яшчэ парачка.mp3"
+  },
+  {
+   "id": 19,
+   "start": 5700.0,
+   "end": 6000.0,
+   "title": "20 - зі",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/20.Дзень Дзі.mp3"
+  },
+  {
+   "id": 20,
+   "start": 6000.0,
+   "end": 6300.0,
+   "title": "21 - ора",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/21.Дзень мора.mp3"
+  },
+  {
+   "id": 21,
+   "start": 6300.0,
+   "end": 6600.0,
+   "title": "22 - пошні",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/22.Дзень апошні.mp3"
+  },
+  {
+   "id": 22,
+   "start": 6600.0,
+   "end": 6900.0,
+   "title": "23 - пошні",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/23.Вечар апошні.mp3"
+  },
+  {
+   "id": 23,
+   "start": 6900.0,
+   "end": 7200.0,
+   "title": "24 - 24.Усё!",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/24.Усё!.mp3"
+  },
+  {
+   "id": 24,
+   "start": 7200.0,
+   "end": 7500.0,
+   "title": "25 - люс першы",
+   "url": "https://files.knihi.com/Audio/kniznyvoz/Italjanskaje_padarozza.mp3.zip/25.Дзень плюс першы.mp3"
+  }
+ ],
+ "title": "Італьянскае Падарожжа",
+ "slug": "Italyanskae-Padarozhzha",
+ "author": "Аляксандра Хамянок",
+ "author_slug": "Alyaksandra-Khamyanok",
+ "narrators": [
+  "Ісай Свістулькін",
+  "Крысціна Дробыш"
+ ],
+ "series": "Італьянскае падарожжа",
+ "series_num": 1,
+ "genres": [
+  "Падарожжы",
+  "Прыгоды",
+  "Сучасная проза",
+  "Рамантыка"
+ ],
+ "source": "https://knihi.com/Alaksandra_Chamianok/Italjanskaje_Padarozza_mp3.zip.html",
+ "cover": "Alyaksandra-Khamyanok/Italyanskae-Padarozhzha.jpg",
+ "description": "Гэтая кніга запрашае чытача ў захапляльнае падарожжа па сонечнай Італіі, дзе кожны горад хавае свае непаўторныя сакрэты і гісторыі. Галоўная гераіня адпраўляецца ў дарогу, каб не толькі ўбачыць знакамітыя помнікі архітэктуры, але і знайсці адказы на важныя пытанні пра ўласнае жыццё. Праз апісанні маляўнічых краявідаў і сустрэчы з цікавымі людзьмі аўтарка раскрывае тэмы самапазнання, кахання і пошуку ўнутранай гармоніі. Твор вызначаецца лёгкім і натхняльным тонам, які дазваляе цалкам акунуцца ў атмасферу еўрапейскага рамантызму. Гэта гісторыя пра тое, як адзін падарожны маршрут можа назаўжды змяніць светапогляд чалавека.",
+ "length": 7500.0
+}

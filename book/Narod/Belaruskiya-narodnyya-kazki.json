@@ -1,0 +1,374 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 611.742,
+   "title": "1 - і ваўкі",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/01.Byk_i_vauki.mp3"
+  },
+  {
+   "id": 1,
+   "start": 611.742,
+   "end": 1773.167,
+   "title": "2 - парсюк, гусак і певень",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/02.Byk_parsiuk_husak_i_pievien.mp3"
+  },
+  {
+   "id": 2,
+   "start": 1773.167,
+   "end": 2227.131,
+   "title": "3 - , Змітрок, кабыла і баран",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/03.Vouk_Zmitrok_kabyla_i_baran.mp3"
+  },
+  {
+   "id": 3,
+   "start": 2227.131,
+   "end": 2737.389,
+   "title": "4 - , стары сабака і кот",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/04.Vouk_stary_sabaka_i_kot.mp3"
+  },
+  {
+   "id": 4,
+   "start": 2737.389,
+   "end": 3698.912,
+   "title": "5 - ды баба і воўк",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/05.Dzied_dy_baba_i_vouk.mp3"
+  },
+  {
+   "id": 5,
+   "start": 3698.912,
+   "end": 4877.838,
+   "title": "6 - ы воўк",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/06.Durny_vouk.mp3"
+  },
+  {
+   "id": 6,
+   "start": 4877.838,
+   "end": 5425.515,
+   "title": "7 - ў ды чапля",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/07.Zorau_dy_capla.mp3"
+  },
+  {
+   "id": 7,
+   "start": 5425.515,
+   "end": 6105.698,
+   "title": "8 - іна хатка",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/08.Zajkina_chatka.mp3"
+  },
+  {
+   "id": 8,
+   "start": 6105.698,
+   "end": 7090.339,
+   "title": "9 - ў арахах",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/09.Kaza_u_arachach.mp3"
+  },
+  {
+   "id": 9,
+   "start": 7090.339,
+   "end": 9325.526,
+   "title": "10 - Дарота",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/01/10.Kaza_Darota.mp3"
+  },
+  {
+   "id": 10,
+   "start": 9325.526,
+   "end": 9975.083,
+   "title": "1 - к, мядзведзь, воўк, лісіца і кабанец",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/01.Husak_miadzviedz_vouk_lisica_i_kabaniec.mp3"
+  },
+  {
+   "id": 11,
+   "start": 9975.083,
+   "end": 10787.577,
+   "title": "2 - л і баран",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/02.Kaziol_i_baran.mp3"
+  },
+  {
+   "id": 12,
+   "start": 10787.577,
+   "end": 12242.748,
+   "title": "3 - 02/03 Козы",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/03.Kozy.mp3"
+  },
+  {
+   "id": 13,
+   "start": 12242.748,
+   "end": 12687.96,
+   "title": "4 - ліса і воўк",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/04.Kot_lisa_i_vouk.mp3"
+  },
+  {
+   "id": 14,
+   "start": 12687.96,
+   "end": 13568.177,
+   "title": "5 - к з пеўнем ды ліска",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/05.Kocik_z_pieuniem_dy_liska.mp3"
+  },
+  {
+   "id": 15,
+   "start": 13568.177,
+   "end": 14695.903,
+   "title": "6 - а-раба",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/06.Kurka-raba.mp3"
+  },
+  {
+   "id": 16,
+   "start": 14695.903,
+   "end": 14903.662,
+   "title": "7 - і цецярук",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/07.Lisa_i_cieciaruk.mp3"
+  },
+  {
+   "id": 17,
+   "start": 14903.662,
+   "end": 15161.38,
+   "title": "8 - каталічка",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/08.Lisa-katalicka.mp3"
+  },
+  {
+   "id": 18,
+   "start": 15161.38,
+   "end": 15471.604,
+   "title": "9 - ца і жораў",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/09.Lisica_i_zorau.mp3"
+  },
+  {
+   "id": 19,
+   "start": 15471.604,
+   "end": 16104.311,
+   "title": "10 - чка-сястрычка і воўк",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/10.Lisicka-siastrycka_i_vouk.mp3"
+  },
+  {
+   "id": 20,
+   "start": 16104.311,
+   "end": 18769.541,
+   "title": "11 - чка-сястрычка, заяц, воўк і мядзведзь",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/02/11.Lisicka-siastrycka_zajac_vouk_i_miadzviedz.mp3"
+  },
+  {
+   "id": 21,
+   "start": 18769.541,
+   "end": 19245.708,
+   "title": "1 - ынка і пеўнік",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/01.Lascynka_i_pieunik.mp3"
+  },
+  {
+   "id": 22,
+   "start": 19245.708,
+   "end": 20215.916,
+   "title": "2 - к, воўк і ліса",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/02.Muzyk_vouk_i_lisa.mp3"
+  },
+  {
+   "id": 23,
+   "start": 20215.916,
+   "end": 20762.418,
+   "title": "3 - к ды мароз",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/03.Muzyk_dy_maroz.mp3"
+  },
+  {
+   "id": 24,
+   "start": 20762.418,
+   "end": 22187.614,
+   "title": "4 - к, мядзведзь і ліса",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/04.Muzyk_miadzviedz_i_lisa.mp3"
+  },
+  {
+   "id": 25,
+   "start": 22187.614,
+   "end": 22704.663,
+   "title": "5 - ведзь на ліпавай назе",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/05.Miadzviedz_na_lipavaj_nazie.mp3"
+  },
+  {
+   "id": 26,
+   "start": 22704.663,
+   "end": 23769.891,
+   "title": "6 - жок",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/06.Pirazok.mp3"
+  },
+  {
+   "id": 27,
+   "start": 23769.891,
+   "end": 24627.838,
+   "title": "7 - старога ката",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/07.Pra_staroha_kata.mp3"
+  },
+  {
+   "id": 28,
+   "start": 24627.838,
+   "end": 25883.043,
+   "title": "8 - ка, воўк, баран і кот",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/08.Sabaka_vouk_baran_i_kot.mp3"
+  },
+  {
+   "id": 29,
+   "start": 25883.043,
+   "end": 27139.553,
+   "title": "9 - ка і воўк",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/09.Sabaka_i_vouk.mp3"
+  },
+  {
+   "id": 30,
+   "start": 27139.553,
+   "end": 27470.414,
+   "title": "10 - а і вецер",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/10.Sonca_i_viecier.mp3"
+  },
+  {
+   "id": 31,
+   "start": 27470.414,
+   "end": 28105.668,
+   "title": "11 - ваўкі званка баяцца",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/11.Camu_vauki_zvanka_bajacca.mp3"
+  },
+  {
+   "id": 32,
+   "start": 28105.668,
+   "end": 28675.877,
+   "title": "12 - леў уцёк з нашай стараны",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/12.Camu_leu_uciok_z_nasaj_starany.mp3"
+  },
+  {
+   "id": 33,
+   "start": 28675.877,
+   "end": 29751.098,
+   "title": "13 - онь стаў старшым ад льва",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/13.Jak_kon_stau_starsym_ad_lva.mp3"
+  },
+  {
+   "id": 34,
+   "start": 29751.098,
+   "end": 30400.523,
+   "title": "14 - ісу ашукала варона",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/14.Jak_lisu_asukala_varona.mp3"
+  },
+  {
+   "id": 35,
+   "start": 30400.523,
+   "end": 30730.079,
+   "title": "15 - вінка трапіла ваўку ў зубы",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/03/15.Jak_svinka_trapila_vauku_u_zuby.mp3"
+  },
+  {
+   "id": 36,
+   "start": 30730.079,
+   "end": 32315.279,
+   "title": "1 - едзьме, якая сына жаніла",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/04/01.Ab_viedzmie_jakaja_syna_zanila.mp3"
+  },
+  {
+   "id": 37,
+   "start": 32315.279,
+   "end": 33050.518,
+   "title": "2 - браты",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/04/02.Dva_braty.mp3"
+  },
+  {
+   "id": 38,
+   "start": 33050.518,
+   "end": 34155.717,
+   "title": "3 - га ўсяго многа",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/04/03.Z_roha_usiaho_mnoha.mp3"
+  },
+  {
+   "id": 39,
+   "start": 34155.717,
+   "end": 35203.121,
+   "title": "4 - Пракрасны і князь Уладымяр",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/04/04.Ivan_Prakrasny_i_kniaz_Uladymiar.mp3"
+  },
+  {
+   "id": 40,
+   "start": 35203.121,
+   "end": 40494.247,
+   "title": "5 - Іванавіч царэвіч",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/04/05.Ivan_Ivanavic_carevic.mp3"
+  },
+  {
+   "id": 41,
+   "start": 40494.247,
+   "end": 41645.683,
+   "title": "1 - і дурань",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/05/01.Kot_i_duran.mp3"
+  },
+  {
+   "id": 42,
+   "start": 41645.683,
+   "end": 46470.262,
+   "title": "2 - Іванавіч купецкі сын",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/05/02.Ivan_Ivanavic_kupiecki_syn.mp3"
+  },
+  {
+   "id": 43,
+   "start": 46470.262,
+   "end": 47395.477,
+   "title": "3 - ка i яшчарка",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/05/03.Muzyka_i_jascarka.mp3"
+  },
+  {
+   "id": 44,
+   "start": 47395.477,
+   "end": 49060.742,
+   "title": "4 - арка i мядзведзь",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/05/04.Paccarka_i_miadzviedz.mp3"
+  },
+  {
+   "id": 45,
+   "start": 49060.742,
+   "end": 50469.68,
+   "title": "5 - пка сынок",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/05/05.Pilipka_synok.mp3"
+  },
+  {
+   "id": 46,
+   "start": 50469.68,
+   "end": 51831.793,
+   "title": "1 - Максiм-сват",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/06/01.Kot_Maksim-svat.mp3"
+  },
+  {
+   "id": 47,
+   "start": 51831.793,
+   "end": 58677.596,
+   "title": "2 - малышок",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/06/02.Mal-malysok.mp3"
+  },
+  {
+   "id": 48,
+   "start": 58677.596,
+   "end": 59622.86,
+   "title": "3 - арыца i чорт",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/06/03.Padcaryca_i_cort.mp3"
+  },
+  {
+   "id": 49,
+   "start": 59622.86,
+   "end": 60263.079,
+   "title": "4 - падчарку",
+   "url": "https://files.knihi.com/Audio/audio/Bielaruskija_narodnyja_kazki.Aleh_Chamienka.mp3.zip/06/04.Pra_padcarku.mp3"
+  }
+ ],
+ "title": "Беларускія народныя казкі",
+ "slug": "Belaruskiya-narodnyya-kazki",
+ "author": "Народ",
+ "author_slug": "Narod",
+ "narrators": [
+  "Алег Хаменка",
+  "Ларыса Рыжкова"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Фальклор",
+  "Казкі",
+  "Дзіцячая літаратура",
+  "Народная проза"
+ ],
+ "source": "https://knihi.com/none/Bielaruskija_narodnyja_kazki_chamienka_mp3.zip.html",
+ "cover": "Narod/Belaruskiya-narodnyya-kazki.jpg",
+ "description": "Гэты зборнік уяўляе сабой багатую калекцыю беларускага фальклору, якая адлюстроўвае мудрасць, гумар і светапогляд нашых продкаў. На старонках кнігі чытач сустрэнецца з хітрымі жывёламі, магічнымі істотамі і звычайнымі людзьмі, якія дзякуючы сваёй кемлівасці перамагаюць любыя перашкоды. Асноўныя тэмы твораў закранаюць барацьбу дабра са злом, важнасць працавітасці і справядлівасці. Апавяданні напісаны жывой і вобразнай мовай, што дазваляе цалкам пагрузіцца ў атмасферу старажытных паданняў. Гэта выданне стане выдатным выбарам для ўсіх, хто хоча далучыцца да вытокаў нацыянальнай культуры і атрымаць асалоду ад сапраўднага народнага мастацтва.",
+ "length": 60263.079
+}
