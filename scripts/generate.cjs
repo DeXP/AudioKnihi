@@ -45,6 +45,8 @@ async function main() {
 
     // 3. Parse and clean book data
     const books = [];
+    let total_cover_size = 0; // Initialize accumulator for total cover size
+
     for (const filePath of filePaths) {
       const content = await fs.readFile(filePath, 'utf-8');
       const book = JSON.parse(content);
@@ -53,12 +55,14 @@ async function main() {
       delete book.chapters;
       delete book['chapters '];
 
+      // Add cover_size and accumulate total
       const bookDir = path.dirname(filePath);
       const coverPath = path.join(bookDir, path.basename(filePath).replace(/\.json$/i, '.jpg'));
-      
+
       try {
         const stat = await fs.stat(coverPath);
         book.cover_size = stat.size;
+        total_cover_size += stat.size; // Add to the running total
       } catch {
         book.cover_size = null; // Fallback if cover.jpg doesn't exist
       }
@@ -66,6 +70,7 @@ async function main() {
       books.push(book);
     }
 
+    // Read CNAME for source field
     let source = null;
     try {
       source = (await fs.readFile(CNAME_FILE, 'utf-8')).trim();
@@ -73,16 +78,18 @@ async function main() {
       console.warn('⚠️ CNAME file not found in repo root. source will be null.');
     }
 
+    // 4. Build catalog object with all requested fields
     const catalog = {
       books,
-      generation_time: new Date().toISOString(),
-      source,
+      generation_time: new Date().toISOString(), // JSON/JS standard timestamp
+      total_cover_size: total_cover_size,       // Sum of all existing covers
+      source: source,
       author: "Dmitry Hrabrov a.k.a. DeXPeriX"
     };
 
     // 5. Write to root catalog.json (pretty-printed)
-    await fs.writeFile(OUTPUT_FILE, JSON.stringify(catalog), 'utf-8');
-    console.log(`✅ catalog.json generated successfully with ${books.length} books.`);
+    await fs.writeFile(OUTPUT_FILE, JSON.stringify(catalog, null, 2), 'utf-8');
+    console.log(`✅ catalog.json generated successfully with ${books.length} books (Total cover size: ${total_cover_size} bytes).`);
   } catch (err) {
     console.error('❌ Failed to generate catalog:', err.message);
     process.exit(1);
