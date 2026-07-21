@@ -1,0 +1,139 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 3071.22,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 3071.22,
+   "end": 6415.73,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 6415.73,
+   "end": 9107.573,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 9107.573,
+   "end": 11873.512,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 11873.512,
+   "end": 14496.627,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 14496.627,
+   "end": 17194.386,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 17194.386,
+   "end": 19871.378,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 19871.378,
+   "end": 22420.749,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 22420.749,
+   "end": 25075.759,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/09.mp3"
+  },
+  {
+   "id": 9,
+   "start": 25075.759,
+   "end": 27690.175,
+   "title": "10 - 10.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/10.mp3"
+  },
+  {
+   "id": 10,
+   "start": 27690.175,
+   "end": 30325.437,
+   "title": "11 - 11.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/11.mp3"
+  },
+  {
+   "id": 11,
+   "start": 30325.437,
+   "end": 32989.616,
+   "title": "12 - 12.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/12.mp3"
+  },
+  {
+   "id": 12,
+   "start": 32989.616,
+   "end": 35648.309,
+   "title": "13 - 13.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/13.mp3"
+  },
+  {
+   "id": 13,
+   "start": 35648.309,
+   "end": 38361.585,
+   "title": "14 - 14.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/14.mp3"
+  },
+  {
+   "id": 14,
+   "start": 38361.585,
+   "end": 40919.184,
+   "title": "15 - 15.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/15.mp3"
+  },
+  {
+   "id": 15,
+   "start": 40919.184,
+   "end": 43582.501,
+   "title": "16 - 16.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/16.mp3"
+  },
+  {
+   "id": 16,
+   "start": 43582.501,
+   "end": 46187.787,
+   "title": "17 - 17.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/radyjobiblijateka/Ivan_Samiakin.Adna_na_padmostkach.mp3.zip/17.mp3"
+  }
+ ],
+ "title": "Мост",
+ "slug": "Most",
+ "author": "Іван Шамякін",
+ "author_slug": "Ivan-Shamyakin",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Сацыяльна-псіхалагічны раман",
+  "Рэалізм",
+  "Драма"
+ ],
+ "source": "https://knihi.com/Ivan_Samiakin/Adna_na_padmostkach_mp3.zip.html",
+ "cover": "Ivan-Shamyakin/Most.jpg",
+ "description": "Раман Івана Шамякіна Мост з’яўляецца глыбокім псіхалагічным творам, у якім аўтар даследуе складаныя чалавечыя лёсы на фоне гістарычных пераменаў. Сюжэт засяроджаны вакол будаўніцтва моста, што становіцца магутнай метафарай сувязі паміж мінулым і будучыняй, а таксама паміж рознымі пакаленнямі людзей. Пісьменнік майстэрна раскрывае ўнутраныя канфлікты герояў, іх маральныя пошукі і імкненне знайсці сваё месца ў жыцці. Тон аповеда спалучае ў сабе філасофскую разважлівасць з рэалістычным адлюстраваннем савецкай рэчаіснасці. Гэта кніга пра адказнасць, прафесійны абавязак і няпростыя выбары, якія вызначаюць чалавечую годнасць.",
+ "length": 46187.787
+}

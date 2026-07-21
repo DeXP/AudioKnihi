@@ -1,0 +1,86 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1764.07,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1764.07,
+   "end": 3518.09,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3518.09,
+   "end": 5325.55,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5325.55,
+   "end": 7070.09,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/04.mp3"
+  },
+  {
+   "id": 4,
+   "start": 7070.09,
+   "end": 8829.17,
+   "title": "5 - 05.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/05.mp3"
+  },
+  {
+   "id": 5,
+   "start": 8829.17,
+   "end": 10564.27,
+   "title": "6 - 06.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/06.mp3"
+  },
+  {
+   "id": 6,
+   "start": 10564.27,
+   "end": 12255.79,
+   "title": "7 - 07.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/07.mp3"
+  },
+  {
+   "id": 7,
+   "start": 12255.79,
+   "end": 14014.73,
+   "title": "8 - 08.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/08.mp3"
+  },
+  {
+   "id": 8,
+   "start": 14014.73,
+   "end": 15747.46,
+   "title": "9 - 09.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Ivan_Mielez.Darohi_na_uschod_i_na_zachad.Marharyta_Zacharyja.mp3.zip/09.mp3"
+  }
+ ],
+ "title": "Дарогі на ўсход і на захад",
+ "slug": "Darohi-na-wskhod-i-na-zakhad",
+ "author": "Іван Мележ",
+ "author_slug": "Ivan-Melezh",
+ "narrators": [
+  "Маргарыта Захарыя"
+ ],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Проза",
+  "Сацыяльна-псіхалагічная драма",
+  "Апавяданні",
+  "Беларуская літаратура"
+ ],
+ "source": "https://knihi.com/Ivan_Mielez/Darohi_na_uschod_i_na_zachad_mp3.zip.html",
+ "cover": "Ivan-Melezh/Darohi-na-wskhod-i-na-zakhad.jpg",
+ "description": "Гэты зборнік Івана Мележа аб’ядноўвае творы, у якіх аўтар даследуе складаныя лёсы людзей у перыяд гістарычных узрушэнняў і сацыяльных пераменаў. Праз прызму асабістых гісторый пісьменнік паказвае духоўныя пошукі герояў, якія апынуліся на скрыжаванні розных ідэалагічных і жыццёвых шляхоў. Асноўная ўвага ў кнізе нададзена тэмам маральнага выбару, адказнасці перад сумленнем і няпростага працэсу станаўлення асобы ў зменлівым свеце. Тон апавядання спалучае ў сабе глыбокі псіхалагізм, шчырасць і ўвагу да дэталяў народнага побыту. Праз гэтыя тэксты чытач можа лепш зразумець драматызм эпохі і нязменную каштоўнасць чалавечай годнасці.",
+ "length": 15747.46
+}

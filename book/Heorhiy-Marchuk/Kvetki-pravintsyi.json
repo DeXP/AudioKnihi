@@ -1,0 +1,335 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1783.9,
+   "title": "1 - 001.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/001.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1783.9,
+   "end": 3503.23,
+   "title": "2 - 002.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/002.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3503.23,
+   "end": 5336.32,
+   "title": "3 - 003.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/003.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5336.32,
+   "end": 7075.5,
+   "title": "4 - 004.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/004.mp3"
+  },
+  {
+   "id": 4,
+   "start": 7075.5,
+   "end": 8897.49,
+   "title": "5 - 005.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/005.mp3"
+  },
+  {
+   "id": 5,
+   "start": 8897.49,
+   "end": 10649.89,
+   "title": "6 - 006.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/006.mp3"
+  },
+  {
+   "id": 6,
+   "start": 10649.89,
+   "end": 12437.08,
+   "title": "7 - 007.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/007.mp3"
+  },
+  {
+   "id": 7,
+   "start": 12437.08,
+   "end": 14274.25,
+   "title": "8 - 008.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/008.mp3"
+  },
+  {
+   "id": 8,
+   "start": 14274.25,
+   "end": 16087.59,
+   "title": "9 - 009.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/009.mp3"
+  },
+  {
+   "id": 9,
+   "start": 16087.59,
+   "end": 17885.52,
+   "title": "10 - 010.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/010.mp3"
+  },
+  {
+   "id": 10,
+   "start": 17885.52,
+   "end": 19652.83,
+   "title": "11 - 011.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/011.mp3"
+  },
+  {
+   "id": 11,
+   "start": 19652.83,
+   "end": 21412.41,
+   "title": "12 - 012.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/012.mp3"
+  },
+  {
+   "id": 12,
+   "start": 21412.41,
+   "end": 23203.18,
+   "title": "13 - 013.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/013.mp3"
+  },
+  {
+   "id": 13,
+   "start": 23203.18,
+   "end": 25044.34,
+   "title": "14 - 014.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/014.mp3"
+  },
+  {
+   "id": 14,
+   "start": 25044.34,
+   "end": 26821.66,
+   "title": "15 - 015.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/015.mp3"
+  },
+  {
+   "id": 15,
+   "start": 26821.66,
+   "end": 28594.07,
+   "title": "16 - 016.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/016.mp3"
+  },
+  {
+   "id": 16,
+   "start": 28594.07,
+   "end": 30320.16,
+   "title": "17 - 017.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/017.mp3"
+  },
+  {
+   "id": 17,
+   "start": 30320.16,
+   "end": 32134.52,
+   "title": "18 - 018.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/018.mp3"
+  },
+  {
+   "id": 18,
+   "start": 32134.52,
+   "end": 33936.58,
+   "title": "19 - 019.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/019.mp3"
+  },
+  {
+   "id": 19,
+   "start": 33936.58,
+   "end": 35725.47,
+   "title": "20 - 020.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/020.mp3"
+  },
+  {
+   "id": 20,
+   "start": 35725.47,
+   "end": 37544.27,
+   "title": "21 - 021.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/021.mp3"
+  },
+  {
+   "id": 21,
+   "start": 37544.27,
+   "end": 39289.67,
+   "title": "22 - 022.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/022.mp3"
+  },
+  {
+   "id": 22,
+   "start": 39289.67,
+   "end": 41038.44,
+   "title": "23 - 023.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/023.mp3"
+  },
+  {
+   "id": 23,
+   "start": 41038.44,
+   "end": 42792.61,
+   "title": "24 - 024.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/024.mp3"
+  },
+  {
+   "id": 24,
+   "start": 42792.61,
+   "end": 44568.91,
+   "title": "25 - 025.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/025.mp3"
+  },
+  {
+   "id": 25,
+   "start": 44568.91,
+   "end": 46323.24,
+   "title": "26 - 026.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/026.mp3"
+  },
+  {
+   "id": 26,
+   "start": 46323.24,
+   "end": 48087.5,
+   "title": "27 - 027.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/027.mp3"
+  },
+  {
+   "id": 27,
+   "start": 48087.5,
+   "end": 49874.98,
+   "title": "28 - 028.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/028.mp3"
+  },
+  {
+   "id": 28,
+   "start": 49874.98,
+   "end": 51646.26,
+   "title": "29 - 029.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/029.mp3"
+  },
+  {
+   "id": 29,
+   "start": 51646.26,
+   "end": 53440.48,
+   "title": "30 - 030.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/030.mp3"
+  },
+  {
+   "id": 30,
+   "start": 53440.48,
+   "end": 55233.21,
+   "title": "31 - 031.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/031.mp3"
+  },
+  {
+   "id": 31,
+   "start": 55233.21,
+   "end": 57085.89,
+   "title": "32 - 032.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/032.mp3"
+  },
+  {
+   "id": 32,
+   "start": 57085.89,
+   "end": 58874.78,
+   "title": "33 - 033.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/033.mp3"
+  },
+  {
+   "id": 33,
+   "start": 58874.78,
+   "end": 60585.46,
+   "title": "34 - 034.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/034.mp3"
+  },
+  {
+   "id": 34,
+   "start": 60585.46,
+   "end": 62267.09,
+   "title": "35 - 035.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/035.mp3"
+  },
+  {
+   "id": 35,
+   "start": 62267.09,
+   "end": 64121.55,
+   "title": "36 - 036.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/036.mp3"
+  },
+  {
+   "id": 36,
+   "start": 64121.55,
+   "end": 65887.69,
+   "title": "37 - 037.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/037.mp3"
+  },
+  {
+   "id": 37,
+   "start": 65887.69,
+   "end": 67634.05,
+   "title": "38 - 038.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/038.mp3"
+  },
+  {
+   "id": 38,
+   "start": 67634.05,
+   "end": 69506.95,
+   "title": "39 - 039.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/039.mp3"
+  },
+  {
+   "id": 39,
+   "start": 69506.95,
+   "end": 71291.45,
+   "title": "40 - 040.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/040.mp3"
+  },
+  {
+   "id": 40,
+   "start": 71291.45,
+   "end": 73164.61,
+   "title": "41 - 041.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/041.mp3"
+  },
+  {
+   "id": 41,
+   "start": 73164.61,
+   "end": 75051.2,
+   "title": "42 - 042.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/042.mp3"
+  },
+  {
+   "id": 42,
+   "start": 75051.2,
+   "end": 76850.15,
+   "title": "43 - 043.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/043.mp3"
+  },
+  {
+   "id": 43,
+   "start": 76850.15,
+   "end": 78662.19,
+   "title": "44 - 044.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/044.mp3"
+  },
+  {
+   "id": 44,
+   "start": 78662.19,
+   "end": 80463.05,
+   "title": "45 - 045.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Hieorhij_Marcuk.Kvietki_pravincyi.mp3.zip/045.mp3"
+  }
+ ],
+ "title": "Кветкі правінцыі",
+ "slug": "Kvetki-pravintsyi",
+ "author": "Георгій Марчук",
+ "author_slug": "Heorhiy-Marchuk",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Раман",
+  "Сацыяльна-псіхалагічная проза",
+  "Сучасная беларуская літаратура"
+ ],
+ "source": "https://knihi.com/Hieorhij_Marcuk/Kvietki_pravincyi_mp3.zip.html",
+ "cover": "Heorhiy-Marchuk/Kvetki-pravintsyi.jpg",
+ "description": "Раман Георгія Марчука Кветкі правінцыі ўяўляе сабой глыбокае даследаванне чалавечых лёсаў у атмасферы беларускай глыбінкі. Аўтар майстэрска раскрывае складаныя ўзаемаадносіны паміж жыхарамі невялікага мястэчка, дзе кожны персанаж імкнецца знайсці сваё шчасце сярод штодзённых клопатаў і выпрабаванняў. Праз прызму побытавых гісторый пісьменнік узнімае вечныя тэмы кахання, здрады, маральнага выбару і пошуку сэнсу жыцця. Твор вызначаецца лірычнасцю, псіхалагічнай дакладнасцю і асаблівай увагай да нацыянальнага каларыту. Гэта кранальная і пранікнёная гісторыя, якая прымушае чытача задумацца пра каштоўнасць кожнага імгнення і прыгажосць чалавечай душы.",
+ "length": 80463.05
+}
