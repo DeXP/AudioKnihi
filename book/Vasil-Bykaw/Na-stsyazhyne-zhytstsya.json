@@ -1,0 +1,49 @@
+{
+ "chapters": [
+  {
+   "id": 0,
+   "start": 0.0,
+   "end": 1746.34,
+   "title": "1 - 01.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Vasil_Bykau.Na_sciazynie_zyccia.mp3.zip/01.mp3"
+  },
+  {
+   "id": 1,
+   "start": 1746.34,
+   "end": 3493.49,
+   "title": "2 - 02.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Vasil_Bykau.Na_sciazynie_zyccia.mp3.zip/02.mp3"
+  },
+  {
+   "id": 2,
+   "start": 3493.49,
+   "end": 5247.72,
+   "title": "3 - 03.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Vasil_Bykau.Na_sciazynie_zyccia.mp3.zip/03.mp3"
+  },
+  {
+   "id": 3,
+   "start": 5247.72,
+   "end": 7084.63,
+   "title": "4 - 04.mp3",
+   "url": "https://files.knihi.com/Audio/radiokultura/litantalohija/Vasil_Bykau.Na_sciazynie_zyccia.mp3.zip/04.mp3"
+  }
+ ],
+ "title": "На сцяжыне жыцця",
+ "slug": "Na-stsyazhyne-zhytstsya",
+ "author": "Васіль Быкаў",
+ "author_slug": "Vasil-Bykaw",
+ "narrators": [],
+ "series": null,
+ "series_num": null,
+ "genres": [
+  "Мемуары",
+  "Аўтабіяграфія",
+  "Публіцыстыка",
+  "Дакументальная проза"
+ ],
+ "source": "https://knihi.com/Vasil_Bykau/Na_sciazynie_zyccia_mp3.zip.html",
+ "cover": "Vasil-Bykaw/Na-stsyazhyne-zhytstsya.jpg",
+ "description": "Кніга На сцяжыне жыцця ўяўляе сабой зборнік аўтабіяграфічных нарысаў і ўспамінаў выдатнага беларускага пісьменніка Васіля Быкава. У гэтых творах аўтар шчыра і пранікнёна разважае пра свой няпросты лёс, ваенныя выпрабаванні і станаўленне асобы ў складаных гістарычных умовах. Праз прызму асабістага досведу чытач бачыць глыбокія роздумы пра маральны выбар, чалавечую годнасць і адказнасць перад сумленнем. Тон аповеду вызначаецца стрыманасцю, філасофскай глыбінёй і нязменнай прыхільнасцю да праўды. Гэтыя тэксты дапамагаюць лепш зразумець духоўны свет класіка і тыя ідэалы, якім ён заставаўся верным на працягу ўсяго жыцця.",
+ "length": 7084.63
+}
